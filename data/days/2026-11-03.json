@@ -1,0 +1,571 @@
+{
+  "date": "2026-11-03",
+  "dateLabel": "৩ নভেম্বর ২০২৬, মঙ্গলবার",
+  "edition": 2,
+  "updatedAt": "2026-11-03T10:00:00+05:30",
+  "news": [
+    {
+      "id": "n1",
+      "category": "মার্জার ও অধিগ্রহণ",
+      "title": "$115 বিলিয়নের চুক্তিতে Lumentum কিনছে Marvell, ইতিহাসের সবচেয়ে বড় চিপ মার্জারগুলোর একটি",
+      "summary": "চিপ কোম্পানি Marvell Technology পুরোটাই শেয়ারের বিনিময়ে (all-stock deal) AI অপটিক্স কোম্পানি Lumentum-কে কিনে নেওয়ার চুক্তি ঘোষণা করেছে। Lumentum-এর প্রতিটি শেয়ারের বদলে শেয়ারহোল্ডাররা Marvell-এর 4.5টি শেয়ার পাবেন, অর্থাৎ বাজারদরের চেয়ে প্রায় 24% বেশি দাম (premium)। চুক্তির পর নতুন কোম্পানির 67% মালিকানা থাকবে Marvell-এর পুরনো শেয়ারহোল্ডারদের হাতে, 33% Lumentum-এর। দুই কোম্পানি বলছে, একসঙ্গে কাজ করলে বছরে $1 বিলিয়নের বেশি খরচ বাঁচবে (cost synergy)। ২৯ অক্টোবর এই আলোচনার খবর বেরোতেই Marvell-এর শেয়ার 13.24% পড়ে $218.34-এ নেমেছিল, কারণ বিনিয়োগকারীদের ভয়, এত নতুন শেয়ার ছাড়লে পুরনো শেয়ারহোল্ডারদের ভাগ কমে যাবে (dilution)।",
+      "why": "Corporate Finance-এর M&A চ্যাপ্টারের জীবন্ত উদাহরণ: all-stock deal, acquisition premium, synergy আর dilution, চারটে ধারণাই একটা খবরে আছে।",
+      "source": {
+        "name": "SEC filing (Lumentum 8-K)",
+        "url": "https://www.sec.gov/Archives/edgar/data/0001633978/000119312526442758/d163169dex991.htm"
+      }
+    },
+    {
+      "id": "n2",
+      "category": "অর্থনীতি",
+      "title": "সুদের হার অপরিবর্তিত রাখল আমেরিকার Fed, তবে কর্মকর্তারা বলছেন আরও বাড়ানো লাগতে পারে",
+      "summary": "২৮ অক্টোবরের বৈঠকে US Federal Reserve সুদের হার বাড়ায়নি। কিন্তু মুদ্রাস্ফীতি (PCE inflation) এখনও 3%-এর উপরে, আর তৃতীয় কোয়ার্টারে GDP বেড়েছে 3.4%, যা প্রত্যাশার চেয়ে বেশি। St. Louis Fed-এর Alberto Musalem আর Dallas Fed-এর Lorie Logan বলেছেন, শিগগিরই আবার রেট বাড়াতে হতে পারে। বাজারের হিসাবে ডিসেম্বরে রেট বাড়ার সম্ভাবনা প্রায় 76%।",
+      "why": "Macroeconomics-এর monetary policy চ্যাপ্টার: অর্থনীতি গরম থাকলে আর দাম বাড়লে সেন্ট্রাল ব্যাংক সুদ বাড়িয়ে চাহিদা ঠান্ডা করে। Fed-এর সিদ্ধান্তের প্রভাব ভারতের শেয়ারবাজার আর রুপির উপরেও পড়ে।",
+      "source": {
+        "name": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/30/musalem-fed-monetary-policy-tightening.html"
+      }
+    },
+    {
+      "id": "n3",
+      "category": "কমোডিটি",
+      "title": "আমেরিকা-ইরান আলোচনার খবরে তেলের দাম একদিনে প্রায় 8% কমল",
+      "summary": "US-Iran আলোচনার খবর আসতেই Brent crude-এর দাম একদিনে প্রায় 8% পড়ে ব্যারেলপ্রতি $104-এর কাছে নেমে এসেছে। ইরান যুদ্ধের কারণে মধ্যপ্রাচ্য থেকে সাপ্লাই আর পরিবহন আটকে যাওয়ায় কয়েক সপ্তাহ ধরে তেলের দাম অনেক উঁচুতে ছিল। দাম কমায় মুদ্রাস্ফীতির ভয় কিছুটা কমেছে, আর আমেরিকার 10-year Treasury yield নেমে 4.90% হয়েছে।",
+      "why": "তেল হলো সবচেয়ে বড় 'input cost'। ভারত তার দরকারি তেলের বেশিরভাগটাই আমদানি করে, তাই তেলের দাম কমলে বাণিজ্য ঘাটতি (trade deficit), মুদ্রাস্ফীতি আর কোম্পানির লাভ, তিনটের উপরেই প্রভাব পড়ে।",
+      "source": {
+        "name": "Trading Economics",
+        "url": "https://tradingeconomics.com/commodity/crude-oil"
+      }
+    },
+    {
+      "id": "n4",
+      "category": "ভারতের বাজার",
+      "title": "টানা তিন দিন বাড়ল Sensex: একদিনে 1,233 পয়েন্ট, Reliance-এর শেয়ার 12% উপরে",
+      "summary": "সোমবার Sensex 1.66% বেড়ে 75,692.78-এ আর Nifty 50 1.68% বেড়ে 23,440.80-এ বন্ধ হয়েছে। সেপ্টেম্বরের পর এটাই Sensex-এর সবচেয়ে উঁচু ক্লোজিং। তেলের দাম কমা, ভালো quarterly results আর বিদেশি বিনিয়োগকারীদের (FII) কেনাকাটা বাড়াকে এর কারণ বলা হচ্ছে। Reliance Industries (RIL)-এর শেয়ার প্রায় 12% লাফিয়েছে।",
+      "why": "এক খবরে দেখা যায় শেয়ারবাজার কী কী দেখে নড়ে: কাঁচামালের দাম, কোম্পানির রেজাল্ট আর বিদেশি টাকার আসা-যাওয়া। Investment Management আর Financial Markets পেপারে কাজে লাগবে।",
+      "source": {
+        "name": "Business Standard",
+        "url": "https://www.business-standard.com/markets/news/stock-market-live-november-2-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-q2-results-jio-share-price-ipo-today-126110200053_1.html"
+      }
+    },
+    {
+      "id": "n5",
+      "category": "গ্লোবাল বাজার",
+      "title": "টেক শেয়ারে বিক্রির চাপ: AI-তে বিপুল খরচ লাভ দেবে কি না, প্রশ্ন বিনিয়োগকারীদের",
+      "summary": "সোমবার S&P 500 0.51% কমে 7,541.40-এ বন্ধ হয়েছে, টানা তৃতীয় দিন পতন। টেক শেয়ারে ভরা Nasdaq কমেছে 1.07%। Nvidia সকালে উঠেও পরে নেমে গেছে। অন্যদিকে Dow Jones 0.41% বেড়েছে, কারণ বিনিয়োগকারীরা টেক থেকে টাকা সরিয়ে অন্য সেক্টরে রাখছেন (sector rotation)। Chevron, Exxon, BP-র মতো তেল কোম্পানি বড় লাভ দেখিয়েছে।",
+      "why": "'Sector rotation' ধারণাটা বোঝার সেরা উদাহরণ। AI নিয়ে বড় বড় কোম্পানির capex (মূলধনী খরচ) কবে ফেরত আসবে, সেই প্রশ্ন এখন গোটা বাজারের প্রশ্ন।",
+      "source": {
+        "name": "WTOP / AP",
+        "url": "https://wtop.com/national/2026/11/how-major-us-stock-indexes-fared-monday-11-2-2026"
+      }
+    },
+    {
+      "id": "n6",
+      "category": "কোম্পানি",
+      "title": "প্রায় $17 বিলিয়নে Instacart কিনছে DoorDash",
+      "summary": "DoorDash গ্রোসারি ডেলিভারি প্ল্যাটফর্ম Instacart-কে প্রায় $17 বিলিয়নে কেনার চুক্তি ঘোষণা করেছে। প্রতি শেয়ারের দাম $65, যা ২২ অক্টোবরের ক্লোজিং দামের চেয়ে 26% বেশি (premium)। দামের অন্তত 75% নগদে মেটানো হবে, আর Instacart-এর শেয়ারহোল্ডাররা নগদ, DoorDash-এর শেয়ার বা দুটোর মিশ্রণ বেছে নিতে পারবেন। চুক্তি শেষ হতে 2027-এর শেষ বা 2028-এর প্রথমার্ধ লাগতে পারে। Consumer Edge-এর হিসাবে পাঁচ বছরে আমেরিকার ডেলিভারি খরচে Instacart-এর ভাগ 26% থেকে 18%-এ নেমেছে, আর DoorDash-এর ভাগ 44% থেকে 59%-এ উঠেছে।",
+      "why": "Horizontal integration-এর উদাহরণ, মানে একই ধরনের ব্যবসার দুই প্রতিযোগীর এক হওয়া। ভারতেও Zomato (Blinkit) আর Swiggy (Instamart) একই quick-commerce বাজারে লড়ছে, তাই তুলনা করে পড়লে সুবিধা হবে।",
+      "source": {
+        "name": "AP (WDBO)",
+        "url": "https://www.wdbo.com/news/national/doordash-acquire-instacart-deal-valued-around-17b-companies-announce/CY5OFUK3BM6BXJD7FEMIGO27MI/?outputType=amp"
+      }
+    },
+    {
+      "id": "n7",
+      "category": "কোম্পানির রেজাল্ট",
+      "title": "Apple-এর রেজাল্ট প্রত্যাশার চেয়ে ভালো, তবু মেমোরি চিপের খরচে শেয়ার পড়ল",
+      "summary": "Apple তাদের আর্থিক বছরের চতুর্থ কোয়ার্টারে $114.48 বিলিয়ন আয় আর শেয়ারপ্রতি $2.10 মুনাফা দেখিয়েছে। বিশ্লেষকদের প্রত্যাশা ছিল $113.38 বিলিয়ন আর $1.99। তবু কোম্পানি জানিয়েছে মেমোরি চিপের খরচ বাড়ছে, কাছাকাছি সময়ে gross margin কমতে পারে, আর শিপমেন্টে দেরি হচ্ছে। তাই ফলাফলের পর শেয়ারের দাম নেমে গেছে।",
+      "why": "Cost-push-এর কর্পোরেট উদাহরণ, কাঁচামালের (চিপ) দাম বাড়লে আয় বাড়লেও margin কমে। এও দেখায় যে শেয়ারের দাম নির্ভর করে প্রত্যাশার উপর, শুধু ফলাফলের উপর নয় (expectations vs. results)।",
+      "source": {
+        "name": "Investing.com",
+        "url": "https://in.investing.com/news/earnings/apple-beats-quarterly-estimates-for-profit-and-revenue-5672986"
+      }
+    },
+    {
+      "id": "n8",
+      "category": "কমোডিটি",
+      "title": "সোনার দাম ঘুরে দাঁড়াল তেল কমায়, শুক্রবার নেমেছিল এক বছরের সর্বনিম্নে",
+      "summary": "শুক্রবার সোনার দাম 3.5% পড়ে আউন্সপ্রতি $4,000-এর নিচে, গত অক্টোবরের পর সবচেয়ে নিচে নেমেছিল। সোমবার তেলের দাম কমায় মুদ্রাস্ফীতির ভয় কমে, আর সোনা প্রায় 0.7% বেড়ে প্রায় $3,900-এ ওঠে। তিনজন Fed কর্মকর্তা শুক্রবার আরও সুদ বাড়ানোর পক্ষে মত দিয়েছেন। সুদের হার বাড়লে সোনার দাম চাপে পড়ে, কারণ সোনা কোনো সুদ দেয় না।",
+      "why": "Opportunity cost-এর ধারণা: সুদের হার বাড়লে সুদহীন সম্পদ (সোনা) ধরে রাখার সুযোগ-খরচ বাড়ে। Portfolio বা Investment Management-এ সোনা কেন hedge, আবার কেন সুদের হারের প্রতি সংবেদনশীল, তা বোঝা যায়।",
+      "source": {
+        "name": "CNBC",
+        "url": "https://www.cnbc.com/amp/2026/11/02/gold-rises-on-softer-oil-markets-parse-fed-signals.html"
+      }
+    }
+  ],
+  "market": {
+    "asOf": "২ নভেম্বর ২০২৬, সোমবারের ক্লোজিং",
+    "items": [
+      {
+        "name": "S&P 500",
+        "region": "আমেরিকা",
+        "value": "7,541.40",
+        "change": "-0.51%",
+        "dir": "down"
+      },
+      {
+        "name": "Dow Jones",
+        "region": "আমেরিকা",
+        "value": "51,983.98",
+        "change": "+0.41%",
+        "dir": "up"
+      },
+      {
+        "name": "Nasdaq",
+        "region": "আমেরিকা",
+        "value": "25,164.32",
+        "change": "-1.07%",
+        "dir": "down"
+      },
+      {
+        "name": "Sensex",
+        "region": "ভারত",
+        "value": "75,692.78",
+        "change": "+1.66%",
+        "dir": "up"
+      },
+      {
+        "name": "Nifty 50",
+        "region": "ভারত",
+        "value": "23,440.80",
+        "change": "+1.68%",
+        "dir": "up"
+      },
+      {
+        "name": "Brent Crude",
+        "region": "$ প্রতি ব্যারেল",
+        "value": "104.19",
+        "change": "-8.1%",
+        "dir": "down"
+      },
+      {
+        "name": "Gold",
+        "region": "$ প্রতি আউন্স",
+        "value": "3,947",
+        "change": "",
+        "dir": "flat"
+      },
+      {
+        "name": "USD/INR",
+        "region": "₹ প্রতি ডলার",
+        "value": "94.86",
+        "change": "রুপি 10 পয়সা দুর্বল",
+        "dir": "down"
+      }
+    ]
+  },
+  "term": {
+    "term": "Synergy",
+    "bangla": "সিনার্জি (একসঙ্গে কাজের বাড়তি লাভ)",
+    "definition": "দুটো কোম্পানি এক হলে আলাদা আলাদা থাকার চেয়ে যে বাড়তি মূল্য তৈরি হয়, তাকে Synergy বলে। সহজ কথায় 1 + 1 = 3। এটা দুই রকম: Cost synergy, মানে অফিস, সাপ্লাই চেইন বা কর্মী একসঙ্গে ব্যবহার করে খরচ বাঁচানো; আর Revenue synergy, মানে একে অন্যের গ্রাহককে নিজের প্রোডাক্ট বিক্রি করে আয় বাড়ানো।",
+    "example": "আজকের খবরে Marvell আর Lumentum বলছে, এক হলে বছরে $1 বিলিয়নের বেশি cost synergy হবে। Acquisition premium (বাজারদরের চেয়ে বেশি দাম) দেওয়ার যুক্তি এই synergy থেকেই আসে।",
+    "formula": "Synergy = V(A+B) − [V(A) + V(B)]",
+    "tip": "Interview-এ মনে রেখো: বেশিরভাগ মার্জার ব্যর্থ হয় কারণ synergy-র হিসাব কাগজে যত সুন্দর দেখায়, বাস্তবে ততটা আসে না।"
+  },
+  "gd": {
+    "topic": "AI-তে বড় কোম্পানিগুলোর বিপুল খরচ কি ভবিষ্যতে লাভজনক হবে?",
+    "context": "Microsoft-এর মতো কোম্পানি AI-তে বিলিয়ন ডলার ঢালছে, আবার খরচ সামলাতে 60,000 কর্মীকে buyout অফার দিয়েছে। এদিকে টেক শেয়ারের দাম পড়ছে।",
+    "for": [
+      "ইন্টারনেট আর ক্লাউডের মতো, শুরুতে বড় খরচ করা কোম্পানিগুলোই পরে বাজার দখল করে (first-mover advantage)।",
+      "AI দিয়ে কাস্টমার সার্ভিস, কোডিং আর রিসার্চের খরচ কমছে, তাতে দীর্ঘমেয়াদে margin বাড়বে।",
+      "Marvell-Lumentum-এর মতো ডিলগুলো দেখায়, AI-কে ঘিরে আস্ত একটা সাপ্লাই চেইন তৈরি হচ্ছে।"
+    ],
+    "against": [
+      "খরচ যত দ্রুত বাড়ছে, আয় ততটা বাড়ছে না, তাই বিনিয়োগকারীরা টেক শেয়ার বিক্রি করছেন।",
+      "সুদের হার বেশি থাকলে ধার করে বড় বিনিয়োগ করা আরও দামি হয়ে যায়।",
+      "অনেক কোম্পানি একই জিনিস বানাচ্ছে, ফলে দাম আর লাভ দুটোই কমে যেতে পারে (commoditization)।"
+    ]
+  },
+  "blog": {
+    "title": "তেলের দাম, মুদ্রাস্ফীতি আর সুদের হার: যে শিকল দিয়ে গোটা অর্থনীতি বাঁধা",
+    "topic": "Macroeconomics",
+    "readMin": 5,
+    "body": [
+      "আজকের খবরগুলো আলাদা আলাদা মনে হতে পারে। তেলের দাম 8% কমল, Sensex লাফাল, আমেরিকার Fed সুদ বাড়াবে কি না ভাবছে, আর Apple বলছে চিপের খরচ বাড়ছে। আসলে এগুলো একই শিকলের আলাদা আলাদা কড়া। এই শিকলটা একবার বুঝে গেলে প্রায় যেকোনো বিজনেস খবর নিজে নিজেই ব্যাখ্যা করতে পারবে।",
+      "## প্রথম কড়া: তেল সব খরচের মা",
+      "তেল শুধু গাড়ির জ্বালানি নয়। প্লাস্টিক, সার, রং, বিমানের জ্বালানি, ট্রাকে মাল পৌঁছানো, সবকিছুর খরচে তেল লুকিয়ে আছে। তাই তেলের দাম বাড়লে প্রায় সব কোম্পানির উৎপাদন খরচ বাড়ে। Apple-এর মেমোরি চিপের বাড়তি খরচ আর margin কমার আশঙ্কা তার সরাসরি উদাহরণ। খরচ বাড়লে কোম্পানি দুটো কাজের একটা করে: হয় নিজের লাভ কমায়, নয়তো দাম বাড়িয়ে খরচটা গ্রাহকের ঘাড়ে চাপায়। দ্বিতীয়টাকেই বলে cost-push inflation।",
+      "## দ্বিতীয় কড়া: মুদ্রাস্ফীতি মানে টাকার দাম কমা",
+      "সব জিনিসের দাম একসঙ্গে বাড়তে থাকলে একই 100 টাকায় আগের চেয়ে কম জিনিস কেনা যায়। এটাই মুদ্রাস্ফীতি (inflation)। আমেরিকায় এখন PCE inflation 3%-এর উপরে, যেখানে Fed-এর লক্ষ্য প্রায় 2%। মুদ্রাস্ফীতি বেশি দিন থাকলে মানুষ ধরে নেয় দাম আরও বাড়বে, তাই বেশি মাইনে চায়, কোম্পানিও আরও দাম বাড়ায়। এই চক্র থামানো খুব কঠিন।",
+      "## তৃতীয় কড়া: সেন্ট্রাল ব্যাংকের ব্রেক",
+      "মুদ্রাস্ফীতি থামানোর সবচেয়ে বড় অস্ত্র সুদের হার। সেন্ট্রাল ব্যাংক (আমেরিকায় Fed, ভারতে RBI) সুদ বাড়ালে লোন দামি হয়। তখন মানুষ কম গাড়ি-বাড়ি কেনে, কোম্পানি কম ধার করে বিস্তার করে, চাহিদা কমে আর দামও ঠান্ডা হয়। এই কারণেই Fed-এর কর্মকর্তারা বলছেন আরও রেট বাড়ানো লাগতে পারে। কিন্তু এর দামও আছে: বেশি সুদে ব্যবসার বৃদ্ধি ধীর হয়, আর শেয়ারবাজার সাধারণত সেটা পছন্দ করে না।",
+      "## শেষ কড়া: শেয়ারবাজার আর রুপি",
+      "এবার আজকের খবরে ফেরা যাক। US-Iran আলোচনার খবরে তেলের দাম কমেছে। তার মানে ভবিষ্যতে মুদ্রাস্ফীতি কিছুটা কম হতে পারে, সুদ খুব বেশি বাড়াতে হবে না, আর কোম্পানির খরচও কমবে। ভারত তার দরকারি তেলের বেশিরভাগটাই আমদানি করে, তাই ভারতের জন্য এটা দ্বিগুণ ভালো খবর: আমদানির বিল কমবে, রুপির উপর চাপ কমবে, কোম্পানির margin বাড়বে। বাজার এই ভবিষ্যৎটা আগেভাগে দেখে নিয়েছে, তাই Sensex একদিনে 1,233 পয়েন্ট লাফিয়েছে।",
+      "## একজন BBA স্টুডেন্টের জন্য শিক্ষা",
+      "পরের বার কোনো খবর পড়লে নিজেকে তিনটে প্রশ্ন করো। এক, এতে কার খরচ বাড়ল বা কমল? দুই, তাতে দামের (inflation) কী হবে? তিন, সেন্ট্রাল ব্যাংক এর জবাবে কী করতে পারে? এই তিনটে প্রশ্নের উত্তর দিতে পারলে Macroeconomics-এর পরীক্ষা, GD আর interview, তিন জায়গাতেই তুমি বাকিদের থেকে এগিয়ে থাকবে।"
+    ],
+    "takeaways": [
+      "তেলের দাম বাড়লে প্রায় সব কোম্পানির খরচ বাড়ে, তা থেকে cost-push inflation আসে।",
+      "মুদ্রাস্ফীতি থামাতে সেন্ট্রাল ব্যাংক সুদ বাড়ায়, তাতে চাহিদা আর বৃদ্ধি দুটোই ধীর হয়।",
+      "তেল আমদানিকারক দেশ হিসেবে ভারতের জন্য তেলের দাম কমা মানে কম আমদানি বিল, শক্ত রুপি আর ভালো margin।"
+    ]
+  },
+  "quiz": [
+    {
+      "q": "Marvell-Lumentum চুক্তিতে Lumentum-এর শেয়ারহোল্ডাররা টাকার বদলে Marvell-এর শেয়ার পাবেন। এই ধরনের চুক্তিকে কী বলে?",
+      "options": [
+        "Leveraged buyout",
+        "All-stock deal",
+        "Hostile takeover",
+        "Spin-off"
+      ],
+      "answer": 1,
+      "explain": "টাকার বদলে কেনার কোম্পানির শেয়ার দিয়ে দাম মেটানো হলে তাকে all-stock deal বলে। এতে কেনার কোম্পানিকে নগদ টাকা জোগাড় করতে হয় না, তবে পুরনো শেয়ারহোল্ডারদের মালিকানার ভাগ কমে যায় (dilution)।"
+    },
+    {
+      "q": "মুদ্রাস্ফীতি বেশি থাকলে সেন্ট্রাল ব্যাংক সাধারণত কী করে?",
+      "options": [
+        "সুদের হার কমায়",
+        "বেশি টাকা ছাপায়",
+        "সুদের হার বাড়ায়",
+        "ট্যাক্স মাফ করে"
+      ],
+      "answer": 2,
+      "explain": "সুদ বাড়ালে লোন দামি হয়, মানুষ আর কোম্পানি কম খরচ করে, চাহিদা কমে আর দামের বৃদ্ধি ঠান্ডা হয়। একেই contractionary বা tight monetary policy বলে।"
+    },
+    {
+      "q": "তেলের দাম কমা ভারতের অর্থনীতির জন্য সাধারণত ভালো কেন?",
+      "options": [
+        "ভারত তেল রপ্তানি করে",
+        "ভারত তার দরকারি তেলের বেশিরভাগটাই আমদানি করে",
+        "ভারতে তেলের উপর কোনো ট্যাক্স নেই",
+        "তেলের দামের সঙ্গে ভারতের কোনো সম্পর্ক নেই"
+      ],
+      "answer": 1,
+      "explain": "ভারত বড় তেল আমদানিকারক। তেলের দাম কমলে আমদানির বিল কমে, বাণিজ্য ঘাটতি কমে, রুপির উপর চাপ কমে আর মুদ্রাস্ফীতিও নিয়ন্ত্রণে থাকে।"
+    },
+    {
+      "q": "বিনিয়োগকারীরা টেক শেয়ার বিক্রি করে তেল বা অন্য সেক্টরের শেয়ার কিনছেন। এই প্রবণতাকে কী বলে?",
+      "options": [
+        "Sector rotation",
+        "Short squeeze",
+        "Stock split",
+        "Insider trading"
+      ],
+      "answer": 0,
+      "explain": "অর্থনীতির অবস্থা বা প্রত্যাশা বদলালে বিনিয়োগকারীরা এক সেক্টর থেকে টাকা সরিয়ে অন্য সেক্টরে রাখেন। একেই sector rotation বলে।"
+    },
+    {
+      "q": "Apple বলছে চিপের খরচ বাড়ায় তাদের margin কমতে পারে। এর কারণ কোন ধরনের চাপ?",
+      "options": [
+        "Demand-pull",
+        "Cost-push",
+        "Deflation",
+        "Fiscal deficit"
+      ],
+      "answer": 1,
+      "explain": "উৎপাদনের খরচ (এখানে মেমোরি চিপ) বাড়লে দাম না বাড়ালে margin কমে। এটাই cost-push চাপ। Demand-pull হলো চাহিদা বেশি হওয়ায় দাম বাড়া।"
+    }
+  ],
+  "caseStudy": {
+    "week": "2026-W45",
+    "weekLabel": "২ – ৮ নভেম্বর ২০২৬",
+    "company": "Reliance Jio",
+    "title": "Reliance Jio: ফ্রি ডেটা দিয়ে কীভাবে গোটা টেলিকম বাজার বদলে দিল",
+    "concept": "Penetration Pricing",
+    "intro": "আজ Reliance-এর শেয়ার 12% বেড়েছে, আর এই গ্রুপের সবচেয়ে বড় সাফল্যের গল্পগুলোর একটা হলো Jio। 2016-র আগে ভারতে মোবাইল ডেটা ছিল দামি, আর বাজারে ছিল ডজনখানেক কোম্পানি। কয়েক বছরের মধ্যে ছবিটা পুরো বদলে যায়।",
+    "sections": [
+      {
+        "h": "কী করেছিল",
+        "p": "সেপ্টেম্বর 2016-তে Jio লঞ্চ হয় এক অবিশ্বাস্য অফার দিয়ে: কয়েক মাস ফ্রি ডেটা আর ফ্রি কল। এরপরেও তাদের প্ল্যানের দাম ছিল বাজারের চেয়ে অনেক কম। শুরু থেকেই 4G-only নেটওয়ার্ক বানানোয় পুরনো 2G/3G-র বোঝা তাদের ছিল না।"
+      },
+      {
+        "h": "ফলাফল",
+        "p": "মাত্র ছয় মাসের মধ্যে Jio-র গ্রাহক 10 কোটি ছাড়িয়ে যায়। ভারতে ডেটার দাম পৃথিবীর সবচেয়ে সস্তাগুলোর মধ্যে চলে আসে, আর ডেটা ব্যবহার কয়েক গুণ বেড়ে যায়। পুরনো কোম্পানিগুলো দাম কমাতে বাধ্য হয়। অনেকে বাজার ছেড়ে চলে যায়, Vodafone আর Idea এক হয়ে যায়। কয়েক বছরের মধ্যে Jio গ্রাহকের সংখ্যায় দেশের এক নম্বর টেলিকম কোম্পানি হয়ে ওঠে।"
+      },
+      {
+        "h": "কেন কাজ করল",
+        "p": "Reliance-এর কাছে লম্বা সময় লোকসান সহ্য করার মতো বিশাল মূলধন ছিল। টেলিকমে network effect কাজ করে: যত বেশি মানুষ, তত বেশি মূল্য। আর ডেটার চাহিদা দামের প্রতি খুব সংবেদনশীল (price elastic), তাই দাম কমতেই ব্যবহার বিস্ফোরণের মতো বেড়ে যায়।"
+      },
+      {
+        "h": "ঝুঁকি আর সমালোচনা",
+        "p": "এই কৌশলে হাজার হাজার কোটি টাকার বিনিয়োগ লাগে। প্রতিযোগীরা একে predatory pricing বলে অভিযোগ করেছিল। বাজারে কোম্পানি কমে গেলে ভবিষ্যতে গ্রাহকের বাছাইয়ের সুযোগও কমে যায়। পরে Jio নিজেও ধাপে ধাপে দাম বাড়িয়েছে।"
+      }
+    ],
+    "lesson": "Penetration pricing মানে শুরুতে খুব কম দামে ঢুকে দ্রুত বাজারের বড় ভাগ দখল করা, তারপর ধীরে ধীরে দাম বাড়ানো। এটা তখনই কাজ করে যখন কোম্পানির পকেট গভীর, চাহিদা দামের প্রতি সংবেদনশীল আর গ্রাহক একবার এলে সহজে ছেড়ে যায় না।",
+    "question": "ভাবো: ভারতের quick-commerce বাজারে (Blinkit, Zepto, Instamart) কি একই কৌশল চলছে? কারা টিকে থাকবে বলে তোমার মনে হয়?"
+  },
+  "en": {
+    "dateLabel": "Tuesday, 3 November 2026",
+    "news": [
+      {
+        "id": "n1",
+        "category": "Mergers & acquisitions",
+        "title": "Marvell to buy Lumentum in a $115 billion deal, one of the largest chip mergers ever",
+        "summary": "Chipmaker Marvell Technology has agreed to buy AI optics company Lumentum in an all-stock deal. Lumentum shareholders will get 4.5 Marvell shares for each share they hold, a premium of about 24% over the market price. After the deal, Marvell's existing shareholders will own 67% of the combined company and Lumentum's 33%. The companies expect more than $1 billion a year in cost savings (cost synergy) from working together. When talks were first reported on 29 October, Marvell shares fell 13.24% to $218.34, as investors feared that issuing so many new shares would dilute existing shareholders.",
+        "why": "A live example of the M&A chapter in Corporate Finance: an all-stock deal, an acquisition premium, synergy and dilution, all in one story.",
+        "source": {
+          "name": "SEC filing (Lumentum 8-K)",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001633978/000119312526442758/d163169dex991.htm"
+        }
+      },
+      {
+        "id": "n2",
+        "category": "Economy",
+        "title": "US Fed holds rates steady, but officials say more hikes may be needed",
+        "summary": "At its 28 October meeting the US Federal Reserve left interest rates unchanged. But PCE inflation is still above 3%, and GDP grew 3.4% in the third quarter, faster than expected. St. Louis Fed president Alberto Musalem and Dallas Fed president Lorie Logan said the Fed may soon need to raise rates again. Markets now price a roughly 76% chance of a hike in December.",
+        "why": "The monetary policy chapter of Macroeconomics: when the economy runs hot and prices rise, the central bank raises rates to cool demand. Fed decisions also move India's stock market and the rupee.",
+        "source": {
+          "name": "CNBC",
+          "url": "https://www.cnbc.com/2026/10/30/musalem-fed-monetary-policy-tightening.html"
+        }
+      },
+      {
+        "id": "n3",
+        "category": "Commodities",
+        "title": "Oil falls nearly 8% in a day on news of US-Iran talks",
+        "summary": "As news of US-Iran talks came in, Brent crude fell almost 8% in one day to near $104 a barrel. Oil had stayed very high for weeks because the Iran war disrupted supply and shipping from the Middle East. The drop eased inflation fears, and the US 10-year Treasury yield fell to 4.90%.",
+        "why": "Oil is the biggest input cost. India imports most of the oil it uses, so cheaper oil affects the trade deficit, inflation and company profits all at once.",
+        "source": {
+          "name": "Trading Economics",
+          "url": "https://tradingeconomics.com/commodity/crude-oil"
+        }
+      },
+      {
+        "id": "n4",
+        "category": "Indian markets",
+        "title": "Sensex rises for a third day: up 1,233 points, Reliance jumps 12%",
+        "summary": "On Monday the Sensex rose 1.66% to close at 75,692.78 and the Nifty 50 rose 1.68% to 23,440.80. It was the Sensex's highest close since September. Cheaper oil, good quarterly results and more buying by foreign investors (FIIs) were behind the rally. Reliance Industries (RIL) shares jumped about 12%.",
+        "why": "One story shows what moves a stock market: raw material prices, company results and foreign money flows. Useful for Investment Management and Financial Markets papers.",
+        "source": {
+          "name": "Business Standard",
+          "url": "https://www.business-standard.com/markets/news/stock-market-live-november-2-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-q2-results-jio-share-price-ipo-today-126110200053_1.html"
+        }
+      },
+      {
+        "id": "n5",
+        "category": "Global markets",
+        "title": "Tech stocks sold off as investors question whether huge AI spending will pay off",
+        "summary": "On Monday the S&P 500 fell 0.51% to 7,541.40, its third straight loss. The tech-heavy Nasdaq fell 1.07%. Nvidia rose in the morning but ended lower. The Dow Jones rose 0.41% as investors moved money out of tech into other sectors (sector rotation). Oil companies such as Chevron, Exxon and BP reported big profits.",
+        "why": "The best example of 'sector rotation'. When the huge AI capex (capital spending) of big companies will pay back is now a question for the whole market.",
+        "source": {
+          "name": "WTOP / AP",
+          "url": "https://wtop.com/national/2026/11/how-major-us-stock-indexes-fared-monday-11-2-2026"
+        }
+      },
+      {
+        "id": "n6",
+        "category": "Companies",
+        "title": "DoorDash to buy Instacart for about $17 billion",
+        "summary": "DoorDash has announced a deal to buy grocery delivery platform Instacart for about $17 billion. The price is $65 per share, a 26% premium to the 22 October close. At least 75% of the price will be paid in cash, and Instacart shareholders can choose cash, DoorDash shares or a mix. The deal may take until the end of 2027 or the first half of 2028 to close. According to Consumer Edge, over five years Instacart's share of US delivery spending fell from 26% to 18%, while DoorDash's rose from 44% to 59%.",
+        "why": "An example of horizontal integration, where two competitors in the same business combine. In India, Zomato (Blinkit) and Swiggy (Instamart) fight in the same quick-commerce market, so compare the two.",
+        "source": {
+          "name": "AP (WDBO)",
+          "url": "https://www.wdbo.com/news/national/doordash-acquire-instacart-deal-valued-around-17b-companies-announce/CY5OFUK3BM6BXJD7FEMIGO27MI/?outputType=amp"
+        }
+      },
+      {
+        "id": "n7",
+        "category": "Company results",
+        "title": "Apple beats estimates, but shares slip on rising memory chip costs",
+        "summary": "Apple reported revenue of $114.48 billion and earnings of $2.10 per share for its fiscal fourth quarter. Analysts had expected $113.38 billion and $1.99. But the company said memory chip costs are rising, gross margin may be lower in the near term, and shipments are delayed. The shares fell after the results.",
+        "why": "A corporate example of cost-push pressure: when a raw material (chips) gets dearer, margins shrink even if revenue grows. It also shows that share prices depend on expectations, not just results.",
+        "source": {
+          "name": "Investing.com",
+          "url": "https://in.investing.com/news/earnings/apple-beats-quarterly-estimates-for-profit-and-revenue-5672986"
+        }
+      },
+      {
+        "id": "n8",
+        "category": "Commodities",
+        "title": "Gold rebounds as oil eases, a day after hitting a one-year low",
+        "summary": "On Friday gold fell 3.5% to below $4,000 an ounce, its lowest since October 2025. On Monday, softer oil eased inflation fears and spot gold rose about 0.7% to roughly $3,900. Three Fed officials argued on Friday for more rate increases. Higher rates weigh on gold because it pays no interest.",
+        "why": "The idea of opportunity cost: when interest rates rise, holding a non-yielding asset like gold costs more. Useful in Investment Management to see why gold is a hedge yet sensitive to interest rates.",
+        "source": {
+          "name": "CNBC",
+          "url": "https://www.cnbc.com/amp/2026/11/02/gold-rises-on-softer-oil-markets-parse-fed-signals.html"
+        }
+      }
+    ],
+    "market": {
+      "asOf": "Monday, 2 November 2026 close",
+      "items": [
+        {
+          "name": "S&P 500",
+          "region": "US",
+          "value": "7,541.40",
+          "change": "-0.51%",
+          "dir": "down"
+        },
+        {
+          "name": "Dow Jones",
+          "region": "US",
+          "value": "51,983.98",
+          "change": "+0.41%",
+          "dir": "up"
+        },
+        {
+          "name": "Nasdaq",
+          "region": "US",
+          "value": "25,164.32",
+          "change": "-1.07%",
+          "dir": "down"
+        },
+        {
+          "name": "Sensex",
+          "region": "India",
+          "value": "75,692.78",
+          "change": "+1.66%",
+          "dir": "up"
+        },
+        {
+          "name": "Nifty 50",
+          "region": "India",
+          "value": "23,440.80",
+          "change": "+1.68%",
+          "dir": "up"
+        },
+        {
+          "name": "Brent Crude",
+          "region": "$ per barrel",
+          "value": "104.19",
+          "change": "-8.1%",
+          "dir": "down"
+        },
+        {
+          "name": "Gold",
+          "region": "$ per ounce",
+          "value": "3,947",
+          "change": "",
+          "dir": "flat"
+        },
+        {
+          "name": "USD/INR",
+          "region": "₹ per dollar",
+          "value": "94.86",
+          "change": "Rupee 10 paise weaker",
+          "dir": "down"
+        }
+      ]
+    },
+    "term": {
+      "term": "Synergy",
+      "bangla": "The extra value from combining",
+      "definition": "Synergy is the extra value created when two companies combine, compared with staying separate. Put simply, 1 + 1 = 3. There are two kinds: cost synergy, saving money by sharing offices, supply chains or staff; and revenue synergy, earning more by selling your products to each other's customers.",
+      "example": "In today's news, Marvell and Lumentum say combining will bring more than $1 billion a year in cost synergy. The case for paying an acquisition premium (more than the market price) comes from this synergy.",
+      "formula": "Synergy = V(A+B) − [V(A) + V(B)]",
+      "tip": "Interview tip: most mergers fail because synergy looks better on paper than it turns out in reality."
+    },
+    "gd": {
+      "topic": "Will big companies' huge spending on AI pay off?",
+      "context": "Companies like Microsoft are pouring billions into AI, while offering buyouts to 60,000 employees to manage costs. Meanwhile, tech share prices are falling.",
+      "for": [
+        "Like the internet and the cloud, the companies that spend big early tend to win the market later (first-mover advantage).",
+        "AI is cutting costs in customer service, coding and research, which will raise margins in the long run.",
+        "Deals like Marvell-Lumentum show a whole supply chain is forming around AI."
+      ],
+      "against": [
+        "Costs are rising faster than revenue, which is why investors are selling tech stocks.",
+        "With high interest rates, borrowing to make big investments becomes more expensive.",
+        "Many companies are building the same thing, so prices and profits could both fall (commoditization)."
+      ]
+    },
+    "blog": {
+      "title": "Oil prices, inflation and interest rates: the chain that ties the whole economy together",
+      "topic": "Macroeconomics",
+      "readMin": 5,
+      "body": [
+        "Today's stories may look unrelated. Oil fell 8%, the Sensex jumped, the US Fed is thinking about raising rates, and Apple says chip costs are rising. In fact they are links in the same chain. Once you understand this chain, you can explain almost any business story on your own.",
+        "## First link: oil is the mother of all costs",
+        "Oil isn't just fuel for cars. It is hidden in the cost of plastics, fertiliser, paint, jet fuel and every truck that delivers goods. So when oil gets more expensive, production costs rise for almost every company. Apple's rising memory chip costs and warning of lower margins are a direct example. When costs rise, a company does one of two things: it accepts lower profit, or it raises prices and passes the cost on to customers. The second is called cost-push inflation.",
+        "## Second link: inflation means money is worth less",
+        "When prices of everything rise together, the same 100 rupees buys less than before. That is inflation. In the US, PCE inflation is now above 3%, while the Fed's target is about 2%. If inflation lasts, people expect prices to keep rising, so they ask for higher pay, and companies raise prices further. This cycle is very hard to stop.",
+        "## Third link: the central bank's brake",
+        "The central bank's strongest weapon against inflation is the interest rate. When the central bank (the Fed in the US, the RBI in India) raises rates, loans get more expensive. People buy fewer cars and homes, companies borrow less to expand, demand falls and prices cool. That's why Fed officials say more rate hikes may be needed. But there is a cost: growth slows when rates are high, and stock markets usually don't like that.",
+        "## Last link: the stock market and the rupee",
+        "Now back to today's news. Oil fell on news of US-Iran talks. That means inflation may be a bit lower ahead, rates may not need to rise as much, and company costs will fall. India imports most of the oil it uses, so for India this is doubly good news: a smaller import bill, less pressure on the rupee and better company margins. The market saw this future in advance, which is why the Sensex jumped 1,233 points in a day.",
+        "## The lesson for a BBA student",
+        "Next time you read a story, ask yourself three questions. One: whose costs went up or down? Two: what will that do to prices (inflation)? Three: what might the central bank do in response? If you can answer these three, you will be ahead of others in your Macroeconomics exam, in GDs and in interviews."
+      ],
+      "takeaways": [
+        "When oil prices rise, almost every company's costs rise, which leads to cost-push inflation.",
+        "To fight inflation, central banks raise rates, which slows both demand and growth.",
+        "As an oil importer, India gains from cheaper oil: a smaller import bill, a stronger rupee and better margins."
+      ]
+    },
+    "quiz": [
+      {
+        "q": "In the Marvell-Lumentum deal, Lumentum shareholders get Marvell shares instead of cash. What is this kind of deal called?",
+        "options": [
+          "Leveraged buyout",
+          "All-stock deal",
+          "Hostile takeover",
+          "Spin-off"
+        ],
+        "answer": 1,
+        "explain": "When the price is paid with the buyer's shares instead of cash, it's an all-stock deal. The buyer doesn't need to raise cash, but existing shareholders' ownership share shrinks (dilution)."
+      },
+      {
+        "q": "What does a central bank usually do when inflation is high?",
+        "options": [
+          "Cuts interest rates",
+          "Prints more money",
+          "Raises interest rates",
+          "Waives taxes"
+        ],
+        "answer": 2,
+        "explain": "Higher rates make loans expensive, so people and companies spend less, demand falls and price growth cools. This is called contractionary or tight monetary policy."
+      },
+      {
+        "q": "Why is cheaper oil usually good for India's economy?",
+        "options": [
+          "India exports oil",
+          "India imports most of the oil it uses",
+          "India has no tax on oil",
+          "Oil prices have no link to India"
+        ],
+        "answer": 1,
+        "explain": "India is a big oil importer. Cheaper oil lowers the import bill and the trade deficit, eases pressure on the rupee and keeps inflation in check."
+      },
+      {
+        "q": "Investors are selling tech shares and buying oil and other sectors. What is this trend called?",
+        "options": [
+          "Sector rotation",
+          "Short squeeze",
+          "Stock split",
+          "Insider trading"
+        ],
+        "answer": 0,
+        "explain": "When the economy or expectations change, investors move money from one sector to another. This is called sector rotation."
+      },
+      {
+        "q": "Apple says rising chip costs may squeeze its margin. What kind of pressure is this?",
+        "options": [
+          "Demand-pull",
+          "Cost-push",
+          "Deflation",
+          "Fiscal deficit"
+        ],
+        "answer": 1,
+        "explain": "When the cost of production (here memory chips) rises and prices don't, margins shrink. That is cost-push pressure. Demand-pull is when prices rise because demand is too high."
+      }
+    ],
+    "caseStudy": {
+      "week": "2026-W45",
+      "weekLabel": "2 – 8 November 2026",
+      "company": "Reliance Jio",
+      "title": "Reliance Jio: how free data changed the whole telecom market",
+      "concept": "Penetration Pricing",
+      "intro": "Reliance shares rose 12% today, and one of the group's biggest success stories is Jio. Before 2016, mobile data in India was expensive and the market had a dozen companies. Within a few years the picture had changed completely.",
+      "sections": [
+        {
+          "h": "What it did",
+          "p": "Jio launched in September 2016 with an unbelievable offer: free data and free calls for several months. Even after that, its plans cost far less than the market. Because it built a 4G-only network from the start, it carried none of the old 2G/3G baggage."
+        },
+        {
+          "h": "The result",
+          "p": "Within just six months Jio crossed 100 million customers. Data prices in India became among the cheapest in the world, and data use grew many times over. Older companies were forced to cut prices. Many left the market, and Vodafone and Idea merged. Within a few years Jio became India's number one telecom company by subscribers."
+        },
+        {
+          "h": "Why it worked",
+          "p": "Reliance had huge capital to bear losses for a long time. Telecom has network effects: the more people, the more value. And demand for data is very price elastic, so usage exploded as soon as prices fell."
+        },
+        {
+          "h": "Risks and criticism",
+          "p": "The strategy needed tens of thousands of crores in investment. Rivals accused it of predatory pricing. With fewer companies left, customers may have less choice in future. Jio itself later raised prices step by step."
+        }
+      ],
+      "lesson": "Penetration pricing means entering at a very low price to win a large market share quickly, then raising prices slowly. It works when the company has deep pockets, demand is price sensitive and customers rarely leave once they join.",
+      "question": "Think: is the same strategy playing out in India's quick-commerce market (Blinkit, Zepto, Instamart)? Who do you think will survive?"
+    }
+  }
+}

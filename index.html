@@ -1,0 +1,795 @@
+<!doctype html><html><head><meta charset=utf8><meta name=viewport content="width=device-width,initial-scale=1,viewport-fit=cover"><style>:root{color-scheme:light;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}html{scroll-padding-top:env(safe-area-inset-top,0px)}body{margin:0;padding:0;font:14px -apple-system,BlinkMacSystemFont,sans-serif;background:#fff;color:#000}img{max-width:100%}[hidden]:not([hidden=until-found i]){display:none!important}</style></head><body>
+<title>News Board</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Tiro+Bangla&family=Noto+Serif+Bengali:wght@400;600;700&family=Hind+Siliguri:wght@400;500;600&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&display=swap">
+<style>
+/* Layout: a broadsheet front page. Masthead, market strip, lead story + side column, then blog, quiz/case, notes, archive. */
+:root {
+  --paper: #f5f1e8;
+  --paper-2: #ece6d9;
+  --ink: #1b1814;
+  --ink-2: #5a5247;
+  --hair: #cbc1af;
+  --red: #b0241c;
+  --up: #22683b;
+  --down: #b0241c;
+  --sel: #f2d9a6;
+  --f-mast: "Tiro Bangla", "Noto Serif Bengali", Georgia, serif;
+  --f-body: "Noto Serif Bengali", "Tiro Bangla", Georgia, serif;
+  --f-ui: "Hind Siliguri", "Noto Sans Bengali", system-ui, sans-serif;
+  --w: 1180px;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --paper: #1a1815; --paper-2: #24211d; --ink: #ece5d7; --ink-2: #aaa092;
+    --hair: #3d3831; --red: #e2584d; --up: #63c283; --down: #ef6d62; --sel: #5a4520;
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --paper: #1a1815; --paper-2: #24211d; --ink: #ece5d7; --ink-2: #aaa092;
+  --hair: #3d3831; --red: #e2584d; --up: #63c283; --down: #ef6d62; --sel: #5a4520;
+  color-scheme: dark;
+}
+* { box-sizing: border-box; }
+body { background: var(--paper); color: var(--ink); font-family: var(--f-body); font-size: 17px; line-height: 1.75; }
+::selection { background: var(--sel); }
+a { color: inherit; }
+a:focus-visible, button:focus-visible, textarea:focus-visible, input:focus-visible, select:focus-visible { outline: 2px solid var(--red); outline-offset: 2px; }
+.wrap { max-width: var(--w); margin: 0 auto; padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); }
+h1, h2, h3, h4 { text-wrap: balance; margin: 0; font-weight: 400; }
+p { margin: 0; }
+button { font: inherit; cursor: pointer; }
+
+/* Masthead */
+.topline { font-family: var(--f-ui); font-size: 13px; color: var(--ink-2); display: flex; flex-wrap: wrap; gap: 6px 18px; align-items: center; justify-content: space-between; padding-block: 12px 8px; border-bottom: 1px solid var(--hair); }
+.topline .grp { display: flex; flex-wrap: wrap; gap: 6px 18px; align-items: center; }
+.live { color: var(--red); font-weight: 600; }
+.theme-btn { background: none; border: 1px solid var(--hair); color: var(--ink); border-radius: 2px; padding: 2px 10px; font-family: var(--f-ui); font-size: 13px; }
+.mast { text-align: center; padding-block: 18px 10px; }
+.mast h1 { font-family: var(--f-mast); font-size: clamp(48px, 10vw, 104px); line-height: 1.05; letter-spacing: -0.01em; }
+.mast .tag { font-family: var(--f-ui); font-size: 14px; letter-spacing: 0.06em; color: var(--ink-2); margin-top: 6px; }
+.dbl { border: 0; border-top: 3px double var(--ink); margin: 0; }
+.thin { border: 0; border-top: 1px solid var(--ink); margin: 0; }
+
+/* Section nav */
+.nav { position: sticky; top: env(safe-area-inset-top, 0px); z-index: 5; background: var(--paper); border-bottom: 1px solid var(--ink); }
+body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-area-inset-top, 0px); z-index: 10; background: var(--paper); }
+.nav ul { list-style: none; margin: 0; padding: 0; display: flex; gap: 2px 22px; overflow-x: auto; scrollbar-width: none; font-family: var(--f-ui); font-size: 15px; font-weight: 500; }
+.nav a { display: block; padding-block: 8px; text-decoration: none; white-space: nowrap; border-bottom: 2px solid transparent; }
+.nav a:hover { border-bottom-color: var(--red); }
+
+/* Market strip */
+.market { border-bottom: 1px solid var(--hair); }
+.market .row { display: flex; gap: 0; overflow-x: auto; scrollbar-width: thin; }
+.mk { flex: 1 0 auto; min-width: 128px; padding: 10px 14px; border-right: 1px solid var(--hair); font-family: var(--f-ui); }
+.mk:first-child { padding-left: 0; }
+.mk:last-child { border-right: 0; }
+.mk .n { font-size: 12px; color: var(--ink-2); letter-spacing: 0.03em; }
+.mk .v { font-size: 18px; font-weight: 600; font-variant-numeric: tabular-nums; line-height: 1.3; }
+.mk .c { font-size: 12.5px; font-variant-numeric: tabular-nums; }
+.mk .c.up { color: var(--up); } .mk .c.down { color: var(--down); } .mk .c.flat { color: var(--ink-2); }
+.market .asof { font-family: var(--f-ui); font-size: 12px; color: var(--ink-2); padding-block: 0 8px; }
+
+/* Labels */
+.kicker { font-family: var(--f-ui); font-size: 12.5px; font-weight: 600; letter-spacing: 0.08em; color: var(--red); text-transform: uppercase; }
+.sec-head { display: flex; align-items: baseline; justify-content: space-between; gap: 12px; border-top: 3px double var(--ink); padding-top: 10px; margin-bottom: 18px; }
+.sec-head h2 { font-family: var(--f-mast); font-size: 30px; line-height: 1.2; }
+.sec-head .meta { font-family: var(--f-ui); font-size: 13px; color: var(--ink-2); }
+section { scroll-margin-top: 56px; }
+
+/* Front page grid */
+.front { display: grid; grid-template-columns: minmax(0, 2.1fr) minmax(0, 1fr); gap: 0 32px; padding-block: 26px 10px; }
+.front > * { min-width: 0; }
+.side { border-left: 1px solid var(--hair); padding-left: 28px; display: flex; flex-direction: column; gap: 26px; }
+
+.lead h3 { font-family: var(--f-mast); font-size: clamp(28px, 4vw, 42px); line-height: 1.2; margin-block: 6px 12px; }
+.lead .sum { font-size: 18.5px; }
+.story .sum { font-size: 16px; color: var(--ink); }
+.why { margin-top: 12px; padding: 10px 14px; background: var(--paper-2); border-left: 3px solid var(--red); font-family: var(--f-ui); font-size: 14.5px; line-height: 1.6; }
+.why b { color: var(--red); font-weight: 600; }
+.foot { display: flex; flex-wrap: wrap; gap: 8px 16px; align-items: center; margin-top: 10px; font-family: var(--f-ui); font-size: 13px; color: var(--ink-2); }
+.foot a { color: var(--ink-2); }
+.save { background: none; border: 1px solid var(--hair); color: var(--ink); border-radius: 2px; padding: 1px 10px; font-family: var(--f-ui); font-size: 13px; }
+.save[aria-pressed="true"] { background: var(--ink); color: var(--paper); border-color: var(--ink); }
+
+.stories { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 0 28px; margin-top: 26px; border-top: 1px solid var(--ink); }
+.story { padding-block: 16px; border-bottom: 1px solid var(--hair); min-width: 0; }
+.story h3 { font-family: var(--f-mast); font-size: 22px; line-height: 1.3; margin-block: 4px 8px; }
+
+/* Side boxes */
+.box h3 { font-family: var(--f-mast); font-size: 34px; line-height: 1.15; margin-block: 4px 2px; }
+.box .bn { font-family: var(--f-ui); color: var(--ink-2); font-size: 14px; margin-bottom: 8px; }
+.box p + p { margin-top: 10px; }
+.formula { font-family: var(--f-ui); font-variant-numeric: tabular-nums; background: var(--paper-2); padding: 6px 10px; margin-top: 10px; font-size: 14.5px; overflow-x: auto; }
+.tip { font-family: var(--f-ui); font-size: 14px; color: var(--ink-2); font-style: normal; border-top: 1px dashed var(--hair); padding-top: 8px; margin-top: 10px; }
+.gd h3 { font-size: 23px; line-height: 1.35; }
+.gd .ctx { font-size: 15px; color: var(--ink-2); margin-bottom: 10px; }
+.gd h4 { font-family: var(--f-ui); font-size: 14px; font-weight: 600; margin-top: 10px; }
+.gd h4.f { color: var(--up); } .gd h4.a { color: var(--down); }
+.gd ul { margin: 4px 0 0; padding-left: 18px; font-size: 15px; line-height: 1.6; }
+.gd li + li { margin-top: 4px; }
+
+/* Blog */
+.blog { padding-block: 34px 10px; }
+.blog-grid { display: grid; grid-template-columns: minmax(0, 1fr) 300px; gap: 32px; }
+.blog-grid > * { min-width: 0; }
+.blog h2.t { font-family: var(--f-mast); font-size: clamp(30px, 4.5vw, 46px); line-height: 1.2; margin-block: 6px 6px; }
+.blog .by { font-family: var(--f-ui); font-size: 13.5px; color: var(--ink-2); margin-bottom: 18px; }
+.prose { max-width: 66ch; }
+.prose p { margin-bottom: 1em; }
+.prose p.first::first-letter { font-family: var(--f-mast); float: left; font-size: 3.6em; line-height: 0.9; padding: 6px 10px 0 0; color: var(--red); }
+.prose h4 { font-family: var(--f-mast); font-size: 22px; margin-block: 1.3em 0.4em; }
+.takeaways { border: 1px solid var(--ink); padding: 14px 16px; font-family: var(--f-ui); font-size: 14.5px; line-height: 1.6; }
+.takeaways h4 { font-family: var(--f-ui); font-weight: 600; font-size: 14px; letter-spacing: 0.06em; margin-bottom: 8px; color: var(--red); }
+.takeaways ol { margin: 0; padding-left: 20px; }
+.takeaways li + li { margin-top: 8px; }
+.suggest { margin-top: 20px; border-top: 3px double var(--ink); padding-top: 12px; font-family: var(--f-ui); }
+.suggest h4 { font-family: var(--f-mast); font-size: 20px; font-weight: 400; }
+.suggest p.s { font-size: 13.5px; color: var(--ink-2); margin-block: 4px 10px; line-height: 1.5; }
+.suggest form { display: flex; gap: 8px; flex-wrap: wrap; }
+.suggest input { flex: 1 1 160px; min-width: 0; font: inherit; font-size: 15px; padding: 6px 10px; background: var(--paper); color: var(--ink); border: 1px solid var(--ink-2); border-radius: 2px; }
+.btn { background: var(--ink); color: var(--paper); border: 1px solid var(--ink); border-radius: 2px; padding: 6px 14px; font-family: var(--f-ui); font-size: 14.5px; font-weight: 500; }
+.btn:disabled { opacity: 0.5; cursor: default; }
+.msg { font-size: 13px; margin-top: 6px; color: var(--ink-2); min-height: 1.2em; }
+.slist { list-style: none; padding: 0; margin: 12px 0 0; font-size: 14px; }
+.slist li { padding-block: 6px; border-top: 1px solid var(--hair); display: flex; justify-content: space-between; gap: 8px; }
+.slist .st { font-size: 12px; color: var(--ink-2); white-space: nowrap; }
+.slist .st.used { color: var(--up); }
+
+/* Quiz + Case */
+.duo { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); gap: 0 32px; padding-block: 34px 10px; }
+.duo > section { min-width: 0; }
+.q { padding-block: 14px; border-bottom: 1px solid var(--hair); }
+.q:first-of-type { padding-top: 0; }
+.q .qt { font-weight: 600; font-size: 16.5px; margin-bottom: 8px; }
+.q .qn { color: var(--red); font-family: var(--f-ui); margin-right: 6px; }
+.opts { display: grid; gap: 6px; }
+.opt { text-align: left; background: var(--paper); color: var(--ink); border: 1px solid var(--hair); border-radius: 2px; padding: 6px 12px; font-family: var(--f-ui); font-size: 15px; line-height: 1.45; }
+.opt:hover:not(:disabled) { border-color: var(--ink); }
+.opt:disabled { cursor: default; }
+.opt.right { border-color: var(--up); color: var(--up); font-weight: 600; }
+.opt.wrong { border-color: var(--down); color: var(--down); text-decoration: line-through; }
+.exp { margin-top: 8px; font-family: var(--f-ui); font-size: 14px; line-height: 1.6; color: var(--ink-2); }
+.score { font-family: var(--f-ui); font-size: 15px; display: flex; gap: 12px; align-items: center; flex-wrap: wrap; margin-top: 14px; }
+.score b { font-variant-numeric: tabular-nums; font-size: 22px; }
+.link-btn { background: none; border: 0; padding: 0; text-decoration: underline; color: var(--ink-2); font-family: var(--f-ui); font-size: 13.5px; }
+
+.case h3 { font-family: var(--f-mast); font-size: 27px; line-height: 1.3; margin-block: 6px 10px; }
+.case .intro { font-size: 16.5px; }
+.case h4 { font-family: var(--f-ui); font-size: 14px; font-weight: 600; letter-spacing: 0.05em; color: var(--red); margin-top: 16px; margin-bottom: 2px; }
+.case .p { font-size: 15.5px; }
+.lesson { margin-top: 16px; border: 1px solid var(--ink); padding: 12px 14px; font-size: 15.5px; }
+.lesson b { font-family: var(--f-ui); }
+.think { margin-top: 10px; font-family: var(--f-ui); font-size: 14.5px; color: var(--ink-2); }
+
+/* Notes + archive */
+.duo2 { display: grid; grid-template-columns: minmax(0, 1.3fr) minmax(0, 1fr); gap: 0 32px; padding-block: 34px 10px; }
+.duo2 > section { min-width: 0; }
+.bm { list-style: none; padding: 0; margin: 0 0 18px; font-size: 15.5px; }
+.bm li { padding-block: 8px; border-bottom: 1px solid var(--hair); display: flex; gap: 10px; justify-content: space-between; align-items: baseline; }
+.bm .d { font-family: var(--f-ui); font-size: 12px; color: var(--ink-2); display: block; }
+.bm a { text-decoration: none; }
+.bm a:hover { text-decoration: underline; }
+.empty { font-family: var(--f-ui); font-size: 14.5px; color: var(--ink-2); padding-block: 8px; }
+label.l { display: block; font-family: var(--f-ui); font-weight: 600; font-size: 14px; margin-bottom: 6px; }
+textarea { width: 100%; min-height: 150px; resize: vertical; font: inherit; font-size: 16px; line-height: 1.7; padding: 10px 12px; color: var(--ink); border: 1px solid var(--ink-2); border-radius: 2px;
+  background-color: var(--paper); background-image: repeating-linear-gradient(to bottom, transparent 0, transparent calc(1.7em - 1px), var(--hair) calc(1.7em - 1px), var(--hair) 1.7em); background-attachment: local; background-position: 0 10px; }
+.saved-note { font-family: var(--f-ui); font-size: 12.5px; color: var(--ink-2); margin-top: 4px; min-height: 1.2em; }
+.arch { list-style: none; padding: 0; margin: 0; }
+.arch li { border-bottom: 1px solid var(--hair); }
+.arch button { width: 100%; text-align: left; background: none; border: 0; color: var(--ink); padding: 10px 0; display: grid; gap: 2px; }
+.arch .d { font-family: var(--f-ui); font-size: 13px; color: var(--red); font-weight: 600; }
+.arch .h { font-family: var(--f-mast); font-size: 18px; line-height: 1.35; }
+.arch button[aria-current="true"] .h { text-decoration: underline; text-decoration-color: var(--red); }
+
+.banner { font-family: var(--f-ui); font-size: 14px; background: var(--paper-2); border: 1px solid var(--hair); padding: 8px 12px; margin-top: 14px; display: flex; gap: 12px; flex-wrap: wrap; align-items: center; }
+
+footer { margin-top: 40px; border-top: 3px double var(--ink); padding-block: 14px 30px; font-family: var(--f-ui); font-size: 13px; color: var(--ink-2); display: flex; flex-wrap: wrap; gap: 6px 20px; justify-content: space-between; }
+
+.loading { padding-block: 60px; text-align: center; font-family: var(--f-ui); color: var(--ink-2); }
+
+@media (max-width: 900px) {
+  .front, .blog-grid, .duo, .duo2 { grid-template-columns: minmax(0, 1fr); }
+  .side { border-left: 0; padding-left: 0; border-top: 3px double var(--ink); padding-top: 18px; margin-top: 18px; }
+  .duo > section + section, .duo2 > section + section { margin-top: 34px; }
+}
+@media (max-width: 600px) {
+  body { font-size: 16px; }
+  .stories { grid-template-columns: minmax(0, 1fr); }
+  .lead .sum { font-size: 17px; }
+  .topline { justify-content: center; text-align: center; }
+}
+.lang { display: inline-flex; border: 1px solid var(--ink); border-radius: 2px; overflow: hidden; }
+.lang button { background: none; border: 0; color: var(--ink); padding: 2px 10px; font-family: var(--f-ui); font-size: 13px; }
+.lang button + button { border-left: 1px solid var(--ink); }
+.lang button[aria-pressed="true"] { background: var(--ink); color: var(--paper); }
+html[lang="en"] { --f-body: "Source Serif 4", Georgia, serif; }
+html[lang="en"] .kicker { letter-spacing: 0.1em; }
+@media (prefers-reduced-motion: no-preference) {
+  html { scroll-behavior: smooth; }
+}
+</style>
+
+
+<div class="wrap">
+  <div class="topline">
+    <div class="grp">
+      <span id="dateLine"></span>
+      <span class="live" data-t="daily7"></span>
+    </div>
+    <div class="grp">
+      <span data-t="globalIn"></span>
+      <span class="lang" role="group" aria-label="Language / ভাষা">
+        <button type="button" id="langBn" lang="bn">বাংলা</button>
+        <button type="button" id="langEn" lang="en">English</button>
+      </span>
+      <button class="theme-btn" id="themeBtn" type="button"></button>
+    </div>
+  </div>
+  <header class="mast">
+    <h1>Sandip's Board</h1>
+    <div class="tag" data-t="tagline"></div>
+  </header>
+</div>
+<div class="wrap"><hr class="dbl"></div>
+
+<nav class="nav">
+  <div class="wrap">
+    <ul>
+      <li><a href="#news" data-t="navNews"></a></li>
+      <li><a href="#blog" data-t="navBlog"></a></li>
+      <li><a href="#term" data-t="navTerm"></a></li>
+      <li><a href="#gd" data-t="navGd"></a></li>
+      <li><a href="#quiz" data-t="navQuiz"></a></li>
+      <li><a href="#case" data-t="navCase"></a></li>
+      <li><a href="#notes" data-t="navNotes"></a></li>
+      <li><a href="#archive" data-t="navArchive"></a></li>
+    </ul>
+  </div>
+</nav>
+
+<div class="market"><div class="wrap"><div class="row" id="market"></div><div class="asof" id="marketAsOf"></div></div></div>
+
+<div class="wrap">
+  <div id="pastBanner" hidden></div>
+  <div id="langNote" hidden></div>
+  <div id="app"><div class="loading" id="loading" data-t="loading"></div></div>
+</div>
+
+<template id="tpl">
+  <div class="front">
+    <section id="news">
+      <article class="lead" id="lead"></article>
+      <div class="stories" id="stories"></div>
+    </section>
+    <aside class="side">
+      <section id="term" class="box"></section>
+      <section id="gd" class="box gd"></section>
+    </aside>
+  </div>
+
+  <div class="blog">
+    <section id="blog">
+      <div class="sec-head"><h2 data-t="blogHead"></h2><span class="meta" data-t="byAI"></span></div>
+      <div class="blog-grid">
+        <article id="blogBody"></article>
+        <aside>
+          <div class="takeaways" id="takeaways"></div>
+          <div class="suggest">
+            <h4 data-t="sugHead"></h4>
+            <p class="s" data-t="sugText"></p>
+            <form id="suggestForm">
+              <input id="suggestInput" type="text" maxlength="120" data-tp="sugPh">
+              <button class="btn" id="suggestBtn" type="submit" data-t="send"></button>
+            </form>
+            <div class="msg" id="suggestMsg" role="status"></div>
+            <ul class="slist" id="suggestList"></ul>
+          </div>
+        </aside>
+      </div>
+    </section>
+  </div>
+
+  <div class="duo">
+    <section id="quiz">
+      <div class="sec-head"><h2 data-t="quizHead"></h2><span class="meta" data-t="quizMeta"></span></div>
+      <div id="quizBody"></div>
+    </section>
+    <section id="case" class="case">
+      <div class="sec-head"><h2 data-t="caseHead"></h2><span class="meta" id="caseWeek"></span></div>
+      <div id="caseBody"></div>
+    </section>
+  </div>
+
+  <div class="duo2">
+    <section id="notes">
+      <div class="sec-head"><h2 data-t="notesHead"></h2><span class="meta" id="notesWhere"></span></div>
+      <label class="l" data-t="savedNews"></label>
+      <ul class="bm" id="bookmarks"></ul>
+      <label class="l" for="noteArea" data-t="todayNote"></label>
+      <textarea id="noteArea" data-tp="notePh"></textarea>
+      <div class="saved-note" id="noteSaved" role="status"></div>
+    </section>
+    <section id="archive">
+      <div class="sec-head"><h2 data-t="archHead"></h2><span class="meta" data-t="archMeta"></span></div>
+      <ul class="arch" id="archList"></ul>
+    </section>
+  </div>
+</template>
+
+<footer class="wrap">
+  <span data-t="footer"></span>
+  <span data-t="notAdvice"></span>
+</footer>
+
+<script>
+(function () {
+  // ---------- interface text in both languages ----------
+  const T = {
+    bn: {
+      daily7: "প্রতিদিন সকাল ৭টায় নতুন সংস্করণ", globalIn: "গ্লোবাল বিজনেস", tagline: "বিজনেস স্টুডেন্টের প্রতিদিনের খবর, ব্যাখ্যা আর প্রস্তুতি",
+      navNews: "আজকের খবর", navBlog: "ব্লগ", navTerm: "আজকের শব্দ", navGd: "GD টপিক", navQuiz: "কুইজ", navCase: "কেস স্টাডি", navNotes: "আমার খাতা", navArchive: "আর্কাইভ",
+      loading: "আজকের সংস্করণ খোলা হচ্ছে…", loadFail: "আজকের সংস্করণ এখনও পৌঁছায়নি। একটু পরে পেজটা আবার খুলে দেখো।",
+      edition: "সংস্করণ", dark: "ডার্ক মোড", light: "লাইট মোড", themeLabel: "লাইট বা ডার্ক মোড বদলাও",
+      lead: "প্রধান খবর", forBBA: "বিবিএ স্টুডেন্টের জন্য: ", source: "সূত্র: ", save: "সেভ করো", saved: "সেভ করা", marketAsOf: "বাজারের দর: ",
+      termK: "আজকের শব্দ", example: "উদাহরণ: ", gdK: "আজকের GD টপিক", pro: "পক্ষে", con: "বিপক্ষে",
+      blogHead: "আজকের ব্লগ", byAI: "AI-এর লেখা", byLine: (m, d) => "লিখেছে AI · " + m + " মিনিটে পড়া যাবে · " + d, keep3: "মনে রাখার ৩টি কথা", bySug: "পাঠকের অনুরোধে",
+      sugHead: "পরের ব্লগের টপিক বলো", sugText: "যে টপিক নিয়ে পড়তে চাও লিখে দাও। পরের দিনের ব্লগ লেখার সময় এই তালিকা থেকে টপিক বাছা হয়। প্রত্যেকে একটা করে টপিক দিতে পারবে, নতুন লিখলে আগেরটা বদলে যাবে।",
+      sugPh: "যেমন: স্টার্টআপ ভ্যালুয়েশন কীভাবে হয়", send: "পাঠাও", yourTopic: "তোমার টপিক: ", stUsed: "লেখা হয়েছে", stNew: "অপেক্ষায়",
+      sugEmpty: "আগে একটা টপিক লেখো।", sugOk: "টপিক পাঠানো হয়েছে। ধন্যবাদ!", sugNoPerm: "এই বোর্ডে তোমার লেখার অনুমতি নেই। বোর্ডের মালিককে বলো তোমাকে Contributor করে দিতে।",
+      sugFail: "টপিক পাঠানো গেল না। একটু পরে আবার চেষ্টা করো।", sugSignIn: "টপিক পাঠাতে claude.ai-তে সাইন ইন করে বোর্ডটা খোলো।", sugSlow: "টপিকের তালিকা এখনও আসেনি।",
+      quizHead: "আজকের কুইজ", quizMeta: "আজকের খবর থেকে ৫টি প্রশ্ন", letters: ["ক", "খ", "গ", "ঘ"], yourScore: "তোমার স্কোর",
+      left: (n) => "বাকি " + n + "টি", allRight: "দারুণ! সব ঠিক।", goodTry: "ভালো চেষ্টা। ভুলগুলোর ব্যাখ্যা পড়ে নাও।", again: "আবার খেলো",
+      caseHead: "সপ্তাহের কেস স্টাডি", lesson: "শিক্ষা: ",
+      notesHead: "আমার খাতা", onlyYou: "শুধু তুমি দেখতে পাবে", onlyYouSync: "শুধু তুমি দেখতে পাবে · সব ডিভাইসে", thisDevice: "এই ডিভাইসে সেভ হচ্ছে",
+      savedNews: "সেভ করা খবর", todayNote: "আজকের নোট", notePh: "আজকের খবর থেকে কী শিখলে, এখানে লিখে রাখো…", writing: "লেখা হচ্ছে…", noteSaved: "সেভ হয়েছে",
+      bmEmpty: "এখনও কিছু সেভ করোনি। খবরের নিচে \"সেভ করো\" চাপলে এখানে জমা হবে।", remove: "সরাও",
+      archHead: "আর্কাইভ", archMeta: "আগের সংস্করণ", oldEd: (d) => "তুমি " + d + "-এর পুরনো সংস্করণ দেখছ।", backToday: "আজকের সংস্করণে ফেরো",
+      noEn: "",
+      footer: "Sandip's Board · খবর আর ব্লগ AI দিয়ে লেখা, প্রতিটি খবরের সঙ্গে মূল সূত্রের লিংক দেওয়া আছে", notAdvice: "বিনিয়োগের পরামর্শ নয়"
+    },
+    en: {
+      daily7: "New edition every day at 7 AM", globalIn: "Global business", tagline: "Daily news, explainers and prep for business students",
+      navNews: "Today's news", navBlog: "Blog", navTerm: "Term of the day", navGd: "GD topic", navQuiz: "Quiz", navCase: "Case study", navNotes: "My notebook", navArchive: "Archive",
+      loading: "Opening today's edition…", loadFail: "Today's edition hasn't arrived yet. Open the page again in a little while.",
+      edition: "Edition", dark: "Dark mode", light: "Light mode", themeLabel: "Switch light or dark mode",
+      lead: "Lead story", forBBA: "For BBA students: ", source: "Source: ", save: "Save", saved: "Saved", marketAsOf: "Market prices: ",
+      termK: "Term of the day", example: "Example: ", gdK: "Today's GD topic", pro: "For", con: "Against",
+      blogHead: "Today's blog", byAI: "Written by AI", byLine: (m, d) => "Written by AI · " + m + " min read · " + d, keep3: "3 things to remember", bySug: "Suggested by a reader",
+      sugHead: "Suggest the next blog topic", sugText: "Write a topic you want to read about. The next day's blog topic is picked from this list. Everyone can suggest one topic; a new one replaces your old one.",
+      sugPh: "e.g. How are startups valued?", send: "Send", yourTopic: "Your topic: ", stUsed: "Written", stNew: "Waiting",
+      sugEmpty: "Write a topic first.", sugOk: "Topic sent. Thank you!", sugNoPerm: "You don't have permission to write on this board. Ask the owner to make you a Contributor.",
+      sugFail: "Couldn't send the topic. Try again in a little while.", sugSignIn: "Sign in to claude.ai and open the board to suggest a topic.", sugSlow: "The topic list hasn't loaded yet.",
+      quizHead: "Today's quiz", quizMeta: "5 questions from today's news", letters: ["A", "B", "C", "D"], yourScore: "Your score",
+      left: (n) => n + " left", allRight: "Excellent! All correct.", goodTry: "Good try. Read the explanations for the ones you missed.", again: "Play again",
+      caseHead: "Case study of the week", lesson: "Lesson: ",
+      notesHead: "My notebook", onlyYou: "Only you can see this", onlyYouSync: "Only you can see this · on all devices", thisDevice: "Saving on this device",
+      savedNews: "Saved news", todayNote: "Today's note", notePh: "Write what you learned from today's news…", writing: "Writing…", noteSaved: "Saved",
+      bmEmpty: "Nothing saved yet. Tap \"Save\" under a news story and it will show up here.", remove: "Remove",
+      archHead: "Archive", archMeta: "Past editions", oldEd: (d) => "You're reading the past edition of " + d + ".", backToday: "Back to today's edition",
+      noEn: "This edition is only available in Bangla.",
+      footer: "Sandip's Board · News and blog written with AI, every story links to its original source", notAdvice: "Not investment advice"
+    }
+  };
+
+  // ---------- tiny helpers ----------
+  const $ = (id) => document.getElementById(id);
+  function el(tag, attrs, ...kids) {
+    const n = document.createElement(tag);
+    if (attrs) for (const k in attrs) {
+      const v = attrs[k];
+      if (v == null || v === false) continue;
+      if (k === "class") n.className = v;
+      else if (k.startsWith("on")) n.addEventListener(k.slice(2), v);
+      else n.setAttribute(k, v === true ? "" : v);
+    }
+    for (const c of kids.flat()) if (c != null && c !== false) n.append(c.nodeType ? c : document.createTextNode(String(c)));
+    return n;
+  }
+  const ls = {
+    get(k, d) { try { const v = localStorage.getItem(k); return v == null ? d : JSON.parse(v); } catch (e) { return d; } },
+    set(k, v) { try { localStorage.setItem(k, JSON.stringify(v)); } catch (e) {} }
+  };
+  const root = document.documentElement;
+
+  // ---------- language ----------
+  let lang = ls.get("bba-lang", "bn") === "en" ? "en" : "bn";
+  const t = (k) => T[lang][k];
+  const num = (s) => lang === "bn" ? String(s).replace(/[0-9]/g, (d) => "০১২৩৪৫৬৭৮৯"[d]) : String(s);
+  // content for the chosen language; falls back to Bangla when an edition has no English
+  const hasEn = () => !!(day && day.en);
+  const C = (field) => (lang === "en" && day.en && day.en[field] != null) ? day.en[field] : day[field];
+
+  function applyStatic() {
+    root.setAttribute("lang", lang);
+    document.querySelectorAll("[data-t]").forEach((n) => { n.textContent = t(n.getAttribute("data-t")); });
+    document.querySelectorAll("[data-tp]").forEach((n) => { n.placeholder = t(n.getAttribute("data-tp")); n.setAttribute("aria-label", t(n.getAttribute("data-tp"))); });
+    $("langBn").setAttribute("aria-pressed", lang === "bn" ? "true" : "false");
+    $("langEn").setAttribute("aria-pressed", lang === "en" ? "true" : "false");
+    themeBtn.setAttribute("aria-label", t("themeLabel"));
+    paintThemeBtn();
+  }
+  function setLang(l) {
+    if (l === lang) return;
+    lang = l; ls.set("bba-lang", l);
+    applyStatic();
+    if (day) render(); else if (loadFailed) $("loading").textContent = t("loadFail");
+  }
+
+  // ---------- theme ----------
+  const themeBtn = $("themeBtn");
+  function isDark() {
+    const th = root.getAttribute("data-theme");
+    if (th) return th === "dark";
+    return window.matchMedia && matchMedia("(prefers-color-scheme: dark)").matches;
+  }
+  function paintThemeBtn() { themeBtn.textContent = isDark() ? t("light") : t("dark"); }
+  const savedTheme = ls.get("bba-theme", null);
+  if (savedTheme) root.setAttribute("data-theme", savedTheme);
+  themeBtn.addEventListener("click", () => {
+    const next = isDark() ? "light" : "dark";
+    root.setAttribute("data-theme", next);
+    ls.set("bba-theme", next);
+    paintThemeBtn();
+  });
+  if (window.matchMedia) matchMedia("(prefers-color-scheme: dark)").addEventListener?.("change", paintThemeBtn);
+  $("langBn").addEventListener("click", () => setLang("bn"));
+  $("langEn").addEventListener("click", () => setLang("en"));
+  applyStatic();
+
+  // ---------- state ----------
+  let index = null, day = null, mounted = false, loadFailed = false;
+  let db = null, uid = null, personalRef = null, connecting = true, noRuntime = false;
+  function hideSuggest() { const b = document.querySelector(".suggest"); if (b) b.hidden = true; }
+  let personal = { bookmarks: ls.get("bba-bookmarks", []), notes: ls.get("bba-notes", {}) };
+
+  // ---------- data loading ----------
+  async function getJSON(path) {
+    const r = await fetch(path, { cache: "no-cache" });
+    if (!r.ok) throw new Error(path + " " + r.status);
+    return r.json();
+  }
+  async function loadDay(date) {
+    day = await getJSON("data/days/" + date + ".json");
+    render();
+  }
+  async function boot() {
+    try {
+      index = await getJSON("data/index.json");
+      await loadDay(index.latest);
+    } catch (e) {
+      loadFailed = true;
+      $("loading").textContent = t("loadFail");
+    }
+  }
+
+  // ---------- rendering ----------
+  function sourceLink(s) {
+    if (!s || !s.url) return null;
+    return el("a", { href: s.url, target: "_blank", rel: "noopener" }, t("source") + s.name + " ↗");
+  }
+  function isSaved(id) { return personal.bookmarks.some((b) => b.date === day.date && b.id === id); }
+  function saveBtn(n) {
+    return el("button", {
+      class: "save", type: "button", "aria-pressed": isSaved(n.id) ? "true" : "false",
+      onclick: (ev) => toggleBookmark(n, ev.currentTarget)
+    }, isSaved(n.id) ? t("saved") : t("save"));
+  }
+  function why(n) { return el("div", { class: "why" }, el("b", null, t("forBBA")), n.why); }
+  const dateLabel = () => C("dateLabel") || day.dateLabel;
+
+  function renderMarket() {
+    const m = C("market") || day.market;
+    const row = $("market"); row.replaceChildren();
+    if (!m) return;
+    for (const it of m.items) {
+      row.append(el("div", { class: "mk" },
+        el("div", { class: "n" }, it.name + (it.region ? " · " + it.region : "")),
+        el("div", { class: "v" }, it.value),
+        el("div", { class: "c " + (it.dir || "flat") }, it.change || "—")));
+    }
+    $("marketAsOf").textContent = t("marketAsOf") + m.asOf;
+  }
+
+  function renderNews() {
+    const [first, ...rest] = C("news");
+    $("lead").replaceChildren(
+      el("div", { class: "kicker" }, t("lead") + " · " + first.category),
+      el("h3", null, first.title),
+      el("p", { class: "sum" }, first.summary),
+      why(first),
+      el("div", { class: "foot" }, sourceLink(first), saveBtn(first)));
+    const st = $("stories"); st.replaceChildren();
+    for (const n of rest) {
+      st.append(el("article", { class: "story" },
+        el("div", { class: "kicker" }, n.category),
+        el("h3", null, n.title),
+        el("p", { class: "sum" }, n.summary),
+        why(n),
+        el("div", { class: "foot" }, sourceLink(n), saveBtn(n))));
+    }
+  }
+
+  function renderSide() {
+    const tm = C("term");
+    $("term").replaceChildren(
+      el("div", { class: "kicker" }, t("termK")),
+      el("h3", null, tm.term),
+      el("div", { class: "bn" }, tm.bangla),
+      el("p", null, tm.definition),
+      tm.formula ? el("div", { class: "formula" }, tm.formula) : null,
+      el("p", null, el("b", null, t("example")), tm.example),
+      tm.tip ? el("p", { class: "tip" }, tm.tip) : null);
+    const g = C("gd");
+    $("gd").replaceChildren(
+      el("div", { class: "kicker" }, t("gdK")),
+      el("h3", null, g.topic),
+      g.context ? el("p", { class: "ctx" }, g.context) : null,
+      el("h4", { class: "f" }, t("pro")),
+      el("ul", null, g.for.map((x) => el("li", null, x))),
+      el("h4", { class: "a" }, t("con")),
+      el("ul", null, g.against.map((x) => el("li", null, x))));
+  }
+
+  function renderBlog() {
+    const b = C("blog");
+    const prose = el("div", { class: "prose" });
+    let firstPara = true;
+    for (const p of b.body) {
+      if (p.startsWith("## ")) prose.append(el("h4", null, p.slice(3)));
+      else { prose.append(el("p", { class: firstPara ? "first" : null }, p)); firstPara = false; }
+    }
+    $("blogBody").replaceChildren(
+      el("div", { class: "kicker" }, b.topic + ((day.blog && day.blog.suggestedBy) ? " · " + t("bySug") : "")),
+      el("h2", { class: "t" }, b.title),
+      el("div", { class: "by" }, t("byLine")(num(b.readMin), dateLabel())),
+      prose);
+    $("takeaways").replaceChildren(
+      el("h4", null, t("keep3")),
+      el("ol", null, b.takeaways.map((x) => el("li", null, x))));
+  }
+
+  function renderQuiz() {
+    const quiz = C("quiz");
+    const key = "bba-quiz-" + day.date;
+    const picks = ls.get(key, {});
+    const box = $("quizBody"); box.replaceChildren();
+    const scoreLine = el("div", { class: "score" });
+    function paintScore() {
+      const done = Object.keys(picks).length;
+      const right = quiz.reduce((a, q, i) => a + (picks[i] === q.answer ? 1 : 0), 0);
+      scoreLine.replaceChildren(
+        el("span", null, t("yourScore")),
+        el("b", null, num(right) + " / " + num(quiz.length)),
+        el("span", { class: "exp" }, done < quiz.length ? t("left")(num(quiz.length - done)) : (right === quiz.length ? t("allRight") : t("goodTry"))),
+        done ? el("button", { class: "link-btn", type: "button", onclick: () => { for (const k in picks) delete picks[k]; ls.set(key, picks); renderQuiz(); } }, t("again")) : null);
+    }
+    quiz.forEach((q, i) => {
+      const opts = el("div", { class: "opts" });
+      const exp = el("div", { class: "exp", hidden: true }, q.explain);
+      const buttons = q.options.map((o, j) => el("button", {
+        class: "opt", type: "button",
+        onclick: () => { picks[i] = j; ls.set(key, picks); paint(); paintScore(); }
+      }, t("letters")[j] + ") " + o));
+      function paint() {
+        const p = picks[i];
+        if (p == null) return;
+        buttons.forEach((b, j) => {
+          b.disabled = true;
+          if (j === q.answer) b.classList.add("right");
+          else if (j === p) b.classList.add("wrong");
+        });
+        exp.hidden = false;
+      }
+      opts.append(...buttons);
+      box.append(el("div", { class: "q" }, el("div", { class: "qt" }, el("span", { class: "qn" }, num(i + 1) + "."), q.q), opts, exp));
+      paint();
+    });
+    box.append(scoreLine);
+    paintScore();
+  }
+
+  function renderCase() {
+    const c = C("caseStudy");
+    $("caseWeek").textContent = c.weekLabel || "";
+    $("caseBody").replaceChildren(
+      el("div", { class: "kicker" }, c.company + " · " + c.concept),
+      el("h3", null, c.title),
+      el("p", { class: "intro" }, c.intro),
+      c.sections.map((s) => [el("h4", null, s.h), el("p", { class: "p" }, s.p)]),
+      el("div", { class: "lesson" }, el("b", null, t("lesson")), c.lesson),
+      c.question ? el("p", { class: "think" }, c.question) : null);
+  }
+
+  function renderArchive() {
+    const list = $("archList"); list.replaceChildren();
+    for (const d of index.days) {
+      const label = lang === "en" && d.labelEn ? d.labelEn : d.label;
+      const head = lang === "en" && d.headlineEn ? d.headlineEn : d.headline;
+      list.append(el("li", null, el("button", {
+        type: "button", "aria-current": d.date === day.date ? "true" : "false",
+        onclick: () => { loadDay(d.date).then(() => $("news").scrollIntoView()); }
+      }, el("span", { class: "d" }, label), el("span", { class: "h" }, head))));
+    }
+  }
+
+  function renderBanners() {
+    const b = $("pastBanner");
+    if (day.date === index.latest) { b.hidden = true; b.replaceChildren(); }
+    else {
+      b.hidden = false;
+      b.replaceChildren(el("div", { class: "banner" },
+        el("span", null, t("oldEd")(dateLabel())),
+        el("button", { class: "link-btn", type: "button", onclick: () => loadDay(index.latest) }, t("backToday"))));
+    }
+    const n = $("langNote");
+    if (lang === "en" && !hasEn()) { n.hidden = false; n.replaceChildren(el("div", { class: "banner" }, t("noEn"))); }
+    else { n.hidden = true; n.replaceChildren(); }
+  }
+
+  function renderBookmarks() {
+    const ul = $("bookmarks"); ul.replaceChildren();
+    if (!personal.bookmarks.length) { ul.append(el("li", { class: "empty" }, t("bmEmpty"))); return; }
+    for (const b of personal.bookmarks.slice().reverse()) {
+      const title = lang === "en" && b.titleEn ? b.titleEn : b.title;
+      const label = lang === "en" && b.labelEn ? b.labelEn : (b.label || b.date);
+      ul.append(el("li", null,
+        el("span", null, el("span", { class: "d" }, label), b.url ? el("a", { href: b.url, target: "_blank", rel: "noopener" }, title) : title),
+        el("button", { class: "link-btn", type: "button", onclick: () => removeBookmark(b) }, t("remove"))));
+    }
+  }
+
+  function renderNote() {
+    const ta = $("noteArea");
+    if (document.activeElement !== ta) ta.value = personal.notes[day.date] || "";
+    $("noteSaved").textContent = "";
+  }
+
+  function render() {
+    if (!mounted) {
+      $("app").replaceChildren($("tpl").content.cloneNode(true));
+      mounted = true;
+      applyStatic();
+      wireStatic();
+    }
+    $("dateLine").textContent = dateLabel() + " · " + t("edition") + " " + num(day.edition || 1);
+    $("notesWhere").textContent = personalRef ? t("onlyYouSync") : t("onlyYou");
+    renderMarket(); renderNews(); renderSide(); renderBlog(); renderQuiz(); renderCase();
+    renderArchive(); renderBanners(); renderBookmarks(); renderNote();
+    startSuggestions();
+    paintSuggestions();
+  }
+
+  // ---------- personal data (bookmarks + notes) ----------
+  let saveTimer = null, writing = false, pending = false;
+  async function persist() {
+    ls.set("bba-bookmarks", personal.bookmarks);
+    ls.set("bba-notes", personal.notes);
+    if (!personalRef) return;
+    if (writing) { pending = true; return; }
+    writing = true;
+    try { await personalRef.set({ bookmarks: personal.bookmarks, notes: personal.notes }); }
+    catch (e) { personalRef = null; $("notesWhere").textContent = t("thisDevice"); }
+    writing = false;
+    if (pending) { pending = false; persist(); }
+  }
+  function toggleBookmark(n, btn) {
+    if (isSaved(n.id)) personal.bookmarks = personal.bookmarks.filter((b) => !(b.date === day.date && b.id === n.id));
+    else {
+      const bn = day.news.find((x) => x.id === n.id) || n;
+      const en = day.en && day.en.news ? day.en.news.find((x) => x.id === n.id) : null;
+      personal.bookmarks = personal.bookmarks.concat({
+        date: day.date, label: day.dateLabel, labelEn: day.en ? day.en.dateLabel : null,
+        id: n.id, title: bn.title, titleEn: en ? en.title : null, url: n.source && n.source.url
+      });
+    }
+    btn.setAttribute("aria-pressed", isSaved(n.id) ? "true" : "false");
+    btn.textContent = isSaved(n.id) ? t("saved") : t("save");
+    renderBookmarks(); persist();
+  }
+  function removeBookmark(b) {
+    personal.bookmarks = personal.bookmarks.filter((x) => !(x.date === b.date && x.id === b.id));
+    renderBookmarks(); renderNews(); persist();
+  }
+  function wireStatic() {
+    const ta = $("noteArea");
+    ta.addEventListener("input", () => {
+      $("noteSaved").textContent = t("writing");
+      clearTimeout(saveTimer);
+      saveTimer = setTimeout(() => {
+        if (ta.value.trim()) personal.notes[day.date] = ta.value; else delete personal.notes[day.date];
+        persist().then(() => { $("noteSaved").textContent = t("noteSaved"); });
+      }, 900);
+    });
+    $("suggestForm").addEventListener("submit", submitSuggestion);
+  }
+
+  // ---------- suggestions (shared) ----------
+  let suggestionsStarted = false, suggestionDocs = [], sugMsgKey = null;
+  function setSugMsg(k) { sugMsgKey = k; $("suggestMsg").textContent = k ? t(k) : ""; }
+  function paintSuggestions() {
+    if (!mounted) return;
+    if (sugMsgKey) $("suggestMsg").textContent = t(sugMsgKey);
+    const list = $("suggestList"); list.replaceChildren();
+    const inp = $("suggestInput");
+    inp.placeholder = t("sugPh");
+    for (const d of suggestionDocs) {
+      const v = d.data() || {};
+      if (!v.topic) continue;
+      if (d.id === uid) inp.placeholder = t("yourTopic") + v.topic;
+      list.append(el("li", null, el("span", null, v.topic), el("span", { class: "st" + (v.status === "used" ? " used" : "") }, v.status === "used" ? t("stUsed") : t("stNew"))));
+    }
+  }
+  function startSuggestions() {
+    if (noRuntime) { hideSuggest(); return; }
+    if (!db) { noDbSuggest(); return; }
+    if (suggestionsStarted) return;
+    suggestionsStarted = true;
+    $("suggestBtn").disabled = false; $("suggestInput").disabled = false;
+    if (sugMsgKey === "sugSignIn") setSugMsg(null);
+    let gotData = false;
+    const timer = setTimeout(() => { if (!gotData) setSugMsg("sugSlow"); }, 10000);
+    db.collection("suggestions").orderBy("at", "desc").limit(20).onSnapshot((snap) => {
+      if (!snap.metadata.fromCache) { gotData = true; clearTimeout(timer); if (sugMsgKey === "sugSlow") setSugMsg(null); }
+      suggestionDocs = snap.docs;
+      paintSuggestions();
+    }, () => { clearTimeout(timer); });
+  }
+  function noDbSuggest() {
+    if (!mounted || connecting) return;
+    $("suggestBtn").disabled = true;
+    $("suggestInput").disabled = true;
+    setSugMsg("sugSignIn");
+  }
+  async function submitSuggestion(ev) {
+    ev.preventDefault();
+    const inp = $("suggestInput");
+    const topic = inp.value.trim();
+    if (!topic) { setSugMsg("sugEmpty"); return; }
+    if (!db || !uid) { noDbSuggest(); return; }
+    $("suggestBtn").disabled = true;
+    try {
+      await db.doc("suggestions/" + uid).set({ topic: topic.slice(0, 120), at: new Date().toISOString(), status: "new" });
+      inp.value = ""; setSugMsg("sugOk");
+    } catch (e) {
+      setSugMsg(e && e.code === "invalid_argument" ? "sugNoPerm" : "sugFail");
+    }
+    $("suggestBtn").disabled = false;
+  }
+
+  // ---------- capabilities ----------
+  async function connect() {
+    // Outside claude.ai (e.g. GitHub Pages) there is no shared database: hide the suggestion box
+    if (!window.claude || !window.claude.use) { connecting = false; noRuntime = true; hideSuggest(); return; }
+    try {
+      const [d, u] = await Promise.all([window.claude.use("db"), window.claude.use("user")]);
+      db = d;
+      if (u) { try { uid = await u.id(); } catch (e) { uid = null; } }
+      if (db && uid) {
+        personalRef = db.doc("data/users/" + uid + "/personal");
+        try {
+          const s = await personalRef.get();
+          if (s.exists) {
+            const v = s.data();
+            // keep anything saved on this device that the account doesn't have yet
+            const seen = new Set((v.bookmarks || []).map((b) => b.date + "|" + b.id));
+            personal.bookmarks = (v.bookmarks || []).concat(personal.bookmarks.filter((b) => !seen.has(b.date + "|" + b.id)));
+            personal.notes = Object.assign({}, personal.notes, v.notes || {});
+          }
+        } catch (e) { personalRef = null; }
+        if (mounted) { $("notesWhere").textContent = personalRef ? t("onlyYouSync") : t("onlyYou"); renderBookmarks(); renderNote(); renderNews(); }
+      }
+    } catch (e) {}
+    connecting = false;
+    if (mounted) startSuggestions();
+  }
+
+  boot();
+  connect();
+})();
+</script>
+
+</body></html>
