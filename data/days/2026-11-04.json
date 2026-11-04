@@ -1,0 +1,583 @@
+{
+ "date": "2026-11-04",
+ "dateLabel": "৪ নভেম্বর ২০২৬, বুধবার",
+ "edition": 1,
+ "updatedAt": "2026-11-04T07:00:00+05:30",
+ "news": [
+  {
+   "id": "n1",
+   "category": "কোম্পানির রেজাল্ট",
+   "title": "AMD-র রাজস্ব 45% বেড়ে $13.4 বিলিয়ন, পরের কোয়ার্টারে প্রায় $17 বিলিয়নের পূর্বাভাস",
+   "summary": "চিপ নির্মাতা AMD-র তৃতীয় কোয়ার্টারের রাজস্ব হয়েছে $13.4 বিলিয়ন, আগের বছরের চেয়ে 45% বেশি। Adjusted EPS $2.09, যেখানে বিশ্লেষকরা আশা করেছিলেন $1.94। Data Center ব্যবসা প্রায় দ্বিগুণ হয়ে $8.55 বিলিয়ন হয়েছে, যা মোট রাজস্বের 64%। গেমিং ব্যবসা 40% কমেছে। কোম্পানি চতুর্থ কোয়ার্টারে প্রায় $17 বিলিয়ন রাজস্বের পূর্বাভাস দিয়েছে, ফলে ঘোষণার পর after-hours ট্রেডিংয়ে শেয়ার প্রায় 6-8% বেড়েছে।",
+   "why": "Earnings, guidance আর revenue mix কীভাবে শেয়ারের দাম নড়ায় তার ভালো উদাহরণ। বিশ্লেষকদের প্রত্যাশার (consensus) চেয়ে ভালো ফল আর জোরালো guidance একসঙ্গে এলে শেয়ার লাফায়।",
+   "source": {
+    "name": "SEC filing (AMD 8-K)",
+    "url": "https://www.sec.gov/Archives/edgar/data/0000002488/000000248826000188/q32026991.htm"
+   }
+  },
+  {
+   "id": "n2",
+   "category": "কোম্পানির রেজাল্ট",
+   "title": "Palantir-এর রাজস্ব 96% বেড়ে $2.31 বিলিয়ন, বছরের পূর্বাভাসও বাড়ল",
+   "summary": "Palantir-এর তৃতীয় কোয়ার্টারের রাজস্ব $2.313 বিলিয়ন, আগের বছরের চেয়ে 96% বেশি, আর এই প্রথম কোনো কোয়ার্টারে রাজস্ব $2 বিলিয়ন ছাড়াল। US commercial ব্যবসা 148% বেড়ে $984 মিলিয়ন হয়েছে এবং প্রথমবার US government ব্যবসাকে ছাড়িয়ে গেছে। কোম্পানি 2026 সালের রাজস্ব পূর্বাভাস বাড়িয়ে প্রায় $8.53 বিলিয়ন (91% বৃদ্ধি) করেছে। তবে এক বিশ্লেষণে বলা হয়েছে, মোট চুক্তির মূল্য (total contract value) বেড়েছে মাত্র 6%, যা রাজস্ব বৃদ্ধির চেয়ে অনেক কম।",
+   "why": "Growth আর sustainability আলাদা বিষয়। রাজস্ব লাফিয়ে বাড়লেও contract value ধীরে বাড়লে ভবিষ্যৎ বৃদ্ধি নিয়ে প্রশ্ন ওঠে। Financial analysis-এ এই দুটো মিলিয়ে দেখতে হয়।",
+   "source": {
+    "name": "Palantir press release (SEC 8-K)",
+    "url": "https://www.sec.gov/Archives/edgar/data/0001321655/000132165526000045/a2026q3ex991pressrelease.htm"
+   }
+  },
+  {
+   "id": "n3",
+   "category": "কমোডিটি",
+   "title": "ইরান আলোচনার আশায় Brent নেমে $103.60, চার সপ্তাহের সর্বনিম্নের কাছে",
+   "summary": "Reuters-এর খবর অনুযায়ী Brent crude ব্যারেলপ্রতি $103.60 এবং WTI $96.09 দামে সেটেল করেছে, দুটোই প্রায় চার সপ্তাহের সর্বনিম্ন। ইউক্রেন ও ইরানের যুদ্ধ থামানোর আলোচনার আশায় দাম নেমেছে। তবে এক ইরানি কর্মকর্তা Reuters-কে বলেছেন, এখনও চুক্তি অনেক দূরে, মধ্যস্থতাকারী কাতার বলছে দুই পক্ষ প্রস্তাব খতিয়ে দেখছে। রাতে ইরানের Qeshm দ্বীপে US হামলার খবরও এসেছে।",
+   "why": "তেলের দাম Supply shock-এর ভালো উদাহরণ। দাম কমলে মুদ্রাস্ফীতি আর ভারতের আমদানি খরচ কমে, আবার কূটনীতির খবরে দাম এক দিনেই উল্টে যেতে পারে, এটাই risk।",
+   "source": {
+    "name": "Reuters via Yahoo Finance",
+    "url": "https://finance.yahoo.com/energy/articles/oil-rises-report-us-strike-012715191.html"
+   }
+  },
+  {
+   "id": "n4",
+   "category": "ভারতের বাজার",
+   "title": "টানা চতুর্থ দিন বাড়ল Sensex: 1,225 পয়েন্ট লাফিয়ে 76,917.85",
+   "summary": "মঙ্গলবার Sensex 1,225.07 পয়েন্ট (1.62%) বেড়ে 76,917.85-এ এবং Nifty 50 370.05 পয়েন্ট (1.58%) বেড়ে 23,810.85-এ বন্ধ হয়েছে। Nifty FMCG সূচক 3% বেড়ে সবচেয়ে ভালো করেছে, সঙ্গে Realty ও Private Bank শেয়ারও এগিয়েছে। বাজার-বিশ্লেষণে কারণ হিসেবে বলা হয়েছে অশোধিত তেলের দাম কমা, সম্ভাব্য LTCG কর বদলের জল্পনা এবং বিদেশি বিনিয়োগকারীদের কেনা। Nifty PSU Bank সূচক সবচেয়ে বেশি কমেছে।",
+   "why": "তেলের দাম, বিদেশি বিনিয়োগ আর কর-নীতি কীভাবে একসঙ্গে শেয়ারবাজারকে চালায়, Investment Analysis পরীক্ষায় এই macro-factor প্রশ্ন আসে।",
+   "source": {
+    "name": "Business Standard",
+    "url": "https://www.business-standard.com/markets/news/stock-market-live-november-3-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-q2-results-ipo-today-126110300101_1.html"
+   }
+  },
+  {
+   "id": "n5",
+   "category": "নীতি ও কর",
+   "title": "FPI-দের LTCG কর ছাড়ের সুপারিশ: বিদেশি টাকা ফেরানোর চেষ্টা",
+   "summary": "Reuters-এর খবরের সূত্র ধরে জানা গেছে, SEBI বিদেশি পোর্টফোলিও বিনিয়োগকারীদের (FPI) জন্য long-term capital gains (LTCG) কর তুলে দেওয়ার সুপারিশ করেছে। অর্থমন্ত্রী নির্মলা সীতারামন অক্টোবরে বলেছিলেন, তিনি এ নিয়ে পরামর্শ শুনতে রাজি। একটি রিপোর্ট অনুযায়ী 2026 সালে অক্টোবরের শেষ পর্যন্ত ভারতের শেয়ারবাজার থেকে FPI-এর মোট বিক্রি প্রায় ₹2.95 ট্রিলিয়ন। বিশ্লেষকদের মতে শুধু কর তুলে দিলেই বিদেশি টাকা ফিরবে না, তবে এটা ইতিবাচক সংকেত। এটি এখনও সিদ্ধান্ত নয়, সুপারিশ মাত্র।",
+   "why": "Fiscal policy আর capital flow-এর সম্পর্ক বোঝার উদাহরণ। কর কমালে বিনিয়োগ আসতে পারে, কিন্তু সরকারের রাজস্ব কমে, এই trade-off নিয়েই GD হয়।",
+   "source": {
+    "name": "Business Today",
+    "url": "https://www.businesstoday.in/markets/story/bt-big-story-can-scrapping-ltcg-tax-bring-foreign-investors-back-to-indian-equities-565479-2026-11-03"
+   }
+  },
+  {
+   "id": "n6",
+   "category": "ইউরোপের অর্থনীতি",
+   "title": "ইউরোজোনে মুদ্রাস্ফীতি সেপ্টেম্বরে 3.8%, দেশভেদে বড় ফারাক",
+   "summary": "Eurostat-এর হিসাবে ইউরো এলাকায় সেপ্টেম্বরে বার্ষিক মুদ্রাস্ফীতি 3.8%, যা আগস্টে ছিল 3.2% এবং 2023-এর সেপ্টেম্বরের পর সবচেয়ে বেশি। অক্টোবরে দেশভেদে ছবি আলাদা: জার্মানিতে 2.8% (জ্বালানি করে সাময়িক ছাড়ের কারণে কম), ফ্রান্সে 3.4%, স্পেনে 4.9% আর ইতালিতে 5.4%। পুরো ইউরো এলাকার অক্টোবরের flash estimate আজ (4 নভেম্বর) প্রকাশের কথা।",
+   "why": "একই মুদ্রায় থাকা দেশে মুদ্রাস্ফীতি আলাদা হলে ECB-র একটাই সুদের হার সবার জন্য ঠিক মানায় না। এটা monetary union-এর বড় চ্যালেঞ্জ।",
+   "source": {
+    "name": "Euronews",
+    "url": "https://www.euronews.com/2026/10/30/germany-france-italy-and-spain-where-was-inflation-highest-in-october"
+   }
+  },
+  {
+   "id": "n7",
+   "category": "কেন্দ্রীয় ব্যাংক",
+   "title": "Fed সুদ অপরিবর্তিত রেখেছে, কিন্তু দুজন সুদ বাড়ানোর পক্ষে ভোট দিয়েছেন",
+   "summary": "অক্টোবরের শেষে US Federal Reserve সুদের হার অপরিবর্তিত রেখেছে। US-এর মুদ্রাস্ফীতি আগস্টের 3.4% থেকে সেপ্টেম্বরে 3.7% হয়েছে। গভর্নর Lisa Cook ও Cleveland Fed-এর প্রেসিডেন্ট Beth Hammack সিদ্ধান্তের বিরুদ্ধে গিয়ে সুদ সিকি শতাংশ বাড়ানোর পক্ষে ভোট দিয়েছেন। কিছু বিশ্লেষক ডিসেম্বরের বৈঠকে সুদ বাড়ার আশঙ্কা করছেন।",
+   "why": "Monetary policy-র মূল যুক্তি: মুদ্রাস্ফীতি চড়া থাকলে কেন্দ্রীয় ব্যাংক সুদ বাড়ায়। Fed-এর সিদ্ধান্ত ডলার, ভারতের শেয়ারবাজার আর রুপির ওপরও প্রভাব ফেলে।",
+   "source": {
+    "name": "NBC News",
+    "url": "https://www.nbcnews.com/business/economy/fed-rates-inflation-warsh-midterms-rcna606154"
+   }
+  },
+  {
+   "id": "n8",
+   "category": "মার্জার ও অধিগ্রহণ",
+   "title": "$115 বিলিয়নের Lumentum চুক্তি ঘোষণায় Marvell-এর শেয়ার প্রায় 13% পড়েছিল",
+   "summary": "Marvell আর Lumentum-এর all-stock চুক্তিতে Lumentum-এর প্রতিটি শেয়ারের বদলে Marvell-এর 4.500টি শেয়ার দেওয়া হবে। ঘোষণার দিন Marvell-এর শেয়ার প্রায় 13% পড়ে, কারণ নতুন শেয়ার ইস্যুতে বর্তমান শেয়ারহোল্ডারদের মালিকানা পাতলা (dilution) হবে এবং TD Cowen রেটিং Hold-এ নামিয়েছে। মঙ্গলবার শেয়ার সামান্য বেড়েছে, কেউ কেউ একে অতিরিক্ত বিক্রির পর ঘুরে দাঁড়ানো মনে করছেন। চুক্তি 2028-এর প্রথমার্ধে শেষ হওয়ার কথা, শেয়ারহোল্ডার ও নিয়ন্ত্রক অনুমোদন সাপেক্ষে।",
+   "why": "M&A-তে ক্রেতার শেয়ার কেন পড়ে? বেশি দাম, dilution আর integration risk। কাল আমরা deal-টা পড়েছিলাম, আজ বাজারের প্রতিক্রিয়াটা দেখো।",
+   "source": {
+    "name": "Motley Fool",
+    "url": "https://www.fool.com/coverage/stock-market-today/2026/11/03/stock-market-today-nov-3-marvell-shares-edge-higher-after-premarket-drop-on-usd115-billion-lumentum-deal/"
+   }
+  }
+ ],
+ "market": {
+  "asOf": "৩ নভেম্বর ২০২৬, মঙ্গলবারের ক্লোজিং",
+  "items": [
+   {
+    "name": "S&P 500",
+    "region": "আমেরিকা",
+    "value": "7,568.92",
+    "change": "+0.36%",
+    "dir": "up"
+   },
+   {
+    "name": "Dow Jones",
+    "region": "আমেরিকা",
+    "value": "51,786.72",
+    "change": "-0.38%",
+    "dir": "down"
+   },
+   {
+    "name": "Nasdaq",
+    "region": "আমেরিকা",
+    "value": "25,372.01",
+    "change": "+0.83%",
+    "dir": "up"
+   },
+   {
+    "name": "Sensex",
+    "region": "ভারত",
+    "value": "76,917.85",
+    "change": "+1.62%",
+    "dir": "up"
+   },
+   {
+    "name": "Nifty 50",
+    "region": "ভারত",
+    "value": "23,810.85",
+    "change": "+1.58%",
+    "dir": "up"
+   },
+   {
+    "name": "Brent Crude",
+    "region": "$ প্রতি ব্যারেল",
+    "value": "103.60",
+    "change": "",
+    "dir": "flat"
+   },
+   {
+    "name": "Gold",
+    "region": "$ প্রতি আউন্স",
+    "value": "3,931.68",
+    "change": "-0.39%",
+    "dir": "down"
+   },
+   {
+    "name": "USD/INR",
+    "region": "₹ প্রতি ডলার",
+    "value": "94.67",
+    "change": "রুপি 23 পয়সা শক্তিশালী",
+    "dir": "up"
+   }
+  ]
+ },
+ "term": {
+  "term": "Dilution",
+  "bangla": "ডাইলিউশন (শেয়ারহোল্ডারের মালিকানা পাতলা হওয়া)",
+  "definition": "কোম্পানি নতুন শেয়ার ইস্যু করলে মোট শেয়ার বাড়ে, ফলে আগের শেয়ারহোল্ডারের একই শেয়ারের মালিকানার শতাংশ (এবং প্রতি শেয়ারের আয়, EPS) কমে যায়। শেয়ারের বদলে কোম্পানি কেনা, ফান্ড তোলা বা কর্মীদের stock option দেওয়ার সময় এটা হয়।",
+  "example": "Marvell-Lumentum চুক্তিতে Lumentum-এর প্রতি শেয়ারের জন্য Marvell 4.500টি নতুন শেয়ার দেবে। নতুন শেয়ারের এই বিপুল ইস্যুকে ঘিরে dilution-এর ভয়ে ঘোষণার দিন Marvell-এর শেয়ার প্রায় 13% পড়েছিল।",
+  "formula": "মালিকানা % = তোমার শেয়ার ÷ (পুরনো মোট শেয়ার + নতুন ইস্যু করা শেয়ার) × 100",
+  "tip": "Interview-এ বলো: dilution সবসময় খারাপ নয়। নতুন শেয়ারের টাকা যদি এমন কাজে লাগে যাতে মোট আয় আনুপাতিকের চেয়ে বেশি বাড়ে, তাহলে শেয়ারহোল্ডারের লাভই হয়।"
+ },
+ "gd": {
+  "topic": "AI চিপ কোম্পানিগুলোর রেকর্ড রাজস্ব কি টেকসই বৃদ্ধি, নাকি বুদবুদ?",
+  "context": "AMD-র রাজস্ব 45% আর Palantir-এর 96% বেড়েছে, অথচ Palantir-এর মোট চুক্তির মূল্য বেড়েছে মাত্র 6%। এই বৃদ্ধি কি টিকবে?",
+  "for": [
+   "AI data center-এর চাহিদা এত বেশি যে AMD-র Data Center ব্যবসা প্রায় দ্বিগুণ হয়েছে এবং কোম্পানি পরের কোয়ার্টারে প্রায় $17 বিলিয়নের পূর্বাভাস দিয়েছে।",
+   "Palantir-এর US commercial রাজস্ব 148% বেড়েছে, মানে বেসরকারি কোম্পানিরা সত্যিই টাকা খরচ করছে।",
+   "দুই কোম্পানিই guidance বাড়িয়েছে, অর্থাৎ ম্যানেজমেন্ট নিজেরাই আত্মবিশ্বাসী।"
+  ],
+  "against": [
+   "Palantir-এর contract value বেড়েছে মাত্র 6%, ভবিষ্যৎ বৃদ্ধি রাজস্বের মতো জোরালো নাও হতে পারে।",
+   "Marvell-Lumentum চুক্তির দাম দেখে অনেকে dot-com বুদবুদের সঙ্গে তুলনা করছেন।",
+   "মুদ্রাস্ফীতি আর সুদ বাড়লে এত চড়া মূল্যের শেয়ারে চাপ পড়তে পারে।"
+  ]
+ },
+ "blog": {
+  "title": "কোম্পানির রেজাল্ট পড়বে কীভাবে: AMD, Palantir আর Marvell থেকে শিক্ষা",
+  "topic": "Financial Analysis",
+  "readMin": 5,
+  "body": [
+   "আজকের খবরে দুটো চিত্র পাশাপাশি আছে। একদিকে AMD আর Palantir-এর ঝলমলে রেজাল্ট, অন্যদিকে Marvell-এর শেয়ার পড়ে যাওয়া। একই AI-বুম, অথচ শেয়ারবাজারের প্রতিক্রিয়া আলাদা। কেন? উত্তর পেতে হলে বুঝতে হবে কোম্পানির রেজাল্ট কীভাবে পড়তে হয়।",
+   "## রেজাল্টের তিনটি সংখ্যা",
+   "প্রতি কোয়ার্টারে কোম্পানি তিনটি জিনিস জানায়: রাজস্ব (revenue), মুনাফা (সাধারণত EPS, মানে প্রতি শেয়ারের আয়) এবং ভবিষ্যৎ পূর্বাভাস (guidance)। AMD-র উদাহরণ নাও। তাদের তৃতীয় কোয়ার্টারের রাজস্ব $13.4 বিলিয়ন, আগের বছরের চেয়ে 45% বেশি। Adjusted EPS $2.09, বিশ্লেষকদের প্রত্যাশা ছিল $1.94। অর্থাৎ কোম্পানি প্রত্যাশা ছাড়িয়েছে।",
+   "## প্রত্যাশা ছাড়ানোই আসল কথা",
+   "শেয়ারবাজার ভবিষ্যৎ নিয়ে চলে। বিশ্লেষকরা আগে থেকে একটা গড় অনুমান (consensus) করে রাখেন, আর শেয়ারের দামে সেই অনুমান আগেই ঢুকে থাকে। তাই শুধু ভালো ফল যথেষ্ট নয়, অনুমানের চেয়ে ভালো ফল দরকার। AMD এই কাজটাই করেছে, উপরন্তু পরের কোয়ার্টারে প্রায় $17 বিলিয়ন রাজস্বের পূর্বাভাস দিয়েছে। এই guidance-ই অনেক সময় রেজাল্টের চেয়ে বড় খবর, কারণ শেয়ারের মূল্য আজকের নয়, আগামী দিনের আয়ের ওপর দাঁড়িয়ে।",
+   "## বৃদ্ধির মান যাচাই করো",
+   "Palantir-এর রাজস্ব 96% বেড়েছে, চমকে দেওয়ার মতো। কিন্তু এক বিশ্লেষণ বলছে, তাদের মোট চুক্তির মূল্য (total contract value) বেড়েছে মাত্র 6%। চুক্তির মূল্য হলো ভবিষ্যতের রাজস্বের অগ্রিম ইঙ্গিত। যদি সেটা ধীরে বাড়ে, তাহলে আজকের দ্রুত রাজস্ব বৃদ্ধি কতদিন টিকবে, সে প্রশ্ন ওঠে। তাই বিশ্লেষক শুধু headline growth দেখেন না, তার পেছনের ভিত্তিও দেখেন।",
+   "## Dilution: Marvell কেন পড়ল?",
+   "Marvell Lumentum-কে কিনছে সম্পূর্ণ শেয়ারের বিনিময়ে (all-stock)। প্রতিটি Lumentum শেয়ারের বদলে Marvell দেবে 4.500টি নিজের শেয়ার। এত নতুন শেয়ার বাজারে এলে পুরনো শেয়ারহোল্ডারের মালিকানার অংশ ছোট হয়ে যায়, একে dilution বলে। তার ওপর TD Cowen রেটিং Hold-এ নামিয়েছে। ফলে ঘোষণার দিন শেয়ার প্রায় 13% পড়েছে। অর্থাৎ বাজার বলছে, দাম বেশি হয়ে গেছে, আর integration-এর ঝুঁকিও আছে।",
+   "## ম্যাক্রো পটভূমি ভুলো না",
+   "এই সবকিছু ঘটছে এমন সময়ে, যখন US-এর মুদ্রাস্ফীতি সেপ্টেম্বরে 3.7%, Fed-এর দুজন সদস্য সুদ বাড়ানোর পক্ষে ভোট দিয়েছেন, আর ইউরোজোনে মুদ্রাস্ফীতি 3.8%। সুদ বাড়লে ভবিষ্যতের আয়ের বর্তমান মূল্য (present value) কমে, তাই বেশি দামের growth শেয়ার সবচেয়ে বেশি চাপে পড়ে। আজ তেলের দাম কিছুটা নামায় বাজারে স্বস্তি এসেছে, কিন্তু আলোচনা ভেঙে গেলে সেটা উল্টে যেতে পারে।",
+   "## উদাহরণ: সংখ্যা মিলিয়ে দেখো",
+   "ধরো, একটি কোম্পানির রাজস্ব এক বছরে $100 থেকে $145 হলো, মানে 45% বৃদ্ধি। কিন্তু প্রত্যাশা ছিল $150। তাহলে 45% বৃদ্ধি সত্ত্বেও শেয়ার পড়তে পারে। উল্টো দিকে, প্রত্যাশা $130 হলে একই ফলে শেয়ার লাফাবে। তাই বাজারের প্রতিক্রিয়া বুঝতে চাইলে শুধু বৃদ্ধির হার নয়, প্রত্যাশার সঙ্গে ফলের ফারাক (earnings surprise) দেখতে হয়। AMD-র ক্ষেত্রে $2.09 বনাম $1.94 এই ফারাকই তৈরি করেছে।",
+   "## Revenue mix কেন গুরুত্বপূর্ণ",
+   "AMD-র মোট রাজস্ব বেড়েছে, কিন্তু গেমিং ব্যবসা 40% কমেছে। তার মানে বৃদ্ধির পুরো ভারটা এসেছে Data Center থেকে, যা এখন রাজস্বের 64%। একটি ব্যবসার ওপর এত নির্ভরতা বাড়লে সেই বাজারে মন্দা এলে পুরো কোম্পানি ঝুঁকিতে পড়ে। এটাই concentration risk। রেজাল্ট পড়ার সময় তাই segment-wise হিসাব দেখা জরুরি।",
+   "## BBA স্টুডেন্টের জন্য ব্যবহারিক শিক্ষা",
+   "পরের বার কোনো কোম্পানির রেজাল্ট পড়লে চারটি প্রশ্ন করো। এক, রাজস্ব আর EPS কি প্রত্যাশার চেয়ে ভালো? দুই, guidance কী বলছে? তিন, বৃদ্ধিটা কি টেকসই, অর্থাৎ contract value, গ্রাহক বা ক্যাশফ্লো কি সমান তালে বাড়ছে? চার, দাম এখন কত, অর্থাৎ ভালো খবর কি আগেই শেয়ারের দামে ঢুকে গেছে? Interview বা case competition-এ এই চার ধাপে উত্তর সাজালে তোমার বিশ্লেষণ আলাদা করে চোখে পড়বে।"
+  ],
+  "takeaways": [
+   "শুধু ভালো ফল নয়, বিশ্লেষকদের প্রত্যাশার চেয়ে ভালো ফল আর জোরালো guidance শেয়ারের দাম বাড়ায়।",
+   "রাজস্ব বৃদ্ধির সঙ্গে contract value বা ক্যাশফ্লো কেমন বাড়ছে তাও দেখো, নইলে বৃদ্ধি টেকসই কি না বোঝা যায় না।",
+   "Dilution আর বেশি দামের কারণে ক্রেতা কোম্পানির শেয়ার M&A-তে পড়তে পারে।"
+  ]
+ },
+ "quiz": [
+  {
+   "q": "AMD-র তৃতীয় কোয়ার্টারে Data Center ব্যবসা মোট রাজস্বের কত শতাংশ ছিল?",
+   "options": [
+    "45%",
+    "54%",
+    "64%",
+    "96%"
+   ],
+   "answer": 2,
+   "explain": "Data Center রাজস্ব $8.55 বিলিয়ন, যা মোট রাজস্বের 64%। 45% হলো মোট রাজস্বের বার্ষিক বৃদ্ধি।"
+  },
+  {
+   "q": "কোম্পানি নতুন শেয়ার ইস্যু করলে পুরনো শেয়ারহোল্ডারের মালিকানার অংশ কমে যাওয়াকে কী বলে?",
+   "options": [
+    "Dilution",
+    "Synergy",
+    "Arbitrage",
+    "Inflation"
+   ],
+   "answer": 0,
+   "explain": "নতুন শেয়ার ইস্যুতে মোট শেয়ার বাড়ে, ফলে পুরনো শেয়ারহোল্ডারের অংশ ছোট হয়। একে dilution বলে।"
+  },
+  {
+   "q": "Palantir-এর কোন সংখ্যাটি রাজস্ব বৃদ্ধির টেকসই হওয়া নিয়ে প্রশ্ন তোলে?",
+   "options": [
+    "Revenue 96% বৃদ্ধি",
+    "US commercial 148% বৃদ্ধি",
+    "Guidance বাড়ানো",
+    "Total contract value মাত্র 6% বৃদ্ধি"
+   ],
+   "answer": 3,
+   "explain": "রাজস্ব 96% বাড়লেও contract value বেড়েছে মাত্র 6%, যা ভবিষ্যৎ বৃদ্ধি নিয়ে প্রশ্ন তোলে।"
+  },
+  {
+   "q": "Brent crude সোমবার-মঙ্গলবারের সেশনে প্রায় কত ডলারে সেটেল করেছে (Reuters অনুযায়ী)?",
+   "options": [
+    "$96.09",
+    "$103.60",
+    "$115",
+    "$94.67"
+   ],
+   "answer": 1,
+   "explain": "Reuters অনুযায়ী Brent $103.60-এ সেটেল করেছে। $96.09 হলো WTI-এর দাম।"
+  },
+  {
+   "q": "Fed সুদ অপরিবর্তিত রাখলেও Lisa Cook ও Beth Hammack কী চেয়েছিলেন?",
+   "options": [
+    "সুদ কমানো",
+    "সুদ অপরিবর্তিত রাখা",
+    "সুদ সিকি শতাংশ বাড়ানো",
+    "আর্থিক নীতি বন্ধ করা"
+   ],
+   "answer": 2,
+   "explain": "তাঁরা দুজন সিদ্ধান্তের বিরুদ্ধে গিয়ে সুদ সিকি শতাংশ বাড়ানোর পক্ষে ভোট দিয়েছেন।"
+  }
+ ],
+ "caseStudy": {
+  "week": "2026-W45",
+  "weekLabel": "২ – ৮ নভেম্বর ২০২৬",
+  "company": "Reliance Jio",
+  "title": "Reliance Jio: ফ্রি ডেটা দিয়ে কীভাবে গোটা টেলিকম বাজার বদলে দিল",
+  "concept": "Penetration Pricing",
+  "intro": "আজ Reliance-এর শেয়ার 12% বেড়েছে, আর এই গ্রুপের সবচেয়ে বড় সাফল্যের গল্পগুলোর একটা হলো Jio। 2016-র আগে ভারতে মোবাইল ডেটা ছিল দামি, আর বাজারে ছিল ডজনখানেক কোম্পানি। কয়েক বছরের মধ্যে ছবিটা পুরো বদলে যায়।",
+  "sections": [
+   {
+    "h": "কী করেছিল",
+    "p": "সেপ্টেম্বর 2016-তে Jio লঞ্চ হয় এক অবিশ্বাস্য অফার দিয়ে: কয়েক মাস ফ্রি ডেটা আর ফ্রি কল। এরপরেও তাদের প্ল্যানের দাম ছিল বাজারের চেয়ে অনেক কম। শুরু থেকেই 4G-only নেটওয়ার্ক বানানোয় পুরনো 2G/3G-র বোঝা তাদের ছিল না।"
+   },
+   {
+    "h": "ফলাফল",
+    "p": "মাত্র ছয় মাসের মধ্যে Jio-র গ্রাহক 10 কোটি ছাড়িয়ে যায়। ভারতে ডেটার দাম পৃথিবীর সবচেয়ে সস্তাগুলোর মধ্যে চলে আসে, আর ডেটা ব্যবহার কয়েক গুণ বেড়ে যায়। পুরনো কোম্পানিগুলো দাম কমাতে বাধ্য হয়। অনেকে বাজার ছেড়ে চলে যায়, Vodafone আর Idea এক হয়ে যায়। কয়েক বছরের মধ্যে Jio গ্রাহকের সংখ্যায় দেশের এক নম্বর টেলিকম কোম্পানি হয়ে ওঠে।"
+   },
+   {
+    "h": "কেন কাজ করল",
+    "p": "Reliance-এর কাছে লম্বা সময় লোকসান সহ্য করার মতো বিশাল মূলধন ছিল। টেলিকমে network effect কাজ করে: যত বেশি মানুষ, তত বেশি মূল্য। আর ডেটার চাহিদা দামের প্রতি খুব সংবেদনশীল (price elastic), তাই দাম কমতেই ব্যবহার বিস্ফোরণের মতো বেড়ে যায়।"
+   },
+   {
+    "h": "ঝুঁকি আর সমালোচনা",
+    "p": "এই কৌশলে হাজার হাজার কোটি টাকার বিনিয়োগ লাগে। প্রতিযোগীরা একে predatory pricing বলে অভিযোগ করেছিল। বাজারে কোম্পানি কমে গেলে ভবিষ্যতে গ্রাহকের বাছাইয়ের সুযোগও কমে যায়। পরে Jio নিজেও ধাপে ধাপে দাম বাড়িয়েছে।"
+   }
+  ],
+  "lesson": "Penetration pricing মানে শুরুতে খুব কম দামে ঢুকে দ্রুত বাজারের বড় ভাগ দখল করা, তারপর ধীরে ধীরে দাম বাড়ানো। এটা তখনই কাজ করে যখন কোম্পানির পকেট গভীর, চাহিদা দামের প্রতি সংবেদনশীল আর গ্রাহক একবার এলে সহজে ছেড়ে যায় না।",
+  "question": "ভাবো: ভারতের quick-commerce বাজারে (Blinkit, Zepto, Instamart) কি একই কৌশল চলছে? কারা টিকে থাকবে বলে তোমার মনে হয়?"
+ },
+ "en": {
+  "dateLabel": "Wednesday, 4 November 2026",
+  "news": [
+   {
+    "id": "n1",
+    "category": "Earnings",
+    "title": "AMD revenue jumps 45% to $13.4 billion, guides about $17 billion for next quarter",
+    "summary": "Chipmaker AMD reported third-quarter revenue of $13.4 billion, up 45% from a year earlier. Adjusted EPS was $2.09 against analyst expectations of $1.94. The Data Center business nearly doubled to $8.55 billion, which is 64% of total revenue, while gaming fell 40%. The company guided fourth-quarter revenue to about $17 billion, and shares rose roughly 6-8% in after-hours trading.",
+    "why": "A clear example of how earnings, guidance and revenue mix move a share price. Results better than analyst consensus plus strong guidance usually make a stock jump.",
+    "source": {
+     "name": "SEC filing (AMD 8-K)",
+     "url": "https://www.sec.gov/Archives/edgar/data/0000002488/000000248826000188/q32026991.htm"
+    }
+   },
+   {
+    "id": "n2",
+    "category": "Earnings",
+    "title": "Palantir revenue up 96% to $2.31 billion, full-year guidance raised",
+    "summary": "Palantir's third-quarter revenue was $2.313 billion, up 96% year on year, and the first quarter above $2 billion. US commercial revenue rose 148% to $984 million and for the first time exceeded US government revenue. The company raised its 2026 revenue guidance to about $8.53 billion (91% growth). One analysis noted, however, that total contract value grew only 6%, far slower than revenue.",
+    "why": "Growth and sustainability are different things. If revenue surges but contract value grows slowly, questions arise about future growth. Financial analysis means reading both together.",
+    "source": {
+     "name": "Palantir press release (SEC 8-K)",
+     "url": "https://www.sec.gov/Archives/edgar/data/0001321655/000132165526000045/a2026q3ex991pressrelease.htm"
+    }
+   },
+   {
+    "id": "n3",
+    "category": "Commodities",
+    "title": "Brent falls to $103.60 on Iran talk hopes, near a four-week low",
+    "summary": "Reuters reported that Brent crude settled at $103.60 a barrel and WTI at $96.09, both near four-week lows, as traders weighed talks to end the wars in Ukraine and Iran. An Iranian official told Reuters a deal is still far off, and mediator Qatar said both sides are reviewing proposals. Overnight, US strikes on Iran's Qeshm Island were also reported.",
+    "why": "Oil is a classic supply-shock example. Lower prices ease inflation and India's import bill, but diplomacy headlines can reverse prices in a day, and that is the risk.",
+    "source": {
+     "name": "Reuters via Yahoo Finance",
+     "url": "https://finance.yahoo.com/energy/articles/oil-rises-report-us-strike-012715191.html"
+    }
+   },
+   {
+    "id": "n4",
+    "category": "India markets",
+    "title": "Sensex up for a fourth day: jumps 1,225 points to 76,917.85",
+    "summary": "On Tuesday the Sensex rose 1,225.07 points (1.62%) to close at 76,917.85 and the Nifty 50 gained 370.05 points (1.58%) to 23,810.85. The Nifty FMCG index rose 3% and led the gains, with Realty and Private Bank stocks also higher. Market reports cited easing crude oil, buzz around a possible LTCG tax rejig and continued foreign buying. Nifty PSU Bank fell the most.",
+    "why": "Oil prices, foreign investment and tax policy together drive the stock market. Investment Analysis exams often ask about these macro factors.",
+    "source": {
+     "name": "Business Standard",
+     "url": "https://www.business-standard.com/markets/news/stock-market-live-november-3-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-q2-results-ipo-today-126110300101_1.html"
+    }
+   },
+   {
+    "id": "n5",
+    "category": "Policy & tax",
+    "title": "Recommendation to scrap LTCG tax for foreign investors to win back inflows",
+    "summary": "Reuters reported that SEBI has recommended scrapping long-term capital gains (LTCG) tax for foreign portfolio investors (FPIs). Finance Minister Nirmala Sitharaman said in October she was open to suggestions. One report puts cumulative FPI outflows from Indian equities in 2026 at about ₹2.95 trillion by the end of October. Analysts say scrapping the tax alone may not bring money back, but it would be a positive signal. It is a recommendation, not yet a decision.",
+    "why": "An example of how fiscal policy and capital flows connect. A tax cut can attract investment but reduces government revenue, and that trade-off is a classic GD topic.",
+    "source": {
+     "name": "Business Today",
+     "url": "https://www.businesstoday.in/markets/story/bt-big-story-can-scrapping-ltcg-tax-bring-foreign-investors-back-to-indian-equities-565479-2026-11-03"
+    }
+   },
+   {
+    "id": "n6",
+    "category": "Europe",
+    "title": "Euro-area inflation was 3.8% in September, with wide gaps between countries",
+    "summary": "Eurostat put euro-area annual inflation at 3.8% in September, up from 3.2% in August and the highest since September 2023. October readings differ by country: Germany 2.8% (lowered by a temporary fuel tax cut), France 3.4%, Spain 4.9% and Italy 5.4%. The euro-area flash estimate for October is due today, 4 November.",
+    "why": "When inflation differs inside a currency union, one ECB interest rate cannot suit every country. That is a major challenge of monetary union.",
+    "source": {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/10/30/germany-france-italy-and-spain-where-was-inflation-highest-in-october"
+    }
+   },
+   {
+    "id": "n7",
+    "category": "Central banks",
+    "title": "Fed holds rates, but two officials voted to hike",
+    "summary": "The US Federal Reserve kept interest rates unchanged in late October. US inflation rose from 3.4% in August to 3.7% in September. Governor Lisa Cook and Cleveland Fed President Beth Hammack dissented, voting for a quarter-point hike. Some analysts expect a rate increase at the December meeting.",
+    "why": "The core logic of monetary policy: when inflation stays high, central banks raise rates. The Fed's decisions also affect the dollar, Indian stocks and the rupee.",
+    "source": {
+     "name": "NBC News",
+     "url": "https://www.nbcnews.com/business/economy/fed-rates-inflation-warsh-midterms-rcna606154"
+    }
+   },
+   {
+    "id": "n8",
+    "category": "M&A",
+    "title": "Marvell fell about 13% when the $115 billion Lumentum deal was announced",
+    "summary": "In the all-stock deal, Lumentum holders get 4.500 Marvell shares for each Lumentum share. Marvell's stock dropped about 13% on the announcement because new shares dilute existing holders, and TD Cowen cut its rating to Hold. Shares edged higher on Tuesday, which some read as an oversold bounce. The deal is expected to close in the first half of 2028, subject to shareholder and regulatory approvals.",
+    "why": "Why does a buyer's stock often fall in M&A? High price, dilution and integration risk. We read about the deal yesterday; today you can see the market's reaction.",
+    "source": {
+     "name": "Motley Fool",
+     "url": "https://www.fool.com/coverage/stock-market-today/2026/11/03/stock-market-today-nov-3-marvell-shares-edge-higher-after-premarket-drop-on-usd115-billion-lumentum-deal/"
+    }
+   }
+  ],
+  "market": {
+   "asOf": "Tuesday, 3 November 2026 close",
+   "items": [
+    {
+     "name": "S&P 500",
+     "region": "US",
+     "value": "7,568.92",
+     "change": "+0.36%",
+     "dir": "up"
+    },
+    {
+     "name": "Dow Jones",
+     "region": "US",
+     "value": "51,786.72",
+     "change": "-0.38%",
+     "dir": "down"
+    },
+    {
+     "name": "Nasdaq",
+     "region": "US",
+     "value": "25,372.01",
+     "change": "+0.83%",
+     "dir": "up"
+    },
+    {
+     "name": "Sensex",
+     "region": "India",
+     "value": "76,917.85",
+     "change": "+1.62%",
+     "dir": "up"
+    },
+    {
+     "name": "Nifty 50",
+     "region": "India",
+     "value": "23,810.85",
+     "change": "+1.58%",
+     "dir": "up"
+    },
+    {
+     "name": "Brent Crude",
+     "region": "$ per barrel",
+     "value": "103.60",
+     "change": "",
+     "dir": "flat"
+    },
+    {
+     "name": "Gold",
+     "region": "$ per ounce",
+     "value": "3,931.68",
+     "change": "-0.39%",
+     "dir": "down"
+    },
+    {
+     "name": "USD/INR",
+     "region": "₹ per dollar",
+     "value": "94.67",
+     "change": "Rupee stronger by 23 paise",
+     "dir": "up"
+    }
+   ]
+  },
+  "term": {
+   "term": "Dilution",
+   "bangla": "Ownership shrinking as new shares are issued",
+   "definition": "When a company issues new shares, the total number of shares rises, so an existing shareholder's ownership percentage (and earnings per share, EPS) falls. It happens when a company pays for an acquisition with shares, raises funds, or grants employee stock options.",
+   "example": "In the Marvell-Lumentum deal, Marvell will issue 4.500 new shares for every Lumentum share. Fear of dilution from this huge issue was a reason Marvell fell about 13% on the day of the announcement.",
+   "formula": "Ownership % = Your shares ÷ (Old total shares + New shares issued) × 100",
+   "tip": "Interview tip: dilution is not always bad. If the money raised from new shares makes total earnings grow faster than the share count, existing shareholders still gain."
+  },
+  "gd": {
+   "topic": "Are record revenues at AI chip companies sustainable growth or a bubble?",
+   "context": "AMD's revenue grew 45% and Palantir's 96%, yet Palantir's total contract value grew only 6%. Will this growth last?",
+   "for": [
+    "AI data-centre demand is so strong that AMD's Data Center business nearly doubled and it guided about $17 billion for next quarter.",
+    "Palantir's US commercial revenue rose 148%, which means private companies are really spending.",
+    "Both companies raised guidance, so management itself is confident."
+   ],
+   "against": [
+    "Palantir's contract value grew only 6%, so future growth may not be as strong as revenue.",
+    "Some compare the price of the Marvell-Lumentum deal to the dot-com bubble.",
+    "If inflation and interest rates keep rising, richly valued shares can come under pressure."
+   ]
+  },
+  "blog": {
+   "title": "How to read a company result: lessons from AMD, Palantir and Marvell",
+   "topic": "Financial Analysis",
+   "readMin": 5,
+   "body": [
+    "Today's news puts two pictures side by side. On one side, glittering results from AMD and Palantir; on the other, Marvell's shares falling. The same AI boom, yet different market reactions. Why? To answer, you need to know how to read a company's results.",
+    "## The three numbers in a result",
+    "Every quarter a company reports three things: revenue, profit (usually EPS, earnings per share) and a forward outlook (guidance). Take AMD. Third-quarter revenue was $13.4 billion, up 45% from a year earlier. Adjusted EPS was $2.09 against analyst expectations of $1.94. So the company beat expectations.",
+    "## Beating expectations is the real point",
+    "The stock market runs on the future. Analysts form an average estimate (the consensus) in advance, and the share price already contains it. So good results are not enough; results better than the estimate are needed. AMD did that, and also guided about $17 billion revenue for the next quarter. Guidance is often bigger news than the results themselves, because a share price rests on tomorrow's earnings, not today's.",
+    "## Check the quality of growth",
+    "Palantir's revenue grew 96%, which is striking. But one analysis says its total contract value grew only 6%. Contract value is an advance hint of future revenue. If it grows slowly, the question is how long today's fast revenue growth can last. So an analyst does not look only at headline growth, but also at the foundation underneath.",
+    "## Dilution: why did Marvell fall?",
+    "Marvell is buying Lumentum entirely with shares (all-stock). For each Lumentum share, Marvell will give 4.500 of its own shares. When so many new shares enter the market, existing shareholders' ownership slice shrinks; this is called dilution. On top of that, TD Cowen cut its rating to Hold. So the stock fell about 13% on the announcement. The market is saying the price is too high and integration carries risk.",
+    "## Don't forget the macro backdrop",
+    "All this is happening while US inflation is 3.7% for September, two Fed members voted to hike rates, and euro-area inflation is 3.8%. When rates rise, the present value of future earnings falls, so richly priced growth stocks come under the most pressure. Today a dip in oil prices gave relief, but it could reverse if the talks collapse.",
+    "## Example: check the numbers against expectations",
+    "Suppose a company's revenue went from $100 to $145 in a year, a 45% rise. But the expectation was $150. Then the stock can fall despite 45% growth. Conversely, if the expectation was $130, the same result makes it jump. So to understand a market reaction, look not only at the growth rate but at the gap between result and expectation (the earnings surprise). For AMD, $2.09 versus $1.94 created that gap.",
+    "## Why the revenue mix matters",
+    "AMD's total revenue grew, but its gaming business fell 40%. That means all the growth came from Data Center, now 64% of revenue. When dependence on one business rises, a slump in that market puts the whole company at risk. This is concentration risk. So when reading results, always check the segment-wise numbers.",
+    "## A practical lesson for BBA students",
+    "Next time you read a company's results, ask four questions. One, are revenue and EPS better than expected? Two, what does guidance say? Three, is the growth sustainable, meaning are contract value, customers or cash flow growing at the same pace? Four, what is the price now, meaning has the good news already been priced in? If you structure your answer in these four steps in an interview or case competition, your analysis will stand out."
+   ],
+   "takeaways": [
+    "Not just good results: results better than analysts' expectations plus strong guidance push a share price up.",
+    "Check how contract value or cash flow is growing alongside revenue, otherwise you cannot tell whether growth is sustainable.",
+    "Dilution and a high price can make the buyer's shares fall in an M&A deal."
+   ]
+  },
+  "quiz": [
+   {
+    "q": "What share of AMD's total revenue did the Data Center business make in the third quarter?",
+    "options": [
+     "45%",
+     "54%",
+     "64%",
+     "96%"
+    ],
+    "answer": 2,
+    "explain": "Data Center revenue was $8.55 billion, which is 64% of total revenue. The 45% figure is total revenue's annual growth."
+   },
+   {
+    "q": "What is it called when new share issuance reduces existing shareholders' ownership percentage?",
+    "options": [
+     "Dilution",
+     "Synergy",
+     "Arbitrage",
+     "Inflation"
+    ],
+    "answer": 0,
+    "explain": "New shares raise the total share count, so existing holders' slice gets smaller. That is dilution."
+   },
+   {
+    "q": "Which Palantir number raises questions about how sustainable its revenue growth is?",
+    "options": [
+     "Revenue up 96%",
+     "US commercial up 148%",
+     "Raised guidance",
+     "Total contract value up only 6%"
+    ],
+    "answer": 3,
+    "explain": "Revenue grew 96% but contract value only 6%, which raises doubts about future growth."
+   },
+   {
+    "q": "At roughly what price did Brent crude settle (per Reuters)?",
+    "options": [
+     "$96.09",
+     "$103.60",
+     "$115",
+     "$94.67"
+    ],
+    "answer": 1,
+    "explain": "Per Reuters, Brent settled at $103.60. $96.09 is the WTI price."
+   },
+   {
+    "q": "The Fed held rates, but what did Lisa Cook and Beth Hammack want?",
+    "options": [
+     "A rate cut",
+     "Rates unchanged",
+     "A quarter-point hike",
+     "To end monetary policy"
+    ],
+    "answer": 2,
+    "explain": "They dissented and voted for a quarter-point rate hike."
+   }
+  ],
+  "caseStudy": {
+   "week": "2026-W45",
+   "weekLabel": "2 – 8 November 2026",
+   "company": "Reliance Jio",
+   "title": "Reliance Jio: how free data changed the whole telecom market",
+   "concept": "Penetration Pricing",
+   "intro": "Reliance shares rose 12% today, and one of the group's biggest success stories is Jio. Before 2016, mobile data in India was expensive and the market had a dozen companies. Within a few years the picture had changed completely.",
+   "sections": [
+    {
+     "h": "What it did",
+     "p": "Jio launched in September 2016 with an unbelievable offer: free data and free calls for several months. Even after that, its plans cost far less than the market. Because it built a 4G-only network from the start, it carried none of the old 2G/3G baggage."
+    },
+    {
+     "h": "The result",
+     "p": "Within just six months Jio crossed 100 million customers. Data prices in India became among the cheapest in the world, and data use grew many times over. Older companies were forced to cut prices. Many left the market, and Vodafone and Idea merged. Within a few years Jio became India's number one telecom company by subscribers."
+    },
+    {
+     "h": "Why it worked",
+     "p": "Reliance had huge capital to bear losses for a long time. Telecom has network effects: the more people, the more value. And demand for data is very price elastic, so usage exploded as soon as prices fell."
+    },
+    {
+     "h": "Risks and criticism",
+     "p": "The strategy needed tens of thousands of crores in investment. Rivals accused it of predatory pricing. With fewer companies left, customers may have less choice in future. Jio itself later raised prices step by step."
+    }
+   ],
+   "lesson": "Penetration pricing means entering at a very low price to win a large market share quickly, then raising prices slowly. It works when the company has deep pockets, demand is price sensitive and customers rarely leave once they join.",
+   "question": "Think: is the same strategy playing out in India's quick-commerce market (Blinkit, Zepto, Instamart)? Who do you think will survive?"
+  }
+ }
+}

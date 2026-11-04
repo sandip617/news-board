@@ -1,12 +1,19 @@
 {
-  "latest": "2026-11-03",
-  "days": [
-    {
-      "date": "2026-11-03",
-      "label": "৩ নভেম্বর ২০২৬, মঙ্গলবার",
-      "headline": "$115 বিলিয়নের চুক্তিতে Lumentum কিনছে Marvell",
-      "labelEn": "Tuesday, 3 November 2026",
-      "headlineEn": "Marvell to buy Lumentum in a $115 billion deal"
-    }
-  ]
+ "latest": "2026-11-04",
+ "days": [
+  {
+   "date": "2026-11-04",
+   "label": "৪ নভেম্বর ২০২৬, বুধবার",
+   "labelEn": "Wednesday, 4 November 2026",
+   "headline": "AMD-র রাজস্ব 45% বেড়ে $13.4 বিলিয়ন, পরের কোয়ার্টারে প্রায় $17 বিলিয়নের পূর্বাভাস",
+   "headlineEn": "AMD revenue jumps 45% to $13.4 billion, guides about $17 billion next quarter"
+  },
+  {
+   "date": "2026-11-03",
+   "label": "৩ নভেম্বর ২০২৬, মঙ্গলবার",
+   "headline": "$115 বিলিয়নের চুক্তিতে Lumentum কিনছে Marvell",
+   "labelEn": "Tuesday, 3 November 2026",
+   "headlineEn": "Marvell to buy Lumentum in a $115 billion deal"
+  }
+ ]
 }
