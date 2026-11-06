@@ -1,0 +1,583 @@
+{
+ "date": "2026-11-05",
+ "dateLabel": "৫ নভেম্বর ২০২৬, বৃহস্পতিবার",
+ "edition": 1,
+ "updatedAt": "2026-11-05T07:00:00+05:30",
+ "news": [
+  {
+   "id": "n1",
+   "category": "মার্কিন বাজার",
+   "title": "মধ্যবর্তী নির্বাচনে ডেমোক্র্যাটদের জয়ের পর Dow 3% লাফিয়ে 53,356-এ",
+   "summary": "মার্কিন মধ্যবর্তী নির্বাচনের ফলে ডেমোক্র্যাটরা কংগ্রেসের দুই কক্ষেই নিয়ন্ত্রণ নিয়েছে, আর বিনিয়োগকারীরা এতে নীতিগত অচলাবস্থার (gridlock) সম্ভাবনা দেখছেন। বুধবার Dow Jones 1,569.40 পয়েন্ট বা 3.03% বেড়ে 53,356.12-এ বন্ধ হয়েছে, যা CNBC-র হিসাবে এপ্রিল 2025-এর পর সবচেয়ে ভালো দিন। S&P 500 1.58% বেড়ে 7,688.62 এবং Nasdaq 1.44% বেড়ে 25,736.51 হয়েছে। তেলের দাম কমায় শক্তি (energy) কোম্পানির শেয়ার চাপে ছিল।",
+   "why": "নির্বাচনের মতো রাজনৈতিক ঘটনা কীভাবে অনিশ্চয়তা (uncertainty) কমিয়ে শেয়ারের দাম আর risk premium বদলে দেয়, এটা Investments আর Financial Markets-এর মূল পাঠ।",
+   "source": {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/03/stock-market-today-live-updates.html"
+   }
+  },
+  {
+   "id": "n2",
+   "category": "জ্বালানি",
+   "title": "নির্বাচনের পর Brent প্রায় 8.7% পড়ে $94.62, ইরান চুক্তির আশায় তেলে ধস",
+   "summary": "বুধবার Brent crude প্রায় 8.7% কমে $94.62 প্রতি ব্যারেলে সেটল হয়েছে, আর US WTI 8.3% কমে $88.12 হয়েছে। বিশ্লেষকদের মতে, ডেমোক্র্যাটদের কংগ্রেস নিয়ন্ত্রণ মধ্যপ্রাচ্যে সামরিক অভিযানের খরচ সীমিত করতে পারে, ফলে ইরানের সঙ্গে কূটনৈতিক সমাধানের সম্ভাবনা বেড়েছে। উপরাষ্ট্রপতি Vance বলেছেন, যুদ্ধই রিপাবলিকানদের হারের কারণ। এর আগে অক্টোবরে উত্তেজনার আশঙ্কায় তেল 10%-এর বেশি বেড়েছিল।",
+   "why": "Supply shock আর geopolitical risk premium কীভাবে দাম ঠিক করে, তা Microeconomics-এর demand-supply আর Operations-এর cost planning-এ কাজে লাগে।",
+   "source": {
+    "name": "CNBC",
+    "url": "https://cnbc.com/2026/11/04/oil-price-iran-war-us-election-strait-hormuz.html"
+   }
+  },
+  {
+   "id": "n3",
+   "category": "কেন্দ্রীয় ব্যাংক",
+   "title": "Fed ডিসেম্বরে সুদ বাড়াতে পারে, নির্বাচনের পর সম্ভাবনা আরও বেড়েছে",
+   "summary": "অক্টোবরের শেষে Fed সুদের হার অপরিবর্তিত রাখে, তবে দুজন কর্মকর্তা হার বাড়ানোর পক্ষে ভিন্নমত (dissent) দেন। সংবাদ সূত্রগুলোর হিসাবে, নির্বাচনের আগেই ডিসেম্বরে 0.25 শতাংশ পয়েন্ট বাড়ার সম্ভাবনা ছিল প্রায় 75%, নির্বাচনের পর তা আরও বেড়ে প্রায় 77-83% হয়েছে (সূত্রভেদে কিছুটা তফাত)। একই সময়ে বিভক্ত সরকারের আশায় মার্কিন Treasury yield কমেছে।",
+   "why": "Monetary policy, interest rate আর bond yield-এর সম্পর্ক বোঝার সবচেয়ে সরাসরি উদাহরণ। সুদ বাড়লে ধার নেওয়ার খরচ আর শেয়ারের মূল্যায়ন দুটোই বদলায়।",
+   "source": {
+    "name": "CNN",
+    "url": "https://www.cnn.com/2026/10/28/business/live-news/federal-reserve-interest-rate-october"
+   }
+  },
+  {
+   "id": "n4",
+   "category": "কমোডিটি",
+   "title": "ডলার দুর্বল হওয়ায় সোনা প্রায় 3% বেড়ে $4,040-এর কাছে",
+   "summary": "ডেমোক্র্যাটদের জয়ের পর ডলার এক মাসের বেশি সময়ের সর্বনিম্নে নামে এবং Treasury yield কমে। এর ফলে spot gold প্রায় 2.9% বেড়ে প্রতি আউন্স $4,040-এর কাছাকাছি পৌঁছায় (Kitco-র প্রতিবেদনে মার্কিন সকালের লেনদেনের দাম)। রুপো 4-5% বেড়ে প্রায় $52 হয়েছে। 30 অক্টোবর সোনা নেমেছিল $3,869.85-এ, যা অক্টোবর 2025-এর পর সর্বনিম্ন।",
+   "why": "সোনা কোনো সুদ দেয় না, তাই yield কমলে সোনা ধরে রাখার opportunity cost কমে। আজকের শব্দ এই ধারণাই ব্যাখ্যা করে।",
+   "source": {
+    "name": "Kitco",
+    "url": "https://www.kitco.com/news/article/2026-11-04/gold-and-silver-surge-democratic-midterm-sweep-drives-dollar-yields-lower"
+   }
+  },
+  {
+   "id": "n5",
+   "category": "ফার্মা",
+   "title": "Novo Nordisk তৃতীয়বার পূর্বাভাস বাড়াল, Wegovy পিলের বিক্রি প্রত্যাশার ওপরে",
+   "summary": "Novo Nordisk-এর তৃতীয় কোয়ার্টারের বিক্রি হয়েছে 79.2 বিলিয়ন ডেনিশ ক্রোনার, constant exchange rate-এ আগের বছরের চেয়ে 4% বেশি। Wegovy পিলের বিক্রি 5.39 বিলিয়ন ক্রোনার (প্রায় $810 মিলিয়ন), যা বিশ্লেষকদের প্রত্যাশার চেয়ে বেশি। তবে আমেরিকায় ইনজেকশনের Wegovy-র বিক্রি 13% কমেছে। কোম্পানি এ বছর তৃতীয়বার পূর্বাভাস বাড়িয়ে বিক্রি ও অপারেটিং মুনাফার বৃদ্ধি -2% থেকে +2% ধরেছে। শেয়ার দিনের মাঝে প্রায় 3.4% বেড়েছিল।",
+   "why": "Product mix বদলালে (ইনজেকশন থেকে পিল) রাজস্ব আর guidance কীভাবে প্রভাবিত হয় তা Marketing আর Financial Analysis-এর ভালো উদাহরণ।",
+   "source": {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/04/novo-q3-earnings-wegovy-sales.html"
+   }
+  },
+  {
+   "id": "n6",
+   "category": "কোম্পানির রেজাল্ট",
+   "title": "Uber-এর gross bookings 20% বেড়ে $59.8 বিলিয়ন, কিন্তু রাজস্ব বৃদ্ধি 10%",
+   "summary": "Uber-এর তৃতীয় কোয়ার্টারে gross bookings হয়েছে $59.8 বিলিয়ন (20% বৃদ্ধি), মোট ট্রিপ 4.1 বিলিয়ন আর রাজস্ব $14.8 বিলিয়ন (10% বৃদ্ধি)। কোম্পানি জানিয়েছে, যুক্তরাজ্যে Mobility ব্যবসার মডেল বদলের কারণে রাজস্ব $1.1 বিলিয়ন কম দেখা গেছে। চতুর্থ কোয়ার্টারের জন্য gross bookings-এর পূর্বাভাস $63.25 থেকে $65.25 বিলিয়ন, অর্থাৎ 18-22% বৃদ্ধি।",
+   "why": "Gross bookings আর revenue আলাদা জিনিস। Platform business-এ কোন সংখ্যা কী বোঝায় তা Accounting আর Business Models-এ প্রশ্ন হয়ে আসে।",
+   "source": {
+    "name": "Uber Investor Relations",
+    "url": "https://investor.uber.com/news-events/news/press-release-details/2026/Uber-Announces-Results-for-Third-Quarter-2026/default.aspx"
+   }
+  },
+  {
+   "id": "n7",
+   "category": "টেক ফাইন্যান্স",
+   "title": "Meta $15 বিলিয়ন ডলার বন্ডের পর প্রথমবার ইউরো বন্ডে প্রায় €9 বিলিয়ন তুলল",
+   "summary": "AI খাতে বিপুল খরচ মেটাতে Meta মঙ্গলবার পাঁচ ভাগে $15 বিলিয়নের মার্কিন বন্ড বিক্রি করে, তারপর বুধবার জীবনের প্রথম ইউরো বন্ড ইস্যুতে প্রায় €9 বিলিয়ন তোলে (ছয়টি tranche, মেয়াদ 4 থেকে 38 বছর)। ইউরো বন্ডে অর্ডার এসেছিল রেকর্ড প্রায় €53 বিলিয়নের। গত শুক্রবার S&P Global Ratings কোম্পানির outlook AA- stable থেকে negative করেছে, কারণ মূলধনী ব্যয় বেশি আর free cash flow ঋণাত্মক।",
+   "why": "Equity না debt, কোন পথে টাকা তুলবে, এটা Corporate Finance-এর capital structure সিদ্ধান্ত। Credit rating কীভাবে ঋণের খরচ বদলায় সেটাও দেখা যায়।",
+   "source": {
+    "name": "Seoul Economic Daily",
+    "url": "https://en.sedaily.com/international/2026/11/05/meta-raises-104-billion-in-first-euro-bond-sale-amid-ai"
+   }
+  },
+  {
+   "id": "n8",
+   "category": "ভারতের বাজার",
+   "title": "টানা পঞ্চম দিন Sensex-Nifty ঊর্ধ্বমুখী, রুপি সামান্য শক্তিশালী 94.64-এ",
+   "summary": "বুধবার Sensex 383.55 পয়েন্ট বা 0.50% বেড়ে 77,301.40 এবং Nifty 50 149.75 পয়েন্ট বা 0.63% বেড়ে 23,960.60-এ বন্ধ হয়েছে। টানা পঞ্চম দিন বাজার বেড়েছে। Nifty Midcap 100 বেড়েছে 1.55% আর Smallcap 100 বেড়েছে 2%, অন্যদিকে IT সূচক 1%-এর বেশি কমেছে। একই দিনে রুপি ডলারপ্রতি 94.74 থেকে সামান্য শক্তিশালী হয়ে 94.64-এ বন্ধ হয়েছে (Reuters-ভিত্তিক হিসাব)।",
+   "why": "Market breadth, sectoral rotation আর exchange rate কীভাবে একসঙ্গে ভারতের বাজার ঠিক করে তা Indian Financial System-এর জন্য দরকারি।",
+   "source": {
+    "name": "Business Standard",
+    "url": "https://www.business-standard.com/amp/markets/news/stock-market-live-november-4-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-q2-results-ipo-today-126110400107_1.html"
+   }
+  }
+ ],
+ "market": {
+  "asOf": "৪ নভেম্বর ২০২৬, বুধবারের ক্লোজিং",
+  "items": [
+   {
+    "name": "S&P 500",
+    "region": "আমেরিকা",
+    "value": "7,688.62",
+    "change": "+1.58%",
+    "dir": "up"
+   },
+   {
+    "name": "Dow Jones",
+    "region": "আমেরিকা",
+    "value": "53,356.12",
+    "change": "+3.03%",
+    "dir": "up"
+   },
+   {
+    "name": "Nasdaq",
+    "region": "আমেরিকা",
+    "value": "25,736.51",
+    "change": "+1.44%",
+    "dir": "up"
+   },
+   {
+    "name": "Sensex",
+    "region": "ভারত",
+    "value": "77,301.40",
+    "change": "+0.50%",
+    "dir": "up"
+   },
+   {
+    "name": "Nifty 50",
+    "region": "ভারত",
+    "value": "23,960.60",
+    "change": "+0.63%",
+    "dir": "up"
+   },
+   {
+    "name": "Brent Crude",
+    "region": "$ প্রতি ব্যারেল",
+    "value": "94.62",
+    "change": "-8.7%",
+    "dir": "down"
+   },
+   {
+    "name": "Gold",
+    "region": "$ প্রতি আউন্স",
+    "value": "4,040",
+    "change": "+2.9%",
+    "dir": "up"
+   },
+   {
+    "name": "USD/INR",
+    "region": "₹ প্রতি ডলার",
+    "value": "94.64",
+    "change": "রুপি 10 পয়সা শক্তিশালী",
+    "dir": "up"
+   }
+  ]
+ },
+ "term": {
+  "term": "Opportunity Cost",
+  "bangla": "সুযোগ-ব্যয় (যা ছেড়ে দিলে তার মূল্য)",
+  "definition": "কোনো একটি বিকল্প বেছে নিলে সবচেয়ে ভালো যে বিকল্পটি ছেড়ে দিতে হয়, তার সম্ভাব্য লাভই হলো opportunity cost। এটা সরাসরি পকেট থেকে যাওয়া খরচ নয়, কিন্তু সিদ্ধান্তের আসল দাম।",
+  "example": "সোনা কোনো সুদ দেয় না। Treasury yield বেশি থাকলে সোনা রাখার মানে সেই সুদ ছেড়ে দেওয়া, তাই opportunity cost বেশি। আজ নির্বাচনের পর yield কমায় সোনা ধরে রাখার opportunity cost কমেছে, আর সোনার দাম প্রায় 2.9% বেড়ে $4,040-এর কাছে গেছে।",
+  "formula": "Opportunity Cost = ছেড়ে দেওয়া সেরা বিকল্পের প্রত্যাশিত লাভ − বেছে নেওয়া বিকল্পের প্রত্যাশিত লাভ",
+  "tip": "Interview-এ যেকোনো সিদ্ধান্ত (project, investment, hiring) ব্যাখ্যা করার সময় বলো: 'আমি শুধু খরচ দেখিনি, opportunity cost-ও দেখেছি।' এতে তোমার চিন্তা পরিণত শোনায়।"
+ },
+ "gd": {
+  "topic": "রাজনৈতিক অনিশ্চয়তা কমলে কি বাজার সবসময় বাড়ে? নির্বাচনের পর Dow-এর 3% লাফ থেকে কী শিখব?",
+  "context": "ডেমোক্র্যাটদের জয়ের পর Dow 3.03% বেড়েছে, তেল 8.7% পড়েছে, সোনা প্রায় 3% বেড়েছে, অথচ Fed-এর ডিসেম্বরে সুদ বাড়ার সম্ভাবনাও বেড়েছে।",
+  "for": [
+   "অনিশ্চয়তা কমলে বিনিয়োগকারীর চাওয়া risk premium কমে, তাই শেয়ারের দাম বাড়ে।",
+   "বিভক্ত সরকারে বড় আর্থিক নীতি পরিবর্তনের সম্ভাবনা কমে, ফলে ব্যবসার পরিকল্পনা সহজ হয়।",
+   "তেলের দাম কমলে খরচ আর মুদ্রাস্ফীতির চাপ কমে, যা সব শিল্পের জন্য ভালো।"
+  ],
+  "against": [
+   "বাজার আগেই খবর দামে ধরে নেয়, তাই এক দিনের লাফ টেকসই না-ও হতে পারে।",
+   "Fed সুদ বাড়ালে মূল্যায়ন আবার চাপে পড়বে, ফলে শেয়ারের উত্থান সীমিত থাকতে পারে।",
+   "ইরান নিয়ে শান্তির আশা ভেঙে গেলে তেল আবার বাড়তে পারে, আর বাজার উল্টে যেতে পারে।"
+  ]
+ },
+ "blog": {
+  "title": "এক নির্বাচনে কেন তেল পড়ল, সোনা চড়ল? সুদ, ডলার আর opportunity cost-এর গল্প",
+  "topic": "Macroeconomics ও Financial Markets",
+  "readMin": 5,
+  "body": [
+   "গতকাল আমেরিকার নির্বাচনের ফল বেরোনোর পর এক দিনে অনেক কিছু একসঙ্গে ঘটেছে। Dow Jones 3.03% বেড়েছে, Brent crude প্রায় 8.7% পড়ে $94.62 হয়েছে, সোনা প্রায় 2.9% বেড়ে $4,040-এর কাছে গেছে, ডলার এক মাসের বেশি সময়ের সর্বনিম্নে নেমেছে, আর রুপি 94.74 থেকে সামান্য শক্তিশালী হয়ে 94.64-এ বন্ধ হয়েছে। একটা রাজনৈতিক ঘটনা কীভাবে এতগুলো বাজারকে নাড়াল? এই লেখায় আমরা ধাপে ধাপে সেটা বুঝব।",
+   "## ধাপ ১: অনিশ্চয়তার দাম (risk premium)",
+   "বিনিয়োগকারী ঝুঁকি নিলে তার বদলে বাড়তি লাভ চায়। এই বাড়তি লাভকেই বলে risk premium। অনিশ্চয়তা বেশি থাকলে premium বাড়ে, শেয়ারের দাম কমে। নির্বাচনের ফল স্পষ্ট হলে অনিশ্চয়তা কমে, premium কমে, শেয়ার বাড়ে। বিনিয়োগকারীরা ধরে নিচ্ছেন বিভক্ত কংগ্রেসে বড় নীতিগত পরিবর্তন কঠিন হবে। তাই Dow-এর এই লাফ।",
+   "## ধাপ ২: তেলের দামে যুদ্ধের premium",
+   "তেলের দাম শুধু চাহিদা আর জোগান দিয়ে ঠিক হয় না, তাতে ভূরাজনৈতিক ঝুঁকিও ঢোকে। ইরান যুদ্ধের আশঙ্কায় অক্টোবরে তেল 10%-এর বেশি বেড়েছিল। ডেমোক্র্যাটদের জয়ে সামরিক অভিযানের টাকা সীমিত হতে পারে, কূটনৈতিক সমাধানের আশা বেড়েছে, তাই এই war premium কমেছে এবং Brent এক দিনে প্রায় 8.7% পড়েছে। যদি জোগান বন্ধ হওয়ার ভয় কেটে যায়, দাম নামে। উল্টোটা হলে আবার বাড়বে।",
+   "## ধাপ ৩: সুদ, yield আর সোনা",
+   "এবার সোনার কথা। সোনা কোনো সুদ বা লভ্যাংশ দেয় না। তাই সোনা রাখার একটা opportunity cost আছে: যে টাকা সোনায় আটকে আছে, সেটা Treasury bond-এ রাখলে yield পেতে। নির্বাচনের পর Treasury yield কমল, ডলারও দুর্বল হল। ফলে সোনা ধরে রাখার opportunity cost কমল, আর ডলারে দাম ধরা সোনা অন্য মুদ্রার ক্রেতার কাছে সস্তা হল। দুই কারণেই সোনার চাহিদা বাড়ল।",
+   "## ধাপ ৪: Fed-এর ছায়া",
+   "মজার ব্যাপার হল, একই সময়ে ডিসেম্বরে Fed-এর সুদ বাড়ানোর সম্ভাবনাও বেড়েছে। কারণ বিশ্লেষকদের একটা ধারণা, কেন্দ্রীয় ব্যাংক এবার রাজনৈতিক চাপ কম পাবে। তাহলে প্রশ্ন ওঠে, সুদ বাড়লে তো সোনা আর শেয়ার দুটোই চাপে পড়ার কথা। এখানেই শেখার বিষয়: বাজার সবসময় ভবিষ্যৎ আর বর্তমানের দ্বন্দ্বে চলে। একদিনের চাল দেখে দীর্ঘমেয়াদি সিদ্ধান্ত নেওয়া ঠিক নয়।",
+   "## ভারতের জন্য এর মানে কী",
+   "ভারত তেল আমদানিকারক দেশ। তেল সস্তা হলে আমদানির খরচ কমে, চলতি খাতের ঘাটতিতে চাপ কমে এবং রুপি শক্তিশালী হতে সাহায্য পায়। আজ Sensex টানা পঞ্চম দিন বেড়ে 77,301.40-এ বন্ধ হয়েছে, আর রুপি 94.64-এ উঠেছে। অর্থাৎ দূরের নির্বাচনও আমাদের পকেটে পৌঁছায় তেল, ডলার আর শেয়ারবাজারের পথে।",
+   "## একটা ছোট হিসাব: opportunity cost কীভাবে মাপবে",
+   "ধরো তুমি ₹1,00,000 সোনায় রেখেছ, আর একই টাকা বছরে 5% সুদের বন্ডে রাখলে ₹5,000 পেতে। তাহলে সোনা রাখার opportunity cost বছরে ₹5,000। বন্ডের yield কমে 4% হলে এই খরচ নেমে ₹4,000 হয়। সোনার দাম একই থাকলেও সোনা রাখা তুলনায় আকর্ষণীয় হয়ে ওঠে। বড় ফান্ড ম্যানেজাররা ঠিক এভাবেই হাজার হাজার কোটি টাকার সোনা আর বন্ডের ভাগ ঠিক করেন। উদাহরণের সংখ্যাগুলো বোঝানোর জন্য ধরে নেওয়া, বাজারের আসল হার নয়।",
+   "## ডলার দুর্বল হলে কী হয়",
+   "বেশিরভাগ কমোডিটি, যেমন তেল আর সোনা, ডলারে দাম ধরা হয়। ডলার দুর্বল হলে অন্য মুদ্রার ক্রেতার কাছে এগুলো সস্তা হয়, তাই চাহিদা বাড়ে। কিন্তু এখানে তেলের ক্ষেত্রে উল্টো ঘটেছে, কারণ যুদ্ধের premium কমার প্রভাব ডলারের দুর্বলতার চেয়ে অনেক বড় ছিল। অর্থাৎ একই সময়ে একাধিক শক্তি কাজ করে, আর যেটা সবচেয়ে বড়, দাম সেদিকেই যায়। বিশ্লেষণের সময় তাই একটা কারণ ধরে বসে না থেকে সব কারণের আপেক্ষিক শক্তি ভেবে দেখা দরকার।",
+   "## BBA স্টুডেন্টের জন্য ব্যবহারিক শিক্ষা",
+   "প্রথমত, কোনো খবর পড়লে জিজ্ঞেস করো: এতে কার অনিশ্চয়তা কমল বা বাড়ল? দ্বিতীয়ত, যেকোনো বিনিয়োগ বা ব্যবসায়িক সিদ্ধান্তে শুধু খরচ নয়, opportunity cost-ও হিসাব করো। তৃতীয়ত, এক দিনের বাজারের চালকে স্থায়ী প্রবণতা ভেবো না, কারণ ইরান নিয়ে আশা ভেঙে গেলে তেল আবার বাড়তে পারে। ইন্টারভিউতে যদি জিজ্ঞেস করে, 'ডলার দুর্বল হলে সোনা বাড়ে কেন?', তুমি এখন yield, opportunity cost আর মুদ্রার দাম মিলিয়ে উত্তর দিতে পারবে।"
+  ],
+  "takeaways": [
+   "অনিশ্চয়তা কমলে risk premium কমে আর শেয়ার বাড়ে; তেলের দামে ভূরাজনৈতিক risk premium থাকে।",
+   "Yield কমলে সোনা ধরে রাখার opportunity cost কমে, তাই সোনার দাম বাড়ে।",
+   "এক দিনের চাল দেখে সিদ্ধান্ত নিয়ো না; Fed-এর সুদ আর ইরান পরিস্থিতি বাজার উল্টে দিতে পারে।"
+  ]
+ },
+ "quiz": [
+  {
+   "q": "বুধবার Dow Jones কত শতাংশ বেড়ে বন্ধ হয়েছে?",
+   "options": [
+    "1.44%",
+    "1.58%",
+    "3.03%",
+    "8.7%"
+   ],
+   "answer": 2,
+   "explain": "Dow 1,569.40 পয়েন্ট বা 3.03% বেড়ে 53,356.12-এ বন্ধ হয়েছে। 1.58% হলো S&P 500-এর বৃদ্ধি আর 1.44% Nasdaq-এর।"
+  },
+  {
+   "q": "নির্বাচনের পর Brent crude কত ডলারে সেটল হয়েছে?",
+   "options": [
+    "$88.12",
+    "$94.62",
+    "$101.02",
+    "$103.60"
+   ],
+   "answer": 1,
+   "explain": "Brent প্রায় 8.7% কমে $94.62-এ সেটল হয়েছে। $88.12 হলো WTI-এর দাম।"
+  },
+  {
+   "q": "Treasury yield কমলে সোনার দাম বাড়ে কেন?",
+   "options": [
+    "সোনার জোগান কমে যায়",
+    "সোনা ধরে রাখার opportunity cost কমে",
+    "সোনা সুদ দিতে শুরু করে",
+    "ডলার শক্তিশালী হয়"
+   ],
+   "answer": 1,
+   "explain": "সোনা কোনো সুদ দেয় না, তাই yield কমলে সুদ ছেড়ে দেওয়ার খরচ বা opportunity cost কমে এবং সোনার চাহিদা বাড়ে।"
+  },
+  {
+   "q": "Novo Nordisk এ বছর কতবার তাদের পূর্বাভাস (outlook) বাড়াল?",
+   "options": [
+    "একবার",
+    "দুবার",
+    "তিনবার",
+    "চারবার"
+   ],
+   "answer": 2,
+   "explain": "প্রতিবেদন অনুযায়ী এটি এ বছরের তৃতীয় পূর্বাভাস বৃদ্ধি, কারণ Wegovy পিলের বিক্রি প্রত্যাশার ওপরে ছিল।"
+  },
+  {
+   "q": "Meta-র প্রথম ইউরো বন্ডে প্রায় কত অর্থ তোলা হয়েছে?",
+   "options": [
+    "€5 বিলিয়ন",
+    "€9 বিলিয়ন",
+    "€15 বিলিয়ন",
+    "€53 বিলিয়ন"
+   ],
+   "answer": 1,
+   "explain": "Meta প্রায় €9 বিলিয়ন তুলেছে। €53 বিলিয়ন ছিল বিনিয়োগকারীদের অর্ডারের পরিমাণ, আর $15 বিলিয়ন ছিল আগের মার্কিন ডলার বন্ড।"
+  }
+ ],
+ "caseStudy": {
+  "week": "2026-W45",
+  "weekLabel": "২ – ৮ নভেম্বর ২০২৬",
+  "company": "Reliance Jio",
+  "title": "Reliance Jio: ফ্রি ডেটা দিয়ে কীভাবে গোটা টেলিকম বাজার বদলে দিল",
+  "concept": "Penetration Pricing",
+  "intro": "আজ Reliance-এর শেয়ার 12% বেড়েছে, আর এই গ্রুপের সবচেয়ে বড় সাফল্যের গল্পগুলোর একটা হলো Jio। 2016-র আগে ভারতে মোবাইল ডেটা ছিল দামি, আর বাজারে ছিল ডজনখানেক কোম্পানি। কয়েক বছরের মধ্যে ছবিটা পুরো বদলে যায়।",
+  "sections": [
+   {
+    "h": "কী করেছিল",
+    "p": "সেপ্টেম্বর 2016-তে Jio লঞ্চ হয় এক অবিশ্বাস্য অফার দিয়ে: কয়েক মাস ফ্রি ডেটা আর ফ্রি কল। এরপরেও তাদের প্ল্যানের দাম ছিল বাজারের চেয়ে অনেক কম। শুরু থেকেই 4G-only নেটওয়ার্ক বানানোয় পুরনো 2G/3G-র বোঝা তাদের ছিল না।"
+   },
+   {
+    "h": "ফলাফল",
+    "p": "মাত্র ছয় মাসের মধ্যে Jio-র গ্রাহক 10 কোটি ছাড়িয়ে যায়। ভারতে ডেটার দাম পৃথিবীর সবচেয়ে সস্তাগুলোর মধ্যে চলে আসে, আর ডেটা ব্যবহার কয়েক গুণ বেড়ে যায়। পুরনো কোম্পানিগুলো দাম কমাতে বাধ্য হয়। অনেকে বাজার ছেড়ে চলে যায়, Vodafone আর Idea এক হয়ে যায়। কয়েক বছরের মধ্যে Jio গ্রাহকের সংখ্যায় দেশের এক নম্বর টেলিকম কোম্পানি হয়ে ওঠে।"
+   },
+   {
+    "h": "কেন কাজ করল",
+    "p": "Reliance-এর কাছে লম্বা সময় লোকসান সহ্য করার মতো বিশাল মূলধন ছিল। টেলিকমে network effect কাজ করে: যত বেশি মানুষ, তত বেশি মূল্য। আর ডেটার চাহিদা দামের প্রতি খুব সংবেদনশীল (price elastic), তাই দাম কমতেই ব্যবহার বিস্ফোরণের মতো বেড়ে যায়।"
+   },
+   {
+    "h": "ঝুঁকি আর সমালোচনা",
+    "p": "এই কৌশলে হাজার হাজার কোটি টাকার বিনিয়োগ লাগে। প্রতিযোগীরা একে predatory pricing বলে অভিযোগ করেছিল। বাজারে কোম্পানি কমে গেলে ভবিষ্যতে গ্রাহকের বাছাইয়ের সুযোগও কমে যায়। পরে Jio নিজেও ধাপে ধাপে দাম বাড়িয়েছে।"
+   }
+  ],
+  "lesson": "Penetration pricing মানে শুরুতে খুব কম দামে ঢুকে দ্রুত বাজারের বড় ভাগ দখল করা, তারপর ধীরে ধীরে দাম বাড়ানো। এটা তখনই কাজ করে যখন কোম্পানির পকেট গভীর, চাহিদা দামের প্রতি সংবেদনশীল আর গ্রাহক একবার এলে সহজে ছেড়ে যায় না।",
+  "question": "ভাবো: ভারতের quick-commerce বাজারে (Blinkit, Zepto, Instamart) কি একই কৌশল চলছে? কারা টিকে থাকবে বলে তোমার মনে হয়?"
+ },
+ "en": {
+  "dateLabel": "Thursday, 5 November 2026",
+  "news": [
+   {
+    "id": "n1",
+    "category": "US markets",
+    "title": "Dow jumps 3% to 53,356 as Democrats win Congress in the midterms",
+    "summary": "Democrats won control of both chambers of Congress in the US midterms, and investors are pricing in policy gridlock. On Wednesday the Dow Jones rose 1,569.40 points, or 3.03%, to close at 53,356.12, its best day since April 2025 according to CNBC. The S&P 500 gained 1.58% to 7,688.62 and the Nasdaq rose 1.44% to 25,736.51. Energy shares were under pressure as oil prices fell.",
+    "why": "It shows how a political event reduces uncertainty and changes risk premiums and share prices, a core idea in Investments and Financial Markets.",
+    "source": {
+     "name": "CNBC",
+     "url": "https://www.cnbc.com/2026/11/03/stock-market-today-live-updates.html"
+    }
+   },
+   {
+    "id": "n2",
+    "category": "Energy",
+    "title": "Brent falls about 8.7% to $94.62 after the election on hopes of an Iran deal",
+    "summary": "Brent crude settled about 8.7% lower at $94.62 a barrel on Wednesday, and US WTI fell 8.3% to $88.12. Analysts said Democratic control of Congress could limit funding for military operations in the Middle East, raising the chance of a diplomatic settlement with Iran. Vice President Vance said the war was the reason Republicans lost. Earlier, in October, oil had risen more than 10% on escalation fears.",
+    "why": "Supply shocks and the geopolitical risk premium are applied demand-and-supply ideas from Microeconomics, and they matter for cost planning in Operations.",
+    "source": {
+     "name": "CNBC",
+     "url": "https://cnbc.com/2026/11/04/oil-price-iran-war-us-election-strait-hormuz.html"
+    }
+   },
+   {
+    "id": "n3",
+    "category": "Central banks",
+    "title": "Fed may raise rates in December, and odds rose after the election",
+    "summary": "At its late-October meeting the Fed held rates steady, but two officials dissented in favour of a hike. News sources put the chance of a quarter-point hike in December at about 75% before the election and roughly 77-83% afterwards (the exact figure differs by source). At the same time US Treasury yields fell on hopes of a divided government.",
+    "why": "The clearest example of how monetary policy, interest rates and bond yields connect. Higher rates raise borrowing costs and change share valuations.",
+    "source": {
+     "name": "CNN",
+     "url": "https://www.cnn.com/2026/10/28/business/live-news/federal-reserve-interest-rate-october"
+    }
+   },
+   {
+    "id": "n4",
+    "category": "Commodities",
+    "title": "Gold rises almost 3% to near $4,040 as the dollar weakens",
+    "summary": "After the Democratic win the dollar fell to its lowest in over a month and Treasury yields declined. Spot gold rose about 2.9% to near $4,040 an ounce (the price in early US trading, per Kitco), and silver gained 4-5% to about $52. On 30 October gold had dropped to $3,869.85, its lowest since October 2025.",
+    "why": "Gold pays no interest, so lower yields cut the opportunity cost of holding it. Today's term explains exactly this.",
+    "source": {
+     "name": "Kitco",
+     "url": "https://www.kitco.com/news/article/2026-11-04/gold-and-silver-surge-democratic-midterm-sweep-drives-dollar-yields-lower"
+    }
+   },
+   {
+    "id": "n5",
+    "category": "Pharma",
+    "title": "Novo Nordisk raises its outlook for the third time as Wegovy pill sales beat forecasts",
+    "summary": "Novo Nordisk's third-quarter sales were DKK 79.2 billion, up 4% at constant exchange rates. Wegovy pill sales were DKK 5.39 billion (about $810 million), above analyst expectations. US sales of the injectable Wegovy fell 13%. The company raised its 2026 outlook for the third time, to sales and operating profit growth of -2% to +2%. The shares were up about 3.4% during the day.",
+    "why": "A good Marketing and Financial Analysis example of how a shift in product mix (injection to pill) affects revenue and guidance.",
+    "source": {
+     "name": "CNBC",
+     "url": "https://www.cnbc.com/2026/11/04/novo-q3-earnings-wegovy-sales.html"
+    }
+   },
+   {
+    "id": "n6",
+    "category": "Earnings",
+    "title": "Uber's gross bookings rise 20% to $59.8 billion, but revenue grows only 10%",
+    "summary": "Uber's third-quarter gross bookings were $59.8 billion (up 20%), with 4.1 billion trips and revenue of $14.8 billion (up 10%). The company said a change in its UK Mobility business model reduced revenue by $1.1 billion. For the fourth quarter it guided gross bookings of $63.25 to $65.25 billion, growth of 18-22%.",
+    "why": "Gross bookings and revenue are different things. Knowing what each number means on a platform business is a common Accounting and Business Models question.",
+    "source": {
+     "name": "Uber Investor Relations",
+     "url": "https://investor.uber.com/news-events/news/press-release-details/2026/Uber-Announces-Results-for-Third-Quarter-2026/default.aspx"
+    }
+   },
+   {
+    "id": "n7",
+    "category": "Tech finance",
+    "title": "After a $15 billion dollar bond, Meta raises about €9 billion in its first euro bond",
+    "summary": "To fund heavy AI spending, Meta sold $15 billion of US bonds in five parts on Tuesday. On Wednesday it raised about €9 billion in its first-ever euro bond sale (six tranches, maturities of 4 to 38 years), with record orders of about €53 billion. Last Friday S&P Global Ratings changed Meta's outlook from AA- stable to negative, citing heavy capital spending and negative free cash flow.",
+    "why": "Choosing between equity and debt is a Corporate Finance capital-structure decision, and you can see how credit ratings affect borrowing costs.",
+    "source": {
+     "name": "Seoul Economic Daily",
+     "url": "https://en.sedaily.com/international/2026/11/05/meta-raises-104-billion-in-first-euro-bond-sale-amid-ai"
+    }
+   },
+   {
+    "id": "n8",
+    "category": "India markets",
+    "title": "Sensex and Nifty rise for a fifth straight session; rupee slightly stronger at 94.64",
+    "summary": "On Wednesday the Sensex rose 383.55 points, or 0.50%, to 77,301.40 and the Nifty 50 rose 149.75 points, or 0.63%, to 23,960.60, the fifth straight gain. The Nifty Midcap 100 rose 1.55% and the Smallcap 100 rose 2%, while the IT index fell over 1%. The rupee closed at 94.64 per dollar versus 94.74 the day before (Reuters-based figure).",
+    "why": "Market breadth, sectoral rotation and exchange rates together drive Indian markets, which is useful for the Indian Financial System syllabus.",
+    "source": {
+     "name": "Business Standard",
+     "url": "https://www.business-standard.com/amp/markets/news/stock-market-live-november-4-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-q2-results-ipo-today-126110400107_1.html"
+    }
+   }
+  ],
+  "market": {
+   "asOf": "Wednesday, 4 November 2026 close",
+   "items": [
+    {
+     "name": "S&P 500",
+     "region": "US",
+     "value": "7,688.62",
+     "change": "+1.58%",
+     "dir": "up"
+    },
+    {
+     "name": "Dow Jones",
+     "region": "US",
+     "value": "53,356.12",
+     "change": "+3.03%",
+     "dir": "up"
+    },
+    {
+     "name": "Nasdaq",
+     "region": "US",
+     "value": "25,736.51",
+     "change": "+1.44%",
+     "dir": "up"
+    },
+    {
+     "name": "Sensex",
+     "region": "India",
+     "value": "77,301.40",
+     "change": "+0.50%",
+     "dir": "up"
+    },
+    {
+     "name": "Nifty 50",
+     "region": "India",
+     "value": "23,960.60",
+     "change": "+0.63%",
+     "dir": "up"
+    },
+    {
+     "name": "Brent Crude",
+     "region": "$ per barrel",
+     "value": "94.62",
+     "change": "-8.7%",
+     "dir": "down"
+    },
+    {
+     "name": "Gold",
+     "region": "$ per ounce",
+     "value": "4,040",
+     "change": "+2.9%",
+     "dir": "up"
+    },
+    {
+     "name": "USD/INR",
+     "region": "₹ per dollar",
+     "value": "94.64",
+     "change": "Rupee stronger by 10 paise",
+     "dir": "up"
+    }
+   ]
+  },
+  "term": {
+   "term": "Opportunity Cost",
+   "bangla": "The value of the best option you give up",
+   "definition": "When you choose one option, the opportunity cost is the potential gain from the best alternative you give up. It is not always a cash payment, but it is the real price of a decision.",
+   "example": "Gold pays no interest. When Treasury yields are high, holding gold means giving up that interest, so the opportunity cost is high. After the election yields fell, the opportunity cost of holding gold dropped, and gold rose about 2.9% to near $4,040.",
+   "formula": "Opportunity Cost = Expected return of the best forgone option − Expected return of the chosen option",
+   "tip": "In interviews, explain any decision (project, investment, hiring) by saying: 'I looked at the opportunity cost, not only the cost.' It makes your thinking sound mature."
+  },
+  "gd": {
+   "topic": "Does lower political uncertainty always lift markets? What can we learn from the Dow's 3% jump after the election?",
+   "context": "After the Democratic win the Dow rose 3.03%, oil fell 8.7% and gold gained about 3%, yet the odds of a Fed hike in December also rose.",
+   "for": [
+    "When uncertainty falls, the risk premium investors demand falls, so share prices rise.",
+    "A divided government makes big fiscal policy changes less likely, so businesses can plan more easily.",
+    "Cheaper oil lowers costs and inflation pressure, which helps every industry."
+   ],
+   "against": [
+    "Markets price in news early, so a one-day jump may not last.",
+    "If the Fed raises rates, valuations come under pressure again and the rally may be limited.",
+    "If hopes of peace with Iran fade, oil could rise again and the market could reverse."
+   ]
+  },
+  "blog": {
+   "title": "Why did oil fall and gold rise after one election? A story of rates, the dollar and opportunity cost",
+   "topic": "Macroeconomics and Financial Markets",
+   "readMin": 5,
+   "body": [
+    "After the US election result came out, many things happened in a single day. The Dow Jones rose 3.03%, Brent crude fell about 8.7% to $94.62, gold gained about 2.9% to near $4,040, the dollar dropped to a one-month low, and the rupee closed slightly stronger at 94.64 from 94.74. How can one political event move so many markets at once? Let us go step by step.",
+    "## Step 1: The price of uncertainty (risk premium)",
+    "When investors take risk they ask for extra return. That extra return is called the risk premium. When uncertainty is high, the premium rises and share prices fall. When the election outcome becomes clear, uncertainty falls, the premium shrinks and shares rise. Investors are assuming a divided Congress will find big policy changes hard. That is why the Dow jumped.",
+    "## Step 2: The war premium in oil",
+    "Oil prices are not set by demand and supply alone; geopolitical risk is priced in too. Fears of a conflict with Iran pushed oil up more than 10% in October. With Democrats winning, funding for military operations may be limited and hopes of a diplomatic solution rose, so the war premium shrank and Brent fell about 8.7% in a day. If the fear of supply disruption fades, prices fall. If it returns, they rise again.",
+    "## Step 3: Rates, yields and gold",
+    "Now gold. Gold pays no interest or dividend, so holding it has an opportunity cost: the money tied up in gold could have earned a yield in Treasury bonds. After the election Treasury yields fell and the dollar weakened. The opportunity cost of holding gold fell, and gold priced in dollars became cheaper for buyers using other currencies. Both effects lifted demand.",
+    "## Step 4: The Fed's shadow",
+    "Interestingly, the odds of a Fed rate hike in December also rose. Some analysts think the central bank will face less political pressure. But if rates rise, both gold and shares should come under pressure. This is the lesson: markets live in a tug-of-war between present and future. Do not take long-term decisions from a one-day move.",
+    "## What it means for India",
+    "India imports most of its oil. Cheaper oil lowers the import bill, eases pressure on the current account deficit and helps the rupee. The Sensex rose for a fifth straight day to close at 77,301.40, and the rupee improved to 94.64. So even a distant election reaches our pockets through oil, the dollar and the stock market.",
+    "## A small calculation: how to measure opportunity cost",
+    "Suppose you hold ₹1,00,000 in gold. If the same money in a bond paying 5% would earn ₹5,000 a year, the opportunity cost of holding gold is ₹5,000 a year. If the bond yield falls to 4%, that cost drops to ₹4,000. Even if the gold price stays the same, holding gold becomes relatively more attractive. Large fund managers allocate thousands of crores between gold and bonds in exactly this way. The numbers in this example are assumed for illustration, not actual market rates.",
+    "## What a weaker dollar does",
+    "Most commodities, such as oil and gold, are priced in dollars. When the dollar weakens they become cheaper for buyers in other currencies, so demand rises. But for oil the opposite happened, because the fall in the war premium was much bigger than the effect of the weaker dollar. Several forces act at the same time, and price moves with the strongest one. So when analysing, do not fix on one reason; think about the relative strength of all of them.",
+    "## A practical lesson for BBA students",
+    "First, when you read news, ask: whose uncertainty rose or fell? Second, in any investment or business decision, count the opportunity cost, not only the cost. Third, never treat a one-day market move as a permanent trend, because if hopes of peace with Iran break down, oil could rise again. If an interviewer asks, 'Why does gold rise when the dollar weakens?', you can now answer by connecting yields, opportunity cost and currency prices."
+   ],
+   "takeaways": [
+    "When uncertainty falls the risk premium falls and shares rise; oil carries a geopolitical risk premium.",
+    "Falling yields cut the opportunity cost of holding gold, so gold rises.",
+    "Do not decide from a one-day move; the Fed's rate path and the Iran situation can reverse the market."
+   ]
+  },
+  "quiz": [
+   {
+    "q": "By what percentage did the Dow Jones close higher on Wednesday?",
+    "options": [
+     "1.44%",
+     "1.58%",
+     "3.03%",
+     "8.7%"
+    ],
+    "answer": 2,
+    "explain": "The Dow rose 1,569.40 points, or 3.03%, to close at 53,356.12. 1.58% was the S&P 500's gain and 1.44% the Nasdaq's."
+   },
+   {
+    "q": "At what price did Brent crude settle after the election?",
+    "options": [
+     "$88.12",
+     "$94.62",
+     "$101.02",
+     "$103.60"
+    ],
+    "answer": 1,
+    "explain": "Brent fell about 8.7% to settle at $94.62. $88.12 was the WTI price."
+   },
+   {
+    "q": "Why does gold rise when Treasury yields fall?",
+    "options": [
+     "Gold supply falls",
+     "The opportunity cost of holding gold falls",
+     "Gold starts paying interest",
+     "The dollar gets stronger"
+    ],
+    "answer": 1,
+    "explain": "Gold pays no interest, so when yields fall the interest given up (the opportunity cost) shrinks and demand for gold rises."
+   },
+   {
+    "q": "How many times this year has Novo Nordisk raised its outlook?",
+    "options": [
+     "Once",
+     "Twice",
+     "Three times",
+     "Four times"
+    ],
+    "answer": 2,
+    "explain": "This is the third raise of the year, because Wegovy pill sales beat expectations."
+   },
+   {
+    "q": "About how much did Meta raise in its first euro bond?",
+    "options": [
+     "€5 billion",
+     "€9 billion",
+     "€15 billion",
+     "€53 billion"
+    ],
+    "answer": 1,
+    "explain": "Meta raised about €9 billion. €53 billion was the size of investor orders and $15 billion was the earlier US dollar bond."
+   }
+  ],
+  "caseStudy": {
+   "week": "2026-W45",
+   "weekLabel": "2 – 8 November 2026",
+   "company": "Reliance Jio",
+   "title": "Reliance Jio: how free data changed the whole telecom market",
+   "concept": "Penetration Pricing",
+   "intro": "Reliance shares rose 12% today, and one of the group's biggest success stories is Jio. Before 2016, mobile data in India was expensive and the market had a dozen companies. Within a few years the picture had changed completely.",
+   "sections": [
+    {
+     "h": "What it did",
+     "p": "Jio launched in September 2016 with an unbelievable offer: free data and free calls for several months. Even after that, its plans cost far less than the market. Because it built a 4G-only network from the start, it carried none of the old 2G/3G baggage."
+    },
+    {
+     "h": "The result",
+     "p": "Within just six months Jio crossed 100 million customers. Data prices in India became among the cheapest in the world, and data use grew many times over. Older companies were forced to cut prices. Many left the market, and Vodafone and Idea merged. Within a few years Jio became India's number one telecom company by subscribers."
+    },
+    {
+     "h": "Why it worked",
+     "p": "Reliance had huge capital to bear losses for a long time. Telecom has network effects: the more people, the more value. And demand for data is very price elastic, so usage exploded as soon as prices fell."
+    },
+    {
+     "h": "Risks and criticism",
+     "p": "The strategy needed tens of thousands of crores in investment. Rivals accused it of predatory pricing. With fewer companies left, customers may have less choice in future. Jio itself later raised prices step by step."
+    }
+   ],
+   "lesson": "Penetration pricing means entering at a very low price to win a large market share quickly, then raising prices slowly. It works when the company has deep pockets, demand is price sensitive and customers rarely leave once they join.",
+   "question": "Think: is the same strategy playing out in India's quick-commerce market (Blinkit, Zepto, Instamart)? Who do you think will survive?"
+  }
+ }
+}

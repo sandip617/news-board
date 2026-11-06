@@ -1,6 +1,20 @@
 {
- "latest": "2026-11-04",
+ "latest": "2026-11-06",
  "days": [
+  {
+   "date": "2026-11-06",
+   "label": "৬ নভেম্বর ২০২৬, শুক্রবার",
+   "labelEn": "Friday, 6 November 2026",
+   "headline": "AI চিপ শেয়ারে ধস: Nasdaq 5.52% পড়ে correction-এ, S&P 500 4.36% নিচে",
+   "headlineEn": "AI chip rout: Nasdaq falls 5.52% into correction, S&P 500 down 4.36%"
+  },
+  {
+   "date": "2026-11-05",
+   "label": "৫ নভেম্বর ২০২৬, বৃহস্পতিবার",
+   "labelEn": "Thursday, 5 November 2026",
+   "headline": "মধ্যবর্তী নির্বাচনে ডেমোক্র্যাটদের জয়ের পর Dow 3% লাফিয়ে 53,356-এ",
+   "headlineEn": "Dow jumps 3% to 53,356 as Democrats win Congress in the midterms"
+  },
   {
    "date": "2026-11-04",
    "label": "৪ নভেম্বর ২০২৬, বুধবার",

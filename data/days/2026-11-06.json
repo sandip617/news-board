@@ -1,0 +1,545 @@
+{
+ "date": "2026-11-06",
+ "dateLabel": "৬ নভেম্বর ২০২৬, শুক্রবার",
+ "edition": 1,
+ "updatedAt": "2026-11-06T07:00:00+05:30",
+ "news": [
+  {
+   "id": "n1",
+   "category": "শেয়ার বাজার",
+   "title": "AI চিপ শেয়ারে ধস: S&P 500 4.36%, Nasdaq 5.52% পড়ল, Nasdaq ঢুকল correction-এ",
+   "summary": "বৃহস্পতিবার আমেরিকার শেয়ার বাজারে বড় পতন হয়েছে। S&P 500 4.36% পড়ে 7,353.73-এ, Nasdaq Composite 5.52% পড়ে 24,315.00-এ আর Dow Jones 3.44% (1,833.06 পয়েন্ট) পড়ে 51,523.06-এ বন্ধ হয়েছে। S&P 500-এর এটা এপ্রিল 2025-এর পর সবচেয়ে খারাপ দিন। Nvidia 9.26% পড়ে $181.60-এ নেমেছে, যা এপ্রিলের পর সবচেয়ে নিচে। ডেমোক্র্যাটদের কংগ্রেস দখলের পর AI-র নিয়মকানুন কড়া হওয়া আর data center বানানোয় বাধা আসার ভয়ই মূল কারণ বলে বিশ্লেষকরা বলছেন। Nasdaq এখন রেকর্ড দামের চেয়ে 10%-এর বেশি নিচে, অর্থাৎ correction territory-তে।",
+   "why": "বাজারের এক দিনের বড় পতন আর correction-এর সংজ্ঞা বোঝার সেরা উদাহরণ। এতে দেখা যায় সরকারি নীতির সম্ভাবনা (regulatory risk) কীভাবে কোনো কোম্পানির খবর ছাড়াই পুরো সেক্টরের valuation নাড়িয়ে দেয়।",
+   "source": {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/05/qualcomm-earnings-chip-stocks-election.html"
+   }
+  },
+  {
+   "id": "n2",
+   "category": "কোম্পানির রেজাল্ট",
+   "title": "Qualcomm-এর দুর্বল পূর্বাভাসে শেয়ার প্রায় 9-13% পড়ল, handset আয় 26% কমেছে",
+   "summary": "চতুর্থ কোয়ার্টারে Qualcomm-এর adjusted EPS হয়েছে $2.17, যা বিশ্লেষকদের আশার ($2.16) সামান্য ওপরে হলেও আগের বছরের $3.00-এর চেয়ে 28% কম। Handset (স্মার্টফোন চিপ) থেকে আয় 26% কমেছে, এর পেছনে Apple-এর modem অর্ডার হারানো আর memory-র খরচ বাড়াকে কারণ বলা হচ্ছে। পরের কোয়ার্টারের adjusted EPS পূর্বাভাস $2.15-$2.35, যেখানে বিশ্লেষকরা আশা করেছিলেন প্রায় $2.27। অটোমোটিভ ব্যবসার আয় অবশ্য 89% বেড়েছে। শেয়ার দিনের শেষে প্রায় 9-13% পড়েছে (সূত্রভেদে হিসাব আলাদা)।",
+   "why": "Earnings beat করেও কেন শেয়ার পড়ে, তা বোঝায় guidance আর expectations। এখানে বাজার পেছনের ফল নয়, ভবিষ্যতের পূর্বাভাসের দাম দেয়।",
+   "source": {
+    "name": "24/7 Wall St.",
+    "url": "https://247wallst.com/investing/2026/11/05/qualcomm-sinks-11-as-soft-profit-guidance-and-handset-slump-overshadow-beat-arm-holdings-drops-7-skyworks-slides-2/"
+   }
+  },
+  {
+   "id": "n3",
+   "category": "কেন্দ্রীয় ব্যাংক",
+   "title": "Bank of England সুদের হার 0.25 পয়েন্ট বাড়িয়ে 4% করল, ইরান যুদ্ধের পর প্রথমবার",
+   "summary": "বৃহস্পতিবার Bank of England Bank Rate 0.25 শতাংশ পয়েন্ট বাড়িয়ে 4% করেছে, যা 2023-এর পর প্রথম হার বৃদ্ধি। Monetary Policy Committee-র ভোট 8-1, এক সদস্য (Catherine Mann) 0.5 পয়েন্ট বাড়ানোর পক্ষে ভোট দিয়েছেন। মধ্যপ্রাচ্যের সংঘাত থেকে আসা জ্বালানির দামের ধাক্কায় মুদ্রাস্ফীতি 2027-এর মাঝামাঝি প্রায় 5%-এ পৌঁছাতে পারে বলে ব্যাংকের পূর্বাভাস। পরের বৈঠক 17 ডিসেম্বর।",
+   "why": "Monetary policy-র মূল যুক্তি: supply shock থেকে মূল্যবৃদ্ধি ঠেকাতে কেন্দ্রীয় ব্যাংক সুদ বাড়ায়। Fed আর RBI-র ওপরও একই চাপ আসতে পারে।",
+   "source": {
+    "name": "Bank of England",
+    "url": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/november-2026"
+   }
+  },
+  {
+   "id": "n4",
+   "category": "জ্বালানি",
+   "title": "এক দিনের ধসের পর Brent প্রায় 3.9% বেড়ে $98.29, ইরান চুক্তি নিয়ে অনিশ্চয়তা",
+   "summary": "বুধবার প্রায় 9-10% পড়ার পর বৃহস্পতিবার Brent crude futures $3.67 বা 3.88% বেড়ে $98.29 ব্যারেলে বন্ধ হয়েছে। আমেরিকার WTI crude $2.40 বা 2.72% বেড়ে $90.52 হয়েছে। উপসাগরে ট্যাংকারে হামলার খবরে সরবরাহ নিয়ে উদ্বেগ ফিরেছে। Eurasia Group আমেরিকা-ইরান চুক্তির সম্ভাবনা 20% থেকে কমিয়ে 10% করেছে, আর সংঘাত বাড়লে Brent $110-$125 পর্যন্ত উঠতে পারে বলে সতর্ক করেছে।",
+   "why": "Supply shock আর রাজনৈতিক ঝুঁকি কীভাবে commodity-র দাম নাড়ায় তার উদাহরণ। ভারতের মতো তেল-আমদানিকারক দেশে এর প্রভাব পড়ে মুদ্রাস্ফীতি আর রুপির ওপর।",
+   "source": {
+    "name": "Rallies.ai (Reuters-ভিত্তিক বাজার রিপোর্ট)",
+    "url": "https://rallies.ai/news/brent-crude-jumps-settles-up-over-3-after-tanker-attacks-2b11933da683af1d"
+   }
+  },
+  {
+   "id": "n5",
+   "category": "ভারতের বাজার",
+   "title": "টানা ষষ্ঠ দিনে বাজারে লাফ: Sensex 2,009 পয়েন্ট বেড়ে প্রায় 79,310, Nifty 24,537-এ",
+   "summary": "বৃহস্পতিবার Sensex প্রায় 2,009 পয়েন্ট বেড়ে 79,310-এর কাছাকাছি আর Nifty 576 পয়েন্ট বেড়ে 24,537-এর কাছে বন্ধ হয়েছে। অটো, ফিনান্সিয়াল আর রিয়েলটি শেয়ার র‍্যালি চালিয়েছে এবং Bank Nifty প্রায় 3.3% বেড়েছে। বিনিয়োগকারীদের সম্পদ প্রায় ₹7 ট্রিলিয়ন বেড়েছে বলে রিপোর্টে বলা হয়েছে। তেলের দাম কমে আসা আর বিশ্ব বাজারের ইতিবাচক ইঙ্গিত র‍্যালির পেছনে কাজ করেছে। রুপি ডলারের বিপরীতে 94.46-এ প্রায় অপরিবর্তিত বন্ধ হয়েছে।",
+   "why": "Foreign flows, crude oil আর bank শেয়ারের সম্পর্ক বোঝার জন্য জরুরি। তেল সস্তা হলে ভারতের import bill আর inflation-এর চাপ কমে, তাই বাজার খুশি হয়।",
+   "source": {
+    "name": "Business Standard",
+    "url": "https://business-standard.com/amp/markets/news/stock-market-live-november-5-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-ipo-today-126110500085_1.html"
+   }
+  },
+  {
+   "id": "n6",
+   "category": "অর্থনীতি",
+   "title": "আজ আমেরিকার অক্টোবরের jobs report: প্রত্যাশা প্রায় 59,000-65,000 নতুন চাকরি, Fed-এর ডিসেম্বর হার-বৃদ্ধির সম্ভাবনা প্রায় 83%",
+   "summary": "শুক্রবার আমেরিকার অক্টোবরের employment report প্রকাশিত হওয়ার কথা। অর্থনীতিবিদদের গড় পূর্বাভাস প্রায় 59,000-65,000 নতুন চাকরি, সেপ্টেম্বরে হয়েছিল মাত্র 29,000। বেকারত্বের হার 4.2%-এ থাকবে বলে আশা। ADP-র বেসরকারি খাতের হিসাব ছিল 86,000। CME FedWatch অনুযায়ী ডিসেম্বরে Fed সুদের হার বাড়ানোর সম্ভাবনা প্রায় 83% ধরা হচ্ছে।",
+   "why": "Jobs data কেন বাজার নাড়ায়, তার ব্যাখ্যা: শ্রমবাজার শক্ত হলে Fed-এর সুদ বাড়ানোর যুক্তি জোরালো হয়, আর সুদের হার শেয়ার, বন্ড আর সোনার দাম ঠিক করে।",
+   "source": {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/05/october-jobs-report-preview.html"
+   }
+  },
+  {
+   "id": "n7",
+   "category": "সোনা ও মুদ্রা",
+   "title": "দুর্বল ডলারে সোনা দুই সপ্তাহের সর্বোচ্চে, $4,090-$4,120-এর আশেপাশে",
+   "summary": "বৃহস্পতিবার ডলার আর আমেরিকার ট্রেজারি yield টানা দ্বিতীয় দিন কমায় সোনার দাম দুই সপ্তাহের সর্বোচ্চে পৌঁছেছে। USAGold-এর হিসাবে সোনা 1.48% বেড়ে $4,121.74 হয়েছে, Kitco-র শেষ উদ্ধৃতি ছিল প্রায় $4,088। উৎসভেদে দামে সামান্য ফারাক আছে। ডলার সূচক প্রায় 101.50-এ। সোনা কোনো সুদ দেয় না, তাই সুদের হার ও ডলার কমলে এর আকর্ষণ বাড়ে।",
+   "why": "Opportunity cost আর safe-haven asset-এর ধারণা। শেয়ার পড়লে বা ডলার দুর্বল হলে বিনিয়োগকারী সোনার দিকে ঝোঁকে।",
+   "source": {
+    "name": "USAGold",
+    "url": "https://www.usagold.com/daily-precious-metals-market-report-november-5-2026/"
+   }
+  }
+ ],
+ "market": {
+  "asOf": "৫ নভেম্বর ২০২৬, বৃহস্পতিবারের ক্লোজিং",
+  "items": [
+   {
+    "name": "S&P 500",
+    "region": "আমেরিকা",
+    "value": "7,353.73",
+    "change": "-4.36%",
+    "dir": "down"
+   },
+   {
+    "name": "Dow Jones",
+    "region": "আমেরিকা",
+    "value": "51,523.06",
+    "change": "-3.44%",
+    "dir": "down"
+   },
+   {
+    "name": "Nasdaq",
+    "region": "আমেরিকা",
+    "value": "24,315.00",
+    "change": "-5.52%",
+    "dir": "down"
+   },
+   {
+    "name": "Sensex",
+    "region": "ভারত",
+    "value": "79,310",
+    "change": "+2,009 পয়েন্ট",
+    "dir": "up"
+   },
+   {
+    "name": "Nifty 50",
+    "region": "ভারত",
+    "value": "24,537",
+    "change": "+576 পয়েন্ট",
+    "dir": "up"
+   },
+   {
+    "name": "Brent Crude",
+    "region": "$ প্রতি ব্যারেল",
+    "value": "98.29",
+    "change": "+3.88%",
+    "dir": "up"
+   },
+   {
+    "name": "USD/INR",
+    "region": "₹ প্রতি ডলার",
+    "value": "94.46",
+    "change": "অপরিবর্তিত",
+    "dir": "flat"
+   }
+  ]
+ },
+ "term": {
+  "term": "Market Correction",
+  "bangla": "মার্কেট কারেকশন (রেকর্ড দাম থেকে 10% বা বেশি পতন)",
+  "definition": "কোনো শেয়ার সূচক তার সাম্প্রতিক সর্বোচ্চ দাম (peak) থেকে 10% বা তার বেশি নেমে গেলে তাকে correction বলে। পতন 20% ছাড়ালে সাধারণত তাকে bear market বলা হয়। Correction প্রায়ই চড়া valuation ঠান্ডা করে, তাই একে অনেক সময় বাজারের স্বাভাবিক প্রক্রিয়া ধরা হয়।",
+  "example": "বৃহস্পতিবার Nasdaq Composite 5.52% পড়ে 24,315.00-এ বন্ধ হয়েছে, যা অক্টোবরের রেকর্ড ক্লোজিংয়ের চেয়ে 10%-এর বেশি নিচে। তাই সংবাদমাধ্যম বলছে Nasdaq correction territory-তে ঢুকেছে।",
+  "formula": "Drawdown % = (Peak − বর্তমান দাম) ÷ Peak × 100। 10% বা বেশি হলে correction, 20% বা বেশি হলে bear market।",
+  "tip": "Interview-এ বলো: correction আর crash এক নয়। Correction-এ সময় ও কারণ বুঝে diversification আর long-term plan ধরে রাখা জরুরি, ভয়ে বিক্রি (panic selling) ক্ষতি পাকা করে দেয়।"
+ },
+ "gd": {
+  "topic": "AI শেয়ারে ধস: এটা কি বুদবুদ ফাটার শুরু, নাকি স্বাস্থ্যকর correction?",
+  "context": "বৃহস্পতিবার Nasdaq 5.52% পড়েছে, Nvidia 9.26% পড়েছে। কারণ হিসেবে AI regulation-এর ভয়, বড় কোম্পানির বিপুল AI খরচ আর Qualcomm-এর দুর্বল পূর্বাভাস উঠে আসছে।",
+  "for": [
+   "AI কোম্পানির valuation আয়ের তুলনায় অনেক বেশি চড়েছিল, তাই কারেকশন দরকার ছিল।",
+   "বড় কোম্পানিগুলোর AI খরচ বাড়ছে, কিন্তু সেই খরচের বিপরীতে লাভ এখনও পুরো স্পষ্ট নয়।",
+   "একটা রাজনৈতিক ভয়েই 9% পতন দেখায় বাজার নাজুক অবস্থায় ছিল।"
+  ],
+  "against": [
+   "AI-র চাহিদা বাস্তব: যেমন AMD-র Data Center আয় প্রায় দ্বিগুণ হয়েছে।",
+   "Nasdaq-এর পতন 20%-এর কাছে নয়, এখনও এটা correction, bear market নয়।",
+   "নিয়ম আসার সম্ভাবনা নিয়ে ভয় বেশি, বাস্তবে কী নিয়ম আসবে তা এখনও অজানা।"
+  ]
+ },
+ "blog": {
+  "title": "Correction কী? Nasdaq-এর পতন থেকে বাজারের ভয় আর লোভের পাঠ",
+  "topic": "বাজার ও বিনিয়োগ",
+  "readMin": 5,
+  "body": [
+   "বৃহস্পতিবার আমেরিকার শেয়ার বাজারে যা ঘটেছে, সংবাদে তার একটা শব্দ বারবার এসেছে: correction। Nasdaq Composite এক দিনে 5.52% পড়ে 24,315.00-এ বন্ধ হয়েছে, S&P 500 পড়েছে 4.36%, আর Nvidia 9.26% পড়ে $181.60-এ নেমেছে। এই লেখায় আমরা একেবারে গোড়া থেকে বুঝব correction কাকে বলে, কেন হয়, আর একজন BBA স্টুডেন্ট হিসেবে এর থেকে কী শিখতে পারো।",
+   "## Correction আসলে কী?",
+   "ধরো একটা শেয়ার সূচকের সর্বোচ্চ দাম (peak) ছিল 100। সেটা নেমে 90 বা তার নিচে গেলে, অর্থাৎ peak থেকে 10% বা বেশি পতন হলে, বাজারের ভাষায় তাকে correction বলে। পতন 20% ছাড়ালে বলা হয় bear market। হিসাবটা সহজ: Drawdown % = (Peak − বর্তমান দাম) ÷ Peak × 100। এই হিসাবে Nasdaq এখন তার রেকর্ড ক্লোজিংয়ের চেয়ে 10%-এর বেশি নিচে, তাই সংবাদে বলা হচ্ছে Nasdaq correction territory-তে ঢুকেছে।",
+   "নামটা খেয়াল করো: পতন নয়, correction, অর্থাৎ সংশোধন। কারণ বাজারের একটা বড় অংশ মনে করে, দাম অতিরিক্ত চড়ে গেলে সেটা নামিয়ে আনা বাজারের স্বাভাবিক কাজ। দাম যখন কোম্পানির আয়ের তুলনায় অনেক বেশি হয়ে যায় (অর্থাৎ valuation চড়া), তখন একটা ছোট খবরই লোকজনকে বিক্রি করতে উসকে দিতে পারে।",
+   "## আজকের পতনের পেছনে কী ছিল?",
+   "বিশ্লেষকরা মূলত তিনটি কারণের কথা বলছেন। প্রথমত, আমেরিকার মধ্যবর্তী নির্বাচনের পর ডেমোক্র্যাটরা কংগ্রেসে জিতেছে। তাতে বিনিয়োগকারীরা ভয় পাচ্ছেন যে AI-র ওপর নিয়মকানুন কড়া হতে পারে আর data center বানানো কঠিন হতে পারে। Nvidia-র মতো কোম্পানির নিজস্ব কোনো খারাপ খবর ছিল না, তবু শেয়ার প্রায় 9% পড়েছে। এটাই regulatory risk-এর শক্তি।",
+   "দ্বিতীয়ত, Qualcomm-এর ফল। তাদের adjusted EPS $2.17 হয়েছে, যা বিশ্লেষকদের আশার সামান্য ওপরে। কিন্তু handset আয় 26% কমেছে আর পরের কোয়ার্টারের পূর্বাভাস প্রত্যাশার চেয়ে দুর্বল। ফলে শেয়ার প্রায় 9-13% পড়েছে। শিক্ষা: বাজার অতীতের ফলের চেয়ে ভবিষ্যতের পূর্বাভাসের দাম বেশি দেয়।",
+   "তৃতীয়ত, সুদের হারের পরিবেশ। Bank of England বৃহস্পতিবার সুদের হার 4% করেছে, আর Fed ডিসেম্বরে হার বাড়াবে এমন সম্ভাবনা প্রায় 83% ধরা হচ্ছে। সুদ বাড়লে ভবিষ্যতের আয়ের বর্তমান মূল্য কমে, আর প্রযুক্তি শেয়ারের মতো যেসব কোম্পানির বড় আয় আসবে অনেক পরে, তাদের দাম বেশি চাপে পড়ে।",
+   "## ভয় আর লোভ: বিনিয়োগকারীর মনস্তত্ত্ব",
+   "Behavioural finance বলে, বাজার ওঠার সময় মানুষ লোভে (FOMO) কেনে আর নামার সময় ভয়ে বিক্রি করে। দুটোই উল্টো কাজ, কারণ লোভে চড়া দামে কিনে আর ভয়ে সস্তা দামে বেচে ক্ষতি পাকা হয়। নামার সময় শেয়ার বিক্রি করলে কাগজের ক্ষতি (paper loss) বাস্তব ক্ষতিতে পরিণত হয়। ইতিহাসে বহু correction হয়েছে এবং অনেকগুলো সময়ের সঙ্গে পূরণ হয়েছে, যদিও কোনো ফিরে আসার নিশ্চয়তা নেই।",
+   "একটা ছোট হিসাব করে দেখো। কোনো সূচক 10% পড়লে সেটাকে আগের জায়গায় ফিরতে 11.1% বাড়তে হয়, কারণ নিচু দামের ওপর শতাংশ হিসাব হয়। 20% পড়লে ফিরতে লাগে 25%। এই কারণেই পতনের শতাংশ ছোট দেখালেও পুনরুদ্ধারে বেশি সময় লাগতে পারে। বিনিয়োগে ক্ষতি কম রাখা তাই লাভ বাড়ানোর মতোই গুরুত্বপূর্ণ, আর এটাই risk management-এর মূল কথা। কোম্পানির ক্ষেত্রেও একই যুক্তি খাটে: CFO বা মার্কেটিং ম্যানেজার যখন বাজেট ঠিক করেন, তখন তিনি শুধু সম্ভাব্য লাভ দেখেন না, সম্ভাব্য ক্ষতিও দেখেন।",
+   "## Correction-এ কী করবে একজন বুদ্ধিমান বিনিয়োগকারী?",
+   "এক, diversification: সব টাকা একটা সেক্টরে রাখলে সেই সেক্টর পড়লে পুরো পোর্টফোলিও ভোগে। আজই দেখো, Nasdaq আর AI চিপ শেয়ার পড়েছে, কিন্তু একই দিনে Sensex প্রায় 2,009 পয়েন্ট বেড়েছে। বিভিন্ন বাজার, সম্পদ আর সেক্টরে ছড়ানো থাকলে ধাক্কা কমে। দুই, সময়সীমা: যে টাকা আগামী দুই-তিন বছরে লাগবে, তা শেয়ারে রাখা ঝুঁকিপূর্ণ; যে টাকা দীর্ঘমেয়াদি, সেখানে অস্থিরতা সহ্য করার জায়গা থাকে। তিন, নিয়মিত অল্প অল্প করে বিনিয়োগ (যেমন SIP) দাম কমলে বেশি ইউনিট কেনার সুযোগ দেয়, এটাকে rupee cost averaging বলে।",
+   "## BBA স্টুডেন্টের জন্য ব্যবহারিক শিক্ষা",
+   "Case interview বা GD-তে যদি কেউ জিজ্ঞেস করে বাজার পড়লে কী করবে, শুধু 'কিনব' বা 'বেচব' বোলো না। প্রথমে জিজ্ঞেস করো: পতনের কারণ কী (company-specific নাকি পুরো বাজারের)? আমার সময়সীমা কতটা? আমার পোর্টফোলিও কতটা ছড়ানো? এই তিনটি প্রশ্ন তোমাকে আবেগ থেকে বিশ্লেষণে নিয়ে যাবে।",
+   "মনে রেখো, এটা বিনিয়োগের পরামর্শ নয়। আমরা এখানে বাজারের ধারণা শিখছি। Correction বোঝা মানে ভবিষ্যৎ বলা নয়; বরং পতনের দিনে ঠান্ডা মাথায় প্রশ্ন করতে শেখা। Nvidia 17 নভেম্বর ফলাফল জানাবে, আর সেদিকে বাজারের নজর থাকবে।"
+  ],
+  "takeaways": [
+   "Peak থেকে 10% বা বেশি পতন হলে correction, 20% বা বেশি হলে bear market।",
+   "বাজার ভবিষ্যতের পূর্বাভাসের (guidance) দাম দেয়, তাই earnings beat করেও শেয়ার পড়তে পারে।",
+   "ভয়ে বিক্রি না করে diversification, সময়সীমা আর নিয়মিত বিনিয়োগের কথা ভাবো।"
+  ]
+ },
+ "quiz": [
+  {
+   "q": "বৃহস্পতিবার Nasdaq Composite কত শতাংশ পড়ে বন্ধ হয়েছে?",
+   "options": [
+    "3.44%",
+    "4.36%",
+    "5.52%",
+    "9.26%"
+   ],
+   "answer": 2,
+   "explain": "Nasdaq 5.52% পড়ে 24,315.00-এ বন্ধ হয়েছে। 4.36% S&P 500-এর আর 3.44% Dow-এর পতন, 9.26% Nvidia-র।"
+  },
+  {
+   "q": "কোনো সূচক peak থেকে কত শতাংশ বা বেশি নামলে তাকে correction বলা হয়?",
+   "options": [
+    "5%",
+    "10%",
+    "20%",
+    "50%"
+   ],
+   "answer": 1,
+   "explain": "Peak থেকে 10% বা বেশি পতনকে correction বলে। 20% ছাড়ালে সাধারণত bear market।"
+  },
+  {
+   "q": "Qualcomm earnings beat করেও শেয়ার পড়ল কেন?",
+   "options": [
+    "ডিভিডেন্ড বন্ধ হয়েছে",
+    "Handset আয় কমেছে আর পূর্বাভাস প্রত্যাশার চেয়ে দুর্বল",
+    "EPS শূন্য হয়েছে",
+    "কোম্পানি কেনা হচ্ছে"
+   ],
+   "answer": 1,
+   "explain": "বাজার ভবিষ্যতের guidance-এর দাম দেয়। Handset আয় 26% কমেছে আর পরের কোয়ার্টারের পূর্বাভাসও প্রত্যাশার চেয়ে দুর্বল ছিল।"
+  },
+  {
+   "q": "Bank of England বৃহস্পতিবার Bank Rate কত করেছে?",
+   "options": [
+    "3.5%",
+    "3.75%",
+    "4%",
+    "4.25%"
+   ],
+   "answer": 2,
+   "explain": "Bank Rate 0.25 পয়েন্ট বেড়ে 4% হয়েছে, ভোট 8-1।"
+  },
+  {
+   "q": "সুদের হার বাড়লে সাধারণত প্রযুক্তি শেয়ারের ওপর কী প্রভাব পড়ে?",
+   "options": [
+    "কোনো প্রভাব পড়ে না",
+    "ভবিষ্যৎ আয়ের বর্তমান মূল্য কমে, শেয়ারে চাপ বাড়ে",
+    "শেয়ার সবসময় বাড়ে",
+    "কোম্পানির আয় দ্বিগুণ হয়"
+   ],
+   "answer": 1,
+   "explain": "সুদ বাড়লে discount rate বাড়ে, ফলে দূরের ভবিষ্যতের আয়ের বর্তমান মূল্য কমে। যেসব কোম্পানির বড় আয় পরে আসবে, তারা বেশি ক্ষতিগ্রস্ত হয়।"
+  }
+ ],
+ "caseStudy": {
+  "week": "2026-W45",
+  "weekLabel": "২ – ৮ নভেম্বর ২০২৬",
+  "company": "Reliance Jio",
+  "title": "Reliance Jio: ফ্রি ডেটা দিয়ে কীভাবে গোটা টেলিকম বাজার বদলে দিল",
+  "concept": "Penetration Pricing",
+  "intro": "আজ Reliance-এর শেয়ার 12% বেড়েছে, আর এই গ্রুপের সবচেয়ে বড় সাফল্যের গল্পগুলোর একটা হলো Jio। 2016-র আগে ভারতে মোবাইল ডেটা ছিল দামি, আর বাজারে ছিল ডজনখানেক কোম্পানি। কয়েক বছরের মধ্যে ছবিটা পুরো বদলে যায়।",
+  "sections": [
+   {
+    "h": "কী করেছিল",
+    "p": "সেপ্টেম্বর 2016-তে Jio লঞ্চ হয় এক অবিশ্বাস্য অফার দিয়ে: কয়েক মাস ফ্রি ডেটা আর ফ্রি কল। এরপরেও তাদের প্ল্যানের দাম ছিল বাজারের চেয়ে অনেক কম। শুরু থেকেই 4G-only নেটওয়ার্ক বানানোয় পুরনো 2G/3G-র বোঝা তাদের ছিল না।"
+   },
+   {
+    "h": "ফলাফল",
+    "p": "মাত্র ছয় মাসের মধ্যে Jio-র গ্রাহক 10 কোটি ছাড়িয়ে যায়। ভারতে ডেটার দাম পৃথিবীর সবচেয়ে সস্তাগুলোর মধ্যে চলে আসে, আর ডেটা ব্যবহার কয়েক গুণ বেড়ে যায়। পুরনো কোম্পানিগুলো দাম কমাতে বাধ্য হয়। অনেকে বাজার ছেড়ে চলে যায়, Vodafone আর Idea এক হয়ে যায়। কয়েক বছরের মধ্যে Jio গ্রাহকের সংখ্যায় দেশের এক নম্বর টেলিকম কোম্পানি হয়ে ওঠে।"
+   },
+   {
+    "h": "কেন কাজ করল",
+    "p": "Reliance-এর কাছে লম্বা সময় লোকসান সহ্য করার মতো বিশাল মূলধন ছিল। টেলিকমে network effect কাজ করে: যত বেশি মানুষ, তত বেশি মূল্য। আর ডেটার চাহিদা দামের প্রতি খুব সংবেদনশীল (price elastic), তাই দাম কমতেই ব্যবহার বিস্ফোরণের মতো বেড়ে যায়।"
+   },
+   {
+    "h": "ঝুঁকি আর সমালোচনা",
+    "p": "এই কৌশলে হাজার হাজার কোটি টাকার বিনিয়োগ লাগে। প্রতিযোগীরা একে predatory pricing বলে অভিযোগ করেছিল। বাজারে কোম্পানি কমে গেলে ভবিষ্যতে গ্রাহকের বাছাইয়ের সুযোগও কমে যায়। পরে Jio নিজেও ধাপে ধাপে দাম বাড়িয়েছে।"
+   }
+  ],
+  "lesson": "Penetration pricing মানে শুরুতে খুব কম দামে ঢুকে দ্রুত বাজারের বড় ভাগ দখল করা, তারপর ধীরে ধীরে দাম বাড়ানো। এটা তখনই কাজ করে যখন কোম্পানির পকেট গভীর, চাহিদা দামের প্রতি সংবেদনশীল আর গ্রাহক একবার এলে সহজে ছেড়ে যায় না।",
+  "question": "ভাবো: ভারতের quick-commerce বাজারে (Blinkit, Zepto, Instamart) কি একই কৌশল চলছে? কারা টিকে থাকবে বলে তোমার মনে হয়?"
+ },
+ "en": {
+  "dateLabel": "Friday, 6 November 2026",
+  "news": [
+   {
+    "id": "n1",
+    "category": "Stock market",
+    "title": "AI chip rout: S&P 500 falls 4.36%, Nasdaq drops 5.52% into correction",
+    "summary": "US stocks fell sharply on Thursday. The S&P 500 dropped 4.36% to 7,353.73, the Nasdaq Composite fell 5.52% to 24,315.00 and the Dow Jones lost 3.44% (1,833.06 points) to 51,523.06. It was the S&P 500's worst day since April 2025. Nvidia fell 9.26% to $181.60, its lowest since April. Analysts mainly blame fear that a Democratic-controlled Congress could tighten AI rules and slow data-center building. The Nasdaq is now more than 10% below its record, which is correction territory.",
+    "why": "A perfect example of a one-day sell-off and the definition of a correction. It also shows how regulatory risk can move a whole sector's valuation without any company-specific news.",
+    "source": {
+     "name": "CNBC",
+     "url": "https://www.cnbc.com/2026/11/05/qualcomm-earnings-chip-stocks-election.html"
+    }
+   },
+   {
+    "id": "n2",
+    "category": "Company results",
+    "title": "Qualcomm falls about 9-13% on weak outlook as handset revenue drops 26%",
+    "summary": "Qualcomm's fourth-quarter adjusted EPS was $2.17, slightly above the $2.16 analysts expected but 28% below $3.00 a year earlier. Handset (smartphone chip) revenue fell 26%, linked to the loss of Apple modem orders and higher memory costs. Next-quarter adjusted EPS guidance is $2.15-$2.35 against about $2.27 expected. Automotive revenue did jump 89%. The stock ended the day roughly 9-13% lower, depending on the source.",
+    "why": "It shows why a stock can fall even after an earnings beat: guidance and expectations matter. The market prices the future outlook, not the past quarter.",
+    "source": {
+     "name": "24/7 Wall St.",
+     "url": "https://247wallst.com/investing/2026/11/05/qualcomm-sinks-11-as-soft-profit-guidance-and-handset-slump-overshadow-beat-arm-holdings-drops-7-skyworks-slides-2/"
+    }
+   },
+   {
+    "id": "n3",
+    "category": "Central banks",
+    "title": "Bank of England raises rates by 0.25 points to 4%, first hike since the Iran war began",
+    "summary": "On Thursday the Bank of England raised Bank Rate by 0.25 percentage points to 4%, its first increase since 2023. The Monetary Policy Committee voted 8-1, with one member (Catherine Mann) voting for a 0.5-point rise. The Bank says the energy-price shock from the Middle East conflict could push inflation to about 5% by mid-2027. The next decision is on 17 December.",
+    "why": "Core monetary policy logic: central banks raise rates to stop a supply shock from turning into lasting inflation. The Fed and RBI may face the same pressure.",
+    "source": {
+     "name": "Bank of England",
+     "url": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/november-2026"
+    }
+   },
+   {
+    "id": "n4",
+    "category": "Energy",
+    "title": "Brent rebounds about 3.9% to $98.29 after a one-day crash as Iran deal doubts grow",
+    "summary": "After falling roughly 9-10% on Wednesday, Brent crude futures settled $3.67, or 3.88%, higher at $98.29 a barrel on Thursday. US WTI gained $2.40, or 2.72%, to $90.52. Tanker attacks in the Gulf revived supply worries. Eurasia Group cut its probability of a US-Iran deal from 20% to 10% and warned that escalation could push Brent to $110-$125.",
+    "why": "An example of how supply shocks and political risk move commodity prices. For an oil importer like India, this feeds through to inflation and the rupee.",
+    "source": {
+     "name": "Rallies.ai (Reuters-ভিত্তিক বাজার রিপোর্ট)",
+     "url": "https://rallies.ai/news/brent-crude-jumps-settles-up-over-3-after-tanker-attacks-2b11933da683af1d"
+    }
+   },
+   {
+    "id": "n5",
+    "category": "India markets",
+    "title": "Sixth straight day of gains: Sensex jumps 2,009 points to about 79,310, Nifty at 24,537",
+    "summary": "On Thursday the Sensex rose about 2,009 points to near 79,310 and the Nifty gained 576 points to close near 24,537. Auto, financial and realty stocks led the rally, and Bank Nifty rose about 3.3%. Reports say investors' wealth rose by about ₹7 trillion. Lower oil prices and supportive global cues helped. The rupee closed almost unchanged at 94.46 per dollar.",
+    "why": "Useful for understanding how foreign flows, crude oil and bank stocks are linked. Cheaper oil lowers India's import bill and inflation pressure, so markets cheer.",
+    "source": {
+     "name": "Business Standard",
+     "url": "https://business-standard.com/amp/markets/news/stock-market-live-november-5-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-ipo-today-126110500085_1.html"
+    }
+   },
+   {
+    "id": "n6",
+    "category": "Economy",
+    "title": "US October jobs report due today: about 59,000-65,000 jobs expected, Fed December hike odds near 83%",
+    "summary": "The US employment report for October is due on Friday. Economists expect roughly 59,000-65,000 new jobs, versus just 29,000 in September, with unemployment steady at 4.2%. ADP's private-sector estimate was 86,000. According to CME FedWatch, markets see about an 83% chance of a Fed rate hike in December.",
+    "why": "Why jobs data moves markets: a strong labour market strengthens the case for the Fed to raise rates, and interest rates drive the prices of stocks, bonds and gold.",
+    "source": {
+     "name": "CNBC",
+     "url": "https://www.cnbc.com/2026/11/05/october-jobs-report-preview.html"
+    }
+   },
+   {
+    "id": "n7",
+    "category": "Gold and currencies",
+    "title": "Gold hits a two-week high near $4,090-$4,120 on a weaker dollar",
+    "summary": "Gold reached a two-week high on Thursday as the dollar and US Treasury yields fell for a second straight day. USAGold reports gold up 1.48% at $4,121.74, while Kitco's last quote was about $4,088; sources differ slightly. The dollar index is near 101.50. Gold pays no interest, so lower rates and a weaker dollar make it more attractive.",
+    "why": "Opportunity cost and safe-haven assets. When stocks fall or the dollar weakens, investors turn to gold.",
+    "source": {
+     "name": "USAGold",
+     "url": "https://www.usagold.com/daily-precious-metals-market-report-november-5-2026/"
+    }
+   }
+  ],
+  "market": {
+   "asOf": "Thursday, 5 November 2026 close",
+   "items": [
+    {
+     "name": "S&P 500",
+     "region": "US",
+     "value": "7,353.73",
+     "change": "-4.36%",
+     "dir": "down"
+    },
+    {
+     "name": "Dow Jones",
+     "region": "US",
+     "value": "51,523.06",
+     "change": "-3.44%",
+     "dir": "down"
+    },
+    {
+     "name": "Nasdaq",
+     "region": "US",
+     "value": "24,315.00",
+     "change": "-5.52%",
+     "dir": "down"
+    },
+    {
+     "name": "Sensex",
+     "region": "India",
+     "value": "79,310",
+     "change": "+2,009 pts",
+     "dir": "up"
+    },
+    {
+     "name": "Nifty 50",
+     "region": "India",
+     "value": "24,537",
+     "change": "+576 pts",
+     "dir": "up"
+    },
+    {
+     "name": "Brent Crude",
+     "region": "$ per barrel",
+     "value": "98.29",
+     "change": "+3.88%",
+     "dir": "up"
+    },
+    {
+     "name": "USD/INR",
+     "region": "₹ per dollar",
+     "value": "94.46",
+     "change": "unchanged",
+     "dir": "flat"
+    }
+   ]
+  },
+  "term": {
+   "term": "Market Correction",
+   "bangla": "A drop of 10% or more from a recent peak",
+   "definition": "When a stock index falls 10% or more from its recent peak, it is called a correction. A fall of more than 20% is usually called a bear market. Corrections often cool off stretched valuations, so many treat them as a normal part of market cycles.",
+   "example": "On Thursday the Nasdaq Composite fell 5.52% to 24,315.00, more than 10% below its October record close, so media say it has entered correction territory.",
+   "formula": "Drawdown % = (Peak − Current price) ÷ Peak × 100. 10% or more = correction, 20% or more = bear market.",
+   "tip": "In interviews say: a correction is not a crash. Stay diversified and keep your long-term plan; panic selling turns a paper loss into a real one."
+  },
+  "gd": {
+   "topic": "AI stocks sell-off: the start of a bubble burst, or a healthy correction?",
+   "context": "On Thursday the Nasdaq fell 5.52% and Nvidia fell 9.26%. Cited reasons include fear of AI regulation, huge AI spending by big companies and Qualcomm's weak outlook.",
+   "for": [
+    "AI company valuations had run far ahead of earnings, so a correction was due.",
+    "Big firms' AI spending keeps rising, but the returns on that spending are not fully clear yet.",
+    "A 9% drop on one political worry shows the market was fragile."
+   ],
+   "against": [
+    "AI demand is real: AMD's Data Center revenue nearly doubled, for example.",
+    "The Nasdaq is nowhere near a 20% fall; this is still a correction, not a bear market.",
+    "Fear of regulation is bigger than the facts: nobody knows yet what rules will actually come."
+   ]
+  },
+  "blog": {
+   "title": "What is a correction? Lessons in fear and greed from the Nasdaq's fall",
+   "topic": "Markets and investing",
+   "readMin": 5,
+   "body": [
+    "One word kept appearing in the news about Thursday's US market move: correction. The Nasdaq Composite fell 5.52% in a day to 24,315.00, the S&P 500 fell 4.36% and Nvidia dropped 9.26% to $181.60. In this piece we start from scratch: what a correction is, why it happens, and what a BBA student can learn from it.",
+    "## What exactly is a correction?",
+    "Say an index peaked at 100. If it falls to 90 or lower, a drop of 10% or more from the peak, markets call it a correction. A fall of more than 20% is called a bear market. The formula is simple: Drawdown % = (Peak − Current price) ÷ Peak × 100. By this measure the Nasdaq is now more than 10% below its record close, which is why the news says it has entered correction territory.",
+    "Note the word: not a crash but a correction. Many investors believe that when prices run too far ahead of company earnings (stretched valuations), bringing them down is part of a market's normal job. A small piece of news can then be enough to push people to sell.",
+    "## What was behind the fall?",
+    "Analysts point to three things. First, the US midterms: Democrats won Congress, and investors fear tighter AI rules and more obstacles to building data centers. Nvidia had no bad company news of its own, yet it fell about 9%. That is the power of regulatory risk.",
+    "Second, Qualcomm's results. Its adjusted EPS of $2.17 was slightly above expectations, but handset revenue fell 26% and its guidance for next quarter was weaker than expected, so the stock fell roughly 9-13%. Lesson: markets pay more for the future outlook than for past results.",
+    "Third, the interest-rate backdrop. The Bank of England raised its rate to 4% on Thursday, and markets see about an 83% chance of a Fed hike in December. Higher rates reduce the present value of future earnings, which hurts technology stocks whose big profits lie further ahead.",
+    "## Fear and greed: investor psychology",
+    "Behavioural finance says people buy out of greed (FOMO) when markets rise and sell out of fear when they fall. Both are backwards: buying high and selling low locks in losses. Selling during a fall turns a paper loss into a real one. History has many corrections, and many were later recovered, though there is no guarantee that any will be.",
+    "Try a small calculation. If an index falls 10%, it must rise 11.1% to get back, because percentages are computed on the lower price. After a 20% fall it needs 25%. That is why a fall that looks small in percentage terms can take a long time to recover. Keeping losses small matters as much as growing gains, and that is the heart of risk management. The same logic applies to companies: when a CFO or marketing manager sets a budget, they look not only at the possible gain but also at the possible loss.",
+    "## What does a sensible investor do in a correction?",
+    "One, diversify: if all your money sits in one sector and it falls, the whole portfolio suffers. Look at today: the Nasdaq and AI chip stocks fell, yet the Sensex rose about 2,009 points the same day. Spreading across markets, assets and sectors softens the blow. Two, mind your time horizon: money you need in two or three years is risky in equities; long-term money has room to ride out volatility. Three, investing small amounts regularly (like a SIP) buys more units when prices fall, called rupee cost averaging.",
+    "## A practical lesson for BBA students",
+    "If an interviewer or a GD asks what you would do when the market falls, don't just say 'buy' or 'sell'. First ask: why did it fall (company-specific or market-wide)? What is my time horizon? How diversified am I? These three questions move you from emotion to analysis.",
+    "Remember, this is not investment advice. We are learning market concepts here. Understanding corrections does not mean predicting the future; it means learning to ask calm questions on a day of falling prices. Nvidia reports results on 17 November, and the market will be watching."
+   ],
+   "takeaways": [
+    "A fall of 10% or more from the peak is a correction; 20% or more is a bear market.",
+    "Markets price the future outlook (guidance), so a stock can fall even after an earnings beat.",
+    "Don't sell in fear; think about diversification, your time horizon and regular investing."
+   ]
+  },
+  "quiz": [
+   {
+    "q": "By what percentage did the Nasdaq Composite fall on Thursday?",
+    "options": [
+     "3.44%",
+     "4.36%",
+     "5.52%",
+     "9.26%"
+    ],
+    "answer": 2,
+    "explain": "The Nasdaq fell 5.52% to 24,315.00. 4.36% was the S&P 500, 3.44% the Dow and 9.26% Nvidia."
+   },
+   {
+    "q": "A fall of what percentage or more from the peak is called a correction?",
+    "options": [
+     "5%",
+     "10%",
+     "20%",
+     "50%"
+    ],
+    "answer": 1,
+    "explain": "A drop of 10% or more from the peak is a correction. Beyond 20% it is usually a bear market."
+   },
+   {
+    "q": "Why did Qualcomm's stock fall despite beating earnings estimates?",
+    "options": [
+     "It stopped its dividend",
+     "Handset revenue fell and guidance was weaker than expected",
+     "EPS became zero",
+     "It is being acquired"
+    ],
+    "answer": 1,
+    "explain": "Markets price the future outlook. Handset revenue fell 26% and next-quarter guidance was weaker than expected."
+   },
+   {
+    "q": "What did the Bank of England set Bank Rate to on Thursday?",
+    "options": [
+     "3.5%",
+     "3.75%",
+     "4%",
+     "4.25%"
+    ],
+    "answer": 2,
+    "explain": "Bank Rate rose 0.25 points to 4%, on an 8-1 vote."
+   },
+   {
+    "q": "What is the usual effect of higher interest rates on technology stocks?",
+    "options": [
+     "No effect",
+     "The present value of future earnings falls, adding pressure",
+     "Shares always rise",
+     "Company earnings double"
+    ],
+    "answer": 1,
+    "explain": "Higher rates raise the discount rate, so distant future earnings are worth less today. Companies with profits far ahead are hit harder."
+   }
+  ],
+  "caseStudy": {
+   "week": "2026-W45",
+   "weekLabel": "2 – 8 November 2026",
+   "company": "Reliance Jio",
+   "title": "Reliance Jio: how free data changed the whole telecom market",
+   "concept": "Penetration Pricing",
+   "intro": "Reliance shares rose 12% today, and one of the group's biggest success stories is Jio. Before 2016, mobile data in India was expensive and the market had a dozen companies. Within a few years the picture had changed completely.",
+   "sections": [
+    {
+     "h": "What it did",
+     "p": "Jio launched in September 2016 with an unbelievable offer: free data and free calls for several months. Even after that, its plans cost far less than the market. Because it built a 4G-only network from the start, it carried none of the old 2G/3G baggage."
+    },
+    {
+     "h": "The result",
+     "p": "Within just six months Jio crossed 100 million customers. Data prices in India became among the cheapest in the world, and data use grew many times over. Older companies were forced to cut prices. Many left the market, and Vodafone and Idea merged. Within a few years Jio became India's number one telecom company by subscribers."
+    },
+    {
+     "h": "Why it worked",
+     "p": "Reliance had huge capital to bear losses for a long time. Telecom has network effects: the more people, the more value. And demand for data is very price elastic, so usage exploded as soon as prices fell."
+    },
+    {
+     "h": "Risks and criticism",
+     "p": "The strategy needed tens of thousands of crores in investment. Rivals accused it of predatory pricing. With fewer companies left, customers may have less choice in future. Jio itself later raised prices step by step."
+    }
+   ],
+   "lesson": "Penetration pricing means entering at a very low price to win a large market share quickly, then raising prices slowly. It works when the company has deep pockets, demand is price sensitive and customers rarely leave once they join.",
+   "question": "Think: is the same strategy playing out in India's quick-commerce market (Blinkit, Zepto, Instamart)? Who do you think will survive?"
+  }
+ }
+}
