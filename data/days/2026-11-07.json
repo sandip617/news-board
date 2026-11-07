@@ -1,0 +1,579 @@
+{
+ "date": "2026-11-07",
+ "dateLabel": "৭ নভেম্বর ২০২৬, শনিবার",
+ "edition": 1,
+ "updatedAt": "2026-11-07T06:48:46+05:30",
+ "news": [
+  {
+   "id": "n1",
+   "category": "চাকরির বাজার",
+   "title": "আমেরিকায় অক্টোবরে 165,000 নতুন চাকরি, Fed-এর ডিসেম্বরে সুদ বাড়ানোর সম্ভাবনা চড়ল",
+   "summary": "শুক্রবার প্রকাশিত রিপোর্টে দেখা গেছে অক্টোবরে আমেরিকায় 165,000 নতুন চাকরি তৈরি হয়েছে, যা অর্থনীতিবিদদের পূর্বাভাসের (প্রায় 59,000–64,000) চেয়ে অনেক বেশি। বেকারত্বের হার 4.2% থেকে নেমে 4.1% হয়েছে। আগস্ট ও সেপ্টেম্বরের হিসাব মিলিয়ে আরও 84,000 চাকরি যোগ করা হয়েছে। এই খবরের পর ডিসেম্বরে Fed সুদ বাড়াবে, এই বাজির সম্ভাবনা প্রায় 77–78%-এ উঠেছে। তবে বছরে মজুরি বেড়েছে 3.1%, যা 3.7% মুদ্রাস্ফীতির চেয়ে কম।",
+   "why": "শক্ত চাকরির তথ্য কেন সুদের হার (interest rate) বাড়ার আশঙ্কা তৈরি করে, আর মজুরি বৃদ্ধি মুদ্রাস্ফীতির চেয়ে কম হলে real wage কীভাবে কমে, এটা Macroeconomics-এর মূল বিষয়।",
+   "source": {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/06/jobs-report-october-2026.html"
+   }
+  },
+  {
+   "id": "n2",
+   "category": "কেন্দ্রীয় ব্যাংক",
+   "title": "Bank of England সুদ বাড়িয়ে 4% করল, 2023-এর পর প্রথমবার",
+   "summary": "বৃহস্পতিবার Bank of England তার মূল সুদের হার 0.25 শতাংশ পয়েন্ট বাড়িয়ে 3.75% থেকে 4% করেছে। এটা আগস্ট 2023-এর পর প্রথম বৃদ্ধি। Monetary Policy Committee ভোট দিয়েছে 8-1, আর একমাত্র বিরোধী সদস্য আরও বড় বৃদ্ধি চেয়েছিলেন। ইরান যুদ্ধের কারণে জ্বালানির দাম বেড়ে মুদ্রাস্ফীতি চড়ছে, ব্যাংক আশা করছে 2027-এর মাঝামাঝি তা প্রায় 5%-এ পৌঁছাবে। গভর্নর Andrew Bailey বলেছেন যুদ্ধ চলতে থাকলে আরেকবার বৃদ্ধি হতে পারে।",
+   "why": "এটা Monetary Policy-র সরাসরি উদাহরণ: খরচ-জনিত (cost-push) মুদ্রাস্ফীতি ঠেকাতে কেন্দ্রীয় ব্যাংক সুদ বাড়ায়, আর তাতে ঋণ ও মর্টগেজের খরচ বাড়ে।",
+   "source": {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/05/interest-rates-inflation-uk.html"
+   }
+  },
+  {
+   "id": "n3",
+   "category": "কোম্পানির ফলাফল",
+   "title": "Toyota-র শেয়ার 17% লাফাল, 1987-এর পর সবচেয়ে বড় একদিনের বৃদ্ধি",
+   "summary": "বৃহস্পতিবার টোকিওতে Toyota-র শেয়ার প্রায় 17% বেড়েছে, যা 1987-এর পর সবচেয়ে বড় একদিনের লাফ। জুলাই-সেপ্টেম্বর কোয়ার্টারে তাদের operating profit 34% বেড়েছে, ছয় কোয়ার্টারের মধ্যে প্রথম মুনাফা বৃদ্ধি। কোম্পানি সারা বছরের operating profit-এর পূর্বাভাস প্রায় 15% বাড়িয়ে 3.9 ট্রিলিয়ন ইয়েন করেছে। সঙ্গে পাঁচ বছরে প্রায় $89 বিলিয়ন শেয়ারহোল্ডারদের ফেরত দেওয়ার পরিকল্পনা আর 1.3 ট্রিলিয়ন ইয়েন পর্যন্ত buyback ঘোষণা করেছে। হাইব্রিড গাড়ির জোরালো চাহিদা এই ফলাফলের প্রধান কারণ।",
+   "why": "কোম্পানির আয়ের পূর্বাভাস (guidance) আর buyback শেয়ারের দামকে কত জোরে নাড়াতে পারে, Corporate Finance-এ তার ভালো উদাহরণ।",
+   "source": {
+    "name": "BusinessDay (Reuters)",
+    "url": "https://www.businessday.co.za/world/international-companies/2026-11-05-toyota-unveils-89-billion-plan-as-profits-soar/"
+   }
+  },
+  {
+   "id": "n4",
+   "category": "M&A",
+   "title": "চীন আটকে দিল SoftBank-এর $5.4 বিলিয়নে ABB Robotics কেনার চুক্তি",
+   "summary": "চীনের একটি বিদেশি বিনিয়োগ নিরাপত্তা পর্যালোচনা দপ্তর SoftBank-এর ABB-র রোবটিক্স বিভাগ কেনার চুক্তি নিষিদ্ধ করেছে। চুক্তিটি অক্টোবর 2025-এ ঘোষিত হয়েছিল, মূল্য ছিল প্রায় $5.4 বিলিয়ন। চীন ABB Robotics-এর সবচেয়ে বড় বাজার, বিভাগটির ব্যবসার প্রায় 30% সেখান থেকে আসে। রিপোর্ট অনুযায়ী উদ্বেগ হলো সংবেদনশীল রোবটিক্স তথ্য চীনের বাইরে যাওয়া। ABB বলেছে দুই কোম্পানি কাজ চালিয়ে যাচ্ছে।",
+   "why": "M&A-তে শুধু দাম ঠিক করলেই হয় না, regulatory approval-ও বড় ঝুঁকি। দেশের নিরাপত্তা-সংক্রান্ত নিয়ম কীভাবে বৈশ্বিক চুক্তি আটকায়, এটা International Business-এর বিষয়।",
+   "source": {
+    "name": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-05/china-blocks-softbank-s-acquisition-of-abb-industrial-robot-unit"
+   }
+  },
+  {
+   "id": "n5",
+   "category": "M&A",
+   "title": "AkzoNobel-Axalta $25 বিলিয়নের merger-এ EU-র শর্তসাপেক্ষ অনুমোদন",
+   "summary": "ইউরোপীয় কমিশন AkzoNobel ও Axalta-র all-stock merger শর্তসাপেক্ষে অনুমোদন করেছে। শর্ত হলো AkzoNobel-কে ইউরোপে তাদের vehicle refinish ব্যবসা বেচে দিতে হবে। কমিশনের আশঙ্কা ছিল একত্র হলে রঙের বাজারে দাম বাড়ানোর ক্ষমতা তৈরি হবে। AkzoNobel-এর CEO Greg Poux-Guillaume হবেন মিলিত কোম্পানির CEO। অন্যান্য অনুমোদন সাপেক্ষে চুক্তি 2027-এর শুরুতে শেষ হওয়ার আশা, আর UK-র CMA-র প্রাথমিক সিদ্ধান্ত 11 নভেম্বর আসার কথা।",
+   "why": "Antitrust বা competition law কীভাবে merger-এ শর্ত চাপায় (divestiture remedy), তার সরাসরি উদাহরণ। Market concentration-এর ধারণাও এখানে কাজে লাগে।",
+   "source": {
+    "name": "European Commission",
+    "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2347"
+   }
+  },
+  {
+   "id": "n6",
+   "category": "ভারতের বাজার",
+   "title": "Sensex 1,718 পয়েন্ট লাফিয়ে 81,028-এ, Nifty 25,030-এ; ছয় দিনে Sensex 8.27% ওপরে",
+   "summary": "শুক্রবার Sensex 1,718.01 পয়েন্ট (2.17%) বেড়ে 81,028.02-এ আর Nifty 493.75 পয়েন্ট বেড়ে 25,030.35-এ বন্ধ হয়েছে। আগের ছয় সেশনে Sensex মোট 6,063.98 পয়েন্ট বা 8.27% বেড়েছে। বৃহস্পতিবার ওয়াল স্ট্রিটে বড় পতন সত্ত্বেও ভারতের বাজার চড়েছে। একই দিনে টাকা 52 paise শক্তিশালী হয়ে ডলারপ্রতি 93.89-এ বন্ধ হয়েছে (সাময়িক হিসাব)।",
+   "why": "বিশ্ব বাজারের পতনের মধ্যেও কেন একটি বাজার আলাদা চলে, তা বোঝায় capital flow, তেলের দাম আর মুদ্রার সম্পর্ক। Investment ও International Finance-এর মূল বিষয়।",
+   "source": {
+    "name": "ETV Bharat",
+    "url": "https://www.etvbharat.com/en/business/stock-market-on-november-6-2026-sensex-nifty50-crude-oil-prices-fii-world-stock-markets-enn26110601249"
+   }
+  },
+  {
+   "id": "n7",
+   "category": "জ্বালানি",
+   "title": "তেলের দামে 2022-এর পর সবচেয়ে বড় সাপ্তাহিক পতন; Brent $98.32",
+   "summary": "Bloomberg-এর হিসাবে শুক্রবার Brent (জানুয়ারি চুক্তি) প্রায় $98.32 আর WTI $90.83 ব্যারেলে বন্ধ হয়েছে। সপ্তাহে তেলের দাম প্রায় 13.2% কমেছে, যা 2022-এর পর সবচেয়ে বড় সাপ্তাহিক পতন। কারণ হিসেবে বলা হচ্ছে ইরান ও আমেরিকার যুদ্ধ-অবসানের আলোচনার আশা। তবে হরমুজ প্রণালীর কাছে ট্যাংকারে হামলা চলায় পতন কিছুটা সীমিত থেকেছে।",
+   "why": "তেলের দামের ওঠানামা মুদ্রাস্ফীতি, আমদানিনির্ভর দেশের চলতি হিসাব আর টাকার মূল্যে কীভাবে প্রভাব ফেলে, Economics-এ এটা supply shock-এর উদাহরণ।",
+   "source": {
+    "name": "Rigzone (Bloomberg)",
+    "url": "https://www.rigzone.com/news/wire/oil_posts_biggest_weekly_drop_since_2022-06-nov-2026-185035-article/"
+   }
+  },
+  {
+   "id": "n8",
+   "category": "অর্থনীতি",
+   "title": "IMF প্রধান: AI-চালিত প্রবৃদ্ধি ধীর হলে কেন্দ্রীয় ব্যাংককে তা হিসেবে রাখতে হবে",
+   "summary": "IMF-এর ম্যানেজিং ডিরেক্টর Kristalina Georgieva শুক্রবার বলেছেন AI-তে বিনিয়োগের জোয়ার কিছু দেশের প্রবৃদ্ধি বাড়াচ্ছে এবং মধ্যপ্রাচ্য যুদ্ধের তেল-সরবরাহ ধাক্কা অনেকটা সামলাচ্ছে, কিন্তু একই সঙ্গে মুদ্রাস্ফীতির চাপ আর আর্থিক স্থিতিশীলতার উদ্বেগও বাড়াচ্ছে। তাঁর মতে AI-চালিত প্রবৃদ্ধি ধীর হলে জেদি মুদ্রাস্ফীতির বিরুদ্ধে লড়াইয়ে কেন্দ্রীয় ব্যাংকগুলোকে তা বিবেচনায় রাখতে হবে। তিনি বাজারের সাম্প্রতিক অস্থিরতার কথাও স্বীকার করেছেন।",
+   "why": "কেন্দ্রীয় ব্যাংকের সিদ্ধান্ত শুধু মুদ্রাস্ফীতির ওপর নয়, প্রবৃদ্ধির উৎসের ওপরও নির্ভর করে। এটা Macroeconomics ও financial stability-র ধারণা।",
+   "source": {
+    "name": "Reuters via Yahoo Finance",
+    "url": "https://finance.yahoo.com/technology/ai/articles/imfs-georgieva-says-slowdown-ai-235217190.html"
+   }
+  }
+ ],
+ "market": {
+  "asOf": "৬ নভেম্বর ২০২৬, শুক্রবারের ক্লোজিং",
+  "items": [
+   {
+    "name": "S&P 500",
+    "region": "আমেরিকা",
+    "value": "7,376.86",
+    "change": "+0.3%",
+    "dir": "up"
+   },
+   {
+    "name": "Dow Jones",
+    "region": "আমেরিকা",
+    "value": "51,285.73",
+    "change": "-0.5%",
+    "dir": "down"
+   },
+   {
+    "name": "Nasdaq",
+    "region": "আমেরিকা",
+    "value": "24,579.42",
+    "change": "+1.1%",
+    "dir": "up"
+   },
+   {
+    "name": "Sensex",
+    "region": "ভারত",
+    "value": "81,028.02",
+    "change": "+2.17%",
+    "dir": "up"
+   },
+   {
+    "name": "Nifty 50",
+    "region": "ভারত",
+    "value": "25,030.35",
+    "change": "+2.01%",
+    "dir": "up"
+   },
+   {
+    "name": "Brent Crude",
+    "region": "$ প্রতি ব্যারেল",
+    "value": "98.32",
+    "change": "+0.03%",
+    "dir": "up"
+   },
+   {
+    "name": "Gold",
+    "region": "$ প্রতি আউন্স",
+    "value": "4,049.69",
+    "change": "-0.94%",
+    "dir": "down"
+   },
+   {
+    "name": "USD/INR",
+    "region": "₹ প্রতি ডলার",
+    "value": "93.89",
+    "change": "-52 paise",
+    "dir": "down"
+   }
+  ]
+ },
+ "term": {
+  "term": "Real Wage",
+  "bangla": "প্রকৃত মজুরি (মুদ্রাস্ফীতি বাদ দিয়ে কেনার ক্ষমতা)",
+  "definition": "Nominal wage হলো টাকার অঙ্কে বেতন। Real wage হলো সেই বেতন দিয়ে আসলে কত জিনিস কেনা যায়, অর্থাৎ মুদ্রাস্ফীতি বাদ দেওয়ার পর বেতনের কেনার ক্ষমতা। বেতন বাড়লেও দাম তার চেয়ে দ্রুত বাড়লে real wage কমে যায়।",
+  "example": "আজকের রিপোর্টে আমেরিকায় বছরে মজুরি বেড়েছে 3.1%, কিন্তু মুদ্রাস্ফীতি 3.7%। অর্থাৎ real wage প্রায় 0.6 শতাংশ পয়েন্ট কমেছে।",
+  "formula": "Real wage বৃদ্ধি ≈ Nominal wage বৃদ্ধি − মুদ্রাস্ফীতির হার = 3.1% − 3.7% = −0.6 শতাংশ পয়েন্ট",
+  "tip": "Interview-এ বলো: শুধু বেতন বাড়ল কি না দেখলে হবে না, মুদ্রাস্ফীতি বাদ দিয়ে real wage দেখতে হয়। Job offer তুলনার সময়ও শহরের খরচ ধরে বিচার করা ভালো।"
+ },
+ "gd": {
+  "topic": "Fed কি ডিসেম্বরে সুদ বাড়াবে? শক্ত চাকরির বাজার ভালো খবর, নাকি মুদ্রাস্ফীতির ঝুঁকি?",
+  "context": "অক্টোবরে আমেরিকায় 165,000 নতুন চাকরি হয়েছে, বেকারত্ব 4.1%। বাজার ডিসেম্বরে সুদ বাড়ানোর সম্ভাবনা প্রায় 77–78% ধরছে, অথচ মজুরি বৃদ্ধি (3.1%) মুদ্রাস্ফীতির (3.7%) চেয়ে কম।",
+  "for": [
+   "মুদ্রাস্ফীতি 3.7%, তাই সুদ বাড়িয়ে চাহিদা ঠান্ডা করা দরকার।",
+   "চাকরির বাজার শক্ত, তাই অর্থনীতি সুদ বাড়ার ধাক্কা সইতে পারবে।",
+   "তেলের দাম ও যুদ্ধের কারণে মূল্যস্ফীতি দীর্ঘ হলে দেরি করা ব্যয়বহুল হবে।"
+  ],
+  "against": [
+   "মজুরি মুদ্রাস্ফীতির চেয়ে কম বাড়ছে, তাই চাহিদা-জনিত চাপ কম, সমস্যা মূলত তেলের সরবরাহ ঘাটতি।",
+   "AI শেয়ারের পতনের মধ্যে সুদ বাড়ালে বাজার আরও অস্থির হতে পারে।",
+   "involuntary part-time কাজ 339,000 বেড়েছে, অর্থাৎ চাকরির মান নিয়ে প্রশ্ন আছে।"
+  ]
+ },
+ "blog": {
+  "title": "Real Wage কী? বেতন বাড়লেও কেন কেনার ক্ষমতা কমে",
+  "topic": "Macroeconomics",
+  "readMin": 5,
+  "body": [
+   "বেতন বাড়ল, অথচ মাস শেষে হাতে টাকা কমে গেল, এমন অভিজ্ঞতা অনেকেরই আছে। অর্থনীতিতে এই ব্যাপারটাকেই ধরা হয় Real Wage দিয়ে। আজকের আমেরিকার চাকরির রিপোর্টে এই ধারণাটা খুব স্পষ্টভাবে দেখা গেছে, তাই আজ একদম গোড়া থেকে বোঝা যাক।",
+   "## Nominal wage আর Real wage",
+   "Nominal wage হলো টাকার অঙ্কে তুমি যা বেতন পাও। ধরো তোমার মাসিক বেতন 30,000 টাকা, আর বছরের শেষে হলো 31,500 টাকা, অর্থাৎ 5% বৃদ্ধি। কিন্তু এই সময়ে যদি জিনিসপত্রের দাম গড়ে 7% বাড়ে, তাহলে তোমার আসল কেনার ক্ষমতা কমেছে। এই কেনার ক্ষমতাকেই Real wage বলে। সহজ হিসাব হলো: Real wage বৃদ্ধি ≈ Nominal wage বৃদ্ধি − মুদ্রাস্ফীতি। এখানে 5% − 7% = −2% প্রায়। সঠিক হিসাবে (1.05 ÷ 1.07) − 1 করলে প্রায় −1.9% আসে।",
+   "## আজকের খবরে কী দেখা গেল",
+   "আজকের রিপোর্ট অনুযায়ী আমেরিকায় অক্টোবরে 165,000 নতুন চাকরি হয়েছে, বেকারত্ব নেমেছে 4.1%-এ। দেখে মনে হবে সব ভালো। কিন্তু একই রিপোর্ট বলছে বছরে মজুরি বেড়েছে 3.1%, আর মুদ্রাস্ফীতি 3.7%। মানে real wage প্রায় 0.6 শতাংশ পয়েন্ট কমেছে। অর্থাৎ বেশি মানুষ কাজ পাচ্ছেন, কিন্তু যাঁরা কাজ করছেন তাঁদের বেতনের কেনার ক্ষমতা বাড়ছে না। আরও আছে: involuntary part-time কাজ, অর্থাৎ যাঁরা পুরো সময়ের কাজ চান কিন্তু পাচ্ছেন না, তাঁদের সংখ্যা 339,000 বেড়েছে। তাই চাকরির সংখ্যা আর চাকরির মান আলাদা প্রশ্ন।",
+   "## কেন্দ্রীয় ব্যাংক কেন চাকরির খবরে নজর রাখে",
+   "কেন্দ্রীয় ব্যাংকের দুটো প্রধান কাজ: মুদ্রাস্ফীতি নিয়ন্ত্রণে রাখা আর কর্মসংস্থান সুস্থ রাখা। চাকরির বাজার খুব শক্ত হলে কোম্পানিগুলো কর্মী ধরে রাখতে মজুরি বাড়ায়, মানুষের হাতে টাকা বাড়ে, চাহিদা বাড়ে আর দাম চড়তে পারে। এই কারণেই অনেক সময় 'ভালো চাকরির খবর' শুনে সুদের হার বাড়ার আশঙ্কা তৈরি হয়। আজ তাই হয়েছে: রিপোর্টের পর Fed ডিসেম্বরে সুদ বাড়াবে, এই সম্ভাবনা প্রায় 77–78%-এ উঠেছে। তবে এবারের গল্প একটু জটিল, কারণ মুদ্রাস্ফীতির পেছনে বড় কারণ হলো তেলের দাম, যা চাহিদা নয়, সরবরাহের সমস্যা (supply shock)। Bank of England-ও একই কারণে সুদ বাড়িয়ে 4% করেছে এবং জানিয়েছে ইরান যুদ্ধের ফলে মুদ্রাস্ফীতি 2027-এর মাঝামাঝি প্রায় 5% হতে পারে।",
+   "## তেলের দাম আর টাকার কেনার ক্ষমতা",
+   "তেলের দাম বাড়লে পরিবহন, উৎপাদন আর খাদ্যের খরচ সব বাড়ে। এতে মুদ্রাস্ফীতি চড়ে, আর বেতন সেই গতিতে না বাড়লে real wage কমে। এই সপ্তাহে Brent প্রায় 13.2% কমে $98.32-এ নেমেছে, ইরান-আমেরিকা আলোচনার আশায়। দাম টিকে নিচে থাকলে মুদ্রাস্ফীতির চাপ কমবে এবং সুদ বাড়ানোর যুক্তিও দুর্বল হবে। দেখা যাচ্ছে একটা আন্তর্জাতিক খবর থেকে তোমার বেতনের মূল্য পর্যন্ত একটা শিকল আছে।",
+   "## উদাহরণ দিয়ে বুঝি: দুটো চাকরির তুলনা",
+   "ধরো দুটো কোম্পানি তোমাকে অফার দিয়েছে। প্রথমটি 40,000 টাকা বেতন দিচ্ছে এমন শহরে যেখানে বাড়িভাড়া ও খাবারের খরচ বেশি। দ্বিতীয়টি 36,000 টাকা দিচ্ছে এমন শহরে যেখানে খরচ অনেক কম। শুধু nominal wage দেখলে প্রথমটি ভালো মনে হবে, কিন্তু real wage অর্থাৎ হাতে থাকা কেনার ক্ষমতা দেখলে দ্বিতীয়টিও এগিয়ে থাকতে পারে। একইভাবে সময়ের সঙ্গে তুলনা করলেও মুদ্রাস্ফীতি বাদ দিয়ে দেখতে হয়। কোম্পানির HR বিভাগ তাই বেতন কাঠামো ঠিক করার সময় বাজারের মুদ্রাস্ফীতি ধরে বার্ষিক বৃদ্ধি দেয়, না হলে ভালো কর্মীরা অন্য জায়গায় চলে যান।",
+   "## অর্থনীতির বড় ছবিতে Real wage",
+   "দেশের স্তরে real wage বাড়া মানে সাধারণ মানুষের জীবনযাত্রার মান বাড়ছে, আর কমা মানে চাপ বাড়ছে। তাই সরকার ও কেন্দ্রীয় ব্যাংক দুজনেই এই সংখ্যাটা নজরে রাখে। মজুরি আর দামের মধ্যে একটা চক্রও কাজ করে: দাম বাড়লে শ্রমিক বেশি মজুরি চায়, মজুরি বাড়লে কোম্পানি খরচ মেটাতে দাম বাড়ায়। একে wage-price spiral বলে, আর কেন্দ্রীয় ব্যাংক এটা ঠেকাতেই সুদের হার ব্যবহার করে।",
+   "## BBA ছাত্রের জন্য ব্যবহারিক শিক্ষা",
+   "প্রথমত, কোনো job offer বা বেতন বৃদ্ধির খবর দেখলে সবসময় জিজ্ঞেস করো মুদ্রাস্ফীতির পর কত থাকে। দ্বিতীয়ত, কোম্পানির দৃষ্টিতে মজুরি হলো খরচ আবার কর্মীর দৃষ্টিতে আয়: Human Resource Management-এ pay structure ঠিক করার সময় inflation adjustment (cost-of-living adjustment) বিবেচনা করা হয়। তৃতীয়ত, Macroeconomics-এর প্রশ্নে সরাসরি বলো: Real wage = Nominal wage − Inflation (প্রায়)। আর GD বা interview-এ উদাহরণ হিসেবে আজকের হিসাবটা ব্যবহার করতে পারো: 3.1% − 3.7% = −0.6%। সবশেষে মনে রাখো, একটা ভালো সংখ্যা (165,000 চাকরি) আর একটা খারাপ সংখ্যা (নেতিবাচক real wage) একসঙ্গে সত্যি হতে পারে। বিশ্লেষকের কাজ হলো পুরো ছবিটা দেখা।"
+  ],
+  "takeaways": [
+   "Nominal wage টাকার অঙ্কে বেতন, Real wage মুদ্রাস্ফীতি বাদ দিয়ে কেনার ক্ষমতা।",
+   "আজকের হিসাব: 3.1% মজুরি বৃদ্ধি − 3.7% মুদ্রাস্ফীতি = −0.6% real wage।",
+   "শক্ত চাকরির খবর সুদ বাড়ার আশঙ্কা তৈরি করতে পারে, তাই সংখ্যার সঙ্গে সংখ্যার মান আর কারণও দেখো।"
+  ]
+ },
+ "quiz": [
+  {
+   "q": "অক্টোবরে আমেরিকায় বেকারত্বের হার কত হয়েছে?",
+   "options": [
+    "4.0%",
+    "4.1%",
+    "4.2%",
+    "4.5%"
+   ],
+   "answer": 1,
+   "explain": "রিপোর্ট অনুযায়ী বেকারত্ব 4.2% থেকে নেমে 4.1% হয়েছে।"
+  },
+  {
+   "q": "Bank of England সুদ বাড়ানোর পর তাদের মূল সুদের হার কত?",
+   "options": [
+    "3.50%",
+    "3.75%",
+    "4.00%",
+    "4.25%"
+   ],
+   "answer": 2,
+   "explain": "তারা 0.25 শতাংশ পয়েন্ট বাড়িয়ে 3.75% থেকে 4% করেছে।"
+  },
+  {
+   "q": "মজুরি বৃদ্ধি 3.1% আর মুদ্রাস্ফীতি 3.7% হলে real wage-এর পরিবর্তন প্রায় কত?",
+   "options": [
+    "+0.6 শতাংশ পয়েন্ট",
+    "0",
+    "+6.8 শতাংশ পয়েন্ট",
+    "−0.6 শতাংশ পয়েন্ট"
+   ],
+   "answer": 3,
+   "explain": "Real wage বৃদ্ধি ≈ 3.1 − 3.7 = −0.6 শতাংশ পয়েন্ট।"
+  },
+  {
+   "q": "চীন SoftBank-এর কত মূল্যের ABB Robotics কেনার চুক্তি আটকে দিয়েছে?",
+   "options": [
+    "প্রায় $5.4 বিলিয়ন",
+    "প্রায় $25 বিলিয়ন",
+    "প্রায় $89 বিলিয়ন",
+    "প্রায় $115 বিলিয়ন"
+   ],
+   "answer": 0,
+   "explain": "চুক্তিটি ছিল প্রায় $5.4 বিলিয়নের। $25 বিলিয়ন AkzoNobel-Axalta merger-এর মূল্য।"
+  },
+  {
+   "q": "EU কোন শর্তে AkzoNobel-Axalta merger অনুমোদন করেছে?",
+   "options": [
+    "Axalta-কে তার powder coatings বেচতে হবে",
+    "AkzoNobel-কে ইউরোপে vehicle refinish ব্যবসা বেচতে হবে",
+    "দুই কোম্পানির নাম বদলাতে হবে",
+    "শেয়ারের বদলে নগদ দিতে হবে"
+   ],
+   "answer": 1,
+   "explain": "কমিশনের শর্ত: AkzoNobel-এর European vehicle refinish ব্যবসা বিক্রি, যাতে দাম বাড়ানোর ক্ষমতা তৈরি না হয়।"
+  }
+ ],
+ "caseStudy": {
+  "week": "2026-W45",
+  "weekLabel": "২ – ৮ নভেম্বর ২০২৬",
+  "company": "Reliance Jio",
+  "title": "Reliance Jio: ফ্রি ডেটা দিয়ে কীভাবে গোটা টেলিকম বাজার বদলে দিল",
+  "concept": "Penetration Pricing",
+  "intro": "আজ Reliance-এর শেয়ার 12% বেড়েছে, আর এই গ্রুপের সবচেয়ে বড় সাফল্যের গল্পগুলোর একটা হলো Jio। 2016-র আগে ভারতে মোবাইল ডেটা ছিল দামি, আর বাজারে ছিল ডজনখানেক কোম্পানি। কয়েক বছরের মধ্যে ছবিটা পুরো বদলে যায়।",
+  "sections": [
+   {
+    "h": "কী করেছিল",
+    "p": "সেপ্টেম্বর 2016-তে Jio লঞ্চ হয় এক অবিশ্বাস্য অফার দিয়ে: কয়েক মাস ফ্রি ডেটা আর ফ্রি কল। এরপরেও তাদের প্ল্যানের দাম ছিল বাজারের চেয়ে অনেক কম। শুরু থেকেই 4G-only নেটওয়ার্ক বানানোয় পুরনো 2G/3G-র বোঝা তাদের ছিল না।"
+   },
+   {
+    "h": "ফলাফল",
+    "p": "মাত্র ছয় মাসের মধ্যে Jio-র গ্রাহক 10 কোটি ছাড়িয়ে যায়। ভারতে ডেটার দাম পৃথিবীর সবচেয়ে সস্তাগুলোর মধ্যে চলে আসে, আর ডেটা ব্যবহার কয়েক গুণ বেড়ে যায়। পুরনো কোম্পানিগুলো দাম কমাতে বাধ্য হয়। অনেকে বাজার ছেড়ে চলে যায়, Vodafone আর Idea এক হয়ে যায়। কয়েক বছরের মধ্যে Jio গ্রাহকের সংখ্যায় দেশের এক নম্বর টেলিকম কোম্পানি হয়ে ওঠে।"
+   },
+   {
+    "h": "কেন কাজ করল",
+    "p": "Reliance-এর কাছে লম্বা সময় লোকসান সহ্য করার মতো বিশাল মূলধন ছিল। টেলিকমে network effect কাজ করে: যত বেশি মানুষ, তত বেশি মূল্য। আর ডেটার চাহিদা দামের প্রতি খুব সংবেদনশীল (price elastic), তাই দাম কমতেই ব্যবহার বিস্ফোরণের মতো বেড়ে যায়।"
+   },
+   {
+    "h": "ঝুঁকি আর সমালোচনা",
+    "p": "এই কৌশলে হাজার হাজার কোটি টাকার বিনিয়োগ লাগে। প্রতিযোগীরা একে predatory pricing বলে অভিযোগ করেছিল। বাজারে কোম্পানি কমে গেলে ভবিষ্যতে গ্রাহকের বাছাইয়ের সুযোগও কমে যায়। পরে Jio নিজেও ধাপে ধাপে দাম বাড়িয়েছে।"
+   }
+  ],
+  "lesson": "Penetration pricing মানে শুরুতে খুব কম দামে ঢুকে দ্রুত বাজারের বড় ভাগ দখল করা, তারপর ধীরে ধীরে দাম বাড়ানো। এটা তখনই কাজ করে যখন কোম্পানির পকেট গভীর, চাহিদা দামের প্রতি সংবেদনশীল আর গ্রাহক একবার এলে সহজে ছেড়ে যায় না।",
+  "question": "ভাবো: ভারতের quick-commerce বাজারে (Blinkit, Zepto, Instamart) কি একই কৌশল চলছে? কারা টিকে থাকবে বলে তোমার মনে হয়?"
+ },
+ "en": {
+  "dateLabel": "Saturday, 7 November 2026",
+  "news": [
+   {
+    "id": "n1",
+    "category": "Jobs",
+    "title": "US adds 165,000 jobs in October, lifting odds of a December Fed hike",
+    "summary": "The report out on Friday shows the US economy added 165,000 jobs in October, far above economists' forecasts of roughly 59,000–64,000. The unemployment rate slipped from 4.2% to 4.1%, and August and September were revised up by a combined 84,000 jobs. After the data, bets on a Fed rate hike in December rose to about 77–78%. Wages grew 3.1% over the year, though, which is below the 3.7% inflation rate.",
+    "why": "It shows why strong jobs data can raise fears of higher interest rates, and how real wages fall when pay grows slower than inflation. Both are core Macroeconomics ideas.",
+    "source": {
+     "name": "CNBC",
+     "url": "https://www.cnbc.com/2026/11/06/jobs-report-october-2026.html"
+    }
+   },
+   {
+    "id": "n2",
+    "category": "Central banks",
+    "title": "Bank of England raises rates to 4%, first hike since 2023",
+    "summary": "On Thursday the Bank of England raised its key rate by 0.25 percentage points, from 3.75% to 4%. It is the first rise since August 2023. The Monetary Policy Committee voted 8-1, and the one dissenter wanted a bigger hike. Energy prices pushed up by the Iran war are lifting inflation, which the bank expects to near 5% by mid-2027. Governor Andrew Bailey said another hike could come if the war continues.",
+    "why": "A direct example of Monetary Policy: central banks raise rates to fight cost-push inflation, which makes loans and mortgages dearer.",
+    "source": {
+     "name": "CNBC",
+     "url": "https://www.cnbc.com/2026/11/05/interest-rates-inflation-uk.html"
+    }
+   },
+   {
+    "id": "n3",
+    "category": "Earnings",
+    "title": "Toyota shares jump 17%, biggest one-day gain since 1987",
+    "summary": "Toyota's Tokyo shares rose about 17% on Thursday, their biggest one-day jump since 1987. Operating profit rose 34% in July–September, the first profit gain in six quarters. The company raised its full-year operating profit forecast about 15% to 3.9 trillion yen, announced a plan to return about $89 billion to shareholders over five years and expanded its buyback to up to 1.3 trillion yen. Strong hybrid demand was the main driver.",
+    "why": "A good Corporate Finance example of how raised guidance and buybacks can move a share price sharply.",
+    "source": {
+     "name": "BusinessDay (Reuters)",
+     "url": "https://www.businessday.co.za/world/international-companies/2026-11-05-toyota-unveils-89-billion-plan-as-profits-soar/"
+    }
+   },
+   {
+    "id": "n4",
+    "category": "M&A",
+    "title": "China blocks SoftBank's $5.4 billion purchase of ABB Robotics",
+    "summary": "A Chinese office that reviews foreign investment for security reasons has prohibited SoftBank's takeover of ABB's robotics division. The deal was announced in October 2025 at about $5.4 billion. China is ABB Robotics' largest market, around 30% of the division's business. Reports point to concern that sensitive robotics data could leave China. ABB says the two companies are working constructively on the transaction.",
+    "why": "In M&A, agreeing on price is not enough; regulatory approval is a major risk. This shows how national-security rules can stop global deals, an International Business topic.",
+    "source": {
+     "name": "Bloomberg",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-05/china-blocks-softbank-s-acquisition-of-abb-industrial-robot-unit"
+    }
+   },
+   {
+    "id": "n5",
+    "category": "M&A",
+    "title": "EU conditionally approves $25 billion AkzoNobel–Axalta merger",
+    "summary": "The European Commission has approved the all-stock merger of AkzoNobel and Axalta on one condition: AkzoNobel must sell its European vehicle refinish business. The Commission feared the combined firm could raise prices in that segment. AkzoNobel CEO Greg Poux-Guillaume will lead the merged company. Closing is expected in early 2027 subject to other approvals, and the UK CMA's initial decision is due on 11 November.",
+    "why": "A clear case of how competition law imposes conditions on mergers (a divestiture remedy). It also introduces market concentration.",
+    "source": {
+     "name": "European Commission",
+     "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2347"
+    }
+   },
+   {
+    "id": "n6",
+    "category": "India markets",
+    "title": "Sensex jumps 1,718 points to 81,028, Nifty at 25,030; Sensex up 8.27% in six sessions",
+    "summary": "On Friday the Sensex gained 1,718.01 points (2.17%) to close at 81,028.02, and the Nifty rose 493.75 points to 25,030.35. Over the previous six sessions the Sensex has added 6,063.98 points, or 8.27%. Indian markets rose despite Thursday's sharp fall on Wall Street. The rupee also gained 52 paise to close at 93.89 per dollar (provisional).",
+    "why": "Why one market can move differently from global markets is explained by capital flows, oil prices and currency links, key ideas in Investments and International Finance.",
+    "source": {
+     "name": "ETV Bharat",
+     "url": "https://www.etvbharat.com/en/business/stock-market-on-november-6-2026-sensex-nifty50-crude-oil-prices-fii-world-stock-markets-enn26110601249"
+    }
+   },
+   {
+    "id": "n7",
+    "category": "Energy",
+    "title": "Oil posts biggest weekly drop since 2022; Brent at $98.32",
+    "summary": "Bloomberg's data shows Brent (January contract) settled around $98.32 and WTI at $90.83 a barrel on Friday. Prices fell about 13.2% over the week, the largest weekly fall since 2022, on hopes of talks to end the US–Iran war. Continued tanker attacks near the Strait of Hormuz limited the drop.",
+    "why": "Oil swings affect inflation, the current account of import-dependent countries and currencies. It is a standard example of a supply shock in Economics.",
+    "source": {
+     "name": "Rigzone (Bloomberg)",
+     "url": "https://www.rigzone.com/news/wire/oil_posts_biggest_weekly_drop_since_2022-06-nov-2026-185035-article/"
+    }
+   },
+   {
+    "id": "n8",
+    "category": "Economy",
+    "title": "IMF chief: any slowdown in AI-driven growth must be weighed by central banks",
+    "summary": "IMF Managing Director Kristalina Georgieva said on Friday that the AI investment boom is lifting growth in some countries and offsetting the Middle East war's oil-supply shock, but it also adds to inflation pressure and financial-stability concerns. She said that if the AI growth impulse slows, central banks must factor it in while fighting stubborn inflation. She also acknowledged the recent market volatility.",
+    "why": "Central bank decisions depend not just on inflation but on where growth comes from. This links to Macroeconomics and financial stability.",
+    "source": {
+     "name": "Reuters via Yahoo Finance",
+     "url": "https://finance.yahoo.com/technology/ai/articles/imfs-georgieva-says-slowdown-ai-235217190.html"
+    }
+   }
+  ],
+  "market": {
+   "asOf": "Close of Friday, 6 November 2026",
+   "items": [
+    {
+     "name": "S&P 500",
+     "region": "US",
+     "value": "7,376.86",
+     "change": "+0.3%",
+     "dir": "up"
+    },
+    {
+     "name": "Dow Jones",
+     "region": "US",
+     "value": "51,285.73",
+     "change": "-0.5%",
+     "dir": "down"
+    },
+    {
+     "name": "Nasdaq",
+     "region": "US",
+     "value": "24,579.42",
+     "change": "+1.1%",
+     "dir": "up"
+    },
+    {
+     "name": "Sensex",
+     "region": "India",
+     "value": "81,028.02",
+     "change": "+2.17%",
+     "dir": "up"
+    },
+    {
+     "name": "Nifty 50",
+     "region": "India",
+     "value": "25,030.35",
+     "change": "+2.01%",
+     "dir": "up"
+    },
+    {
+     "name": "Brent Crude",
+     "region": "$ per barrel",
+     "value": "98.32",
+     "change": "+0.03%",
+     "dir": "up"
+    },
+    {
+     "name": "Gold",
+     "region": "$ per ounce",
+     "value": "4,049.69",
+     "change": "-0.94%",
+     "dir": "down"
+    },
+    {
+     "name": "USD/INR",
+     "region": "₹ per dollar",
+     "value": "93.89",
+     "change": "-52 paise",
+     "dir": "down"
+    }
+   ]
+  },
+  "term": {
+   "term": "Real Wage",
+   "bangla": "What your pay can actually buy after inflation",
+   "definition": "Nominal wage is pay in money terms. Real wage is how much that pay can actually buy, that is, its purchasing power after removing inflation. If prices rise faster than pay, the real wage falls.",
+   "example": "In today's report US wages grew 3.1% over the year while inflation is 3.7%, so the real wage fell by about 0.6 percentage points.",
+   "formula": "Real wage growth ≈ Nominal wage growth − Inflation rate = 3.1% − 3.7% = −0.6 percentage points",
+   "tip": "In interviews say: don't just ask whether pay rose; check the real wage after inflation. Compare job offers adjusting for the cost of living too."
+  },
+  "gd": {
+   "topic": "Will the Fed hike in December? Is a strong job market good news or an inflation risk?",
+   "context": "The US added 165,000 jobs in October and unemployment is 4.1%. Markets price about a 77–78% chance of a December hike, even though wage growth (3.1%) is below inflation (3.7%).",
+   "for": [
+    "Inflation is 3.7%, so higher rates are needed to cool demand.",
+    "The job market is strong, so the economy can absorb a hike.",
+    "If oil-driven inflation lasts, waiting will be costly."
+   ],
+   "against": [
+    "Wages are growing slower than prices, so demand pressure is weak; the problem is mostly oil supply.",
+    "Hiking during an AI-stock rout could add to market instability.",
+    "Involuntary part-time work rose by 339,000, which questions job quality."
+   ]
+  },
+  "blog": {
+   "title": "What Is a Real Wage? Why a Raise Can Still Mean Less Buying Power",
+   "topic": "Macroeconomics",
+   "readMin": 5,
+   "body": [
+    "Many people have had the experience of getting a raise and still ending the month with less money. Economics captures this through the real wage. Today's US jobs report shows the idea clearly, so let's build it from scratch.",
+    "## Nominal wage vs real wage",
+    "Nominal wage is the pay you receive in money terms. Say your monthly pay is 30,000 rupees and after a year it is 31,500, a 5% raise. But if prices rose 7% on average in that time, your actual buying power has fallen. That buying power is the real wage. The simple rule: real wage growth ≈ nominal wage growth − inflation. Here that is 5% − 7% = about −2%. The exact calculation, (1.05 ÷ 1.07) − 1, gives about −1.9%.",
+    "## What today's news showed",
+    "The report says the US added 165,000 jobs in October and unemployment fell to 4.1%. That sounds all good. But the same report shows wages grew 3.1% over the year while inflation is 3.7%, so the real wage fell by about 0.6 percentage points. More people are getting jobs, yet the pay of those working is not gaining buying power. Also, involuntary part-time work, people who want full-time jobs but cannot get them, rose by 339,000. The number of jobs and the quality of jobs are separate questions.",
+    "## Why central banks watch jobs data",
+    "A central bank has two main jobs: keep inflation in check and keep employment healthy. When the job market is very tight, firms raise pay to keep workers, people have more to spend, demand rises and prices can climb. That is why 'good jobs news' can trigger fears of higher interest rates. It happened today: after the report, the odds of a Fed hike in December rose to about 77–78%. This story is more complex, though, because a big driver of inflation is the oil price, which is a supply problem rather than a demand problem (a supply shock). The Bank of England also raised rates to 4% and said the Iran war could push inflation to nearly 5% by mid-2027.",
+    "## Oil prices and buying power",
+    "When oil prices rise, transport, production and food costs all go up. Inflation climbs, and if pay does not keep pace the real wage falls. This week Brent fell about 13.2% to $98.32 on hopes of US–Iran talks. If prices stay lower, inflation pressure eases and the case for hiking weakens. So there is a chain from an international headline to the buying power of your pay.",
+    "## A worked example: comparing two jobs",
+    "Suppose two firms make you offers. The first pays 40,000 rupees in a city where rent and food are expensive. The second pays 36,000 in a city where living costs are much lower. Looking only at nominal wage, the first seems better, but looking at the real wage, the buying power left in your hand, the second may well come out ahead. The same applies when you compare across time: always remove inflation. HR departments therefore set annual raises with market inflation in mind, otherwise good employees leave for better offers.",
+    "## Real wage in the bigger economic picture",
+    "At the national level, a rising real wage means living standards are improving and a falling one means growing pressure on households. That is why governments and central banks both watch the number. There is also a loop between wages and prices: when prices rise, workers ask for higher pay; when pay rises, firms raise prices to cover costs. This is called the wage-price spiral, and central banks use interest rates to stop it.",
+    "## Practical lessons for BBA students",
+    "First, whenever you see a job offer or a raise, ask what is left after inflation. Second, wages are a cost to the firm and income to the worker: in Human Resource Management, pay structures consider cost-of-living adjustments. Third, in a Macroeconomics answer, state it directly: real wage ≈ nominal wage − inflation. In a GD or interview, use today's numbers as the example: 3.1% − 3.7% = −0.6%. Finally, remember that a good number (165,000 jobs) and a bad number (a falling real wage) can both be true at once. An analyst's job is to see the whole picture."
+   ],
+   "takeaways": [
+    "Nominal wage is pay in money; real wage is buying power after inflation.",
+    "Today's math: 3.1% wage growth − 3.7% inflation = −0.6% real wage.",
+    "Strong jobs data can raise fears of rate hikes, so look at both the number and its quality and cause."
+   ]
+  },
+  "quiz": [
+   {
+    "q": "What was the US unemployment rate in October?",
+    "options": [
+     "4.0%",
+     "4.1%",
+     "4.2%",
+     "4.5%"
+    ],
+    "answer": 1,
+    "explain": "The report says unemployment slipped from 4.2% to 4.1%."
+   },
+   {
+    "q": "What is the Bank of England's key rate after its hike?",
+    "options": [
+     "3.50%",
+     "3.75%",
+     "4.00%",
+     "4.25%"
+    ],
+    "answer": 2,
+    "explain": "It raised the rate by 0.25 points from 3.75% to 4%."
+   },
+   {
+    "q": "If wages grow 3.1% and inflation is 3.7%, the approximate change in real wage is:",
+    "options": [
+     "+0.6 percentage points",
+     "0",
+     "+6.8 percentage points",
+     "−0.6 percentage points"
+    ],
+    "answer": 3,
+    "explain": "Real wage growth ≈ 3.1 − 3.7 = −0.6 percentage points."
+   },
+   {
+    "q": "What was the value of the SoftBank–ABB Robotics deal that China blocked?",
+    "options": [
+     "About $5.4 billion",
+     "About $25 billion",
+     "About $89 billion",
+     "About $115 billion"
+    ],
+    "answer": 0,
+    "explain": "The deal was worth about $5.4 billion. $25 billion is the AkzoNobel–Axalta merger."
+   },
+   {
+    "q": "On what condition did the EU approve the AkzoNobel–Axalta merger?",
+    "options": [
+     "Axalta must sell its powder coatings",
+     "AkzoNobel must sell its European vehicle refinish business",
+     "The two firms must change names",
+     "The deal must be paid in cash"
+    ],
+    "answer": 1,
+    "explain": "The condition is the sale of AkzoNobel's European vehicle refinish business to avoid higher prices."
+   }
+  ],
+  "caseStudy": {
+   "week": "2026-W45",
+   "weekLabel": "2 – 8 November 2026",
+   "company": "Reliance Jio",
+   "title": "Reliance Jio: how free data changed the whole telecom market",
+   "concept": "Penetration Pricing",
+   "intro": "Reliance shares rose 12% today, and one of the group's biggest success stories is Jio. Before 2016, mobile data in India was expensive and the market had a dozen companies. Within a few years the picture had changed completely.",
+   "sections": [
+    {
+     "h": "What it did",
+     "p": "Jio launched in September 2016 with an unbelievable offer: free data and free calls for several months. Even after that, its plans cost far less than the market. Because it built a 4G-only network from the start, it carried none of the old 2G/3G baggage."
+    },
+    {
+     "h": "The result",
+     "p": "Within just six months Jio crossed 100 million customers. Data prices in India became among the cheapest in the world, and data use grew many times over. Older companies were forced to cut prices. Many left the market, and Vodafone and Idea merged. Within a few years Jio became India's number one telecom company by subscribers."
+    },
+    {
+     "h": "Why it worked",
+     "p": "Reliance had huge capital to bear losses for a long time. Telecom has network effects: the more people, the more value. And demand for data is very price elastic, so usage exploded as soon as prices fell."
+    },
+    {
+     "h": "Risks and criticism",
+     "p": "The strategy needed tens of thousands of crores in investment. Rivals accused it of predatory pricing. With fewer companies left, customers may have less choice in future. Jio itself later raised prices step by step."
+    }
+   ],
+   "lesson": "Penetration pricing means entering at a very low price to win a large market share quickly, then raising prices slowly. It works when the company has deep pockets, demand is price sensitive and customers rarely leave once they join.",
+   "question": "Think: is the same strategy playing out in India's quick-commerce market (Blinkit, Zepto, Instamart)? Who do you think will survive?"
+  }
+ }
+}
