@@ -1,0 +1,106 @@
+{
+ "terms": [
+  {
+   "date": "2026-11-08",
+   "term": "Share Buyback",
+   "bangla": "শেয়ার পুনঃক্রয় (কোম্পানির নিজের শেয়ার কিনে নেওয়া)",
+   "definition": "কোম্পানি যখন বাজার থেকে নিজের শেয়ার কিনে নেয়, তাকে share buyback বলে। বাজারে শেয়ারের সংখ্যা কমে, তাই বাকি শেয়ারহোল্ডারদের মালিকানার অংশ বাড়ে। এটা লভ্যাংশ (dividend) ছাড়া শেয়ারহোল্ডারদের টাকা ফেরানোর আরেকটা উপায়।",
+   "example": "Berkshire Hathaway এই কোয়ার্টারে প্রায় $9.6 বিলিয়নের নিজের শেয়ার কিনেছে, যা আগের কোয়ার্টারের দ্বিগুণেরও বেশি।",
+   "formula": "EPS = নিট মুনাফা ÷ বকেয়া শেয়ারের সংখ্যা (buyback হলে হর কমে, EPS সাধারণত বাড়ে)",
+   "tip": "Interview-এ বলো: buyback মানে মুনাফা বাড়া নয়, শুধু শেয়ার কমে EPS বাড়তে পারে। তাই মুনাফা আর অপারেশনাল শক্তিও দেখতে হয়।",
+   "en": {
+    "term": "Share Buyback",
+    "bangla": "A company buying its own shares back",
+    "definition": "When a company buys its own shares from the market, it is a share buyback. The number of shares outstanding falls, so each remaining shareholder owns a bigger slice. It is another way, besides dividends, to return money to shareholders.",
+    "example": "Berkshire Hathaway bought back about $9.6 billion of its own shares this quarter, more than double the previous quarter.",
+    "formula": "EPS = Net profit ÷ Shares outstanding (a buyback shrinks the denominator, so EPS usually rises)",
+    "tip": "In interviews say: a buyback does not mean profit grew, only that fewer shares can lift EPS. So also check profit and operating strength."
+   }
+  },
+  {
+   "date": "2026-11-07",
+   "term": "Real Wage",
+   "bangla": "প্রকৃত মজুরি (মুদ্রাস্ফীতি বাদ দিয়ে কেনার ক্ষমতা)",
+   "definition": "Nominal wage হলো টাকার অঙ্কে বেতন। Real wage হলো সেই বেতন দিয়ে আসলে কত জিনিস কেনা যায়, অর্থাৎ মুদ্রাস্ফীতি বাদ দেওয়ার পর বেতনের কেনার ক্ষমতা। বেতন বাড়লেও দাম তার চেয়ে দ্রুত বাড়লে real wage কমে যায়।",
+   "example": "আজকের রিপোর্টে আমেরিকায় বছরে মজুরি বেড়েছে 3.1%, কিন্তু মুদ্রাস্ফীতি 3.7%। অর্থাৎ real wage প্রায় 0.6 শতাংশ পয়েন্ট কমেছে।",
+   "formula": "Real wage বৃদ্ধি ≈ Nominal wage বৃদ্ধি − মুদ্রাস্ফীতির হার = 3.1% − 3.7% = −0.6 শতাংশ পয়েন্ট",
+   "tip": "Interview-এ বলো: শুধু বেতন বাড়ল কি না দেখলে হবে না, মুদ্রাস্ফীতি বাদ দিয়ে real wage দেখতে হয়। Job offer তুলনার সময়ও শহরের খরচ ধরে বিচার করা ভালো।",
+   "en": {
+    "term": "Real Wage",
+    "bangla": "What your pay can actually buy after inflation",
+    "definition": "Nominal wage is pay in money terms. Real wage is how much that pay can actually buy, that is, its purchasing power after removing inflation. If prices rise faster than pay, the real wage falls.",
+    "example": "In today's report US wages grew 3.1% over the year while inflation is 3.7%, so the real wage fell by about 0.6 percentage points.",
+    "formula": "Real wage growth ≈ Nominal wage growth − Inflation rate = 3.1% − 3.7% = −0.6 percentage points",
+    "tip": "In interviews say: don't just ask whether pay rose; check the real wage after inflation. Compare job offers adjusting for the cost of living too."
+   }
+  },
+  {
+   "date": "2026-11-06",
+   "term": "Market Correction",
+   "bangla": "মার্কেট কারেকশন (রেকর্ড দাম থেকে 10% বা বেশি পতন)",
+   "definition": "কোনো শেয়ার সূচক তার সাম্প্রতিক সর্বোচ্চ দাম (peak) থেকে 10% বা তার বেশি নেমে গেলে তাকে correction বলে। পতন 20% ছাড়ালে সাধারণত তাকে bear market বলা হয়। Correction প্রায়ই চড়া valuation ঠান্ডা করে, তাই একে অনেক সময় বাজারের স্বাভাবিক প্রক্রিয়া ধরা হয়।",
+   "example": "বৃহস্পতিবার Nasdaq Composite 5.52% পড়ে 24,315.00-এ বন্ধ হয়েছে, যা অক্টোবরের রেকর্ড ক্লোজিংয়ের চেয়ে 10%-এর বেশি নিচে। তাই সংবাদমাধ্যম বলছে Nasdaq correction territory-তে ঢুকেছে।",
+   "formula": "Drawdown % = (Peak − বর্তমান দাম) ÷ Peak × 100। 10% বা বেশি হলে correction, 20% বা বেশি হলে bear market।",
+   "tip": "Interview-এ বলো: correction আর crash এক নয়। Correction-এ সময় ও কারণ বুঝে diversification আর long-term plan ধরে রাখা জরুরি, ভয়ে বিক্রি (panic selling) ক্ষতি পাকা করে দেয়।",
+   "en": {
+    "term": "Market Correction",
+    "bangla": "A drop of 10% or more from a recent peak",
+    "definition": "When a stock index falls 10% or more from its recent peak, it is called a correction. A fall of more than 20% is usually called a bear market. Corrections often cool off stretched valuations, so many treat them as a normal part of market cycles.",
+    "example": "On Thursday the Nasdaq Composite fell 5.52% to 24,315.00, more than 10% below its October record close, so media say it has entered correction territory.",
+    "formula": "Drawdown % = (Peak − Current price) ÷ Peak × 100. 10% or more = correction, 20% or more = bear market.",
+    "tip": "In interviews say: a correction is not a crash. Stay diversified and keep your long-term plan; panic selling turns a paper loss into a real one."
+   }
+  },
+  {
+   "date": "2026-11-05",
+   "term": "Opportunity Cost",
+   "bangla": "সুযোগ-ব্যয় (যা ছেড়ে দিলে তার মূল্য)",
+   "definition": "কোনো একটি বিকল্প বেছে নিলে সবচেয়ে ভালো যে বিকল্পটি ছেড়ে দিতে হয়, তার সম্ভাব্য লাভই হলো opportunity cost। এটা সরাসরি পকেট থেকে যাওয়া খরচ নয়, কিন্তু সিদ্ধান্তের আসল দাম।",
+   "example": "সোনা কোনো সুদ দেয় না। Treasury yield বেশি থাকলে সোনা রাখার মানে সেই সুদ ছেড়ে দেওয়া, তাই opportunity cost বেশি। আজ নির্বাচনের পর yield কমায় সোনা ধরে রাখার opportunity cost কমেছে, আর সোনার দাম প্রায় 2.9% বেড়ে $4,040-এর কাছে গেছে।",
+   "formula": "Opportunity Cost = ছেড়ে দেওয়া সেরা বিকল্পের প্রত্যাশিত লাভ − বেছে নেওয়া বিকল্পের প্রত্যাশিত লাভ",
+   "tip": "Interview-এ যেকোনো সিদ্ধান্ত (project, investment, hiring) ব্যাখ্যা করার সময় বলো: 'আমি শুধু খরচ দেখিনি, opportunity cost-ও দেখেছি।' এতে তোমার চিন্তা পরিণত শোনায়।",
+   "en": {
+    "term": "Opportunity Cost",
+    "bangla": "The value of the best option you give up",
+    "definition": "When you choose one option, the opportunity cost is the potential gain from the best alternative you give up. It is not always a cash payment, but it is the real price of a decision.",
+    "example": "Gold pays no interest. When Treasury yields are high, holding gold means giving up that interest, so the opportunity cost is high. After the election yields fell, the opportunity cost of holding gold dropped, and gold rose about 2.9% to near $4,040.",
+    "formula": "Opportunity Cost = Expected return of the best forgone option − Expected return of the chosen option",
+    "tip": "In interviews, explain any decision (project, investment, hiring) by saying: 'I looked at the opportunity cost, not only the cost.' It makes your thinking sound mature."
+   }
+  },
+  {
+   "date": "2026-11-04",
+   "term": "Dilution",
+   "bangla": "ডাইলিউশন (শেয়ারহোল্ডারের মালিকানা পাতলা হওয়া)",
+   "definition": "কোম্পানি নতুন শেয়ার ইস্যু করলে মোট শেয়ার বাড়ে, ফলে আগের শেয়ারহোল্ডারের একই শেয়ারের মালিকানার শতাংশ (এবং প্রতি শেয়ারের আয়, EPS) কমে যায়। শেয়ারের বদলে কোম্পানি কেনা, ফান্ড তোলা বা কর্মীদের stock option দেওয়ার সময় এটা হয়।",
+   "example": "Marvell-Lumentum চুক্তিতে Lumentum-এর প্রতি শেয়ারের জন্য Marvell 4.500টি নতুন শেয়ার দেবে। নতুন শেয়ারের এই বিপুল ইস্যুকে ঘিরে dilution-এর ভয়ে ঘোষণার দিন Marvell-এর শেয়ার প্রায় 13% পড়েছিল।",
+   "formula": "মালিকানা % = তোমার শেয়ার ÷ (পুরনো মোট শেয়ার + নতুন ইস্যু করা শেয়ার) × 100",
+   "tip": "Interview-এ বলো: dilution সবসময় খারাপ নয়। নতুন শেয়ারের টাকা যদি এমন কাজে লাগে যাতে মোট আয় আনুপাতিকের চেয়ে বেশি বাড়ে, তাহলে শেয়ারহোল্ডারের লাভই হয়।",
+   "en": {
+    "term": "Dilution",
+    "bangla": "Ownership shrinking as new shares are issued",
+    "definition": "When a company issues new shares, the total number of shares rises, so an existing shareholder's ownership percentage (and earnings per share, EPS) falls. It happens when a company pays for an acquisition with shares, raises funds, or grants employee stock options.",
+    "example": "In the Marvell-Lumentum deal, Marvell will issue 4.500 new shares for every Lumentum share. Fear of dilution from this huge issue was a reason Marvell fell about 13% on the day of the announcement.",
+    "formula": "Ownership % = Your shares ÷ (Old total shares + New shares issued) × 100",
+    "tip": "Interview tip: dilution is not always bad. If the money raised from new shares makes total earnings grow faster than the share count, existing shareholders still gain."
+   }
+  },
+  {
+   "date": "2026-11-03",
+   "term": "Synergy",
+   "bangla": "সিনার্জি (একসঙ্গে কাজের বাড়তি লাভ)",
+   "definition": "দুটো কোম্পানি এক হলে আলাদা আলাদা থাকার চেয়ে যে বাড়তি মূল্য তৈরি হয়, তাকে Synergy বলে। সহজ কথায় 1 + 1 = 3। এটা দুই রকম: Cost synergy, মানে অফিস, সাপ্লাই চেইন বা কর্মী একসঙ্গে ব্যবহার করে খরচ বাঁচানো; আর Revenue synergy, মানে একে অন্যের গ্রাহককে নিজের প্রোডাক্ট বিক্রি করে আয় বাড়ানো।",
+   "example": "আজকের খবরে Marvell আর Lumentum বলছে, এক হলে বছরে $1 বিলিয়নের বেশি cost synergy হবে। Acquisition premium (বাজারদরের চেয়ে বেশি দাম) দেওয়ার যুক্তি এই synergy থেকেই আসে।",
+   "formula": "Synergy = V(A+B) − [V(A) + V(B)]",
+   "tip": "Interview-এ মনে রেখো: বেশিরভাগ মার্জার ব্যর্থ হয় কারণ synergy-র হিসাব কাগজে যত সুন্দর দেখায়, বাস্তবে ততটা আসে না।",
+   "en": {
+    "term": "Synergy",
+    "bangla": "The extra value from combining",
+    "definition": "Synergy is the extra value created when two companies combine, compared with staying separate. Put simply, 1 + 1 = 3. There are two kinds: cost synergy, saving money by sharing offices, supply chains or staff; and revenue synergy, earning more by selling your products to each other's customers.",
+    "example": "In today's news, Marvell and Lumentum say combining will bring more than $1 billion a year in cost synergy. The case for paying an acquisition premium (more than the market price) comes from this synergy.",
+    "formula": "Synergy = V(A+B) − [V(A) + V(B)]",
+    "tip": "Interview tip: most mergers fail because synergy looks better on paper than it turns out in reality."
+   }
+  }
+ ]
+}
