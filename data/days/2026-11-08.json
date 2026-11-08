@@ -1,0 +1,563 @@
+{
+ "date": "2026-11-08",
+ "dateLabel": "৮ নভেম্বর ২০২৬, রবিবার",
+ "edition": 1,
+ "updatedAt": "2026-11-08T07:00:00+05:30",
+ "news": [
+  {
+   "id": "n1",
+   "category": "কোম্পানি",
+   "title": "Berkshire Hathaway-র তৃতীয় কোয়ার্টারে operating earnings 5.8% কমে $12.7 বিলিয়ন, buyback দ্বিগুণেরও বেশি $9.6 বিলিয়ন",
+   "summary": "শনিবার Greg Abel-এর নেতৃত্বে Berkshire Hathaway তৃতীয় কোয়ার্টারের ফল জানিয়েছে। Operating earnings গত বছরের $13.5 বিলিয়ন থেকে কমে প্রায় $12.7 বিলিয়ন হয়েছে। Geico-র ক্ষতি আর খরচ বাড়ায় বিমা ব্যবসার underwriting মুনাফা প্রায় 43% কমেছে, আর কম short-term সুদের হারে বিমার বিনিয়োগ-আয় 14% কমে $2.7 বিলিয়ন হয়েছে। উল্টো দিকে রেল কোম্পানি BNSF-এর মুনাফা 19.3% বেড়ে $1.73 বিলিয়ন হয়েছে। কোম্পানি এই কোয়ার্টারে প্রায় $9.6 বিলিয়নের নিজের শেয়ার কিনেছে, যা দ্বিতীয় কোয়ার্টারের দ্বিগুণেরও বেশি। হাতে নগদ রয়েছে প্রায় $377 বিলিয়ন (কোন নগদ ধরা হচ্ছে তার ওপর হিসাব বদলায়)।",
+   "why": "Share buyback আর নগদ জমানোর সিদ্ধান্ত (capital allocation) কীভাবে নেওয়া হয়, তার জীবন্ত উদাহরণ। আজকের ব্লগ এটা নিয়েই।",
+   "source": {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/07/berkshire-hathaway-q3-2026-earnings-buybacks.html"
+   }
+  },
+  {
+   "id": "n2",
+   "category": "ওয়াল স্ট্রিট",
+   "title": "S&P 500-এর সপ্তাহে 2.68% পতন, এপ্রিল 2025-এর পর সবচেয়ে খারাপ সপ্তাহ; Berkshire উঠল 5.2%",
+   "summary": "শুক্রবার 7,376.86-এ বন্ধ হওয়া S&P 500 পুরো সপ্তাহে 2.68% নেমেছে, যা এপ্রিল 2025-এর tariff ধাক্কার পর সবচেয়ে বড় সাপ্তাহিক পতন। বৃহস্পতিবারের একদিনেই সূচক 4.36% পড়েছিল, কারণ মধ্যবর্তী নির্বাচনের পর AI শেয়ার নিয়ে ভয় ছড়ায়। একই সপ্তাহে Berkshire-এর Class B শেয়ার প্রায় 5.2% বেড়ে রেকর্ড বন্ধ দামে পৌঁছায়। বিশ্লেষকদের মতে বিনিয়োগকারীরা AI-খরচের ওপর নির্ভর না করা বৈচিত্র্যময় ব্যবসার দিকে সরেছেন। LPL Financial-এর একজন strategist সপ্তাহটাকে নির্বাচনের ফলের প্রতি 'knee-jerk reaction' বলেছেন।",
+   "why": "বাজার যখন একটা থিমে (এখানে AI) ঠেসে যায়, তখন diversification কেন কাজে লাগে, সেটা এই খবরে বোঝা যায়। এটা portfolio theory-র মূল কথা।",
+   "source": {
+    "name": "24/7 Wall St.",
+    "url": "https://247wallst.com/investing/2026/11/07/the-sp-500-just-had-its-worst-week-since-the-april-2025-tariff-crash/"
+   }
+  },
+  {
+   "id": "n3",
+   "category": "মুদ্রাস্ফীতি",
+   "title": "নতুন সপ্তাহে নজর মঙ্গলবারের US CPI-তে; বছরে 3.9% হতে পারে বলে FactSet গড় অনুমান",
+   "summary": "সোমবার থেকে শুরু হওয়া সপ্তাহের মূল ঘটনা মঙ্গলবার (10 নভেম্বর) প্রকাশিত হবে আমেরিকার অক্টোবরের CPI। FactSet-এর গড় অনুমান অনুযায়ী headline মুদ্রাস্ফীতি আগের 3.7% থেকে বেড়ে বছরে 3.9% হতে পারে, তবে কয়েকটি preview বলছে গত বছরের shutdown-জনিত ফাঁকের কারণে বছরভিত্তিক হিসাব নিয়ে ধোঁয়াশা আছে। শুক্রবার আসবে PPI। Earnings-এ CoreWeave মঙ্গলবার এবং Cisco ও Applied Materials বৃহস্পতিবার (12 নভেম্বর) ফল জানাবে, আর Nvidia-র ফল 17 নভেম্বর। ডিসেম্বরে Fed আবার সুদ বাড়ায় কি না, তা নিয়ে এই ডেটা বাজারের ধারণা বদলে দিতে পারে।",
+   "why": "CPI হলো মুদ্রাস্ফীতি মাপার প্রধান সূচক, আর সুদের হার (monetary policy) এর ওপর অনেকটা নির্ভর করে। পরীক্ষায় CPI বনাম PPI-র পার্থক্য প্রায়ই আসে।",
+   "source": {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/06/stock-market-next-week-outlook-for-nov-9-13-2026.html"
+   }
+  },
+  {
+   "id": "n4",
+   "category": "প্রযুক্তি",
+   "title": "Microsoft Oracle-এর কাছ থেকে ভাড়া নেওয়া AI computing চুক্তি গুটিয়ে আনছে বলে Bloomberg-এর খবর",
+   "summary": "Bloomberg-এর বরাতে জানা গেছে, 2023 সালে হওয়া একটি চুক্তিতে Oracle-এর কাছ থেকে AI computing capacity ভাড়া নিত Microsoft। এখন তারা সেই চুক্তি নবায়ন না করে ভাড়া নেওয়া capacity বন্ধ করছে। বেশিরভাগ সূত্র বলছে কারণ পুরনো প্রজন্মের Nvidia chip, যা Microsoft-এর বর্তমান প্রয়োজনের সঙ্গে মিলছে না। চুক্তির মূল্য কেউ প্রকাশ করেনি। Oracle বলেছে চাহিদা শক্ত আছে এবং নবায়নের জন্য আসা capacity আগের দীর্ঘমেয়াদি চুক্তির চেয়ে প্রায় 20% বেশি দামে renew বা বিক্রি হয়েছে। খবরের পর Oracle-এর শেয়ার প্রায় 4% পড়েছে।",
+   "why": "এটা supply-demand আর asset obsolescence-এর উদাহরণ। দ্রুত পুরনো হয়ে যাওয়া সম্পদের জন্য ধার নেওয়া বা ভাড়ার চুক্তি করা ঝুঁকির।",
+   "source": {
+    "name": "Global Banking & Finance",
+    "url": "https://www.globalbankingandfinance.com/microsoft-winding-down-oracle-deal-rent-ai-cloud-capacity/"
+   }
+  },
+  {
+   "id": "n5",
+   "category": "M&A",
+   "title": "Kraft Heinz তার উত্তর আমেরিকার coffee ব্যবসা One Rock Capital-কে বেচছে $650 মিলিয়নে",
+   "summary": "Kraft Heinz তার North America coffee ব্যবসা বিক্রির চুক্তি করেছে private equity ফার্ম One Rock Capital Partners-এর একটি সংস্থার সঙ্গে। Enterprise value ধরা হয়েছে $650 মিলিয়ন, ঋণসহ। এতে আছে Maxwell House, Gevalia, Yuban, Tassimo-সহ ব্র্যান্ড। Kraft Heinz নিজের কাছে 30% noncontrolling অংশ রাখবে এবং করের পর প্রায় $500 মিলিয়ন নগদ পেয়ে ঋণ শোধ করবে। প্রায় 250 কর্মী স্থানান্তরিত হবে, আর লেনদেন শেষ হওয়ার কথা 2027-এর মাঝামাঝি, নিয়ন্ত্রকের অনুমতি সাপেক্ষে।",
+   "why": "এটা divestiture বা core business-এ মনোযোগ ফেরানোর কৌশল, আর কোম্পানি কীভাবে ঋণ কমায় তার উদাহরণ। Enterprise value বনাম equity value এখানে কাজে লাগে।",
+   "source": {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/04/kraft-heinz-coffee-business-one-rock-deal.html"
+   }
+  },
+  {
+   "id": "n6",
+   "category": "ভারত",
+   "title": "বিদেশি বিনিয়োগকারীরা এক সপ্তাহে প্রায় ₹45,960 কোটি কিনলেন; Sensex-এর টানা 7 সেশনের ওঠা 3 বছরে প্রথম",
+   "summary": "গত সপ্তাহে বিদেশি প্রাতিষ্ঠানিক বিনিয়োগকারীরা (FII) ভারতের শেয়ারবাজারে নিট প্রায় ₹45,960 কোটি কিনেছেন, যা টানা 10 সপ্তাহের বিক্রির ধারা থামিয়েছে। অক্টোবরে তাঁরা বেচেছিলেন ₹45,162 কোটি। শুক্রবার Sensex 2.17% বেড়ে 81,028.02 এবং Nifty 25,030.35-এ বন্ধ হয়, আর টানা 7 সেশনের এই ওঠা 3 বছরে প্রথম। বিশ্লেষকদের মতে এখন প্রশ্ন, এই বিদেশি টাকার প্রবাহ টিকবে কি না। নতুন সংবতের শুরুতে রবিবার মুহূরত সেশন হচ্ছে।",
+   "why": "FII-এর প্রবাহ শেয়ারবাজার আর টাকার দাম (exchange rate) দুটোকেই প্রভাবিত করে। এটা portfolio investment আর balance of payments-এর অংশ।",
+   "source": {
+    "name": "Ommcom News",
+    "url": "https://ommcomnews.com/business-news/foreign-investors-pump-rs-45960-crore-this-week-in-indian-stock-market/"
+   }
+  },
+  {
+   "id": "n7",
+   "category": "কোম্পানি",
+   "title": "Uber-এর তৃতীয় কোয়ার্টারে রাজস্ব $14.77 বিলিয়ন, অনুমানের চেয়ে সামান্য বেশি; শেয়ার 7%-এর বেশি বাড়ল",
+   "summary": "Uber বুধবার (4 নভেম্বর) তৃতীয় কোয়ার্টারের ফল জানিয়েছে। CNBC-র তথ্য অনুযায়ী রাজস্ব হয়েছে $14.77 বিলিয়ন, যেখানে অনুমান ছিল $14.69 বিলিয়ন। ফলের দিন শেয়ার 7%-এর বেশি বেড়েছে। প্রতি শেয়ার আয়ের (EPS) হিসাব বিভিন্ন সূত্রে আলাদা, তাই সেটা এখানে উল্লেখ করা হলো না।",
+   "why": "Analyst-এর অনুমান (consensus) ছাড়িয়ে গেলে কেন শেয়ার বাড়ে, তা বোঝার এটা সহজ উদাহরণ। বাজার সংখ্যার চেয়ে সংখ্যার প্রত্যাশা দেখে সাড়া দেয়।",
+   "source": {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/04/uber-stock-q3-2026-earnings.html"
+   }
+  }
+ ],
+ "market": {
+  "asOf": "৬ নভেম্বর ২০২৬, শুক্রবারের ক্লোজিং",
+  "items": [
+   {
+    "name": "S&P 500",
+    "region": "আমেরিকা",
+    "value": "7,376.86",
+    "change": "+0.3%",
+    "dir": "up"
+   },
+   {
+    "name": "Dow Jones",
+    "region": "আমেরিকা",
+    "value": "51,285.73",
+    "change": "-0.5%",
+    "dir": "down"
+   },
+   {
+    "name": "Nasdaq",
+    "region": "আমেরিকা",
+    "value": "24,579.42",
+    "change": "+1.1%",
+    "dir": "up"
+   },
+   {
+    "name": "Sensex",
+    "region": "ভারত",
+    "value": "81,028.02",
+    "change": "+2.17%",
+    "dir": "up"
+   },
+   {
+    "name": "Nifty 50",
+    "region": "ভারত",
+    "value": "25,030.35",
+    "change": "+2.01%",
+    "dir": "up"
+   },
+   {
+    "name": "Brent Crude",
+    "region": "$ প্রতি ব্যারেল",
+    "value": "98.32",
+    "change": "+0.03%",
+    "dir": "up"
+   },
+   {
+    "name": "Gold",
+    "region": "$ প্রতি আউন্স",
+    "value": "4,049.69",
+    "change": "-0.94%",
+    "dir": "down"
+   },
+   {
+    "name": "USD/INR",
+    "region": "₹ প্রতি ডলার",
+    "value": "93.89",
+    "change": "-52 paise",
+    "dir": "down"
+   }
+  ]
+ },
+ "term": {
+  "term": "Share Buyback",
+  "bangla": "শেয়ার পুনঃক্রয় (কোম্পানির নিজের শেয়ার কিনে নেওয়া)",
+  "definition": "কোম্পানি যখন বাজার থেকে নিজের শেয়ার কিনে নেয়, তাকে share buyback বলে। বাজারে শেয়ারের সংখ্যা কমে, তাই বাকি শেয়ারহোল্ডারদের মালিকানার অংশ বাড়ে। এটা লভ্যাংশ (dividend) ছাড়া শেয়ারহোল্ডারদের টাকা ফেরানোর আরেকটা উপায়।",
+  "example": "Berkshire Hathaway এই কোয়ার্টারে প্রায় $9.6 বিলিয়নের নিজের শেয়ার কিনেছে, যা আগের কোয়ার্টারের দ্বিগুণেরও বেশি।",
+  "formula": "EPS = নিট মুনাফা ÷ বকেয়া শেয়ারের সংখ্যা (buyback হলে হর কমে, EPS সাধারণত বাড়ে)",
+  "tip": "Interview-এ বলো: buyback মানে মুনাফা বাড়া নয়, শুধু শেয়ার কমে EPS বাড়তে পারে। তাই মুনাফা আর অপারেশনাল শক্তিও দেখতে হয়।"
+ },
+ "gd": {
+  "topic": "নগদ জমিয়ে রাখা ভালো, না নিজের শেয়ার কিনে নেওয়া? Berkshire-এর সামনে প্রশ্নটা কী?",
+  "context": "Berkshire-এর হাতে প্রায় $377 বিলিয়ন নগদ থাকলেও এই কোয়ার্টারে তারা $9.6 বিলিয়নের শেয়ার কিনেছে, অথচ operating earnings কমেছে 5.8%।",
+  "for": [
+   "শেয়ারের দাম মূল্যের চেয়ে কম মনে হলে buyback শেয়ারহোল্ডারের জন্য ভালো বিনিয়োগ।",
+   "ভালো বিনিয়োগের সুযোগ না পেলে নগদ ফেলে না রেখে শেয়ারহোল্ডারদের টাকা ফেরানো যুক্তিসঙ্গত।",
+   "Buyback হলে EPS বাড়তে পারে, যা শেয়ারের দামকে সমর্থন দেয়।"
+  ],
+  "against": [
+   "শেয়ারের দাম বেশি হলে buyback-এ টাকা নষ্ট হয়, আর মুনাফা কমলে তা সঙ্কেত হতে পারে।",
+   "মন্দা বা বড় কেনাকাটার সুযোগ এলে নগদ থাকলে তবেই সেটা কাজে লাগানো যায়।",
+   "EPS বাড়লেও আসল ব্যবসা বাড়ছে না, তাই এটা অনেকটা আর্থিক কৌশল মাত্র।"
+  ]
+ },
+ "blog": {
+  "title": "কোম্পানি নিজের শেয়ার কিনে নেয় কেন? Berkshire-এর buyback থেকে capital allocation-এর পাঠ",
+  "topic": "Share Buyback ও Capital Allocation",
+  "readMin": 5,
+  "body": [
+   "রেজাল্ট এলে আমরা সাধারণত মুনাফা কমল না বাড়ল দেখি। কিন্তু একটা কোম্পানি মুনাফা দিয়ে আসলে কী করে, সেটা তার চেয়েও বড় প্রশ্ন। শনিবার Berkshire Hathaway তৃতীয় কোয়ার্টারের ফল জানিয়েছে, আর সেখানে এই প্রশ্নটাই সামনে এসেছে। আজকের ব্লগে আমরা গোড়া থেকে বুঝব share buyback কী, আর কোম্পানির কাছে নগদ থাকলে সে কী কী করতে পারে।",
+   "## কোম্পানির হাতে টাকা এলে কী করবে?",
+   "ধরো একটা কোম্পানি মুনাফা করেছে। সেই টাকার কয়েকটা ব্যবহার আছে। প্রথমত, ব্যবসাতেই আবার লাগানো, যেমন নতুন কারখানা বা গবেষণা। দ্বিতীয়ত, অন্য কোম্পানি কেনা (acquisition)। তৃতীয়ত, ঋণ শোধ করা। চতুর্থত, শেয়ারহোল্ডারদের লভ্যাংশ (dividend) দেওয়া। আর পঞ্চমত, নিজের শেয়ার বাজার থেকে কিনে নেওয়া, যাকে বলে share buyback। কোনটা কখন ঠিক, সেই সিদ্ধান্তকেই বলে capital allocation, আর কোম্পানির ম্যানেজমেন্টের সবচেয়ে গুরুত্বপূর্ণ কাজগুলোর একটা।",
+   "## Buyback আসলে কী?",
+   "Buyback-এ কোম্পানি বাজার থেকে নিজের শেয়ার কিনে নেয়। এই শেয়ারগুলো তখন বাতিল হয়ে যায় বা কোম্পানির কাছেই পড়ে থাকে। ফলে বাজারে চালু শেয়ারের সংখ্যা কমে যায়। শেয়ার কমলে বাকি প্রত্যেক শেয়ারহোল্ডারের মালিকানার অংশ একটু বড় হয়।",
+   "একটা সহজ উদাহরণ নেওয়া যাক, এটা কাল্পনিক। এক কোম্পানির নিট মুনাফা ₹100 কোটি আর শেয়ার আছে 10 কোটি। তাহলে EPS (প্রতি শেয়ার আয়) হলো ₹10। কোম্পানি যদি 1 কোটি শেয়ার কিনে নেয়, বাকি থাকে 9 কোটি। একই ₹100 কোটি মুনাফা এখন 9 কোটি শেয়ারে ভাগ হবে, তাই EPS দাঁড়ায় প্রায় ₹11.11। মুনাফা এক পয়সাও বাড়েনি, তবু EPS প্রায় 11% বেড়ে গেল। এটাই buyback-এর মূল জাদু, আবার এখানেই সতর্ক থাকার জায়গা।",
+   "## Buyback বনাম Dividend",
+   "Dividend-এ কোম্পানি সরাসরি নগদ টাকা ভাগ করে দেয়, আর শেয়ারহোল্ডারকে তার ওপর কর দিতে হয়। Buyback-এ যে বেচে সে টাকা পায়, যে ধরে রাখে সে বড় অংশের মালিক হয়। Dividend একবার দিলে কমানো কঠিন, কারণ বাজার তাকে খারাপ সঙ্কেত ভাবে। Buyback নমনীয়, তাই কোম্পানি যে কোয়ার্টারে ইচ্ছা বাড়াতে-কমাতে পারে।",
+   "## Berkshire-এর ফলে কী দেখা গেল",
+   "খবরে দেখা যাচ্ছে, Berkshire-এর operating earnings প্রায় $12.7 বিলিয়ন, আগের বছরের $13.5 বিলিয়নের চেয়ে কম। বিমার underwriting মুনাফা প্রায় 43% কমেছে, কিন্তু রেল ব্যবসা BNSF-এর মুনাফা 19.3% বেড়েছে। তবু কোম্পানি এই কোয়ার্টারে প্রায় $9.6 বিলিয়নের নিজের শেয়ার কিনেছে, দ্বিতীয় কোয়ার্টারের দ্বিগুণেরও বেশি। আর হাতে এখনও প্রায় $377 বিলিয়ন নগদ রয়েছে।",
+   "এর মানে কী? ম্যানেজমেন্ট হয়তো মনে করছে বাজারে এখন শেয়ারের দাম তার আসল মূল্যের তুলনায় সস্তা। সেই কারণেই নিজের শেয়ার কেনাকে তারা ভালো বিনিয়োগ ভাবছে। তবে সতর্ক থাকা দরকার, কারণ আমরা শুধু রেজাল্ট দেখছি, ম্যানেজমেন্টের মনের কথা নয়। এটা অনুমান, নিশ্চিত তথ্য নয়।",
+   "## বাজারের বড় ছবির সঙ্গে সংযোগ",
+   "এই সপ্তাহে S&P 500 পড়েছে 2.68%, যা এপ্রিল 2025-এর পর সবচেয়ে খারাপ সপ্তাহ। AI শেয়ার নিয়ে ভয় ছড়ায়। একই সময়ে Berkshire-এর শেয়ার বেড়েছে প্রায় 5.2%। বিনিয়োগকারীরা এমন কোম্পানি পছন্দ করেছেন যাদের লাভ AI খরচের ওপর নির্ভর করে না। এটা diversification-এর শক্তি: এক জায়গায় ঠেসে না থেকে ছড়িয়ে বিনিয়োগ করলে ধাক্কা কম লাগে।",
+   "## Buyback নিয়ে সতর্কতা",
+   "Buyback সবসময় ভালো নয়। প্রথমত, শেয়ারের দাম বেশি হলে বেশি টাকায় কিনে শেয়ারহোল্ডারদের ক্ষতি করা হতে পারে। দ্বিতীয়ত, শুধু EPS বাড়ানোর জন্য buyback করলে আসল ব্যবসা দুর্বল থাকলেও সংখ্যাটা ভালো দেখায়। তৃতীয়ত, ধার করে buyback করলে ঋণ বাড়ে। তাই বিশ্লেষকরা দেখেন, buyback-এর টাকা কি ব্যবসা থেকে আসা উদ্বৃত্ত নগদ থেকে আসছে, নাকি ধার থেকে।",
+   "## BBA স্টুডেন্টের জন্য ব্যবহারিক শিক্ষা",
+   "কোনো কোম্পানির রেজাল্ট পড়ার সময় চারটা জিনিস দেখো। এক, মুনাফা কি আসল ব্যবসা থেকে বাড়ছে, নাকি শুধু শেয়ারের সংখ্যা কমে EPS বাড়ছে? দুই, নগদ কত আছে আর সেটা কীভাবে ব্যবহার হচ্ছে? তিন, ঋণ কত? চার, শেয়ারের দাম কি যুক্তিসঙ্গত? Interview বা case discussion-এ এই চারটা প্রশ্ন তুলতে পারলে তুমি অন্যদের থেকে আলাদা হয়ে যাবে।",
+   "মনে রাখো, নগদ জমানোও একটা সিদ্ধান্ত। Berkshire-এর মতো বড় কোম্পানি যখন প্রচুর নগদ ধরে রাখে, তখন সে সুযোগের অপেক্ষায় থাকে। আবার সেই নগদ যদি বছরের পর বছর পড়ে থাকে, তখন শেয়ারহোল্ডার প্রশ্ন তোলে: এ টাকা আমাদের ফেরত দিচ্ছ না কেন? সঠিক উত্তর কোম্পানি, সময় আর শেয়ারের দামের ওপর নির্ভর করে।"
+  ],
+  "takeaways": [
+   "Buyback-এ শেয়ার কমে, তাই মুনাফা না বাড়লেও EPS বাড়তে পারে।",
+   "Capital allocation মানে মুনাফা দিয়ে কী করা হবে তার সিদ্ধান্ত: বিনিয়োগ, ঋণ শোধ, dividend বা buyback।",
+   "Buyback ভালো কি না তা নির্ভর করে শেয়ারের দাম, নগদের উৎস আর ব্যবসার আসল শক্তির ওপর।"
+  ]
+ },
+ "quiz": [
+  {
+   "q": "Berkshire Hathaway-র তৃতীয় কোয়ার্টারের operating earnings প্রায় কত?",
+   "options": [
+    "$9.6 বিলিয়ন",
+    "$13.5 বিলিয়ন",
+    "$12.7 বিলিয়ন",
+    "$22.1 বিলিয়ন"
+   ],
+   "answer": 2,
+   "explain": "Operating earnings প্রায় $12.7 বিলিয়ন, আগের বছরের $13.5 বিলিয়ন থেকে কম। $9.6 বিলিয়ন হলো buyback-এর অঙ্ক।"
+  },
+  {
+   "q": "Berkshire এই কোয়ার্টারে প্রায় কত টাকার নিজের শেয়ার কিনেছে?",
+   "options": [
+    "$9.6 বিলিয়ন",
+    "$4.8 বিলিয়ন",
+    "$22 বিলিয়ন",
+    "$1.7 বিলিয়ন"
+   ],
+   "answer": 0,
+   "explain": "কোম্পানি প্রায় $9.6 বিলিয়নের শেয়ার buyback করেছে, যা দ্বিতীয় কোয়ার্টারের দ্বিগুণেরও বেশি।"
+  },
+  {
+   "q": "অন্য সবকিছু একই থেকে share buyback করলে সাধারণত কী হয়?",
+   "options": [
+    "EPS কমে যায়",
+    "মোট শেয়ারের সংখ্যা বাড়ে",
+    "কোম্পানির ঋণ নিজে থেকেই বাড়ে",
+    "বাকি শেয়ারের EPS সাধারণত বাড়ে"
+   ],
+   "answer": 3,
+   "explain": "শেয়ারের সংখ্যা কমে, তাই একই মুনাফা কম শেয়ারে ভাগ হয় এবং EPS সাধারণত বাড়ে।"
+  },
+  {
+   "q": "এই সপ্তাহে S&P 500 কত শতাংশ পড়েছে?",
+   "options": [
+    "1.2%",
+    "2.68%",
+    "4.36%",
+    "5.52%"
+   ],
+   "answer": 1,
+   "explain": "সাপ্তাহিক পতন 2.68%। 4.36% ছিল শুধু বৃহস্পতিবারের একদিনের পতন।"
+  },
+  {
+   "q": "Kraft Heinz তার coffee ব্যবসা বেচার পরও কত শতাংশ অংশ নিজের কাছে রাখবে?",
+   "options": [
+    "10%",
+    "20%",
+    "30%",
+    "50%"
+   ],
+   "answer": 2,
+   "explain": "তারা 30% noncontrolling অংশ রাখবে এবং কোম্পানির মূল্য ধরা হয়েছে $650 মিলিয়ন।"
+  }
+ ],
+ "caseStudy": {
+  "week": "2026-W45",
+  "weekLabel": "২ – ৮ নভেম্বর ২০২৬",
+  "company": "Reliance Jio",
+  "title": "Reliance Jio: ফ্রি ডেটা দিয়ে কীভাবে গোটা টেলিকম বাজার বদলে দিল",
+  "concept": "Penetration Pricing",
+  "intro": "আজ Reliance-এর শেয়ার 12% বেড়েছে, আর এই গ্রুপের সবচেয়ে বড় সাফল্যের গল্পগুলোর একটা হলো Jio। 2016-র আগে ভারতে মোবাইল ডেটা ছিল দামি, আর বাজারে ছিল ডজনখানেক কোম্পানি। কয়েক বছরের মধ্যে ছবিটা পুরো বদলে যায়।",
+  "sections": [
+   {
+    "h": "কী করেছিল",
+    "p": "সেপ্টেম্বর 2016-তে Jio লঞ্চ হয় এক অবিশ্বাস্য অফার দিয়ে: কয়েক মাস ফ্রি ডেটা আর ফ্রি কল। এরপরেও তাদের প্ল্যানের দাম ছিল বাজারের চেয়ে অনেক কম। শুরু থেকেই 4G-only নেটওয়ার্ক বানানোয় পুরনো 2G/3G-র বোঝা তাদের ছিল না।"
+   },
+   {
+    "h": "ফলাফল",
+    "p": "মাত্র ছয় মাসের মধ্যে Jio-র গ্রাহক 10 কোটি ছাড়িয়ে যায়। ভারতে ডেটার দাম পৃথিবীর সবচেয়ে সস্তাগুলোর মধ্যে চলে আসে, আর ডেটা ব্যবহার কয়েক গুণ বেড়ে যায়। পুরনো কোম্পানিগুলো দাম কমাতে বাধ্য হয়। অনেকে বাজার ছেড়ে চলে যায়, Vodafone আর Idea এক হয়ে যায়। কয়েক বছরের মধ্যে Jio গ্রাহকের সংখ্যায় দেশের এক নম্বর টেলিকম কোম্পানি হয়ে ওঠে।"
+   },
+   {
+    "h": "কেন কাজ করল",
+    "p": "Reliance-এর কাছে লম্বা সময় লোকসান সহ্য করার মতো বিশাল মূলধন ছিল। টেলিকমে network effect কাজ করে: যত বেশি মানুষ, তত বেশি মূল্য। আর ডেটার চাহিদা দামের প্রতি খুব সংবেদনশীল (price elastic), তাই দাম কমতেই ব্যবহার বিস্ফোরণের মতো বেড়ে যায়।"
+   },
+   {
+    "h": "ঝুঁকি আর সমালোচনা",
+    "p": "এই কৌশলে হাজার হাজার কোটি টাকার বিনিয়োগ লাগে। প্রতিযোগীরা একে predatory pricing বলে অভিযোগ করেছিল। বাজারে কোম্পানি কমে গেলে ভবিষ্যতে গ্রাহকের বাছাইয়ের সুযোগও কমে যায়। পরে Jio নিজেও ধাপে ধাপে দাম বাড়িয়েছে।"
+   }
+  ],
+  "lesson": "Penetration pricing মানে শুরুতে খুব কম দামে ঢুকে দ্রুত বাজারের বড় ভাগ দখল করা, তারপর ধীরে ধীরে দাম বাড়ানো। এটা তখনই কাজ করে যখন কোম্পানির পকেট গভীর, চাহিদা দামের প্রতি সংবেদনশীল আর গ্রাহক একবার এলে সহজে ছেড়ে যায় না।",
+  "question": "ভাবো: ভারতের quick-commerce বাজারে (Blinkit, Zepto, Instamart) কি একই কৌশল চলছে? কারা টিকে থাকবে বলে তোমার মনে হয়?"
+ },
+ "en": {
+  "dateLabel": "Sunday, 8 November 2026",
+  "news": [
+   {
+    "id": "n1",
+    "category": "Company",
+    "title": "Berkshire Hathaway Q3 operating earnings fall 5.8% to $12.7 billion; buybacks more than double to $9.6 billion",
+    "summary": "On Saturday Berkshire Hathaway, now led by Greg Abel, reported third-quarter results. Operating earnings fell to about $12.7 billion from $13.5 billion a year earlier. Insurance underwriting profit dropped about 43% as Geico's losses and expenses rose, and insurance investment income fell 14% to $2.7 billion because short-term interest rates are lower. In contrast, the BNSF railroad's profit rose 19.3% to $1.73 billion. Berkshire bought back about $9.6 billion of its own shares in the quarter, more than double the second-quarter amount, and holds roughly $377 billion in cash (the figure changes depending on which cash is counted).",
+    "why": "A live example of how companies decide between buybacks and hoarding cash (capital allocation). Today's blog is about exactly this.",
+    "source": {
+     "name": "CNBC",
+     "url": "https://www.cnbc.com/2026/11/07/berkshire-hathaway-q3-2026-earnings-buybacks.html"
+    }
+   },
+   {
+    "id": "n2",
+    "category": "Wall Street",
+    "title": "S&P 500 falls 2.68% on the week, worst since April 2025, while Berkshire rises 5.2%",
+    "summary": "The S&P 500 closed Friday at 7,376.86 and was down 2.68% for the week, its biggest weekly drop since the April 2025 tariff shock. Thursday alone saw a 4.36% fall as fears about AI stocks spread after the midterm elections. In the same week Berkshire's Class B shares rose about 5.2% and hit a record close. Analysts say investors moved toward diversified businesses that do not depend on AI spending. An LPL Financial strategist called the week a knee-jerk reaction to the election result.",
+    "why": "When markets crowd into one theme (here, AI), this shows why diversification helps. It is a core idea of portfolio theory.",
+    "source": {
+     "name": "24/7 Wall St.",
+     "url": "https://247wallst.com/investing/2026/11/07/the-sp-500-just-had-its-worst-week-since-the-april-2025-tariff-crash/"
+    }
+   },
+   {
+    "id": "n3",
+    "category": "Inflation",
+    "title": "All eyes on Tuesday's US CPI; FactSet average expects 3.9% year-on-year",
+    "summary": "The main event of the week starting Monday is October CPI for the US, due Tuesday, 10 November. The FactSet average estimate is for headline inflation to rise to 3.9% from 3.7%, though some previews say last year's shutdown-related data gap makes year-on-year comparisons murky. PPI follows on Friday. On earnings, CoreWeave reports Tuesday and Cisco and Applied Materials on Thursday (12 November), with Nvidia on 17 November. The data could change market views on whether the Fed hikes again in December.",
+    "why": "CPI is the main gauge of inflation and heavily shapes interest-rate policy (monetary policy). CPI vs PPI is a classic exam question.",
+    "source": {
+     "name": "CNBC",
+     "url": "https://www.cnbc.com/2026/11/06/stock-market-next-week-outlook-for-nov-9-13-2026.html"
+    }
+   },
+   {
+    "id": "n4",
+    "category": "Technology",
+    "title": "Microsoft is winding down an AI computing rental deal with Oracle, Bloomberg reports",
+    "summary": "According to Bloomberg-based reports, Microsoft had rented AI computing capacity from Oracle under a deal made in 2023. It is now not renewing it and is switching off the rented capacity. Most sources say the reason is older-generation Nvidia chips that no longer fit Microsoft's needs. Neither company has disclosed the deal's value. Oracle says demand is strong and that capacity up for renewal was renewed or resold at about 20% above earlier long-term contract prices. Oracle's shares fell about 4% on the report.",
+    "why": "A case of supply-demand and asset obsolescence. Long-term rental or borrowing against fast-ageing assets is risky.",
+    "source": {
+     "name": "Global Banking & Finance",
+     "url": "https://www.globalbankingandfinance.com/microsoft-winding-down-oracle-deal-rent-ai-cloud-capacity/"
+    }
+   },
+   {
+    "id": "n5",
+    "category": "M&A",
+    "title": "Kraft Heinz sells its North American coffee business to One Rock Capital for $650 million",
+    "summary": "Kraft Heinz agreed to sell its North America coffee business to an affiliate of private equity firm One Rock Capital Partners. The enterprise value is $650 million, including debt. The sale covers brands such as Maxwell House, Gevalia, Yuban and Tassimo. Kraft Heinz keeps a 30% noncontrolling stake and expects about $500 million in after-tax cash, which it will use to pay down debt. About 250 employees will transfer, and closing is expected in mid-2027, subject to regulatory approval.",
+    "why": "A divestiture and a refocus on core brands, and a way of cutting debt. Enterprise value vs equity value is useful here.",
+    "source": {
+     "name": "CNBC",
+     "url": "https://www.cnbc.com/2026/11/04/kraft-heinz-coffee-business-one-rock-deal.html"
+    }
+   },
+   {
+    "id": "n6",
+    "category": "India",
+    "title": "Foreign investors buy about ₹45,960 crore in a week; Sensex's seven-session run is the first in three years",
+    "summary": "Foreign institutional investors (FIIs) were net buyers of about ₹45,960 crore in Indian equities last week, ending a 10-week selling streak. In October they had sold ₹45,162 crore. On Friday the Sensex rose 2.17% to 81,028.02 and the Nifty closed at 25,030.35, extending the winning run to seven sessions, the first such run in three years. Analysts say the key question is whether the foreign inflows will last. The new Samvat opens with a Muhurat trading session on Sunday.",
+    "why": "FII flows affect both the stock market and the rupee (exchange rate). They are part of portfolio investment and the balance of payments.",
+    "source": {
+     "name": "Ommcom News",
+     "url": "https://ommcomnews.com/business-news/foreign-investors-pump-rs-45960-crore-this-week-in-indian-stock-market/"
+    }
+   },
+   {
+    "id": "n7",
+    "category": "Company",
+    "title": "Uber's Q3 revenue of $14.77 billion edges past estimates; shares rise over 7%",
+    "summary": "Uber reported third-quarter results on Wednesday, 4 November. According to CNBC, revenue was $14.77 billion against an expected $14.69 billion. The shares rose more than 7% on the day. Sources differ on earnings per share (EPS), so that figure is not quoted here.",
+    "why": "A simple example of why shares rise when results beat analyst expectations (consensus). Markets react to expectations more than to raw numbers.",
+    "source": {
+     "name": "CNBC",
+     "url": "https://www.cnbc.com/2026/11/04/uber-stock-q3-2026-earnings.html"
+    }
+   }
+  ],
+  "market": {
+   "asOf": "Close of Friday, 6 November 2026",
+   "items": [
+    {
+     "name": "S&P 500",
+     "region": "US",
+     "value": "7,376.86",
+     "change": "+0.3%",
+     "dir": "up"
+    },
+    {
+     "name": "Dow Jones",
+     "region": "US",
+     "value": "51,285.73",
+     "change": "-0.5%",
+     "dir": "down"
+    },
+    {
+     "name": "Nasdaq",
+     "region": "US",
+     "value": "24,579.42",
+     "change": "+1.1%",
+     "dir": "up"
+    },
+    {
+     "name": "Sensex",
+     "region": "India",
+     "value": "81,028.02",
+     "change": "+2.17%",
+     "dir": "up"
+    },
+    {
+     "name": "Nifty 50",
+     "region": "India",
+     "value": "25,030.35",
+     "change": "+2.01%",
+     "dir": "up"
+    },
+    {
+     "name": "Brent Crude",
+     "region": "$ per barrel",
+     "value": "98.32",
+     "change": "+0.03%",
+     "dir": "up"
+    },
+    {
+     "name": "Gold",
+     "region": "$ per ounce",
+     "value": "4,049.69",
+     "change": "-0.94%",
+     "dir": "down"
+    },
+    {
+     "name": "USD/INR",
+     "region": "₹ per dollar",
+     "value": "93.89",
+     "change": "-52 paise",
+     "dir": "down"
+    }
+   ]
+  },
+  "term": {
+   "term": "Share Buyback",
+   "bangla": "A company buying its own shares back",
+   "definition": "When a company buys its own shares from the market, it is a share buyback. The number of shares outstanding falls, so each remaining shareholder owns a bigger slice. It is another way, besides dividends, to return money to shareholders.",
+   "example": "Berkshire Hathaway bought back about $9.6 billion of its own shares this quarter, more than double the previous quarter.",
+   "formula": "EPS = Net profit ÷ Shares outstanding (a buyback shrinks the denominator, so EPS usually rises)",
+   "tip": "In interviews say: a buyback does not mean profit grew, only that fewer shares can lift EPS. So also check profit and operating strength."
+  },
+  "gd": {
+   "topic": "Better to hoard cash or buy back your own shares? What is Berkshire's dilemma?",
+   "context": "Berkshire holds about $377 billion in cash yet bought back $9.6 billion of shares this quarter, even as operating earnings fell 5.8%.",
+   "for": [
+    "If the shares look cheaper than their value, a buyback is a good investment for shareholders.",
+    "If there are no good investments, returning money rather than letting cash sit idle is sensible.",
+    "A buyback can lift EPS, which supports the share price."
+   ],
+   "against": [
+    "If the price is high, a buyback wastes money, and falling profit may be a warning sign.",
+    "Cash on hand lets a company act on a downturn or a big acquisition opportunity.",
+    "EPS can rise without the real business growing, so it can be mere financial engineering."
+   ]
+  },
+  "blog": {
+   "title": "Why do companies buy back their own shares? Capital allocation lessons from Berkshire",
+   "topic": "Share Buyback and Capital Allocation",
+   "readMin": 5,
+   "body": [
+    "When results come out we usually ask whether profit rose or fell. A bigger question is what the company actually does with that profit. On Saturday Berkshire Hathaway reported third-quarter results, and this very question came to the front. In today's blog we start from scratch: what a share buyback is, and what a company can do when it has cash.",
+    "## What does a company do when money comes in?",
+    "Say a company has made a profit. It has a few options. First, reinvest in the business, such as a new factory or research. Second, buy another company (an acquisition). Third, repay debt. Fourth, pay shareholders a dividend. Fifth, buy its own shares back from the market, which is a share buyback. Deciding which is right and when is called capital allocation, and it is one of the most important jobs of management.",
+    "## What exactly is a buyback?",
+    "In a buyback the company buys its own shares from the market. Those shares are then cancelled or held by the company. The number of shares outstanding falls, so each remaining shareholder owns a slightly bigger slice of the company.",
+    "Take a simple hypothetical example. A company has a net profit of ₹100 crore and 10 crore shares, so EPS (earnings per share) is ₹10. If it buys back 1 crore shares, 9 crore remain. The same ₹100 crore profit is now divided over 9 crore shares, so EPS becomes about ₹11.11. Profit did not grow by a rupee, yet EPS rose about 11%. That is the magic of a buyback, and also the place to be careful.",
+    "## Buyback versus dividend",
+    "In a dividend, the company hands out cash directly, and shareholders pay tax on it. In a buyback, the shareholder who sells gets cash, and the one who holds ends up owning a bigger share. A dividend is hard to cut once paid because markets read a cut as a bad sign. A buyback is flexible, so a company can raise or reduce it in any quarter.",
+    "## What Berkshire's results showed",
+    "The reports show Berkshire's operating earnings at about $12.7 billion, below $13.5 billion a year earlier. Insurance underwriting profit fell about 43%, while profit at the BNSF railroad rose 19.3%. Even so, the company bought back about $9.6 billion of its own shares in the quarter, more than double the second quarter. It still holds about $377 billion in cash.",
+    "What does that mean? Management may believe the shares are cheap compared with their true value, which would make buying them a good investment. But be careful: we are only seeing the results, not management's thinking. This is inference, not confirmed fact.",
+    "## Connecting to the bigger market picture",
+    "This week the S&P 500 fell 2.68%, its worst week since April 2025, as fear about AI stocks spread. In the same period Berkshire's shares rose about 5.2%. Investors favoured a company whose profits do not depend on AI spending. That is the power of diversification: if you are not crowded into one place, a shock hurts less.",
+    "## Cautions about buybacks",
+    "Buybacks are not always good. First, if the share price is high, the company may overpay and hurt shareholders. Second, a buyback done only to lift EPS can make the number look good while the real business stays weak. Third, borrowing to fund a buyback raises debt. So analysts check whether the money comes from surplus cash generated by the business or from borrowing.",
+    "## A practical lesson for BBA students",
+    "When you read a company's results, check four things. One, is profit rising from the real business, or is EPS rising only because the share count fell? Two, how much cash is there and how is it being used? Three, how much debt is there? Four, is the share price reasonable? If you can raise these four questions in an interview or case discussion, you will stand out.",
+    "Remember that holding cash is also a decision. When a giant like Berkshire holds huge cash, it is waiting for opportunities. But if that cash sits idle year after year, shareholders ask: why aren't you returning it to us? The right answer depends on the company, the timing and the share price."
+   ],
+   "takeaways": [
+    "In a buyback the share count falls, so EPS can rise even if profit does not.",
+    "Capital allocation means deciding what to do with profit: invest, repay debt, pay dividends or buy back shares.",
+    "Whether a buyback is good depends on the share price, the source of the cash and the real strength of the business."
+   ]
+  },
+  "quiz": [
+   {
+    "q": "What were Berkshire Hathaway's Q3 operating earnings, roughly?",
+    "options": [
+     "$9.6 billion",
+     "$13.5 billion",
+     "$12.7 billion",
+     "$22.1 billion"
+    ],
+    "answer": 2,
+    "explain": "Operating earnings were about $12.7 billion, below $13.5 billion a year earlier. $9.6 billion is the buyback figure."
+   },
+   {
+    "q": "About how much of its own stock did Berkshire buy back this quarter?",
+    "options": [
+     "$9.6 billion",
+     "$4.8 billion",
+     "$22 billion",
+     "$1.7 billion"
+    ],
+    "answer": 0,
+    "explain": "It bought back about $9.6 billion, more than double the second quarter."
+   },
+   {
+    "q": "Other things equal, what usually happens to EPS after a share buyback?",
+    "options": [
+     "EPS falls",
+     "Total shares outstanding rise",
+     "Debt rises automatically",
+     "EPS usually rises on the remaining shares"
+    ],
+    "answer": 3,
+    "explain": "The share count falls, so the same profit is spread over fewer shares and EPS usually rises."
+   },
+   {
+    "q": "By what percentage did the S&P 500 fall this week?",
+    "options": [
+     "1.2%",
+     "2.68%",
+     "4.36%",
+     "5.52%"
+    ],
+    "answer": 1,
+    "explain": "The weekly fall was 2.68%. 4.36% was only Thursday's one-day fall."
+   },
+   {
+    "q": "What share does Kraft Heinz keep after selling its coffee business?",
+    "options": [
+     "10%",
+     "20%",
+     "30%",
+     "50%"
+    ],
+    "answer": 2,
+    "explain": "It keeps a 30% noncontrolling stake; the business was valued at $650 million."
+   }
+  ],
+  "caseStudy": {
+   "week": "2026-W45",
+   "weekLabel": "2 – 8 November 2026",
+   "company": "Reliance Jio",
+   "title": "Reliance Jio: how free data changed the whole telecom market",
+   "concept": "Penetration Pricing",
+   "intro": "Reliance shares rose 12% today, and one of the group's biggest success stories is Jio. Before 2016, mobile data in India was expensive and the market had a dozen companies. Within a few years the picture had changed completely.",
+   "sections": [
+    {
+     "h": "What it did",
+     "p": "Jio launched in September 2016 with an unbelievable offer: free data and free calls for several months. Even after that, its plans cost far less than the market. Because it built a 4G-only network from the start, it carried none of the old 2G/3G baggage."
+    },
+    {
+     "h": "The result",
+     "p": "Within just six months Jio crossed 100 million customers. Data prices in India became among the cheapest in the world, and data use grew many times over. Older companies were forced to cut prices. Many left the market, and Vodafone and Idea merged. Within a few years Jio became India's number one telecom company by subscribers."
+    },
+    {
+     "h": "Why it worked",
+     "p": "Reliance had huge capital to bear losses for a long time. Telecom has network effects: the more people, the more value. And demand for data is very price elastic, so usage exploded as soon as prices fell."
+    },
+    {
+     "h": "Risks and criticism",
+     "p": "The strategy needed tens of thousands of crores in investment. Rivals accused it of predatory pricing. With fewer companies left, customers may have less choice in future. Jio itself later raised prices step by step."
+    }
+   ],
+   "lesson": "Penetration pricing means entering at a very low price to win a large market share quickly, then raising prices slowly. It works when the company has deep pockets, demand is price sensitive and customers rarely leave once they join.",
+   "question": "Think: is the same strategy playing out in India's quick-commerce market (Blinkit, Zepto, Instamart)? Who do you think will survive?"
+  }
+ }
+}
