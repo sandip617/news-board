@@ -563,8 +563,12 @@ html[lang="en"] .kicker { letter-spacing: 0.1em; }
       else if (k.startsWith("on")) n.addEventListener(k.slice(2), v);
       else n.setAttribute(k, v === true ? "" : v);
     }
-    for (const c of kids.flat()) if (c != null && c !== false) n.append(c.nodeType ? c : document.createTextNode(String(c)));
+    for (const c of kids.flat(Infinity)) if (c != null && c !== false) n.append(c.nodeType ? c : document.createTextNode(String(c)));
     return n;
+  }
+  // replaceChildren that flattens nested arrays and skips null/false, like el()
+  function put(node, ...kids) {
+    node.replaceChildren(...kids.flat(Infinity).filter((c) => c != null && c !== false));
   }
   const ls = {
     get(k, d) { try { const v = localStorage.getItem(k); return v == null ? d : JSON.parse(v); } catch (e) { return d; } },
@@ -844,7 +848,7 @@ html[lang="en"] .kicker { letter-spacing: 0.1em; }
     const [first, ...rest] = C("news");
     const lead = $("lead");
     lead.setAttribute("data-story", first.id);
-    lead.replaceChildren(
+    put(lead, 
       el("div", { class: "kicker" }, t("lead") + " · " + first.category),
       el("h3", null, first.title),
       el("p", { class: "sum" }, first.summary),
@@ -864,7 +868,7 @@ html[lang="en"] .kicker { letter-spacing: 0.1em; }
 
   function renderSide() {
     const tm = C("term");
-    $("term").replaceChildren(
+    put($("term"), 
       el("div", { class: "kicker" }, t("termK")),
       el("h3", null, tm.term),
       el("div", { class: "bn" }, tm.bangla),
@@ -873,7 +877,7 @@ html[lang="en"] .kicker { letter-spacing: 0.1em; }
       el("p", null, el("b", null, t("example")), tm.example),
       tm.tip ? el("p", { class: "tip" }, tm.tip) : null);
     const g = C("gd");
-    $("gd").replaceChildren(
+    put($("gd"), 
       el("div", { class: "kicker" }, t("gdK")),
       el("h3", null, g.topic),
       g.context ? el("p", { class: "ctx" }, g.context) : null,
@@ -891,12 +895,12 @@ html[lang="en"] .kicker { letter-spacing: 0.1em; }
       if (p.startsWith("## ")) prose.append(el("h4", null, p.slice(3)));
       else { prose.append(el("p", { class: firstPara ? "first" : null }, p)); firstPara = false; }
     }
-    $("blogBody").replaceChildren(
+    put($("blogBody"), 
       el("div", { class: "kicker" }, b.topic + ((day.blog && day.blog.suggestedBy) ? " · " + t("bySug") : "")),
       el("h2", { class: "t" }, b.title),
       el("div", { class: "by" }, t("byLine")(num(b.readMin), dateLabel())),
       prose);
-    $("takeaways").replaceChildren(
+    put($("takeaways"), 
       el("h4", null, t("keep3")),
       el("ol", null, b.takeaways.map((x) => el("li", null, x))));
   }
@@ -911,7 +915,7 @@ html[lang="en"] .kicker { letter-spacing: 0.1em; }
     function paintScore() {
       const done = Object.keys(picks).length;
       const right = rightCount();
-      scoreLine.replaceChildren(
+      put(scoreLine, 
         el("span", null, t("yourScore")),
         el("b", null, num(right) + " / " + num(quiz.length)),
         el("span", { class: "exp" }, done < quiz.length ? t("left")(num(quiz.length - done)) : (right === quiz.length ? t("allRight") : t("goodTry"))),
@@ -960,7 +964,7 @@ html[lang="en"] .kicker { letter-spacing: 0.1em; }
     if (!w || !Array.isArray(w.quiz) || !w.quiz.length) { box.hidden = true; $("weeklyBody").replaceChildren(); return; }
     box.hidden = false;
     const qbox = el("div");
-    $("weeklyBody").replaceChildren(
+    put($("weeklyBody"), 
       w.title ? el("h3", null, w.title) : null,
       Array.isArray(w.summary) ? el("ul", { class: "sum5" }, w.summary.map((x) => el("li", null, x))) : null,
       qbox);
@@ -987,7 +991,7 @@ html[lang="en"] .kicker { letter-spacing: 0.1em; }
       dots.append(el("li", { class: (on ? "on" : "") + (i === 0 ? " today" : ""), title: labelFor(d) },
         el("span", { class: "sr" }, labelFor(d) + ": " + (on ? t("qDone") : t("qNotDone")))));
     }
-    box.replaceChildren(el("div", null, s.cur || s.best ? t("streak")(num(s.cur), num(s.best), num(s.total)) : t("streakNone")), dots);
+    put(box, el("div", null, s.cur || s.best ? t("streak")(num(s.cur), num(s.best), num(s.total)) : t("streakNone")), dots);
   }
   // old versions kept only per-day answers ("bba-quiz-YYYY-MM-DD"); turn finished ones into quiz records
   async function migrateQuiz() {
@@ -1015,7 +1019,7 @@ html[lang="en"] .kicker { letter-spacing: 0.1em; }
   function renderCase() {
     const c = C("caseStudy");
     $("caseWeek").textContent = c.weekLabel || "";
-    $("caseBody").replaceChildren(
+    put($("caseBody"), 
       el("div", { class: "kicker" }, c.company + " · " + c.concept),
       el("h3", null, c.title),
       el("p", { class: "intro" }, c.intro),
@@ -1121,12 +1125,12 @@ html[lang="en"] .kicker { letter-spacing: 0.1em; }
     if (day.date === index.latest) { b.hidden = true; b.replaceChildren(); }
     else {
       b.hidden = false;
-      b.replaceChildren(el("div", { class: "banner" },
+      put(b, el("div", { class: "banner" },
         el("span", null, t("oldEd")(dateLabel())),
         el("button", { class: "link-btn", type: "button", onclick: () => openDay(index.latest, null) }, t("backToday"))));
     }
     const n = $("langNote");
-    if (lang === "en" && !hasEn()) { n.hidden = false; n.replaceChildren(el("div", { class: "banner" }, t("noEn"))); }
+    if (lang === "en" && !hasEn()) { n.hidden = false; put(n, el("div", { class: "banner" }, t("noEn"))); }
     else { n.hidden = true; n.replaceChildren(); }
   }
 
@@ -1178,7 +1182,7 @@ html[lang="en"] .kicker { letter-spacing: 0.1em; }
 
   function render() {
     if (!mounted) {
-      $("app").replaceChildren($("tpl").content.cloneNode(true));
+      put($("app"), $("tpl").content.cloneNode(true));
       mounted = true;
       applyStatic();
       wireStatic();
