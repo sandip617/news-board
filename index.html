@@ -52,7 +52,6 @@ button { font: inherit; cursor: pointer; }
 .mast h1 { font-family: var(--f-mast); font-size: clamp(48px, 10vw, 104px); line-height: 1.05; letter-spacing: -0.01em; }
 .mast .tag { font-family: var(--f-ui); font-size: 14px; letter-spacing: 0.06em; color: var(--ink-2); margin-top: 6px; }
 .dbl { border: 0; border-top: 3px double var(--ink); margin: 0; }
-.thin { border: 0; border-top: 1px solid var(--ink); margin: 0; }
 
 /* Section nav */
 .nav { position: sticky; top: env(safe-area-inset-top, 0px); z-index: 5; background: var(--paper); border-bottom: 1px solid var(--ink); }
@@ -252,6 +251,8 @@ footer { margin-top: 40px; border-top: 3px double var(--ink); padding-block: 14p
 @media (prefers-reduced-motion: reduce) { .card.anim .face { animation: none; } }
 
 /* Notes list + archive groups */
+.notes-all-l { margin-top: 18px; }
+.sub-note { margin-bottom: 8px; }
 .notes-all { list-style: none; padding: 0; margin: 6px 0 10px; font-size: 15px; }
 .notes-all li { border-bottom: 1px solid var(--hair); }
 .notes-all button { width: 100%; text-align: left; background: none; border: 0; color: var(--ink); padding: 8px 0; display: grid; gap: 2px; font: inherit; }
@@ -415,7 +416,7 @@ html[lang="en"] .kicker { letter-spacing: 0.1em; }
       <label class="l" for="noteArea" data-t="todayNote"></label>
       <textarea id="noteArea" data-tp="notePh"></textarea>
       <div class="saved-note" id="noteSaved" role="status"></div>
-      <label class="l" style="margin-top:18px" data-t="allNotes"></label>
+      <label class="l notes-all-l" data-t="allNotes"></label>
       <ul class="notes-all" id="notesAll"></ul>
       <button type="button" class="ghost" id="dlNotes" data-t="dlNotes"></button>
       <div class="msg" id="dlMsg" role="status"></div>
@@ -442,7 +443,7 @@ html[lang="en"] .kicker { letter-spacing: 0.1em; }
           <button class="btn" id="subBtn" type="submit" data-t="subBtn"></button>
         </form>
         <div id="subClaude" hidden>
-          <p class="msg" data-t="subInClaude" style="margin-bottom:8px"></p>
+          <p class="msg sub-note" data-t="subInClaude"></p>
           <a class="btn" id="subOpen" target="_blank" rel="noopener" data-t="subNewTab"></a>
         </div>
         <div class="msg" id="subMsg" role="status" aria-live="polite"></div>

@@ -2,7 +2,7 @@
 
 A daily business newspaper for BBA students, in **Bangla and English**. Every morning it gets a new edition with the day's most important global business news, an AI-written blog, a business term, a GD topic, a 5-question quiz, a weekly case study and a market snapshot.
 
-**Live demo:** https://sandip617.github.io/news-board/ (sample edition)
+**Live:** https://sandip617.github.io/news-board/ (a new edition every morning)
 **Made by:** [Sandip Pal](https://itzsandippal.com)
 
 ## What's on the board
@@ -36,7 +36,7 @@ Good if you just want the board online. It won't update by itself.
 1. Click **Fork** at the top of this page (you need a free GitHub account).
 2. In your fork, go to **Settings → Pages**. Under "Branch", pick `main` and `/ (root)`, then **Save**.
 3. Wait a minute. Your board is live at `https://YOUR-USERNAME.github.io/news-board/`.
-4. To post a new edition, add a file in `data/days/` named like `2026-11-04.json` (copy an existing one and change the content), then add it to the top of `data/index.json` and set `"latest"` to the new date.
+4. To post a new edition, add a file in `data/days/` named like `2026-11-04.json` (copy an existing one and change the content), then add it to the top of `data/index.json`, set `"latest"` to the new date, and run `python3 scripts/build_terms.py` to refresh the glossary.
 
 On GitHub Pages the "suggest a blog topic" box and "Ask AI" are hidden, and notes, quiz results and flashcard progress are saved in each reader's browser.
 
