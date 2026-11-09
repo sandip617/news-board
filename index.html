@@ -287,6 +287,36 @@ a.btn { display: inline-block; text-decoration: none; }
 .lang button[aria-pressed="true"] { background: var(--ink); color: var(--paper); }
 html[lang="en"] { --f-body: "Source Serif 4", Georgia, serif; }
 html[lang="en"] .kicker { letter-spacing: 0.1em; }
+
+/* Newsletter popup (opens once at 50% scroll) -> MailerLite "News Board popup" form, group "Website newsletter" */
+.nlp { position: fixed; inset: 0; z-index: 50; display: grid; place-items: center; padding: 20px; visibility: hidden; opacity: 0; transition: opacity .3s, visibility .3s; }
+.nlp.open { visibility: visible; opacity: 1; }
+.nlp-bg { position: absolute; inset: 0; background: rgba(27, 24, 20, .55); }
+.nlp-card { position: relative; width: min(500px, 100%); max-height: calc(100vh - 40px); overflow-y: auto; box-sizing: border-box; padding: 18px 24px 22px; background: var(--paper); color: var(--ink); border: 1px solid var(--ink); box-shadow: 0 24px 60px -20px rgba(0, 0, 0, .5); transform: translateY(16px); transition: transform .4s cubic-bezier(.2, .8, .2, 1); }
+.nlp.open .nlp-card { transform: none; }
+.nlp-top { display: flex; justify-content: space-between; align-items: center; gap: 12px; padding-bottom: 8px; border-bottom: 1px solid var(--ink); font-family: var(--f-ui); font-size: 12px; font-weight: 600; letter-spacing: .08em; }
+.nlp-x { background: none; border: 1px solid var(--hair); color: var(--ink); width: 32px; height: 32px; border-radius: 2px; font-size: 20px; line-height: 1; cursor: pointer; }
+.nlp-x:hover { background: var(--ink); color: var(--paper); }
+.nlp-card .nlp-mast { margin: 10px 0 0; text-align: center; font-family: var(--f-mast); font-size: 44px; line-height: 1.05; }
+.nlp-rule { border-top: 3px double var(--ink); margin: 10px 0 14px; }
+.nlp-card h2 { font-family: var(--f-mast); font-size: 26px; line-height: 1.25; margin: 4px 0 8px; }
+.nlp-card p { font-size: 15.5px; line-height: 1.65; }
+.nlp-form { display: flex; gap: 8px; flex-wrap: wrap; margin-top: 14px; }
+.nlp-form input { flex: 1 1 200px; min-width: 0; font: inherit; font-family: var(--f-ui); font-size: 15px; padding: 8px 10px; background: var(--paper); color: var(--ink); border: 1px solid var(--ink-2); border-radius: 2px; }
+.nlp-form input:focus { outline: 2px solid var(--red); outline-offset: 1px; }
+.nlp-form input[aria-invalid="true"] { border-color: var(--red); }
+.nlp-form .btn[aria-disabled="true"] { opacity: .6; cursor: progress; }
+.nlp-msg { min-height: 1.4em; margin-top: 8px; font-family: var(--f-ui); font-size: 13.5px; color: var(--ink-2); }
+.nlp-msg.bad { color: var(--red); font-weight: 600; }
+.nlp-skip { display: block; margin: 10px auto 0; background: none; border: 0; color: var(--ink-2); font-family: var(--f-ui); font-size: 13.5px; text-decoration: underline; cursor: pointer; }
+.nlp-skip:hover { color: var(--ink); }
+.nlp-done .btn { margin-top: 12px; }
+@media (max-width: 600px) {
+  .nlp { place-items: end center; padding: 0; }
+  .nlp-card { width: 100%; max-height: 92vh; border-width: 1px 0 0; padding-bottom: calc(22px + env(safe-area-inset-bottom, 0px)); transform: translateY(100%); }
+  .nlp-card .nlp-mast { font-size: 36px; }
+}
+@media (prefers-reduced-motion: reduce) { .nlp, .nlp-card { transition: none; } }
 @media (prefers-reduced-motion: no-preference) {
   html { scroll-behavior: smooth; }
 }
@@ -452,6 +482,32 @@ html[lang="en"] .kicker { letter-spacing: 0.1em; }
   </section>
 </div>
 
+<!-- Newsletter popup: opens once at 50% scroll (not inside claude.ai) -->
+<div class="nlp" id="nlp" aria-hidden="true">
+  <div class="nlp-bg" data-nlp-close></div>
+  <div class="nlp-card" role="dialog" aria-modal="true" aria-labelledby="nlpHead" aria-describedby="nlpText">
+    <div class="nlp-top"><span data-t="nlpKicker"></span><button type="button" class="nlp-x" data-nlp-close data-ta="nlpClose">×</button></div>
+    <p class="nlp-mast">The Brief</p>
+    <div class="nlp-rule"></div>
+    <div id="nlpBody">
+      <h2 id="nlpHead" data-t="nlpHead"></h2>
+      <p id="nlpText" data-t="nlpText"></p>
+      <form class="nlp-form" id="nlpForm" novalidate>
+        <label class="sr" for="nlpEmail" data-t="emailL"></label>
+        <input id="nlpEmail" type="email" autocomplete="email" inputmode="email" required data-tp="emailPh">
+        <button class="btn" id="nlpBtn" type="submit" data-t="subBtn"></button>
+      </form>
+      <div class="nlp-msg" id="nlpMsg" role="status" aria-live="polite"></div>
+      <button type="button" class="nlp-skip" data-nlp-close data-t="nlpSkip"></button>
+    </div>
+    <div class="nlp-done" id="nlpDone" hidden>
+      <h2 data-t="nlpDoneHead"></h2>
+      <p data-t="nlpDoneText"></p>
+      <button type="button" class="btn" data-nlp-close data-t="nlpBack"></button>
+    </div>
+  </div>
+</div>
+
 <footer class="wrap">
   <span data-t="footer"></span>
   <span data-t="notAdvice"></span>
@@ -462,7 +518,9 @@ html[lang="en"] .kicker { letter-spacing: 0.1em; }
   // ---------- site settings (public values only, never put secrets here) ----------
   const CONFIG = {
     PUBLIC_URL: "https://sandip617.github.io/news-board/",
-    SUBSCRIBE_ACTION: "PASTE_MAILERLITE_FORM_ACTION_URL"
+    SUBSCRIBE_ACTION: "PASTE_MAILERLITE_FORM_ACTION_URL",
+    // 50%-scroll popup: Sandip's newsletter "The Brief" (MailerLite group "Website newsletter")
+    POPUP_ACTION: "https://assets.mailerlite.com/jsonp/2780838/forms/203669994616129009/subscribe"
   };
 
   // ---------- interface text in both languages ----------
@@ -507,7 +565,13 @@ html[lang="en"] .kicker { letter-spacing: 0.1em; }
       subOk: "Inbox দেখো আর confirm-এ চাপ দাও।", subFail: "সাবস্ক্রাইব করা গেল না। একটু পরে আবার চেষ্টা করো।",
       subFallback: "নতুন ট্যাবে সাবস্ক্রিপশন খুলেছে, ওখানে শেষ করো।", subInClaude: "এখান থেকে সাবস্ক্রাইব করা যায় না। পাবলিক পেজে গিয়ে email দাও।", subNewTab: "নতুন ট্যাবে খুলে সাবস্ক্রাইব করো ↗",
       noEn: "",
-      footer: "Sandip's Board", notAdvice: "বিনিয়োগের পরামর্শ নয়"
+      footer: "Sandip's Board", notAdvice: "বিনিয়োগের পরামর্শ নয়",
+      nlpKicker: "অর্ধেক পড়া শেষ", nlpClose: "বন্ধ করো",
+      nlpHead: "এই ধরনের লেখা inbox-এ পেতে চাও?",
+      nlpText: "The Brief হলো Sandip-এর newsletter: ব্যবসা, মার্কেটিং আর content নিয়ে ছোট, সহজ লেখা, সাথে নতুন project-এর খবর। Spam নেই, এক ক্লিকে unsubscribe।",
+      nlpNote: "Confirm করার জন্য একটা mail যাবে, ব্যস।", nlpSkip: "এখন না, পড়তে থাকি",
+      nlpFail: "হলো না। একটু পরে আবার চেষ্টা করো।",
+      nlpDoneHead: "প্রায় হয়ে গেছে!", nlpDoneText: "Inbox-এ confirmation mail-এর লিংকে চাপ দাও। তারপর প্রথম সংখ্যা চলে যাবে।", nlpBack: "আবার পড়ায় ফিরি"
     },
     en: {
       daily7: "New edition every day at 7 AM", globalIn: "Global business", tagline: "Daily news, explainers and prep for business students",
@@ -549,7 +613,13 @@ html[lang="en"] .kicker { letter-spacing: 0.1em; }
       subOk: "Check your inbox and click confirm.", subFail: "Couldn't subscribe. Try again in a little while.",
       subFallback: "The sign-up opened in a new tab. Finish there.", subInClaude: "You can't subscribe from here. Open the public page and enter your email there.", subNewTab: "Open in a new tab to subscribe ↗",
       noEn: "This edition is only available in Bangla.",
-      footer: "Sandip's Board", notAdvice: "Not investment advice"
+      footer: "Sandip's Board", notAdvice: "Not investment advice",
+      nlpKicker: "Halfway through today’s paper", nlpClose: "Close",
+      nlpHead: "Want writing like this in your inbox?",
+      nlpText: "The Brief is Sandip’s newsletter: short, simple notes on business, marketing and content, plus new projects. No spam, unsubscribe in one click.",
+      nlpNote: "You’ll get one email to confirm. That’s it.", nlpSkip: "Not now, keep reading",
+      nlpFail: "That didn’t work. Try again in a little while.",
+      nlpDoneHead: "You’re almost in.", nlpDoneText: "Tap the link in the confirmation email. Then your first issue is on its way.", nlpBack: "Back to the paper"
     }
   };
 
@@ -603,6 +673,9 @@ html[lang="en"] .kicker { letter-spacing: 0.1em; }
     root.setAttribute("lang", lang);
     document.querySelectorAll("[data-t]").forEach((n) => { n.textContent = t(n.getAttribute("data-t")); });
     document.querySelectorAll("[data-tp]").forEach((n) => { n.placeholder = t(n.getAttribute("data-tp")); n.setAttribute("aria-label", t(n.getAttribute("data-tp"))); });
+    document.querySelectorAll("[data-ta]").forEach((n) => { n.setAttribute("aria-label", t(n.getAttribute("data-ta"))); });
+    const nlpMsg = document.getElementById("nlpMsg");
+    if (nlpMsg && !nlpMsg.classList.contains("bad")) nlpMsg.textContent = t("nlpNote");
     $("langBn").setAttribute("aria-pressed", lang === "bn" ? "true" : "false");
     $("langEn").setAttribute("aria-pressed", lang === "en" ? "true" : "false");
     themeBtn.setAttribute("aria-label", t("themeLabel"));
@@ -1393,7 +1466,78 @@ html[lang="en"] .kicker { letter-spacing: 0.1em; }
     if (mounted) startSuggestions();
   }
 
+  // ---------- newsletter popup: opens once when the reader reaches 50% of the page ----------
+  function initPopup() {
+    const pop = $("nlp");
+    const action = CONFIG.POPUP_ACTION || "";
+    if (!pop || inClaude || !/^https:\/\//.test(action)) return; // never inside claude.ai
+    const K_SUB = "nl-subscribed", K_DISMISS = "nl-dismissed-at", SNOOZE_MS = 7 * 864e5;
+    if (ls.get(K_SUB, false)) return;
+    if (Date.now() - Number(ls.get(K_DISMISS, 0)) < SNOOZE_MS) return;
+    const form = $("nlpForm"), input = $("nlpEmail"), btn = $("nlpBtn"), msg = $("nlpMsg");
+    let lastFocus = null;
+    const isOpen = () => pop.classList.contains("open");
+    function open() {
+      window.removeEventListener("scroll", check);
+      lastFocus = document.activeElement;
+      pop.classList.add("open"); pop.setAttribute("aria-hidden", "false");
+      document.body.style.overflow = "hidden";
+      setTimeout(() => input.focus({ preventScroll: true }), 80);
+    }
+    function close() {
+      if (!isOpen()) return;
+      pop.classList.remove("open"); pop.setAttribute("aria-hidden", "true");
+      document.body.style.overflow = "";
+      if (!ls.get(K_SUB, false)) ls.set(K_DISMISS, Date.now());
+      if (lastFocus && lastFocus.focus) lastFocus.focus({ preventScroll: true });
+    }
+    function check() {
+      const max = document.documentElement.scrollHeight - window.innerHeight;
+      if (max > 0 && window.scrollY / max >= 0.5) open();
+    }
+    window.addEventListener("scroll", check, { passive: true });
+    pop.querySelectorAll("[data-nlp-close]").forEach((n) => n.addEventListener("click", close));
+    document.addEventListener("keydown", (e) => {
+      if (!isOpen()) return;
+      if (e.key === "Escape") close();
+      if (e.key === "Tab") { // keep focus inside the popup
+        const items = [...pop.querySelectorAll("button, input")].filter((n) => n.offsetParent !== null);
+        const first = items[0], last = items[items.length - 1];
+        if (e.shiftKey && document.activeElement === first) { e.preventDefault(); last.focus(); }
+        else if (!e.shiftKey && document.activeElement === last) { e.preventDefault(); first.focus(); }
+      }
+    });
+    const say = (text, bad) => { msg.textContent = text; msg.classList.toggle("bad", !!bad); };
+    say(t("nlpNote"));
+    input.addEventListener("input", () => { if (msg.classList.contains("bad")) { input.removeAttribute("aria-invalid"); say(t("nlpNote")); } });
+    form.addEventListener("submit", async (ev) => {
+      ev.preventDefault();
+      if (btn.getAttribute("aria-disabled") === "true") return;
+      const email = input.value.trim();
+      if (!/^[^\s@]+@[^\s@]+\.[^\s@]{2,}$/.test(email)) {
+        input.setAttribute("aria-invalid", "true"); say(t("subBad"), true); input.focus(); return;
+      }
+      input.removeAttribute("aria-invalid");
+      const fd = new FormData();
+      fd.append("fields[email]", email); fd.append("ml-submit", "1"); fd.append("anticsrf", "true");
+      btn.setAttribute("aria-disabled", "true"); say(t("subSending"));
+      let ok = false, err = "";
+      try {
+        const r = await fetch(action, { method: "POST", body: fd });
+        let j = null; try { j = await r.json(); } catch (e) {}
+        ok = r.ok && !!(j && j.success);
+        if (!ok) err = (j && j.errors && j.errors.fields && j.errors.fields.email && j.errors.fields.email[0]) || t("nlpFail");
+      } catch (e) { err = t("nlpFail"); }
+      btn.removeAttribute("aria-disabled");
+      if (!ok) { say(err, true); return; }
+      ls.set(K_SUB, true);
+      $("nlpBody").hidden = true; $("nlpDone").hidden = false;
+      $("nlpDone").querySelector("button").focus({ preventScroll: true });
+    });
+  }
+
   initSubscribe();
+  initPopup();
   boot();
   connect();
 })();
