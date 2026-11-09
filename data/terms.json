@@ -1,6 +1,23 @@
 {
  "terms": [
   {
+   "date": "2026-11-09",
+   "term": "Key-Person Risk",
+   "bangla": "কী-পারসন রিস্ক (এক ব্যক্তির ওপর বেশি নির্ভরতার ঝুঁকি)",
+   "definition": "কোনো কোম্পানির সাফল্য যদি একজন বা অল্প কয়েকজন মানুষের ওপর অতিরিক্ত নির্ভর করে, তাহলে সেই মানুষটি চলে গেলে বা বিতর্কে জড়ালে কোম্পানির ক্ষতি হওয়ার ঝুঁকিকে key-person risk বলে। বিনিয়োগকারী, ঋণদাতা আর বিমা কোম্পানি এই ঝুঁকি মাথায় রাখে। এর সমাধান হলো succession plan, শক্তিশালী বোর্ড আর দ্বিতীয় সারির নেতৃত্ব তৈরি করা।",
+   "example": "Nvidia-র CEO Jensen Huang-কে নিয়ে বোর্ডের স্বাধীন তদন্ত শুরু হওয়ায় বিশ্লেষকরা বলছেন, তদন্তের ফলে তাঁকে সরতে হলে শেয়ারে ঝুঁকি বাড়বে। কোম্পানির ভবিষ্যৎ অনেকটা একজন নেতার ওপর নির্ভর করছে, এটাই key-person risk।",
+   "formula": "",
+   "tip": "Interview-এ বলো: শুধু আর্থিক সংখ্যা নয়, নেতৃত্বের ওপর নির্ভরতা আর succession plan আছে কি না, সেটাও কোম্পানি বিশ্লেষণের অংশ। ছোট স্টার্টআপে এই ঝুঁকি আরও বেশি।",
+   "en": {
+    "term": "Key-Person Risk",
+    "bangla": "The risk of relying too much on one person",
+    "definition": "Key-person risk is the risk that a company suffers if a single person, or a very small group, that its success depends on leaves or is caught in controversy. Investors, lenders and insurers watch for it. The fix is a succession plan, a strong board and a deep second line of leaders.",
+    "example": "With Nvidia's board starting an independent probe of CEO Jensen Huang, analysts say shares face added risk if the probe forces him out. The company's future leans heavily on one leader, which is key-person risk.",
+    "formula": "",
+    "tip": "In interviews say: analyse not just the numbers but also dependence on leadership and whether a succession plan exists. The risk is even higher in small start-ups."
+   }
+  },
+  {
    "date": "2026-11-08",
    "term": "Share Buyback",
    "bangla": "শেয়ার পুনঃক্রয় (কোম্পানির নিজের শেয়ার কিনে নেওয়া)",

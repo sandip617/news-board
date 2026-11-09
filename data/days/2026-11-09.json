@@ -1,0 +1,559 @@
+{
+ "date": "2026-11-09",
+ "dateLabel": "৯ নভেম্বর ২০২৬, সোমবার",
+ "edition": 1,
+ "updatedAt": "2026-11-09T06:55:00+05:30",
+ "news": [
+  {
+   "id": "n1",
+   "category": "কোম্পানি",
+   "title": "Nvidia-র বোর্ড CEO Jensen Huang-কে নিয়ে স্বাধীন তদন্ত শুরু করেছে, চীনা গোয়েন্দা-সংশ্লিষ্টতার অভিযোগ",
+   "summary": "রবিবার Nvidia জানিয়েছে, তাদের বোর্ডের স্বাধীন ডিরেক্টররা বাইরের স্বাধীন আইনজীবীর সাহায্যে তদন্ত চালাবেন। New York Times আর Financial Times-এর প্রতিবেদনে বলা হয়েছিল, সিঙ্গাপুরভিত্তিক ক্লাউড কোম্পানি Megaspeed-এর এক কর্তা Alice Huang-এর সঙ্গে CEO-র সম্পর্ক ছিল, যাঁকে মার্কিন গোয়েন্দারা বেইজিংয়ের হয়ে তথ্য পাচারের সন্দেহ করছিল। Jensen Huang কর্মীদের ইমেইলে সম্পর্কের কথা স্বীকার করে ক্ষমা চেয়েছেন। তদন্তের সময় তিনি CEO পদেই থাকবেন বলে বোর্ড জানিয়েছে। তিনজন হাউস রিপাবলিকান তাঁর কাছে ব্যাখ্যা চেয়েছেন। NBC জানাচ্ছে, বিদেশি গোয়েন্দা প্রচেষ্টার অভিযোগ তারা নিজেরা যাচাই করতে পারেনি।",
+   "why": "এটা corporate governance আর key-person risk-এর বাস্তব উদাহরণ। একজন নেতার ওপর কোম্পানি কতটা নির্ভর করে, বোর্ড কীভাবে স্বাধীন তদন্ত করে, আর export control-এর ঝুঁকি কীভাবে বিনিয়োগকারীর ঝুঁকি বাড়ায়, তা বোঝার সুযোগ। আজকের ব্লগ এটা নিয়েই।",
+   "source": {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/08/nvidia-jensen-huang-investigation-china-spy.html"
+   }
+  },
+  {
+   "id": "n2",
+   "category": "পণ্য বাজার",
+   "title": "Iran-এর সঙ্গে শান্তি আলোচনার আশায় Brent এক সপ্তাহে 13%-এর বেশি পড়ে $98.32-এ",
+   "summary": "শুক্রবার Brent crude $98.32 প্রতি ব্যারেলে বন্ধ হয়েছে। অক্টোবরে এর দাম ছিল প্রায় $118-এর ছয় মাসের সর্বোচ্চে। Bloomberg-এর হিসাবে এক সপ্তাহে পতন প্রায় 13.2%, অন্য সূত্রে 16% পর্যন্ত, কারণ মেয়াদ শেষ হওয়া চুক্তি কীভাবে ধরা হচ্ছে তার ওপর হিসাব বদলায়। বাজার ধরে নিচ্ছে মার্কিন মধ্যবর্তী নির্বাচনের পর Washington-এর ওপর যুদ্ধ থামানোর চাপ বাড়বে। তবে এখনও কোনো চুক্তি সই হয়নি। Iran নিজের শর্ত দিয়েছে, আর Hormuz প্রণালীতে ট্যাংকারে হামলাও চলছে। রবিবার Brent আবার প্রায় $97-এর দিকে নেমেছে।",
+   "why": "Supply shock, risk premium আর commodity price volatility বোঝার চমৎকার উদাহরণ। তেলের দাম কমলে মুদ্রাস্ফীতি আর কোম্পানির খরচ দুটোই প্রভাবিত হয়, বিশেষ করে ভারতের মতো আমদানিকারক দেশে।",
+   "source": {
+    "name": "Rigzone",
+    "url": "https://www.rigzone.com/news/wire/oil_posts_biggest_weekly_drop_since_2022-06-nov-2026-185035-article/"
+   }
+  },
+  {
+   "id": "n3",
+   "category": "আমেরিকার বাজার",
+   "title": "AI শেয়ারের ধসের পর Wall Street-এর পাল্টা উত্থান, তবু সপ্তাহে Nasdaq 3.4% নিচে",
+   "summary": "শুক্রবার S&P 500 0.3% বেড়ে 7,376.86-এ আর Nasdaq 1.1% বেড়ে 24,579.42-এ বন্ধ হয়েছে। Dow 0.5% কমে 51,285.73-এ থেমেছে, কারণ ভালো চাকরির তথ্যে Treasury yield বেড়েছিল। বৃহস্পতিবারের ইতিহাসগড়া ধসের পর AI শেয়ারে কেনাকাটা ফিরেছে, Nvidia প্রায় 3% বেড়েছে। কিন্তু পুরো সপ্তাহে Nasdaq 3.4%, S&P 500 2.7% আর Dow 0.9% কমেছে। বিনিয়োগকারীদের নজর এখন মঙ্গলবারের US inflation তথ্য আর AI কোম্পানির আয়ের ফলের দিকে।",
+   "why": "Market volatility, valuation আর investor sentiment কীভাবে সূচককে নাড়ায়, তা বোঝা যায়। একদিনের উত্থান মানেই প্রবণতা বদলানো নয়, সাপ্তাহিক ছবিটাও দেখতে হয়।",
+   "source": {
+    "name": "Business Standard (AP)",
+    "url": "https://www.business-standard.com/amp/world-news/wall-street-catches-its-breath-after-ai-led-multi-trillion-dollar-rout-126110602035_1.html"
+   }
+  },
+  {
+   "id": "n4",
+   "category": "ভারতের বাজার",
+   "title": "Sensex 2.17% বেড়ে 81,028-এ, Nifty ফের 25,000-এর ওপরে, টানা সপ্তম দিনের উত্থান",
+   "summary": "শুক্রবার Sensex 1,718 পয়েন্ট (2.17%) বেড়ে 81,028.02-এ আর Nifty 50 প্রায় 2.01% বেড়ে 25,030.35-এ বন্ধ হয়েছে। 27 ফেব্রুয়ারির পর এই প্রথম Nifty 25,000 ছুঁল। ব্যাংক শেয়ার বাজারকে টেনেছে, কিন্তু Nifty Smallcap 100 প্রায় 0.82% কমেছে। Business Standard জানিয়েছে, উত্থান টানা সাত দিনে পৌঁছেছে। ETV Bharat-এর হিসাবে গত ছয় সেশনে Sensex প্রায় 8.27% আর Nifty প্রায় 8% বেড়েছে। শুরুতে সূচক নিচে থাকলেও দিনের শেষে বড় লাভে বন্ধ হয়েছে।",
+   "why": "Market breadth বোঝার শিক্ষা: বড় সূচক বাড়লেও ছোট শেয়ার কমলে উত্থান সব জায়গায় সমান নয়। বিদেশি বিনিয়োগকারীর কেনা আর তেলের দাম কমা কীভাবে উদীয়মান বাজারে প্রভাব ফেলে, সেটাও দেখা যায়।",
+   "source": {
+    "name": "Business Standard",
+    "url": "https://www.business-standard.com/amp/markets/news/stock-market-live-november-6-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-q2-results-today-dhanteras-126110600099_1.html"
+   }
+  },
+  {
+   "id": "n5",
+   "category": "সোনা ও সুদ",
+   "title": "শক্তিশালী চাকরির তথ্যে ডলার চড়ায় সোনা প্রায় 1% কমে $4,045-এ, মঙ্গলবার US CPI",
+   "summary": "শুক্রবার সোনা প্রায় 1.02% কমে আউন্সপ্রতি প্রায় $4,045-এ নেমেছে। অক্টোবরে আমেরিকায় 165,000 নতুন চাকরি হয়েছে, যেখানে আশা ছিল প্রায় 65,000, আর বেকারত্ব 4.2% থেকে কমে 4.1% হয়েছে। ফলে ডলার শক্ত হয়েছে এবং Fed ডিসেম্বরে সুদ বাড়াবে, এই বাজির সম্ভাবনা প্রায় 80%-এ উঠেছে। সুদ না দেওয়া সোনার জন্য এটা খারাপ খবর। এই সপ্তাহে মঙ্গলবার অক্টোবরের US CPI প্রকাশিত হবে, আর কয়েকজন Fed কর্তার বক্তৃতাও আছে।",
+   "why": "Monetary policy, interest rate আর opportunity cost-এর সম্পর্ক: সুদ বাড়ার সম্ভাবনায় সুদহীন সম্পদ সোনার আকর্ষণ কমে যায়।",
+   "source": {
+    "name": "USAGOLD",
+    "url": "https://www.usagold.com/daily-precious-metals-market-report-november-6-2026/"
+   }
+  },
+  {
+   "id": "n6",
+   "category": "ব্যাংকিং",
+   "title": "ANZ-এর পুরো বছরের নিট মুনাফা 23% বেড়ে A$7.3 বিলিয়ন",
+   "summary": "অস্ট্রেলীয় ব্যাংক ANZ 30 সেপ্টেম্বরে শেষ হওয়া অর্থবছরে প্রায় A$7.3 বিলিয়ন (statutory) নিট মুনাফা জানিয়েছে, যা আগের বছরের চেয়ে 23% বেশি। Reuters জানিয়েছে, cash profit প্রায় A$7.59 বিলিয়ন, যা বিশ্লেষকদের গড় অনুমান A$7.55 বিলিয়নের কাছাকাছি। ব্যাংক চূড়ান্ত লভ্যাংশ ঘোষণা করেছে শেয়ারপ্রতি 83 অস্ট্রেলীয় সেন্ট, যা আগের বছরের সমান। সোমবার ফলাফলের দিনে অস্ট্রেলীয় বাজার প্রযুক্তি শেয়ারের উত্থানে ইতিবাচক ছিল।",
+   "why": "Statutory profit আর cash profit-এর পার্থক্য, আর dividend payout কীভাবে ব্যাংকের financial statement analysis-এ কাজে লাগে, সেটা জানার সুযোগ।",
+   "source": {
+    "name": "Capital Brief",
+    "url": "https://www.capitalbrief.com/briefing/anz-delivers-23-jump-in-full-year-net-profit-to-73b-aa237f13-d264-46f4-a6f2-19226a83ec18/"
+   }
+  },
+  {
+   "id": "n7",
+   "category": "ভারতের অর্থনীতি",
+   "title": "বৃহস্পতিবার ভারতের অক্টোবরের মুদ্রাস্ফীতির তথ্য, আশা 5.9%, RBI-র উপরের সীমার কাছে",
+   "summary": "এক সাপ্তাহিক পূর্বাভাসে বলা হয়েছে, অক্টোবরের CPI মুদ্রাস্ফীতি বৃহস্পতিবার, 12 নভেম্বর প্রকাশিত হবে। বাজারের আশা প্রায় 5.9%, যা সেপ্টেম্বরের 5.5% থেকে বেশি এবং RBI-র 6%-এর উপরের সহনসীমার কাছাকাছি। প্রত্যাশার চেয়ে বেশি এলে ডিসেম্বরে সুদের হার বাড়ানোর যুক্তি জোরালো হতে পারে। এটা পূর্বাভাস মাত্র, নীতিগত সিদ্ধান্ত নিশ্চিত নয়। একই সপ্তাহে আমেরিকার CPI আর তেলের দামও ভারতের বাজারের গতি ঠিক করবে।",
+   "why": "CPI, inflation targeting আর monetary policy transmission-এর সরাসরি সম্পর্ক। RBI-র সুদের সিদ্ধান্ত কীভাবে ঋণ, শেয়ার আর ব্যবসার খরচকে ছোঁয়, তা বোঝার জন্য এই তথ্য গুরুত্বপূর্ণ।",
+   "source": {
+    "name": "Upstox",
+    "url": "https://upstox.com/news/market-news/trading/week-ahead-muhurat-trading-india-us-inflation-crude-oil-prices-fi-is-activity-among-key-market-triggers-to-watch/article-203165/"
+   }
+  }
+ ],
+ "market": {
+  "asOf": "৬ নভেম্বর ২০২৬, শুক্রবারের ক্লোজিং (সোমবার বাজার খোলার আগে)",
+  "items": [
+   {
+    "name": "S&P 500",
+    "region": "আমেরিকা",
+    "value": "7,376.86",
+    "change": "+0.3%",
+    "dir": "up"
+   },
+   {
+    "name": "Dow Jones",
+    "region": "আমেরিকা",
+    "value": "51,285.73",
+    "change": "-0.5%",
+    "dir": "down"
+   },
+   {
+    "name": "Nasdaq",
+    "region": "আমেরিকা",
+    "value": "24,579.42",
+    "change": "+1.1%",
+    "dir": "up"
+   },
+   {
+    "name": "Sensex",
+    "region": "ভারত",
+    "value": "81,028.02",
+    "change": "+2.17%",
+    "dir": "up"
+   },
+   {
+    "name": "Nifty 50",
+    "region": "ভারত",
+    "value": "25,030.35",
+    "change": "+2.01%",
+    "dir": "up"
+   },
+   {
+    "name": "Brent Crude",
+    "region": "$ প্রতি ব্যারেল",
+    "value": "98.32",
+    "change": "",
+    "dir": "flat"
+   },
+   {
+    "name": "Gold",
+    "region": "$ প্রতি আউন্স",
+    "value": "4,045",
+    "change": "-1.02%",
+    "dir": "down"
+   },
+   {
+    "name": "USD/INR",
+    "region": "₹ প্রতি ডলার",
+    "value": "93.89",
+    "change": "-52 paise",
+    "dir": "down"
+   }
+  ]
+ },
+ "term": {
+  "term": "Key-Person Risk",
+  "bangla": "কী-পারসন রিস্ক (এক ব্যক্তির ওপর বেশি নির্ভরতার ঝুঁকি)",
+  "definition": "কোনো কোম্পানির সাফল্য যদি একজন বা অল্প কয়েকজন মানুষের ওপর অতিরিক্ত নির্ভর করে, তাহলে সেই মানুষটি চলে গেলে বা বিতর্কে জড়ালে কোম্পানির ক্ষতি হওয়ার ঝুঁকিকে key-person risk বলে। বিনিয়োগকারী, ঋণদাতা আর বিমা কোম্পানি এই ঝুঁকি মাথায় রাখে। এর সমাধান হলো succession plan, শক্তিশালী বোর্ড আর দ্বিতীয় সারির নেতৃত্ব তৈরি করা।",
+  "example": "Nvidia-র CEO Jensen Huang-কে নিয়ে বোর্ডের স্বাধীন তদন্ত শুরু হওয়ায় বিশ্লেষকরা বলছেন, তদন্তের ফলে তাঁকে সরতে হলে শেয়ারে ঝুঁকি বাড়বে। কোম্পানির ভবিষ্যৎ অনেকটা একজন নেতার ওপর নির্ভর করছে, এটাই key-person risk।",
+  "formula": "",
+  "tip": "Interview-এ বলো: শুধু আর্থিক সংখ্যা নয়, নেতৃত্বের ওপর নির্ভরতা আর succession plan আছে কি না, সেটাও কোম্পানি বিশ্লেষণের অংশ। ছোট স্টার্টআপে এই ঝুঁকি আরও বেশি।"
+ },
+ "gd": {
+  "topic": "একজন তারকা CEO-র ওপর কোম্পানির নির্ভরতা কি শক্তি, না বিপজ্জনক দুর্বলতা?",
+  "context": "Nvidia-র বোর্ড CEO Jensen Huang-কে নিয়ে স্বাধীন তদন্ত শুরু করেছে, আর বিশ্লেষকদের মতে তদন্তের ফলাফলে শেয়ারের ঝুঁকি বাড়তে পারে।",
+  "for": [
+   "তারকা CEO-র দৃষ্টি আর দ্রুত সিদ্ধান্ত কোম্পানিকে বাজারে আলাদা পরিচয় আর বিনিয়োগকারীর আস্থা দেয়।",
+   "একজন পরিচিত মুখ থাকলে কর্মী, গ্রাহক আর অংশীদারদের কাছে কোম্পানির লক্ষ্য পরিষ্কার থাকে।",
+   "স্টার্টআপ বা দ্রুত বাড়তে থাকা কোম্পানিতে একজন শক্ত নেতাই প্রায়ই গতি আনেন।"
+  ],
+  "against": [
+   "নেতা বিতর্কে পড়লে বা সরে গেলে পুরো কোম্পানির শেয়ার, সুনাম আর কৌশল ধাক্কা খায়।",
+   "একজনের ওপর নির্ভরতা বোর্ডের তদারকি দুর্বল করে এবং succession plan তৈরি হতে দেয় না।",
+   "কোম্পানি ব্যক্তিনির্ভর হলে ভালো প্রতিষ্ঠানিক প্রক্রিয়া আর দ্বিতীয় সারির নেতৃত্ব গড়ে ওঠে না।"
+  ]
+ },
+ "blog": {
+  "title": "একজন নেতার ওপর কোম্পানি কতটা নির্ভর করবে? Nvidia থেকে key-person risk আর governance-এর পাঠ",
+  "topic": "Key-Person Risk ও Corporate Governance",
+  "readMin": 5,
+  "body": [
+   "কোনো কোম্পানির শেয়ার কেনার আগে আমরা সাধারণত মুনাফা, বিক্রি আর ঋণ দেখি। কিন্তু একটা প্রশ্ন অনেকে ভুলে যান: এই কোম্পানিটা কি আসলে একজন মানুষের ওপর দাঁড়িয়ে আছে? রবিবার Nvidia-র বোর্ড ঘোষণা করেছে, তারা CEO Jensen Huang-কে নিয়ে একটি স্বাধীন তদন্ত শুরু করছে। আজকের ব্লগে আমরা এই ঘটনার সূত্র ধরে গোড়া থেকে বুঝব key-person risk আর corporate governance কী।",
+   "## ঘটনাটা সংক্ষেপে",
+   "New York Times আর Financial Times-এর প্রতিবেদনে বলা হয়েছে, Nvidia-র গ্রাহক সিঙ্গাপুরভিত্তিক ক্লাউড কোম্পানি Megaspeed-এর এক কর্তা Alice Huang-কে মার্কিন গোয়েন্দারা বেইজিংয়ের হয়ে তথ্য পাচারের সন্দেহ করছিলেন। Jensen Huang কর্মীদের ইমেইলে তাঁর সঙ্গে সম্পর্কের কথা স্বীকার করে ক্ষমা চেয়েছেন। Nvidia-র বোর্ড জানিয়েছে, স্বাধীন ডিরেক্টররা বাইরের আইনজীবীর সাহায্যে তদন্ত করবেন এবং তদন্ত চলার সময় Huang CEO পদেই থাকবেন। NBC আরও জানিয়েছে, বিদেশি গোয়েন্দা প্রচেষ্টার অভিযোগ তারা নিজেরা যাচাই করতে পারেনি। তাই এখন যা জানা গেছে, তার অনেকটাই অভিযোগ, প্রমাণিত সত্য নয়। তদন্তের ফল আসা পর্যন্ত অপেক্ষা করাই বুদ্ধিমানের কাজ।",
+   "## Key-person risk কী?",
+   "ধরো, একটা ছোট বেকারি। মালিকের হাতের সিগনেচার কেকের জন্যই সবাই আসে। মালিক অসুস্থ হলে বা চলে গেলে বেকারির বিক্রি হঠাৎ পড়ে যাবে। এই ঝুঁকিকেই বলে key-person risk: কোম্পানির সাফল্য একজন বা অল্প কয়েকজনের ওপর এত বেশি নির্ভর করে যে তাঁদের অনুপস্থিতি বা বিতর্ক পুরো ব্যবসাকে নাড়িয়ে দিতে পারে।",
+   "বড় কোম্পানিতেও এটা সত্যি। Tesla-র সঙ্গে Elon Musk, Apple-এর সঙ্গে Steve Jobs-এর নাম একসময় প্রায় এক হয়ে গিয়েছিল। বিনিয়োগকারীরা তাই শুধু কোম্পানির হিসাব নয়, নেতৃত্বের স্থায়িত্বও মূল্যায়ন করেন। Nvidia-র ক্ষেত্রে বিশ্লেষকদের একজন বলেছেন, তদন্তের ফল অনুযায়ী Huang-কে সরতে হলে তা শেয়ারের জন্য ঝুঁকি। এই সতর্কবার্তাই key-person risk-এর আসল রূপ।",
+   "## Corporate governance কেন গুরুত্বপূর্ণ?",
+   "Corporate governance হলো সেই নিয়ম আর কাঠামো, যার মাধ্যমে একটি কোম্পানি পরিচালিত ও নিয়ন্ত্রিত হয়। এর কেন্দ্রে আছে বোর্ড অব ডিরেক্টরস। বোর্ডের কাজ শেয়ারহোল্ডারদের হয়ে ম্যানেজমেন্টকে তদারকি করা। বোর্ডে স্বাধীন ডিরেক্টর (independent director) থাকেন, যাঁরা কোম্পানির দৈনন্দিন ম্যানেজমেন্টের অংশ নন। তাঁদের কাজ হলো নিরপেক্ষভাবে প্রশ্ন তোলা।",
+   "যখন কোনো নেতার বিরুদ্ধে অভিযোগ ওঠে, তখন ভালো governance-এর লক্ষণ হলো স্বাধীন ডিরেক্টরদের তদন্ত, বাইরের আইনজীবী নিয়োগ আর স্বচ্ছভাবে বিনিয়োগকারীদের জানানো। Nvidia-র বোর্ড ঠিক এই পদক্ষেপগুলোই ঘোষণা করেছে। তবে তদন্ত কতটা কঠোর হবে, সেটা পরে বোঝা যাবে।",
+   "## আরেকটি ঝুঁকি: export control",
+   "এই খবরে আরও একটি স্তর আছে। আলাদা এক প্রতিবেদনে বলা হয়েছে, মার্কিন বাণিজ্য বিভাগের কর্মকর্তারা তদন্ত করছিলেন Megaspeed চীনের কোম্পানিগুলোকে মার্কিন রপ্তানি নিষেধাজ্ঞা এড়াতে সাহায্য করছিল কি না। Megaspeed আগামী এক বছরে প্রায় $2 বিলিয়নের Nvidia AI প্রযুক্তি কেনার পথে ছিল। অর্থাৎ ব্যবসার বড় একটি অংশ সরকারি নিয়মনীতির ওপরও নির্ভরশীল। এটা regulatory risk, যা key-person risk-এর সঙ্গে মিলে পরিস্থিতি আরও জটিল করে।",
+   "## বিনিয়োগকারী বা ম্যানেজার হিসেবে কী দেখবে?",
+   "প্রথমত, কোম্পানির succession plan আছে কি না, মানে নেতা চলে গেলে কে দায়িত্ব নেবেন, তা আগে থেকে ঠিক করা আছে কি না। দ্বিতীয়ত, বোর্ডে কতজন স্বাধীন ডিরেক্টর আছেন আর তাঁরা কতটা সক্রিয়। তৃতীয়ত, কোম্পানির আয় কয়েকজন বড় গ্রাহকের ওপর নির্ভরশীল কি না। চতুর্থত, বিতর্কের সময় কোম্পানি কতটা স্বচ্ছভাবে তথ্য জানায়।",
+   "একটি সহজ উদাহরণ ভাবো। ধরো, একটি কোম্পানির মোট আয়ের প্রায় অর্ধেক আসে একজন সেলস প্রধানের ব্যক্তিগত সম্পর্ক থেকে। তিনি চলে গেলে সেই গ্রাহকরাও চলে যেতে পারেন। তাই ভালো ম্যানেজাররা জ্ঞান ও সম্পর্ক দলের সবার মধ্যে ছড়িয়ে দেন, আর গুরুত্বপূর্ণ ভূমিকার জন্য বিকল্প মানুষ তৈরি রাখেন। বিনিয়োগকারীরাও এই ধরনের নির্ভরতা দেখলে শেয়ারের দামে একটু ছাড় (discount) চান।",
+   "## BBA ছাত্রের জন্য ব্যবহারিক পাঠ",
+   "কেস স্টাডি বা ইন্টারভিউয়ে কোনো কোম্পানির বিশ্লেষণ করার সময় শুধু আর্থিক অনুপাত বলে থেমে যেও না। জিজ্ঞেস করো, এই কোম্পানিটা কি একজন মানুষের ওপর বেশি নির্ভর করছে? বোর্ড কতটা শক্তিশালী? তুমি নিজে যদি কখনো স্টার্টআপ শুরু করো, তাহলে প্রথম দিন থেকেই কাজ ভাগ করে নাও, প্রক্রিয়া লিখে রাখো আর এমন দল গড়ো যা তুমি না থাকলেও চলতে পারে। শেষে মনে রেখো, আজকের খবরের অনেক তথ্য এখনও অভিযোগ ও তদন্তের পর্যায়ে। বিশ্লেষক হিসেবে প্রমাণ আসার আগে সিদ্ধান্তে লাফ দেওয়া যায় না।"
+  ],
+  "takeaways": [
+   "Key-person risk মানে কোম্পানি একজন মানুষের ওপর এত নির্ভর করে যে তাঁর অনুপস্থিতি বা বিতর্ক পুরো ব্যবসায় ধাক্কা দেয়।",
+   "ভালো governance-এর লক্ষণ হলো স্বাধীন ডিরেক্টর, নিরপেক্ষ তদন্ত আর স্বচ্ছতা।",
+   "কোম্পানি বিশ্লেষণে আর্থিক সংখ্যার পাশাপাশি নেতৃত্বের নির্ভরতা, succession plan আর regulatory ঝুঁকি দেখো।"
+  ]
+ },
+ "quiz": [
+  {
+   "q": "Nvidia-র বোর্ড CEO Jensen Huang-কে নিয়ে কী পদক্ষেপ নিয়েছে?",
+   "options": [
+    "স্বাধীন ডিরেক্টরদের তদন্ত শুরু করেছে",
+    "তাঁকে তাৎক্ষণিক বরখাস্ত করেছে",
+    "কোম্পানির শেয়ার বিক্রি বন্ধ করেছে",
+    "বোর্ড ভেঙে দিয়েছে"
+   ],
+   "answer": 0,
+   "explain": "বোর্ড জানিয়েছে, স্বাধীন ডিরেক্টররা বাইরের আইনজীবীর সাহায্যে তদন্ত করবেন এবং তদন্তের সময় Huang CEO পদেই থাকবেন।"
+  },
+  {
+   "q": "শুক্রবার Brent crude কত ডলার প্রতি ব্যারেলে বন্ধ হয়েছে?",
+   "options": [
+    "$118.00",
+    "$91.72",
+    "$98.32",
+    "$100.07"
+   ],
+   "answer": 2,
+   "explain": "Brent $98.32-এ বন্ধ হয়েছে। $118 ছিল অক্টোবরের ছয় মাসের সর্বোচ্চ দামের কাছাকাছি, আর WTI ছিল $90-এর আশেপাশে।"
+  },
+  {
+   "q": "শুক্রবারের সেশনে Nifty 50 প্রায় কোন মাইলফলক ছুঁয়েছে?",
+   "options": [
+    "সর্বকালের রেকর্ড উচ্চতা",
+    "30,000 পয়েন্ট",
+    "টানা তিন দিনের পতন",
+    "27 ফেব্রুয়ারির পর প্রথমবার 25,000-এর ওপরে বন্ধ"
+   ],
+   "answer": 3,
+   "explain": "Nifty 25,030.35-এ বন্ধ হয়ে 27 ফেব্রুয়ারির পর প্রথমবার 25,000-এর ওপরে উঠেছে।"
+  },
+  {
+   "q": "Key-person risk বলতে কী বোঝায়?",
+   "options": [
+    "ঋণ শোধ না করার ঝুঁকি",
+    "এক বা অল্প কয়েকজনের ওপর কোম্পানির অতিরিক্ত নির্ভরতার ঝুঁকি",
+    "মুদ্রার দাম ওঠানামার ঝুঁকি",
+    "নতুন শেয়ার ইস্যুর ঝুঁকি"
+   ],
+   "answer": 1,
+   "explain": "Key-person risk হলো একজন বা অল্প কয়েকজনের ওপর নির্ভরতার ঝুঁকি। ঋণ শোধ না করা credit risk, মুদ্রার ওঠানামা currency risk।"
+  },
+  {
+   "q": "শক্তিশালী চাকরির তথ্য আর ডিসেম্বরে Fed সুদ বাড়ানোর জোরালো সম্ভাবনায় সোনার দাম কেন কমল?",
+   "options": [
+    "সোনার সরবরাহ হঠাৎ বেড়ে গেছে",
+    "সোনা সুদ দেয় না, তাই সুদ ও ডলার বাড়লে আকর্ষণ কমে",
+    "সব কেন্দ্রীয় ব্যাংক সোনা বিক্রি করেছে",
+    "সোনার ওপর কর বেড়েছে"
+   ],
+   "answer": 1,
+   "explain": "সোনা সুদ দেয় না। সুদের হার আর ডলার বাড়লে সোনা ধরে রাখার opportunity cost বাড়ে, তাই চাহিদা কমে।"
+  }
+ ],
+ "caseStudy": {
+  "week": "2026-W46",
+  "weekLabel": "৯ – ১৫ নভেম্বর ২০২৬",
+  "company": "Netflix",
+  "title": "DVD ডাকে পাঠানো থেকে বিশ্বজোড়া streaming: Netflix কীভাবে নিজেকে বারবার বদলেছে",
+  "concept": "Business Model Innovation ও Disruptive Strategy",
+  "intro": "1997 সালে Reed Hastings আর Marc Randolph Netflix শুরু করেছিলেন ডাকে DVD ভাড়া দেওয়ার কোম্পানি হিসেবে। তখনকার বড় নাম ছিল Blockbuster, যার দোকানের সামনে লাইন পড়ত। আজ Netflix বিশ্বের অন্যতম বড় streaming প্ল্যাটফর্ম। এই যাত্রা দেখায়, বাজারে টিকে থাকতে হলে নিজের সফল ব্যবসাকেই কখনো কখনো নিজ হাতে বদলে ফেলতে হয়।",
+  "sections": [
+   {
+    "h": "কী করেছিল",
+    "p": "Netflix প্রথমে ডাকে DVD পাঠাত, পরে সাবস্ক্রিপশন মডেলে নিয়ে আসে, যেখানে দেরিতে ফেরত দেওয়ার জরিমানা ছিল না। 2007 সালে তারা ইন্টারনেটে streaming শুরু করে। 2013 সালে House of Cards দিয়ে নিজেদের তৈরি original কনটেন্টে ঢোকে। 2016 সালের জানুয়ারিতে একসঙ্গে বহু দেশে সেবা চালু করে বিশ্বজোড়া সম্প্রসারণ ঘটায়। পরে বিজ্ঞাপননির্ভর সস্তা প্ল্যানও আনে।"
+   },
+   {
+    "h": "ফলাফল",
+    "p": "Netflix ডাকে DVD পাঠানো ব্যবসা থেকে streaming-এ সরে গিয়ে বিশ্বজুড়ে কোটি কোটি গ্রাহক পেয়েছে। Blockbuster শেষ পর্যন্ত বাজার থেকে প্রায় মুছে গেছে। Netflix এখন শুধু বিতরণকারী নয়, কনটেন্ট প্রযোজকও, আর বিশ্বজুড়ে স্থানীয় ভাষার সিরিজ বানায়।"
+   },
+   {
+    "h": "কেন কাজ করল",
+    "p": "তিনটি কারণ। প্রথমত, তারা গ্রাহকের সুবিধা (বাড়িতে বসে, দেরির জরিমানা ছাড়া) আগে ভেবেছে। দ্বিতীয়ত, ব্যবহারকারীর দেখার তথ্য কাজে লাগিয়ে সুপারিশ আর কনটেন্ট সিদ্ধান্ত নিয়েছে। তৃতীয়ত, নিজের কনটেন্ট বানিয়ে অন্যের লাইসেন্সের ওপর নির্ভরতা কমিয়েছে। এছাড়া তারা পুরনো সফল ব্যবসাকে নিজেই বদলাতে ভয় পায়নি, যা Blockbuster করতে পারেনি।"
+   },
+   {
+    "h": "ঝুঁকি আর সমালোচনা",
+    "p": "কনটেন্ট বানাতে প্রচুর অর্থ খরচ হয়, আর এতে ঋণ ও নগদ প্রবাহের চাপ থাকে। 2011 সালে DVD আর streaming আলাদা করতে গিয়ে Qwikster পরিকল্পনা নিয়ে গ্রাহকদের ক্ষোভের মুখে পড়ে সেটি বাতিল করতে হয়েছিল। এখন Disney, Amazon, Apple-এর মতো প্রতিযোগী বাড়ায় গ্রাহক ধরে রাখা কঠিন। সমালোচকরা বলেন, বারবার দাম বাড়ানো আর নিয়ম কড়া করা গ্রাহকের বিরক্তির কারণ হতে পারে।"
+   }
+  ],
+  "lesson": "সফল ব্যবসা চালু থাকলেও বাজার আর প্রযুক্তি বদলালে নিজের মডেল নিজেই বদলাতে হয়। গ্রাহকের প্রকৃত চাহিদা বুঝে এগোলে disruption কাজে লাগানো যায়, না হলে অন্য কেউ সেটা করবে।",
+  "question": "Netflix-এর জায়গায় তুমি থাকলে DVD ব্যবসা চালু রেখে streaming শুরু করতে, না একেবারে ছেড়ে দিতে? Opportunity cost আর ঝুঁকির হিসাব দিয়ে বোঝাও।"
+ },
+ "en": {
+  "dateLabel": "Monday, 9 November 2026",
+  "news": [
+   {
+    "id": "n1",
+    "category": "Company",
+    "title": "Nvidia's board opens an independent probe into CEO Jensen Huang over alleged Chinese intelligence links",
+    "summary": "On Sunday Nvidia said independent directors, helped by outside independent counsel, will run an investigation. Reports by the New York Times and Financial Times said the CEO had a relationship with Alice Huang, an executive at Singapore-based cloud company Megaspeed, whom US intelligence suspected of passing information to Beijing. Jensen Huang admitted the relationship in an email to staff and apologised. The board said he stays CEO during the probe. Three House Republicans have demanded answers from him. NBC notes it has not confirmed the claim of a foreign intelligence effort.",
+    "why": "A live example of corporate governance and key-person risk: how dependent a company is on one leader, how a board runs an independent probe, and how export-control risk adds to investor risk. Today's blog is about this.",
+    "source": {
+     "name": "CNBC",
+     "url": "https://www.cnbc.com/2026/11/08/nvidia-jensen-huang-investigation-china-spy.html"
+    }
+   },
+   {
+    "id": "n2",
+    "category": "Commodities",
+    "title": "Brent falls over 13% in a week to $98.32 on hopes of Iran peace talks",
+    "summary": "Brent crude closed Friday at $98.32 a barrel, after a six-month high near $118 in October. Bloomberg puts the weekly fall at about 13.2%, other sources up to 16%, depending on how the expiring contract is treated. Markets expect more pressure on Washington to end the war after the US midterms. But no deal is signed, Iran has set its own conditions, and tanker attacks in the Strait of Hormuz continue. On Sunday Brent slipped again toward about $97.",
+    "why": "A clear case of a supply shock, risk premium and commodity price volatility. Falling oil lowers inflation and business costs, especially for an importer like India.",
+    "source": {
+     "name": "Rigzone",
+     "url": "https://www.rigzone.com/news/wire/oil_posts_biggest_weekly_drop_since_2022-06-nov-2026-185035-article/"
+    }
+   },
+   {
+    "id": "n3",
+    "category": "US markets",
+    "title": "Wall Street rebounds after the AI rout, but the Nasdaq still ends the week 3.4% lower",
+    "summary": "On Friday the S&P 500 rose 0.3% to 7,376.86 and the Nasdaq rose 1.1% to 24,579.42. The Dow fell 0.5% to 51,285.73 as the strong jobs data pushed Treasury yields up. Buyers returned to AI shares after Thursday's historic sell-off, and Nvidia gained nearly 3%. Even so, for the whole week the Nasdaq fell 3.4%, the S&P 500 2.7% and the Dow 0.9%. Investors now look to Tuesday's US inflation data and AI company earnings.",
+    "why": "Shows how volatility, valuation and investor sentiment move an index. One strong day is not a trend, so always look at the weekly picture too.",
+    "source": {
+     "name": "Business Standard (AP)",
+     "url": "https://www.business-standard.com/amp/world-news/wall-street-catches-its-breath-after-ai-led-multi-trillion-dollar-rout-126110602035_1.html"
+    }
+   },
+   {
+    "id": "n4",
+    "category": "India markets",
+    "title": "Sensex up 2.17% to 81,028, Nifty back above 25,000 as the rally hits a seventh straight day",
+    "summary": "On Friday the Sensex rose 1,718 points (2.17%) to 81,028.02 and the Nifty 50 rose about 2.01% to 25,030.35. This is the Nifty's first close above 25,000 since 27 February. Banks led the gains, but the Nifty Smallcap 100 fell about 0.82%. Business Standard says the rally has run for seven days; ETV Bharat counts the Sensex up about 8.27% and the Nifty about 8% over the past six sessions. The indices were lower early in the day before closing sharply higher.",
+    "why": "A lesson in market breadth: when large indices rise but small caps fall, the rally is not everywhere. It also shows how foreign buying and lower oil prices help emerging markets.",
+    "source": {
+     "name": "Business Standard",
+     "url": "https://www.business-standard.com/amp/markets/news/stock-market-live-november-6-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-q2-results-today-dhanteras-126110600099_1.html"
+    }
+   },
+   {
+    "id": "n5",
+    "category": "Gold and rates",
+    "title": "Gold slips almost 1% to about $4,045 as strong jobs data lifts the dollar; US CPI due Tuesday",
+    "summary": "Gold fell about 1.02% on Friday to roughly $4,045 an ounce. The US added 165,000 jobs in October against an expected 65,000, and unemployment fell to 4.1% from 4.2%. The dollar strengthened and bets on a December Fed hike rose to about 80%. That is bad news for gold, which pays no interest. October US CPI is due on Tuesday, and several Fed officials speak this week.",
+    "why": "Links monetary policy, interest rates and opportunity cost: when rate-hike odds rise, a non-yielding asset like gold becomes less attractive.",
+    "source": {
+     "name": "USAGOLD",
+     "url": "https://www.usagold.com/daily-precious-metals-market-report-november-6-2026/"
+    }
+   },
+   {
+    "id": "n6",
+    "category": "Banking",
+    "title": "ANZ's full-year net profit jumps 23% to A$7.3 billion",
+    "summary": "Australian bank ANZ reported statutory net profit of about A$7.3 billion for the year to 30 September, up 23% on last year. Reuters says cash profit was about A$7.59 billion, close to analysts' average forecast of A$7.55 billion. The bank declared a final dividend of 83 Australian cents per share, the same as last year. Australian shares were set to rise on Monday on the tech rebound.",
+    "why": "A chance to learn the difference between statutory profit and cash profit, and how dividend payout is used in analysing a bank's financial statements.",
+    "source": {
+     "name": "Capital Brief",
+     "url": "https://www.capitalbrief.com/briefing/anz-delivers-23-jump-in-full-year-net-profit-to-73b-aa237f13-d264-46f4-a6f2-19226a83ec18/"
+    }
+   },
+   {
+    "id": "n7",
+    "category": "India economy",
+    "title": "India's October inflation due Thursday, expected near 5.9%, close to the RBI's upper limit",
+    "summary": "One weekly preview says October CPI inflation will be released on Thursday, 12 November. Markets expect about 5.9%, up from 5.5% in September and near the RBI's 6% upper tolerance limit. A higher-than-expected number could strengthen the case for a rate hike in December. This is only a forecast, not a confirmed policy decision. US CPI and oil prices this week will also steer Indian markets.",
+    "why": "The direct link between CPI, inflation targeting and monetary policy transmission. It shows how an RBI rate decision touches loans, shares and business costs.",
+    "source": {
+     "name": "Upstox",
+     "url": "https://upstox.com/news/market-news/trading/week-ahead-muhurat-trading-india-us-inflation-crude-oil-prices-fi-is-activity-among-key-market-triggers-to-watch/article-203165/"
+    }
+   }
+  ],
+  "market": {
+   "asOf": "Close of Friday, 6 November 2026 (before Monday's open)",
+   "items": [
+    {
+     "name": "S&P 500",
+     "region": "US",
+     "value": "7,376.86",
+     "change": "+0.3%",
+     "dir": "up"
+    },
+    {
+     "name": "Dow Jones",
+     "region": "US",
+     "value": "51,285.73",
+     "change": "-0.5%",
+     "dir": "down"
+    },
+    {
+     "name": "Nasdaq",
+     "region": "US",
+     "value": "24,579.42",
+     "change": "+1.1%",
+     "dir": "up"
+    },
+    {
+     "name": "Sensex",
+     "region": "India",
+     "value": "81,028.02",
+     "change": "+2.17%",
+     "dir": "up"
+    },
+    {
+     "name": "Nifty 50",
+     "region": "India",
+     "value": "25,030.35",
+     "change": "+2.01%",
+     "dir": "up"
+    },
+    {
+     "name": "Brent Crude",
+     "region": "$ per barrel",
+     "value": "98.32",
+     "change": "",
+     "dir": "flat"
+    },
+    {
+     "name": "Gold",
+     "region": "$ per ounce",
+     "value": "4,045",
+     "change": "-1.02%",
+     "dir": "down"
+    },
+    {
+     "name": "USD/INR",
+     "region": "₹ per dollar",
+     "value": "93.89",
+     "change": "-52 paise",
+     "dir": "down"
+    }
+   ]
+  },
+  "term": {
+   "term": "Key-Person Risk",
+   "bangla": "The risk of relying too much on one person",
+   "definition": "Key-person risk is the risk that a company suffers if a single person, or a very small group, that its success depends on leaves or is caught in controversy. Investors, lenders and insurers watch for it. The fix is a succession plan, a strong board and a deep second line of leaders.",
+   "example": "With Nvidia's board starting an independent probe of CEO Jensen Huang, analysts say shares face added risk if the probe forces him out. The company's future leans heavily on one leader, which is key-person risk.",
+   "formula": "",
+   "tip": "In interviews say: analyse not just the numbers but also dependence on leadership and whether a succession plan exists. The risk is even higher in small start-ups."
+  },
+  "gd": {
+   "topic": "Is a company's dependence on one star CEO a strength or a dangerous weakness?",
+   "context": "Nvidia's board has opened an independent probe into CEO Jensen Huang, and analysts say the outcome could raise risk for the shares.",
+   "for": [
+    "A star CEO's vision and quick decisions give the company a distinct identity and investor confidence.",
+    "A well-known face keeps staff, customers and partners clear about the company's goal.",
+    "In start-ups and fast-growing firms, one strong leader often brings speed."
+   ],
+   "against": [
+    "If the leader is caught in controversy or leaves, the share price, reputation and strategy all take a hit.",
+    "Reliance on one person weakens board oversight and stops succession plans from being built.",
+    "A personality-led firm does not develop strong institutional processes and a second line of leaders."
+   ]
+  },
+  "blog": {
+   "title": "How much should a company depend on one leader? Key-person risk and governance lessons from Nvidia",
+   "topic": "Key-Person Risk and Corporate Governance",
+   "readMin": 5,
+   "body": [
+    "Before buying a stock we usually check profit, sales and debt. But one question is often forgotten: does this company really stand on one person? On Sunday Nvidia's board announced an independent investigation into CEO Jensen Huang. Using this event, today's blog explains from scratch what key-person risk and corporate governance are.",
+    "## The event in brief",
+    "The New York Times and Financial Times reported that Alice Huang, an executive at Nvidia customer Megaspeed, a Singapore-based cloud company, was suspected by US intelligence of passing information to Beijing. Jensen Huang admitted the relationship in an email to staff and apologised. Nvidia's board says independent directors, with outside counsel, will investigate, and Huang stays CEO while it runs. NBC adds that it has not confirmed the claim of a foreign intelligence effort. So much of what is known so far is allegation, not proven fact. Waiting for the result of the probe is the wise course.",
+    "## What is key-person risk?",
+    "Imagine a small bakery where everyone comes for the owner's signature cake. If the owner falls ill or leaves, sales drop suddenly. That is key-person risk: a company's success depends so heavily on one person or a few that their absence or controversy can shake the whole business.",
+    "It is true of big firms too. Tesla and Elon Musk, Apple and Steve Jobs were once almost one name. Investors therefore judge not just the accounts but also the stability of leadership. In Nvidia's case, one analyst said that if the probe leads to Huang's removal, it is a risk for the stock. That warning is key-person risk in action.",
+    "## Why corporate governance matters",
+    "Corporate governance is the set of rules and structures by which a company is run and controlled. At its centre is the board of directors, whose job is to oversee management on behalf of shareholders. A board has independent directors, who are not part of day-to-day management. Their job is to ask questions neutrally.",
+    "When allegations hit a leader, signs of good governance are an investigation by independent directors, outside counsel, and transparent communication with investors. Nvidia's board has announced exactly these steps. How rigorous the probe proves will only be known later.",
+    "## Another risk: export controls",
+    "The story has another layer. A separate report said US Commerce Department officials were examining whether Megaspeed was helping Chinese firms get around US export restrictions. Megaspeed was poised to buy about $2 billion of Nvidia AI technology over the next year. So a big part of the business also depends on government rules. That is regulatory risk, and together with key-person risk it makes the picture more complex.",
+    "## What to look for as an investor or manager",
+    "First, is there a succession plan, meaning who takes over if the leader goes? Second, how many independent directors sit on the board and how active are they? Third, does revenue depend on a few big customers? Fourth, how transparently does the company share information during controversy?",
+    "Here is a simple example. Suppose about half of a company's revenue comes from one head of sales and his personal relationships. If he leaves, those clients may leave with him. So good managers spread knowledge and relationships across the team and keep backups ready for critical roles. Investors, too, often ask for a small discount in the share price when they see this kind of dependence.",
+    "## A practical lesson for BBA students",
+    "In a case study or interview, do not stop at financial ratios. Ask: does this company lean too much on one person? How strong is the board? If you ever start a business, share work from day one, write down processes and build a team that can run without you. Finally, remember that much of today's news is still allegation and investigation. An analyst does not leap to conclusions before the evidence."
+   ],
+   "takeaways": [
+    "Key-person risk means a company depends so much on one person or a few that their absence or controversy hits the whole business.",
+    "Good governance means independent directors, a neutral investigation and transparency.",
+    "When analysing a company, check leadership dependence, succession planning and regulatory risk along with the financials."
+   ]
+  },
+  "quiz": [
+   {
+    "q": "What step has Nvidia's board taken regarding CEO Jensen Huang?",
+    "options": [
+     "Independent directors have started an investigation",
+     "It dismissed him immediately",
+     "It halted trading in the company's shares",
+     "It dissolved the board"
+    ],
+    "answer": 0,
+    "explain": "The board said independent directors, with outside counsel, will investigate, and Huang remains CEO during the probe."
+   },
+   {
+    "q": "At what price did Brent crude close on Friday?",
+    "options": [
+     "$118.00",
+     "$91.72",
+     "$98.32",
+     "$100.07"
+    ],
+    "answer": 2,
+    "explain": "Brent closed at $98.32. The $118 figure was near October's six-month high, and WTI was around $90."
+   },
+   {
+    "q": "What milestone did the Nifty 50 reach in Friday's session?",
+    "options": [
+     "An all-time record high",
+     "30,000 points",
+     "Three straight days of losses",
+     "First close above 25,000 since 27 February"
+    ],
+    "answer": 3,
+    "explain": "The Nifty closed at 25,030.35, its first close above 25,000 since 27 February."
+   },
+   {
+    "q": "What does key-person risk mean?",
+    "options": [
+     "The risk of not repaying a loan",
+     "The risk of a company depending too heavily on one or a few people",
+     "The risk of currency swings",
+     "The risk of issuing new shares"
+    ],
+    "answer": 1,
+    "explain": "Key-person risk is dependence on one or a few people. Not repaying a loan is credit risk, and currency swings are currency risk."
+   },
+   {
+    "q": "Why did gold fall after the strong jobs data and rising odds of a December Fed hike?",
+    "options": [
+     "Gold supply suddenly jumped",
+     "Gold pays no interest, so higher rates and a stronger dollar make it less attractive",
+     "All central banks sold their gold",
+     "A tax on gold was raised"
+    ],
+    "answer": 1,
+    "explain": "Gold pays no interest. Higher rates and a stronger dollar raise the opportunity cost of holding it, so demand falls."
+   }
+  ],
+  "caseStudy": {
+   "week": "2026-W46",
+   "weekLabel": "9 – 15 November 2026",
+   "company": "Netflix",
+   "title": "From mailing DVDs to global streaming: how Netflix kept reinventing itself",
+   "concept": "Business Model Innovation and Disruptive Strategy",
+   "intro": "In 1997 Reed Hastings and Marc Randolph started Netflix as a company renting DVDs by mail. The big name then was Blockbuster, with queues outside its stores. Today Netflix is among the world's largest streaming platforms. The journey shows that to survive, a company sometimes has to reshape its own successful business with its own hands.",
+   "sections": [
+    {
+     "h": "What it did",
+     "p": "Netflix first mailed DVDs, then moved to a subscription model with no late fees. In 2007 it began streaming over the internet. In 2013 it entered original content with House of Cards. In January 2016 it expanded to many countries at once. Later it added a cheaper ad-supported plan."
+    },
+    {
+     "h": "The result",
+     "p": "By shifting from mailing DVDs to streaming, Netflix gained many millions of customers worldwide. Blockbuster has almost vanished from the market. Netflix is now not just a distributor but also a producer of content, making local-language series around the world."
+    },
+    {
+     "h": "Why it worked",
+     "p": "Three reasons. First, it put customer convenience first (from home, no late fees). Second, it used viewing data for recommendations and content decisions. Third, by making its own content it reduced dependence on others' licences. It also was not afraid to change its own successful business, which Blockbuster could not do."
+    },
+    {
+     "h": "Risks and criticism",
+     "p": "Making content costs a great deal and puts pressure on debt and cash flow. In 2011 its plan to split DVD and streaming into Qwikster angered customers and was cancelled. Competitors such as Disney, Amazon and Apple make retaining customers harder. Critics say repeated price rises and tighter rules can annoy subscribers."
+    }
+   ],
+   "lesson": "Even while a business is succeeding, a company must be ready to change its own model when markets and technology change. Following real customer needs lets you use disruption, otherwise someone else will.",
+   "question": "If you were in Netflix's place, would you keep the DVD business running while starting streaming, or drop it altogether? Explain with opportunity cost and risk."
+  }
+ }
+}
