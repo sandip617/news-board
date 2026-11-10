@@ -1,6 +1,23 @@
 {
  "terms": [
   {
+   "date": "2026-11-10",
+   "term": "Earnings Guidance",
+   "bangla": "আর্নিংস গাইডেন্স (কোম্পানির নিজের ভবিষ্যৎ আয়ের পূর্বাভাস)",
+   "definition": "আগামী কোয়ার্টার বা বছরে কোম্পানি নিজে কত রাজস্ব বা মুনাফা আশা করছে, তার আনুমানিক সীমা জানালে তাকে earnings guidance বলে। বিশ্লেষকদের গড় পূর্বাভাসকে consensus বলে। Guidance consensus-এর নিচে থাকলে ভালো ফলের পরেও শেয়ার পড়তে পারে, কারণ বাজার ভবিষ্যৎ দেখে দাম ঠিক করে।",
+   "example": "monday.com চতুর্থ কোয়ার্টারের রাজস্বের guidance দিয়েছে $380–382 মিলিয়ন, যার মধ্যবিন্দু $381 মিলিয়ন। বিশ্লেষকদের consensus ছিল $385.665 মিলিয়ন, অর্থাৎ guidance প্রায় 1.2% কম। তাই Q3 ফল ভালো হওয়ার পরেও শেয়ার প্রায় 7% পড়েছে।",
+   "formula": "Guidance gap % = (Consensus − Guidance-এর মধ্যবিন্দু) ÷ Consensus × 100 = (385.665 − 381) ÷ 385.665 × 100 ≈ 1.2%",
+   "tip": "Interview-এ বলো: বাজার 'কী হয়েছে' থেকে বেশি দেখে 'কী হবে'। আর guidance দেওয়া কোম্পানি সাধারণত কম করে বলে, যাতে পরে beat করতে পারে, তাই guidance পড়ার সময় কোম্পানির আগের রেকর্ডও দেখতে হয়।",
+   "en": {
+    "term": "Earnings Guidance",
+    "bangla": "A company's own forecast of future earnings",
+    "definition": "When a company states the range of revenue or profit it expects in the coming quarter or year, that is earnings guidance. The average analyst forecast is called the consensus. If guidance falls below consensus, shares can drop even after good results, because the market prices in the future.",
+    "example": "monday.com guided Q4 revenue of $380–382 million, a midpoint of $381 million. The analyst consensus was $385.665 million, so guidance is about 1.2% lower. That is why shares fell about 7% despite a good Q3.",
+    "formula": "Guidance gap % = (Consensus − Guidance midpoint) ÷ Consensus × 100 = (385.665 − 381) ÷ 385.665 × 100 ≈ 1.2%",
+    "tip": "In interviews say: the market cares more about what will happen than what happened. Companies often guide low so they can beat it later, so check the company's track record when reading guidance."
+   }
+  },
+  {
    "date": "2026-11-09",
    "term": "Key-Person Risk",
    "bangla": "কী-পারসন রিস্ক (এক ব্যক্তির ওপর বেশি নির্ভরতার ঝুঁকি)",

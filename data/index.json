@@ -1,6 +1,13 @@
 {
- "latest": "2026-11-09",
+ "latest": "2026-11-10",
  "days": [
+  {
+   "date": "2026-11-10",
+   "label": "১০ নভেম্বর ২০২৬, মঙ্গলবার",
+   "labelEn": "Tuesday, 10 November 2026",
+   "headline": "তেলের দাম পড়ায় Wall Street-এ উত্থান: S&P 500 2.35% বেড়ে, Brent $92.57-এ",
+   "headlineEn": "Oil slump lifts Wall Street: S&P 500 up 2.35%, Brent falls to $92.57"
+  },
   {
    "date": "2026-11-09",
    "label": "৯ নভেম্বর ২০২৬, সোমবার",

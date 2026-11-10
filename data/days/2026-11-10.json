@@ -1,0 +1,583 @@
+{
+ "date": "2026-11-10",
+ "dateLabel": "১০ নভেম্বর ২০২৬, মঙ্গলবার",
+ "edition": 1,
+ "updatedAt": "2026-11-10T07:00:00+05:30",
+ "news": [
+  {
+   "id": "n1",
+   "category": "শেয়ারবাজার",
+   "title": "তেলের দাম পড়ায় Wall Street-এ জোরালো উত্থান: S&P 500 2.35% বেড়ে 7,549.94, এপ্রিলের পর সেরা দিন",
+   "summary": "সোমবার Dow Jones 1,104.02 পয়েন্ট বা 2.15% বেড়ে 52,389.75-এ বন্ধ হয়েছে। S&P 500 2.35% লাফিয়ে 7,549.94 হয়েছে, যা 8 এপ্রিলের পর সূচকের সেরা দিন। Nasdaq 2.74% বেড়ে 25,253.14-এ পৌঁছেছে, কারণ semiconductor শেয়ার ফিরে এসেছে। ছোট কোম্পানির Russell 2000 বেড়েছে 3.1%। Brent crude-এর দাম প্রায় 5.8% পড়ায় বাজারে স্বস্তি ফিরেছে। তবু আগের সপ্তাহের ধসের কারণে S&P 500 এখনও 30 অক্টোবরের ক্লোজিংয়ের চেয়ে 0.40% নিচে।",
+   "why": "শেয়ারবাজার কেন বিনিয়োগকারীর মনোভাব (investor sentiment) আর কাঁচামালের দামের সঙ্গে জড়িয়ে চলে, এটা বোঝার ভালো উদাহরণ। তেলের দাম কমলে খরচ কমার আশায় প্রায় সব সূচক একসঙ্গে বাড়ে।",
+   "source": {
+    "name": "The Washington Post (AP)",
+    "url": "https://www.washingtonpost.com/business/2026/11/09/wall-street-stocks-dow-nasdaq/d2094ae0-dc83-11f1-912c-4fbb80d73f7f_story.html"
+   }
+  },
+  {
+   "id": "n2",
+   "category": "কমোডিটি",
+   "title": "ইরান নিয়ে আলোচনার আশায় Brent crude 5.85% পড়ে $92.57-এ",
+   "summary": "সোমবার Brent crude futures $5.75 বা 5.85% কমে ব্যারেলপ্রতি $92.57-এ settle করেছে। রবিবার ডোনাল্ড ট্রাম্প বলেছেন, যুদ্ধ শেষের আলোচনা এগোলে ইরানে নতুন হামলার সম্ভাবনা খুবই কম। settlement-এর পরের লেনদেনে দাম আরও $7-এর বেশি নেমেছিল। OPEC-এর অক্টোবরের উৎপাদনও আগের মাসের চেয়ে দিনে 1.38 মিলিয়ন ব্যারেল বেড়ে 22.87 মিলিয়ন ব্যারেল হয়েছে (Reuters সমীক্ষা)।",
+   "why": "চাহিদা-জোগানের নিয়ম (demand-supply) আর ভূ-রাজনৈতিক ঝুঁকি যে কাঁচামালের দাম বদলে দেয়, এটা তার বাস্তব উদাহরণ। আজকের ব্লগে দেখব তেলের দাম মুদ্রাস্ফীতিকে কীভাবে ছোঁয়।",
+   "source": {
+    "name": "Business Recorder (Reuters)",
+    "url": "https://www.brecorder.com/news/40448204/oil-down-over-usd7-a-barrel-in-post-settlement-trade"
+   }
+  },
+  {
+   "id": "n3",
+   "category": "কোম্পানি",
+   "title": "Nvidia-র শেয়ার 4.27% পড়ল, CEO Jensen Huang-কে নিয়ে বোর্ডের তদন্ত অব্যাহত",
+   "summary": "সোমবার বাজার যখন বাড়ছিল, তখন Nvidia-র শেয়ার CNBC-র হিসাবে 4.27% কমে বন্ধ হয়েছে। দিনের মধ্যে একসময় পতন প্রায় 6%-এ পৌঁছেছিল বলে CBC জানিয়েছে। NBC-র মতে এতে প্রায় $200 বিলিয়ন বাজারমূল্য মুছে গেছে। বোর্ডের স্বাধীন ডিরেক্টরদের কমিটি বাইরের আইনজীবীর সাহায্যে তদন্ত করছে। Huang কর্মীদের ইমেইলে সম্পর্কের কথা স্বীকার করেছেন। LSEG-র তথ্যে তিনি কোম্পানির 3.6% শেয়ারের মালিক। চীনের বিদেশমন্ত্রণালয় 'চীনা গুপ্তচর' গল্পকে ভিত্তিহীন বলেছে।",
+   "why": "Key-person risk আর corporate governance-এর সরাসরি উদাহরণ। একজন নেতার ওপর কোম্পানি কতটা নির্ভর করে, তা শেয়ারের দামে কীভাবে ধরা পড়ে, এখানে দেখা যায়।",
+   "source": {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-chinese-spy-investigation.html"
+   }
+  },
+  {
+   "id": "n4",
+   "category": "অর্থনীতি",
+   "title": "আজ আমেরিকার অক্টোবরের CPI: ডিসেম্বরে Fed-এর সুদ বাড়ানোর সম্ভাবনা 65% থেকে 80%",
+   "summary": "মঙ্গলবার আমেরিকায় অক্টোবরের consumer price index (CPI) প্রকাশ হবে। বেশিরভাগ পূর্বাভাসে মাসওয়ারি headline বৃদ্ধি প্রায় 0.3% (সেপ্টেম্বরে ছিল 0.6%) আর core প্রায় 0.2%। শুক্রবারের জোরালো চাকরির তথ্যের (165,000 নতুন চাকরি) পর বাজারে ডিসেম্বরে সুদ বাড়ানোর সম্ভাবনা সূত্রভেদে 65% থেকে 80%। Fed-এর বৈঠক 8–9 ডিসেম্বর। Natixis আর Wells Fargo ডিসেম্বরে 25 basis point বৃদ্ধি আশা করছে।",
+   "why": "মুদ্রানীতি (monetary policy) আর সুদের হারের সঙ্গে মুদ্রাস্ফীতির সম্পর্ক বোঝার জন্য এটা দরকারি। সুদ বাড়লে ঋণ ব্যয়বহুল হয়, শেয়ার আর বন্ডের দামে প্রভাব পড়ে।",
+   "source": {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/09/october-cpi-report-2026-inflation.html"
+   }
+  },
+  {
+   "id": "n5",
+   "category": "M&A",
+   "title": "জাপানের সবচেয়ে বড় রাসায়নিক অধিগ্রহণ: Mitsui Chemicals কিনছে JSR, মূল্য প্রায় ¥1.84 ট্রিলিয়ন ($11.6 বিলিয়ন)",
+   "summary": "সোমবার Mitsui Chemicals ঘোষণা করেছে, তারা semiconductor উপাদান নির্মাতা JSR-কে প্রায় 1.84 ট্রিলিয়ন ইয়েন বা $11.6 বিলিয়নে কিনবে। রাষ্ট্রীয় Development Bank of Japan 200 বিলিয়ন ইয়েন বিনিয়োগ করবে non-voting preferred share-এর মাধ্যমে। বিক্রেতা Japan Investment Corp.। Mitsui প্রধান ব্যাংকগুলো থেকে 1,640 বিলিয়ন ইয়েনের bridge loan নেবে, পরে bank loan, bond আর mezzanine financing দিয়ে তা refinance করবে। চুক্তি শেষ হওয়ার লক্ষ্য 2027 অর্থবছরের দ্বিতীয়ার্ধ।",
+   "why": "M&A-তে financing structure (bridge loan, refinancing) কীভাবে কাজ করে, তা দেখা যায়। সরকারি সংস্থার অংশগ্রহণ strategic industry-তে কীভাবে রাষ্ট্র ভূমিকা রাখে, সেটাও শেখার বিষয়।",
+   "source": {
+    "name": "The Japan Times",
+    "url": "https://www.japantimes.co.jp/business/2026/11/09/companies/mitsui-chemicals-jsr-takeover/"
+   }
+  },
+  {
+   "id": "n6",
+   "category": "ভারত",
+   "title": "Sensex 107 পয়েন্ট বেড়ে 81,106.65, Nifty আবার 25,000-এর ওপরে",
+   "summary": "সোমবার Sensex প্রায় 107 পয়েন্ট বা 0.13% বেড়ে 81,106.65-এ বন্ধ হয়েছে। Nifty 50 প্রায় 58 পয়েন্ট বা 0.23% বেড়ে 25,044.65-এ পৌঁছে 25,000 স্তর আবার ছুঁয়েছে। PTI-র প্রতিবেদন অনুযায়ী, অশোধিত তেলের দাম কমা আর ব্যাংক শেয়ারে কেনাকাটা বাজারকে টেনেছে। Sensex-এর বড় লাভের তালিকায় ছিল SBI, Trent, L&T, NTPC, HDFC Bank আর ICICI Bank।",
+   "why": "ভারত তেল আমদানির ওপর নির্ভরশীল, তাই তেলের দাম কমলে import bill, মুদ্রাস্ফীতি আর কোম্পানির খরচ সবই হালকা হয়। ব্যাংক শেয়ার কেন সূচকের চালক, তাও বোঝা যায়।",
+   "source": {
+    "name": "ThePrint (PTI)",
+    "url": "https://theprint.in/economy/sensex-gains-107-points-nifty-reclaims-25k-amid-easing-oil-prices-buying-in-banks/3094329"
+   }
+  },
+  {
+   "id": "n7",
+   "category": "ভারত",
+   "title": "RBI-র $239 বিলিয়নের forward short position টাকার ওঠা সীমিত রাখতে পারে",
+   "summary": "IDFC First Bank-এর একটি রিপোর্টে বলা হয়েছে, সেপ্টেম্বর পর্যন্ত RBI-র নিট short forward dollar position $239 বিলিয়ন। বিদেশি পুঁজি বাড়লে RBI-কে ডলার কিনতে হবে, তাই টাকার দাম বেশি বাড়ার সম্ভাবনা কম। ব্যাংকটি ডিসেম্বর 2026-এর মধ্যে টাকা প্রতি ডলারে 92–94 স্তরে থাকবে বলে আশা করছে। 2 নভেম্বর টাকা ছিল 94.90, 9 নভেম্বর সকালের লেনদেনে 93.74।",
+   "why": "বিনিময় হার (exchange rate), forward contract আর কেন্দ্রীয় ব্যাংকের হস্তক্ষেপ কীভাবে কাজ করে, তা বোঝার সুযোগ। এটা একটি ব্যাংকের মত, সবার মত নয়।",
+   "source": {
+    "name": "Business Standard",
+    "url": "https://www.business-standard.com/finance/news/rbi-s-239-bn-forward-dollar-position-to-limit-rupee-gains-report-126110900571_1.html"
+   }
+  },
+  {
+   "id": "n8",
+   "category": "টেক",
+   "title": "monday.com-এর Q3 আয় অনুমানের ওপরে, তবু ভবিষ্যৎ পূর্বাভাসে শেয়ার প্রায় 7% পড়ল",
+   "summary": "monday.com-এর তৃতীয় কোয়ার্টারে রাজস্ব 19% বেড়ে $377.5 মিলিয়ন হয়েছে এবং adjusted EPS $2.14, যা পূর্বাভাস $1.37-এর অনেক ওপরে। কিন্তু চতুর্থ কোয়ার্টারের রাজস্বের guidance $380–382 মিলিয়ন, যা বিশ্লেষকদের গড় $385.665 মিলিয়নের নিচে। এর মধ্যবিন্দু প্রায় 14% বৃদ্ধি বোঝায়। কোম্পানি বছরের adjusted operating margin পূর্বাভাস 16% থেকে বাড়িয়ে প্রায় 18% করেছে। খবরে শেয়ার প্রায় 7% পড়েছে।",
+   "why": "শেয়ারের দাম ভবিষ্যতের প্রত্যাশার ওপর চলে, আগের কোয়ার্টারের ফলের ওপর নয়। Guidance, consensus আর market expectation কীভাবে কাজ করে, তা শেখার জন্য ভালো উদাহরণ।",
+   "source": {
+    "name": "Yahoo Finance",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/monday-com-shares-fall-7-135448735.html"
+   }
+  }
+ ],
+ "market": {
+  "asOf": "৯ নভেম্বর ২০২৬, সোমবারের ক্লোজিং",
+  "items": [
+   {
+    "name": "S&P 500",
+    "region": "আমেরিকা",
+    "value": "7,549.94",
+    "change": "+2.35%",
+    "dir": "up"
+   },
+   {
+    "name": "Dow Jones",
+    "region": "আমেরিকা",
+    "value": "52,389.75",
+    "change": "+2.15%",
+    "dir": "up"
+   },
+   {
+    "name": "Nasdaq",
+    "region": "আমেরিকা",
+    "value": "25,253.14",
+    "change": "+2.74%",
+    "dir": "up"
+   },
+   {
+    "name": "Sensex",
+    "region": "ভারত",
+    "value": "81,106.65",
+    "change": "+0.13%",
+    "dir": "up"
+   },
+   {
+    "name": "Nifty 50",
+    "region": "ভারত",
+    "value": "25,044.65",
+    "change": "+0.23%",
+    "dir": "up"
+   },
+   {
+    "name": "Brent Crude",
+    "region": "$ প্রতি ব্যারেল",
+    "value": "92.57",
+    "change": "-5.85%",
+    "dir": "down"
+   },
+   {
+    "name": "Gold",
+    "region": "$ প্রতি আউন্স",
+    "value": "4,141",
+    "change": "+1.74%",
+    "dir": "up"
+   },
+   {
+    "name": "USD/INR",
+    "region": "₹ প্রতি ডলার",
+    "value": "93.93",
+    "change": "-5 paise",
+    "dir": "down"
+   }
+  ]
+ },
+ "term": {
+  "term": "Earnings Guidance",
+  "bangla": "আর্নিংস গাইডেন্স (কোম্পানির নিজের ভবিষ্যৎ আয়ের পূর্বাভাস)",
+  "definition": "আগামী কোয়ার্টার বা বছরে কোম্পানি নিজে কত রাজস্ব বা মুনাফা আশা করছে, তার আনুমানিক সীমা জানালে তাকে earnings guidance বলে। বিশ্লেষকদের গড় পূর্বাভাসকে consensus বলে। Guidance consensus-এর নিচে থাকলে ভালো ফলের পরেও শেয়ার পড়তে পারে, কারণ বাজার ভবিষ্যৎ দেখে দাম ঠিক করে।",
+  "example": "monday.com চতুর্থ কোয়ার্টারের রাজস্বের guidance দিয়েছে $380–382 মিলিয়ন, যার মধ্যবিন্দু $381 মিলিয়ন। বিশ্লেষকদের consensus ছিল $385.665 মিলিয়ন, অর্থাৎ guidance প্রায় 1.2% কম। তাই Q3 ফল ভালো হওয়ার পরেও শেয়ার প্রায় 7% পড়েছে।",
+  "formula": "Guidance gap % = (Consensus − Guidance-এর মধ্যবিন্দু) ÷ Consensus × 100 = (385.665 − 381) ÷ 385.665 × 100 ≈ 1.2%",
+  "tip": "Interview-এ বলো: বাজার 'কী হয়েছে' থেকে বেশি দেখে 'কী হবে'। আর guidance দেওয়া কোম্পানি সাধারণত কম করে বলে, যাতে পরে beat করতে পারে, তাই guidance পড়ার সময় কোম্পানির আগের রেকর্ডও দেখতে হয়।"
+ },
+ "gd": {
+  "topic": "তেলের দাম পড়লেও কি কেন্দ্রীয় ব্যাংকের সুদ বাড়ানো চালিয়ে যাওয়া উচিত?",
+  "context": "Brent crude 5.85% পড়ে $92.57-এ নেমেছে, অথচ আমেরিকায় জোরালো চাকরির তথ্যের পর ডিসেম্বরে Fed-এর সুদ বাড়ানোর সম্ভাবনা 65%–80%। ভারতেও RBI অক্টোবরে সুদ বাড়িয়েছে বলে একটি সূত্র জানাচ্ছে।",
+  "for": [
+   "তেলের দাম আরও কমতে পারে, আবার বাড়তেও পারে। মুদ্রাস্ফীতি বাঁধতে সুদ বাড়ানো চালিয়ে গেলে প্রত্যাশা (inflation expectation) স্থির থাকে।",
+   "শক্তিশালী চাকরির বাজার দেখায় অর্থনীতিতে চাহিদা এখনও জোরালো, তাই দাম বাড়ার চাপ থাকতে পারে।",
+   "তাড়াতাড়ি সুদ কমালে বা থামালে মুদ্রাস্ফীতি আবার ফিরে আসার ঝুঁকি, যা পরে আরও কঠিন সুদ বাড়ানোর দিকে ঠেলতে পারে।"
+  ],
+  "against": [
+   "তেলের দাম কমলে মুদ্রাস্ফীতি নিজে থেকেই কমে, তখন বাড়তি সুদ অর্থনীতিকে অকারণে ধীর করতে পারে।",
+   "সুদ বাড়লে ঋণ ব্যয়বহুল হয়, ছোট ব্যবসা আর ভোক্তার ওপর চাপ পড়ে, শেয়ারবাজারও অস্থির হয়।",
+   "একটা মাসের তথ্যে সিদ্ধান্ত নেওয়া ঠিক নয়। আরও তথ্য না আসা পর্যন্ত অপেক্ষা করা বুদ্ধিমানের কাজ।"
+  ]
+ },
+ "blog": {
+  "title": "তেলের দাম কমলে বাজার কেন হাসে? মুদ্রাস্ফীতি, টাকার দাম আর সুদের হারের চেনা সূত্র",
+  "topic": "তেলের দাম, Cost-Push Inflation ও Pass-Through",
+  "readMin": 5,
+  "body": [
+   "সোমবার Brent crude-এর দাম প্রায় 5.85% পড়ে ব্যারেলপ্রতি $92.57-এ নেমেছে, আর সেদিনই আমেরিকায় S&P 500 উঠেছে 2.35% এবং ভারতে Nifty আবার 25,000-এর ওপরে ফিরেছে। একটা কাঁচামালের দাম কমলে সারা বিশ্বের শেয়ারবাজার কেন খুশি হয়? আজকের ব্লগে গোড়া থেকে বুঝব তেলের দাম কীভাবে মুদ্রাস্ফীতি, সুদের হার আর টাকার দামে ছড়িয়ে পড়ে।",
+   "## মুদ্রাস্ফীতি কী, আর cost-push কাকে বলে",
+   "মুদ্রাস্ফীতি (inflation) মানে জিনিসপত্রের দাম সময়ের সঙ্গে গড়ে বাড়তে থাকা। এর একটা কারণ চাহিদা বেড়ে যাওয়া, যাকে demand-pull inflation বলে। অন্য কারণ উৎপাদন খরচ বেড়ে যাওয়া। তেল, গ্যাস, কাঁচামাল বা মজুরি বাড়লে কোম্পানির খরচ বাড়ে, আর সেই খরচ তারা পণ্যের দামে চাপিয়ে দেয়। একে cost-push inflation বলে। তেলের দাম এর সবচেয়ে চেনা উদাহরণ, কারণ প্রায় সব কিছুর পরিবহনেই তেল লাগে।",
+   "## Pass-through মানে কী",
+   "তেলের দাম $10 বাড়লে সব পণ্যের দাম রাতারাতি সমান হারে বাড়ে না। খরচ কতটা ভোক্তার কাছে পৌঁছায়, তাকে pass-through বলে। কোনো কোম্পানির প্রতিযোগী বেশি থাকলে সে দাম বাড়াতে ভয় পায়, তাই লাভ কমিয়ে খরচ সামলায়। যে পণ্যের চাহিদা কম স্থিতিস্থাপক (inelastic), যেমন ডিজেল বা রান্নার গ্যাস, সেখানে pass-through বেশি হয়। এই কারণেই তেলের দাম কমলে এক দিকে কোম্পানির খরচ কমে, অন্য দিকে মুদ্রাস্ফীতির চাপও কমে।",
+   "## সুদের হারের সঙ্গে সম্পর্ক",
+   "কেন্দ্রীয় ব্যাংক মুদ্রাস্ফীতি বাগে রাখতে সুদের হার বাড়ায়। সুদ বাড়লে ঋণ ব্যয়বহুল হয়, মানুষ আর কোম্পানি খরচ কমায়, ফলে দামের ওপর চাপ কমে। আমেরিকায় আজ অক্টোবরের CPI প্রকাশ হবে। বেশিরভাগ পূর্বাভাসে মাসওয়ারি headline বৃদ্ধি প্রায় 0.3%, আর বাজারে ডিসেম্বরে Fed-এর সুদ বাড়ানোর সম্ভাবনা সূত্রভেদে 65% থেকে 80%। তেলের দাম কমতে থাকলে ভবিষ্যতে মুদ্রাস্ফীতির চাপ কমতে পারে, আর তখন সুদ আর না বাড়ানোর যুক্তি জোরালো হয়। বাজার সেই আশাতেই সোমবার লাফিয়েছে। তবে এটা প্রত্যাশা, নিশ্চয়তা নয়।",
+   "## ভারতের ওপর প্রভাব",
+   "ভারত তার প্রয়োজনের বড় অংশ তেল আমদানি করে। তেলের দাম বাড়লে ডলারে বেশি টাকা দিতে হয়, ফলে import bill আর চলতি খাতের ঘাটতি (current account deficit) বাড়ে এবং টাকার ওপর চাপ পড়ে। উল্টোটা হলে টাকা শক্তিশালী হয়। খবরে দেখা গেছে, 2 নভেম্বর টাকা ছিল ডলারপ্রতি 94.90, আর 9 নভেম্বর সকালে তা 93.74-এ উঠেছে, দিন শেষে 93.93-এ বন্ধ হয়েছে। বিশ্লেষকরা এর পেছনে কম তেলের দাম, বিদেশি পুঁজি আর পশ্চিম এশিয়ার উত্তেজনা কমার আশাকে দেখছেন। তবে IDFC First Bank-এর একটি রিপোর্ট বলছে, RBI-র বড় forward short position টাকার ওঠা সীমিত রাখতে পারে, কারণ বিদেশি পুঁজি এলে RBI ডলার কিনবে।",
+   "## কোম্পানির দিক থেকে দেখো",
+   "তেলের দাম কমা মানে এয়ারলাইন, পরিবহন, রং, প্লাস্টিক আর সিমেন্টের মতো তেল-নির্ভর শিল্পের খরচ কমা। এদের মুনাফার margin বাড়ার সম্ভাবনা থাকে। অন্য দিকে তেল উৎপাদক কোম্পানির রাজস্ব কমে। তাই একই খবর দুই ধরনের কোম্পানির ওপর উল্টো প্রভাব ফেলে। বিনিয়োগকারী তাই শুধু 'খবর ভালো না খারাপ' নয়, 'কার জন্য ভালো' সেটাও দেখেন।",
+   "## একটা ছোট হিসাব করে দেখি",
+   "শুক্রবার Brent ছিল $98.32। সোমবার তা নেমেছে $92.57-এ, অর্থাৎ ব্যারেলপ্রতি $5.75 কম। শতাংশে হিসাব: (98.32 − 92.57) ÷ 98.32 × 100 ≈ 5.85%। ধরো একটা কোম্পানি বছরে 1 কোটি ব্যারেলের সমান জ্বালানি ব্যবহার করে। দাম ব্যারেলপ্রতি $5.75 কমলে তার বার্ষিক খরচ প্রায় $5.75 কোটি কমবে। এই সঞ্চয় হয় মুনাফা বাড়াবে, নয়তো ক্রেতাকে কম দামে পণ্য দিয়ে বাজার ধরতে কাজে লাগবে। কোম্পানি কোনটা বেছে নেবে, সেটা প্রতিযোগিতা আর চাহিদার স্থিতিস্থাপকতার ওপর নির্ভর করে। উদাহরণটা কাল্পনিক, শুধু হিসাব বোঝার জন্য।",
+   "## সতর্কতা: একদিনের দামে ভরসা নয়",
+   "একদিনে তেলের দাম 5.85% কমেছে, কিন্তু এর কারণ ইরান নিয়ে আলোচনার আশা, যা পাল্টে যেতে পারে। কাল দাম আবার বাড়লে সব হিসাব বদলাবে। তাই একটা দিনের চালচিত্র দেখে সিদ্ধান্ত নিলে ভুল হতে পারে। ভূ-রাজনৈতিক ঝুঁকি (geopolitical risk) থাকলে তেলের দাম আচমকা ওঠানামা করে, এটাই তার বৈশিষ্ট্য।",
+   "## BBA ছাত্রের জন্য ব্যবহারিক শিক্ষা",
+   "কোনো খবর পড়লে এভাবে ভাবার অভ্যাস করো: কোন খরচ বদলাল? কে সেই খরচ বহন করে? কতটা pass-through হবে? কেন্দ্রীয় ব্যাংক কী করতে পারে? পরীক্ষায় বা interview-এ 'তেলের দাম কমলে কী হয়' জানতে চাইলে এই চেইনটা এক নিঃশ্বাসে বলতে পারলে তোমার উত্তর অন্যদের থেকে আলাদা শোনাবে।"
+  ],
+  "takeaways": [
+   "তেল, গ্যাস বা কাঁচামালের খরচ বাড়লে যে মুদ্রাস্ফীতি হয়, তাকে cost-push inflation বলে। খরচ কতটা ভোক্তার কাছে পৌঁছায়, সেটাই pass-through।",
+   "তেলের দাম কমলে আমদানিনির্ভর দেশের (যেমন ভারত) import bill কমে, টাকার ওপর চাপ কমে, আর মুদ্রাস্ফীতির আশঙ্কাও কমে।",
+   "একদিনের দামে ভরসা না রেখে কারণটা দেখো। ভূ-রাজনৈতিক আশায় দাম পড়লে তা আবার বদলাতে পারে।"
+  ]
+ },
+ "quiz": [
+  {
+   "q": "সোমবার Brent crude futures কত দামে settle করেছে?",
+   "options": [
+    "$98.32",
+    "$97.35",
+    "$92.57",
+    "$104.77"
+   ],
+   "answer": 2,
+   "explain": "Reuters-এর খবর অনুযায়ী Brent $5.75 বা 5.85% কমে ব্যারেলপ্রতি $92.57-এ settle করেছে।"
+  },
+  {
+   "q": "সোমবারের উত্থানে S&P 500 কোন দিনের পর সবচেয়ে ভালো দিন কাটাল?",
+   "options": [
+    "30 অক্টোবর",
+    "8 এপ্রিল",
+    "1 জানুয়ারি",
+    "6 নভেম্বর"
+   ],
+   "answer": 1,
+   "explain": "S&P 500 2.35% বেড়ে 7,549.94 হয়েছে, যা 8 এপ্রিলের পর সূচকের সেরা দিন।"
+  },
+  {
+   "q": "monday.com-এর শেয়ার Q3 ফল ভালো হওয়া সত্ত্বেও পড়ল কেন?",
+   "options": [
+    "রাজস্ব কমে গিয়েছিল",
+    "EPS পূর্বাভাসের নিচে ছিল",
+    "কোম্পানি বিক্রি হচ্ছে বলে",
+    "চতুর্থ কোয়ার্টারের guidance বিশ্লেষকদের গড় পূর্বাভাসের নিচে ছিল"
+   ],
+   "answer": 3,
+   "explain": "Q4 রাজস্বের guidance $380–382 মিলিয়ন, যা consensus $385.665 মিলিয়নের নিচে। বাজার ভবিষ্যৎ প্রত্যাশা দেখে দাম ঠিক করে।"
+  },
+  {
+   "q": "Mitsui Chemicals JSR-কে কত দামে কিনছে?",
+   "options": [
+    "প্রায় ¥1.84 ট্রিলিয়ন ($11.6 বিলিয়ন)",
+    "প্রায় $115 বিলিয়ন",
+    "প্রায় ¥200 বিলিয়ন",
+    "প্রায় $22 বিলিয়ন"
+   ],
+   "answer": 0,
+   "explain": "মোট মূল্য প্রায় 1.84 ট্রিলিয়ন ইয়েন বা $11.6 বিলিয়ন। ¥200 বিলিয়ন হলো শুধু Development Bank of Japan-এর বিনিয়োগ।"
+  },
+  {
+   "q": "তেলের দাম কমলে ভারতের জন্য সাধারণত কী হয়?",
+   "options": [
+    "Import bill বাড়ে",
+    "Import bill কমে আর টাকার ওপর চাপ কমে",
+    "চলতি খাতের ঘাটতি বাড়ে",
+    "মুদ্রাস্ফীতির চাপ বাড়ে"
+   ],
+   "answer": 1,
+   "explain": "ভারত তেল আমদানি করে, তাই দাম কমলে আমদানি খরচ কমে, চলতি খাতের ঘাটতি আর টাকার ওপর চাপ কমে।"
+  }
+ ],
+ "caseStudy": {
+  "week": "2026-W46",
+  "weekLabel": "৯ – ১৫ নভেম্বর ২০২৬",
+  "company": "Netflix",
+  "title": "DVD ডাকে পাঠানো থেকে বিশ্বজোড়া streaming: Netflix কীভাবে নিজেকে বারবার বদলেছে",
+  "concept": "Business Model Innovation ও Disruptive Strategy",
+  "intro": "1997 সালে Reed Hastings আর Marc Randolph Netflix শুরু করেছিলেন ডাকে DVD ভাড়া দেওয়ার কোম্পানি হিসেবে। তখনকার বড় নাম ছিল Blockbuster, যার দোকানের সামনে লাইন পড়ত। আজ Netflix বিশ্বের অন্যতম বড় streaming প্ল্যাটফর্ম। এই যাত্রা দেখায়, বাজারে টিকে থাকতে হলে নিজের সফল ব্যবসাকেই কখনো কখনো নিজ হাতে বদলে ফেলতে হয়।",
+  "sections": [
+   {
+    "h": "কী করেছিল",
+    "p": "Netflix প্রথমে ডাকে DVD পাঠাত, পরে সাবস্ক্রিপশন মডেলে নিয়ে আসে, যেখানে দেরিতে ফেরত দেওয়ার জরিমানা ছিল না। 2007 সালে তারা ইন্টারনেটে streaming শুরু করে। 2013 সালে House of Cards দিয়ে নিজেদের তৈরি original কনটেন্টে ঢোকে। 2016 সালের জানুয়ারিতে একসঙ্গে বহু দেশে সেবা চালু করে বিশ্বজোড়া সম্প্রসারণ ঘটায়। পরে বিজ্ঞাপননির্ভর সস্তা প্ল্যানও আনে।"
+   },
+   {
+    "h": "ফলাফল",
+    "p": "Netflix ডাকে DVD পাঠানো ব্যবসা থেকে streaming-এ সরে গিয়ে বিশ্বজুড়ে কোটি কোটি গ্রাহক পেয়েছে। Blockbuster শেষ পর্যন্ত বাজার থেকে প্রায় মুছে গেছে। Netflix এখন শুধু বিতরণকারী নয়, কনটেন্ট প্রযোজকও, আর বিশ্বজুড়ে স্থানীয় ভাষার সিরিজ বানায়।"
+   },
+   {
+    "h": "কেন কাজ করল",
+    "p": "তিনটি কারণ। প্রথমত, তারা গ্রাহকের সুবিধা (বাড়িতে বসে, দেরির জরিমানা ছাড়া) আগে ভেবেছে। দ্বিতীয়ত, ব্যবহারকারীর দেখার তথ্য কাজে লাগিয়ে সুপারিশ আর কনটেন্ট সিদ্ধান্ত নিয়েছে। তৃতীয়ত, নিজের কনটেন্ট বানিয়ে অন্যের লাইসেন্সের ওপর নির্ভরতা কমিয়েছে। এছাড়া তারা পুরনো সফল ব্যবসাকে নিজেই বদলাতে ভয় পায়নি, যা Blockbuster করতে পারেনি।"
+   },
+   {
+    "h": "ঝুঁকি আর সমালোচনা",
+    "p": "কনটেন্ট বানাতে প্রচুর অর্থ খরচ হয়, আর এতে ঋণ ও নগদ প্রবাহের চাপ থাকে। 2011 সালে DVD আর streaming আলাদা করতে গিয়ে Qwikster পরিকল্পনা নিয়ে গ্রাহকদের ক্ষোভের মুখে পড়ে সেটি বাতিল করতে হয়েছিল। এখন Disney, Amazon, Apple-এর মতো প্রতিযোগী বাড়ায় গ্রাহক ধরে রাখা কঠিন। সমালোচকরা বলেন, বারবার দাম বাড়ানো আর নিয়ম কড়া করা গ্রাহকের বিরক্তির কারণ হতে পারে।"
+   }
+  ],
+  "lesson": "সফল ব্যবসা চালু থাকলেও বাজার আর প্রযুক্তি বদলালে নিজের মডেল নিজেই বদলাতে হয়। গ্রাহকের প্রকৃত চাহিদা বুঝে এগোলে disruption কাজে লাগানো যায়, না হলে অন্য কেউ সেটা করবে।",
+  "question": "Netflix-এর জায়গায় তুমি থাকলে DVD ব্যবসা চালু রেখে streaming শুরু করতে, না একেবারে ছেড়ে দিতে? Opportunity cost আর ঝুঁকির হিসাব দিয়ে বোঝাও।"
+ },
+ "en": {
+  "dateLabel": "Tuesday, 10 November 2026",
+  "news": [
+   {
+    "id": "n1",
+    "category": "Stock market",
+    "title": "Oil slump sparks a strong Wall Street rally: S&P 500 up 2.35% to 7,549.94, best day since April",
+    "summary": "On Monday the Dow Jones rose 1,104.02 points, or 2.15%, to close at 52,389.75. The S&P 500 jumped 2.35% to 7,549.94, its best day since 8 April. The Nasdaq gained 2.74% to 25,253.14 as semiconductor stocks bounced back. The small-cap Russell 2000 rose 3.1%. Brent crude fell about 5.8%, which brought relief. Even so, because of the previous week's rout, the S&P 500 is still 0.40% below its 30 October close.",
+    "why": "A good example of how stock markets move with investor sentiment and commodity prices. When oil falls, hopes of lower costs lift almost every index together.",
+    "source": {
+     "name": "The Washington Post (AP)",
+     "url": "https://www.washingtonpost.com/business/2026/11/09/wall-street-stocks-dow-nasdaq/d2094ae0-dc83-11f1-912c-4fbb80d73f7f_story.html"
+    }
+   },
+   {
+    "id": "n2",
+    "category": "Commodities",
+    "title": "Brent crude falls 5.85% to $92.57 on hopes of Iran talks",
+    "summary": "On Monday Brent crude futures settled $5.75, or 5.85%, lower at $92.57 a barrel. On Sunday Donald Trump said fresh attacks on Iran were highly unlikely as long as talks to end the war progress. In post-settlement trading the price fell by more than $7 in total. OPEC's October output also rose by 1.38 million barrels a day from the previous month to 22.87 million barrels a day (Reuters survey).",
+    "why": "A live example of how demand-supply and geopolitical risk move commodity prices. In today's blog we see how oil prices reach inflation.",
+    "source": {
+     "name": "Business Recorder (Reuters)",
+     "url": "https://www.brecorder.com/news/40448204/oil-down-over-usd7-a-barrel-in-post-settlement-trade"
+    }
+   },
+   {
+    "id": "n3",
+    "category": "Company",
+    "title": "Nvidia shares fall 4.27% as board probe of CEO Jensen Huang continues",
+    "summary": "While the market rallied on Monday, Nvidia shares closed 4.27% lower, according to CNBC. CBC reported that the fall reached nearly 6% at one point during the day. NBC says about $200 billion in market value was wiped out. A committee of independent directors is leading the probe with outside counsel. Huang admitted the relationship in a staff email. LSEG data show he owns 3.6% of the company. China's foreign ministry called the 'Chinese spy' narrative unsubstantiated.",
+    "why": "A direct case of key-person risk and corporate governance. It shows how a company's dependence on one leader gets priced into its shares.",
+    "source": {
+     "name": "CNBC",
+     "url": "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-chinese-spy-investigation.html"
+    }
+   },
+   {
+    "id": "n4",
+    "category": "Economy",
+    "title": "US October CPI due today: odds of a December Fed hike put at 65% to 80%",
+    "summary": "The US October consumer price index (CPI) comes out on Tuesday. Most forecasts see headline growth of about 0.3% on the month (September was 0.6%) and core of about 0.2%. After Friday's strong jobs data (165,000 new jobs), market pricing for a December hike ranges from 65% to 80% depending on the source. The Fed meets on 8–9 December. Natixis and Wells Fargo expect a 25 basis point hike in December.",
+    "why": "Essential for understanding how monetary policy links interest rates and inflation. Higher rates make loans costlier and affect share and bond prices.",
+    "source": {
+     "name": "CNBC",
+     "url": "https://www.cnbc.com/2026/11/09/october-cpi-report-2026-inflation.html"
+    }
+   },
+   {
+    "id": "n5",
+    "category": "M&A",
+    "title": "Japan's biggest chemicals takeover: Mitsui Chemicals to buy JSR for about ¥1.84 trillion ($11.6 billion)",
+    "summary": "On Monday Mitsui Chemicals said it will buy chip-materials maker JSR for about 1.84 trillion yen, or $11.6 billion. The state-backed Development Bank of Japan will invest 200 billion yen through non-voting preferred shares. The seller is Japan Investment Corp. Mitsui will take a 1,640 billion yen bridge loan from its main banks and later refinance it with bank loans, bonds and mezzanine financing. The target is to close in the second half of fiscal 2027.",
+    "why": "Shows how M&A financing (bridge loan, refinancing) works. The state's role also shows how governments take part in strategic industries.",
+    "source": {
+     "name": "The Japan Times",
+     "url": "https://www.japantimes.co.jp/business/2026/11/09/companies/mitsui-chemicals-jsr-takeover/"
+    }
+   },
+   {
+    "id": "n6",
+    "category": "India",
+    "title": "Sensex gains 107 points to 81,106.65; Nifty reclaims 25,000",
+    "summary": "On Monday the Sensex rose about 107 points, or 0.13%, to close at 81,106.65. The Nifty 50 gained about 58 points, or 0.23%, to 25,044.65, reclaiming the 25,000 level. According to PTI, lower crude prices and buying in bank stocks lifted the market. SBI, Trent, L&T, NTPC, HDFC Bank and ICICI Bank were among the Sensex's biggest gainers.",
+    "why": "India imports most of its oil, so cheaper crude eases the import bill, inflation and company costs. It also shows why bank stocks drive the indices.",
+    "source": {
+     "name": "ThePrint (PTI)",
+     "url": "https://theprint.in/economy/sensex-gains-107-points-nifty-reclaims-25k-amid-easing-oil-prices-buying-in-banks/3094329"
+    }
+   },
+   {
+    "id": "n7",
+    "category": "India",
+    "title": "RBI's $239 billion forward short position may cap rupee gains",
+    "summary": "An IDFC First Bank report says the RBI's net short forward dollar position stood at $239 billion as of September. If foreign inflows rise, the RBI will need to buy dollars, so the rupee is unlikely to gain much. The bank expects the rupee at 92–94 per dollar by December 2026. The rupee was 94.90 on 2 November and 93.74 in early trade on 9 November.",
+    "why": "A chance to understand exchange rates, forward contracts and central bank intervention. Note that this is one bank's view, not everyone's.",
+    "source": {
+     "name": "Business Standard",
+     "url": "https://www.business-standard.com/finance/news/rbi-s-239-bn-forward-dollar-position-to-limit-rupee-gains-report-126110900571_1.html"
+    }
+   },
+   {
+    "id": "n8",
+    "category": "Tech",
+    "title": "monday.com beats Q3 estimates but shares fall about 7% on the outlook",
+    "summary": "monday.com's third-quarter revenue rose 19% to $377.5 million and adjusted EPS was $2.14 against a forecast of $1.37. But its fourth-quarter revenue guidance of $380–382 million is below the analyst average of $385.665 million. The midpoint implies about 14% growth. The company raised its full-year adjusted operating margin forecast from 16% to about 18%. Shares fell about 7% on the news.",
+    "why": "Share prices run on expectations of the future, not last quarter's results. A good example of guidance, consensus and market expectations.",
+    "source": {
+     "name": "Yahoo Finance",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/monday-com-shares-fall-7-135448735.html"
+    }
+   }
+  ],
+  "market": {
+   "asOf": "Close of Monday, 9 November 2026",
+   "items": [
+    {
+     "name": "S&P 500",
+     "region": "US",
+     "value": "7,549.94",
+     "change": "+2.35%",
+     "dir": "up"
+    },
+    {
+     "name": "Dow Jones",
+     "region": "US",
+     "value": "52,389.75",
+     "change": "+2.15%",
+     "dir": "up"
+    },
+    {
+     "name": "Nasdaq",
+     "region": "US",
+     "value": "25,253.14",
+     "change": "+2.74%",
+     "dir": "up"
+    },
+    {
+     "name": "Sensex",
+     "region": "India",
+     "value": "81,106.65",
+     "change": "+0.13%",
+     "dir": "up"
+    },
+    {
+     "name": "Nifty 50",
+     "region": "India",
+     "value": "25,044.65",
+     "change": "+0.23%",
+     "dir": "up"
+    },
+    {
+     "name": "Brent Crude",
+     "region": "$ per barrel",
+     "value": "92.57",
+     "change": "-5.85%",
+     "dir": "down"
+    },
+    {
+     "name": "Gold",
+     "region": "$ per ounce",
+     "value": "4,141",
+     "change": "+1.74%",
+     "dir": "up"
+    },
+    {
+     "name": "USD/INR",
+     "region": "₹ per dollar",
+     "value": "93.93",
+     "change": "-5 paise",
+     "dir": "down"
+    }
+   ]
+  },
+  "term": {
+   "term": "Earnings Guidance",
+   "bangla": "A company's own forecast of future earnings",
+   "definition": "When a company states the range of revenue or profit it expects in the coming quarter or year, that is earnings guidance. The average analyst forecast is called the consensus. If guidance falls below consensus, shares can drop even after good results, because the market prices in the future.",
+   "example": "monday.com guided Q4 revenue of $380–382 million, a midpoint of $381 million. The analyst consensus was $385.665 million, so guidance is about 1.2% lower. That is why shares fell about 7% despite a good Q3.",
+   "formula": "Guidance gap % = (Consensus − Guidance midpoint) ÷ Consensus × 100 = (385.665 − 381) ÷ 385.665 × 100 ≈ 1.2%",
+   "tip": "In interviews say: the market cares more about what will happen than what happened. Companies often guide low so they can beat it later, so check the company's track record when reading guidance."
+  },
+  "gd": {
+   "topic": "Should central banks keep raising rates even when oil prices fall?",
+   "context": "Brent crude fell 5.85% to $92.57, yet after strong US jobs data the odds of a December Fed hike are 65%–80%. One source also says the RBI raised rates in October.",
+   "for": [
+    "Oil could fall further or rebound. Continuing to hike keeps inflation expectations anchored.",
+    "A strong jobs market shows demand is still firm, so price pressure may persist.",
+    "Easing or pausing too early risks inflation returning, which may force harder hikes later."
+   ],
+   "against": [
+    "If oil falls, inflation eases on its own, and extra hikes may slow the economy for no reason.",
+    "Higher rates make loans costlier, hurting small businesses and consumers and unsettling markets.",
+    "One month of data is not enough. Waiting for more data is the wiser course."
+   ]
+  },
+  "blog": {
+   "title": "Why do markets smile when oil falls? The chain linking inflation, the rupee and interest rates",
+   "topic": "Oil prices, Cost-Push Inflation and Pass-Through",
+   "readMin": 5,
+   "body": [
+    "On Monday Brent crude fell about 5.85% to $92.57 a barrel, and the same day the S&P 500 rose 2.35% while the Nifty climbed back above 25,000. Why would one commodity getting cheaper make stock markets across the world happy? In today's blog we start from scratch and see how oil prices spread into inflation, interest rates and the value of the rupee.",
+    "## What is inflation, and what is cost-push?",
+    "Inflation means the general level of prices rising over time. One cause is demand growing too fast, called demand-pull inflation. Another is rising production costs. When oil, gas, raw materials or wages go up, firms' costs rise and they pass them into product prices. This is cost-push inflation. Oil is the best-known example, because almost everything needs transport and transport needs fuel.",
+    "## What is pass-through?",
+    "If oil rises by $10, not every price rises at once and by the same amount. How much of a cost reaches the consumer is called pass-through. A firm with many competitors fears raising prices, so it squeezes its own margin. Where demand is inelastic, as with diesel or cooking gas, pass-through is higher. That is why, when oil falls, firms' costs drop on one side and inflation pressure eases on the other.",
+    "## The link with interest rates",
+    "Central banks raise interest rates to keep inflation in check. Higher rates make loans costlier, people and firms spend less, and price pressure eases. Today the US October CPI is due. Most forecasts expect headline growth of about 0.3% on the month, and market pricing for a December Fed hike runs from 65% to 80% depending on the source. If oil keeps falling, inflation pressure could ease later, and the case against more hikes gets stronger. Markets jumped on Monday partly on that hope. But it is an expectation, not a certainty.",
+    "## The effect on India",
+    "India imports a large share of its oil. When oil rises, India pays more dollars, so the import bill and the current account deficit grow and the rupee comes under pressure. The reverse helps the rupee. The news shows the rupee at 94.90 per dollar on 2 November, 93.74 in early trade on 9 November, and a close of 93.93. Analysts link the move to cheaper oil, foreign inflows and hopes of easing tension in West Asia. However, an IDFC First Bank report says the RBI's large forward short position may cap the rupee's gains, since the RBI will buy dollars when foreign money comes in.",
+    "## Look at it from the company's side",
+    "Cheaper oil lowers costs for airlines, transport, paints, plastics and cement, which can lift their margins. Oil producers see revenue fall. So the same news has opposite effects on different companies. A good investor asks not only 'is the news good or bad?' but 'good for whom?'.",
+    "## A quick calculation",
+    "On Friday Brent stood at $98.32. On Monday it was $92.57, which is $5.75 a barrel lower. In percentage terms: (98.32 − 92.57) ÷ 98.32 × 100 ≈ 5.85%. Suppose a firm uses fuel equal to 10 million barrels a year. With a fall of $5.75 a barrel, its yearly cost drops by about $57.5 million. That saving can either lift profit or be used to cut prices and win customers. Which one the firm picks depends on competition and on how elastic demand is. The example is hypothetical, only to show the arithmetic.",
+    "## A caution: don't trust one day's price",
+    "Oil fell 5.85% in a day, but the reason was hope of talks over Iran, and that can change. If the price rises again tomorrow, the whole calculation shifts. Making decisions from a single day can mislead. Geopolitical risk makes oil prices jump suddenly, which is its nature.",
+    "## A practical lesson for BBA students",
+    "When you read a news item, build the habit of asking: which cost changed? Who bears it? How much will pass through? What can the central bank do? If an interviewer or examiner asks 'what happens when oil falls?', being able to say this whole chain in one breath will make your answer stand out."
+   ],
+   "takeaways": [
+    "Inflation caused by rising costs of oil, gas or raw materials is cost-push inflation. How much of the cost reaches consumers is pass-through.",
+    "When oil falls, an importer like India sees a smaller import bill, less pressure on the rupee and less inflation worry.",
+    "Don't trust one day's price; look at the reason. A fall driven by geopolitical hope can reverse."
+   ]
+  },
+  "quiz": [
+   {
+    "q": "At what price did Brent crude futures settle on Monday?",
+    "options": [
+     "$98.32",
+     "$97.35",
+     "$92.57",
+     "$104.77"
+    ],
+    "answer": 2,
+    "explain": "According to Reuters, Brent fell $5.75, or 5.85%, to settle at $92.57 a barrel."
+   },
+   {
+    "q": "The S&P 500's Monday rise was its best day since which date?",
+    "options": [
+     "30 October",
+     "8 April",
+     "1 January",
+     "6 November"
+    ],
+    "answer": 1,
+    "explain": "The S&P 500 rose 2.35% to 7,549.94, its best day since 8 April."
+   },
+   {
+    "q": "Why did monday.com shares fall despite good Q3 results?",
+    "options": [
+     "Revenue had fallen",
+     "EPS was below forecast",
+     "The company is being sold",
+     "Q4 guidance was below the analyst average"
+    ],
+    "answer": 3,
+    "explain": "Q4 revenue guidance of $380–382 million is below the $385.665 million consensus. The market prices in future expectations."
+   },
+   {
+    "q": "For how much is Mitsui Chemicals buying JSR?",
+    "options": [
+     "About ¥1.84 trillion ($11.6 billion)",
+     "About $115 billion",
+     "About ¥200 billion",
+     "About $22 billion"
+    ],
+    "answer": 0,
+    "explain": "The total is about 1.84 trillion yen, or $11.6 billion. The ¥200 billion is only the Development Bank of Japan's investment."
+   },
+   {
+    "q": "What usually happens to India when oil prices fall?",
+    "options": [
+     "The import bill rises",
+     "The import bill falls and pressure on the rupee eases",
+     "The current account deficit widens",
+     "Inflation pressure increases"
+    ],
+    "answer": 1,
+    "explain": "India imports oil, so cheaper crude lowers import costs and eases pressure on the current account deficit and the rupee."
+   }
+  ],
+  "caseStudy": {
+   "week": "2026-W46",
+   "weekLabel": "9 – 15 November 2026",
+   "company": "Netflix",
+   "title": "From mailing DVDs to global streaming: how Netflix kept reinventing itself",
+   "concept": "Business Model Innovation and Disruptive Strategy",
+   "intro": "In 1997 Reed Hastings and Marc Randolph started Netflix as a company renting DVDs by mail. The big name then was Blockbuster, with queues outside its stores. Today Netflix is among the world's largest streaming platforms. The journey shows that to survive, a company sometimes has to reshape its own successful business with its own hands.",
+   "sections": [
+    {
+     "h": "What it did",
+     "p": "Netflix first mailed DVDs, then moved to a subscription model with no late fees. In 2007 it began streaming over the internet. In 2013 it entered original content with House of Cards. In January 2016 it expanded to many countries at once. Later it added a cheaper ad-supported plan."
+    },
+    {
+     "h": "The result",
+     "p": "By shifting from mailing DVDs to streaming, Netflix gained many millions of customers worldwide. Blockbuster has almost vanished from the market. Netflix is now not just a distributor but also a producer of content, making local-language series around the world."
+    },
+    {
+     "h": "Why it worked",
+     "p": "Three reasons. First, it put customer convenience first (from home, no late fees). Second, it used viewing data for recommendations and content decisions. Third, by making its own content it reduced dependence on others' licences. It also was not afraid to change its own successful business, which Blockbuster could not do."
+    },
+    {
+     "h": "Risks and criticism",
+     "p": "Making content costs a great deal and puts pressure on debt and cash flow. In 2011 its plan to split DVD and streaming into Qwikster angered customers and was cancelled. Competitors such as Disney, Amazon and Apple make retaining customers harder. Critics say repeated price rises and tighter rules can annoy subscribers."
+    }
+   ],
+   "lesson": "Even while a business is succeeding, a company must be ready to change its own model when markets and technology change. Following real customer needs lets you use disruption, otherwise someone else will.",
+   "question": "If you were in Netflix's place, would you keep the DVD business running while starting streaming, or drop it altogether? Explain with opportunity cost and risk."
+  }
+ }
+}
