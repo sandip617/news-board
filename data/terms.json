@@ -1,6 +1,23 @@
 {
  "terms": [
   {
+   "date": "2026-11-11",
+   "term": "Core Inflation",
+   "bangla": "মূল মুদ্রাস্ফীতি",
+   "definition": "খাদ্য আর জ্বালানির মতো অস্থির দামের জিনিস বাদ দিয়ে হিসাব করা মুদ্রাস্ফীতি। এতে দামবৃদ্ধির স্থায়ী প্রবণতা বোঝা যায়, তাই কেন্দ্রীয় ব্যাংক সুদের হার ঠিক করার সময় এতে বেশি নজর দেয়।",
+   "example": "অক্টোবরে আমেরিকার headline CPI বেড়েছে 0.4%, আর core CPI 0.3%। গ্যাসোলিন আর খাবার বাদ দিলেও দাম বাড়ার চাপ থাকায় Fed-এর কয়েকজন কর্তা হার বাড়ানোর পক্ষে জোর দিচ্ছেন।",
+   "formula": "Core inflation = (খাদ্য ও জ্বালানি বাদে CPI-র পরিবর্তন) ÷ আগের CPI × 100",
+   "tip": "ইন্টারভিউতে headline আর core inflation-এর ফারাক জিজ্ঞেস করলে বলো, headline সব জিনিস ধরে, core অস্থির দাম বাদ দিয়ে মূল প্রবণতা দেখায়।",
+   "en": {
+    "term": "Core Inflation",
+    "bangla": "Inflation excluding food and energy",
+    "definition": "Inflation measured after removing volatile items such as food and energy. It shows the underlying trend in price rises, so central banks watch it closely when setting interest rates.",
+    "example": "In October US headline CPI rose 0.4% and core CPI 0.3%. Even without gasoline and food, price pressure remained, so some Fed officials are pushing for a rate hike.",
+    "formula": "Core inflation = (change in CPI excluding food and energy) ÷ previous CPI × 100",
+    "tip": "If asked the difference between headline and core inflation: headline covers everything, core strips out volatile prices to show the underlying trend."
+   }
+  },
+  {
    "date": "2026-11-10",
    "term": "Earnings Guidance",
    "bangla": "আর্নিংস গাইডেন্স (কোম্পানির নিজের ভবিষ্যৎ আয়ের পূর্বাভাস)",

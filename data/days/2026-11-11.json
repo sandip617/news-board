@@ -1,0 +1,579 @@
+{
+ "date": "2026-11-11",
+ "dateLabel": "১১ নভেম্বর ২০২৬, বুধবার",
+ "edition": 1,
+ "updatedAt": "2026-11-11T06:50:00+05:30",
+ "news": [
+  {
+   "id": "n1",
+   "category": "অর্থনীতি",
+   "title": "আমেরিকায় অক্টোবরে মূল্যবৃদ্ধি 0.4%, প্রত্যাশার চেয়ে বেশি: ডিসেম্বরে Fed-এর সুদ বাড়ানোর সম্ভাবনা আরও জোরালো",
+   "summary": "মঙ্গলবার প্রকাশিত তথ্যে দেখা গেছে, অক্টোবরে আমেরিকার consumer prices আগের মাসের চেয়ে 0.4% বেড়েছে, অর্থনীতিবিদদের প্রত্যাশা ছিল 0.3%। সেপ্টেম্বরে বৃদ্ধি ছিল 0.6%। core CPI বেড়েছে 0.3%, গ্যাসোলিনের দাম বেড়েছে 1% (সেপ্টেম্বরে 9.1%) আর খাদ্যদ্রব্যের দাম 0.5%। 2025 সালের shutdown-এ অক্টোবর 2025-এর তথ্য না থাকায় বছরওয়ারি হার প্রকাশ হয়নি। Fed গভর্নর Christopher Waller আগেই বলেছিলেন, core প্রায় 0.3% হলে তিনি ডিসেম্বরে আধ শতাংশ বৃদ্ধির পক্ষে যেতে পারেন; Dallas Fed-এর Lorie Logan আরও দুটি 25 basis point বৃদ্ধির প্রয়োজন দেখছেন। Fed-এর বর্তমান সুদের হার 3.75%–4%।",
+   "why": "মুদ্রাস্ফীতি (inflation) আর মুদ্রানীতি (monetary policy) কীভাবে যুক্ত, তা সরাসরি দেখা যাচ্ছে। দাম বাড়ার গতি না কমলে কেন্দ্রীয় ব্যাংক সুদ বাড়ায়, আর তাতে ঋণের খরচ বাড়ে।",
+   "source": {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/10/cpi-inflation-report-october-2026.html"
+   }
+  },
+  {
+   "id": "n2",
+   "category": "বন্ডবাজার",
+   "title": "10-year Treasury yield আবার প্রায় 5%-এ, ডিসেম্বরে হার বাড়ানো প্রায় ধরে নিচ্ছে বাজার",
+   "summary": "গরম CPI আর Waller-এর আধ শতাংশ বৃদ্ধির ইঙ্গিতের পর মঙ্গলবার আমেরিকার 10-year Treasury yield লাফিয়ে প্রায় 5%-এ পৌঁছেছে। সূত্রভেদে দিনের শেষ স্তর 4.94% থেকে 5.02%-এর মধ্যে; কোনো কোনো প্রতিবেদনে 10 থেকে 15 basis point বৃদ্ধির কথা আছে। ডিসেম্বরে 25 basis point বৃদ্ধির সম্ভাবনা সূত্রভেদে 84% থেকে 99% ধরা হচ্ছে। তাই সঠিক সংখ্যা নিয়ে মতভেদ আছে, কিন্তু দিক নিয়ে নেই।",
+   "why": "বন্ডের দাম আর yield উল্টো পথে চলে, আর শেয়ারের মূল্যনির্ধারণে risk-free rate একটা মূল উপাদান। আজকের ব্লগে এটাই বিস্তারিত আছে।",
+   "source": {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/10/us-bonds-treasurys-yields.html"
+   }
+  },
+  {
+   "id": "n3",
+   "category": "শেয়ারবাজার",
+   "title": "গরম মুদ্রাস্ফীতির তথ্যে Wall Street নামল: S&P 500 0.38% কমে 7,520.93",
+   "summary": "মঙ্গলবার Dow Jones প্রায় 0.3% কমে 52,231.89-এ, S&P 500 প্রায় 0.38% কমে 7,520.93-এ আর Nasdaq Composite প্রায় 0.74% কমে 25,065.87-এ বন্ধ হয়েছে। আগের দিন S&P 500 এপ্রিলের পর সেরা দিন পার করেছিল। Treasury yield বাড়া আর হার বাড়ানোর আশঙ্কা এই পতনের পেছনে। কিছু সংবাদমাধ্যমের হিসাবে সূচকের ক্লোজিং সামান্য আলাদা, তাই এখানে বেশির ভাগ সূত্রের মান নেওয়া হয়েছে।",
+   "why": "একদিনের তেজি বাজার পরের দিনই কীভাবে উল্টে যেতে পারে, তা বোঝায় যে শেয়ারবাজার ক্রমাগত নতুন তথ্যে দাম ঠিক করে (market efficiency)। সুদের হারের আশঙ্কা এখানে মূল চালক।",
+   "source": {
+    "name": "TradingKey",
+    "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262299537-us-october-cpi-tops-forecasts-nasdaq-falls-nvidia-stock-drops-tradingkey"
+   }
+  },
+  {
+   "id": "n4",
+   "category": "কোম্পানি",
+   "title": "Nvidia-র শেয়ার টানা দ্বিতীয় দিনে পড়ল, 5.52% কমে $168.80; class action মামলা দায়ের",
+   "summary": "মঙ্গলবার Nvidia-র শেয়ার 5.52% কমে $168.80-এ বন্ধ হয়েছে, সোমবারের 4%-এর বেশি পতনের পর। CEO Jensen Huang-কে নিয়ে অভিযোগের (চীনা গুপ্তচরের সঙ্গে সম্পর্ক সংক্রান্ত দাবি) জেরে বোর্ড স্বাধীন তদন্ত করছে। San Jose-র ফেডারেল আদালতে Nvidia আর Huang-এর বিরুদ্ধে class-action মামলাও হয়েছে। বিপরীতে AMD 1.30% বেড়ে $515.21 আর Broadcom 3.91% বেড়ে $331.98 হয়েছে। বিশ্লেষকদের পূর্বাভাস অনুযায়ী Nvidia-র তৃতীয় প্রান্তিকের ফল আসবে 17 নভেম্বর। তদন্তের ফল এখনও অজানা।",
+   "why": "Key-person risk আর corporate governance-এর বাস্তব উদাহরণ: একজন নেতাকে ঘিরে বিতর্কে একটি কোম্পানির শেয়ার পড়ছে, অথচ একই খাতের অন্য কোম্পানি বাড়ছে।",
+   "source": {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/10/nvidia-nvda-jensen-huang-affair-chinese-spy.html"
+   }
+  },
+  {
+   "id": "n5",
+   "category": "IPO",
+   "title": "Anthropic-এর IPO roadshow শুরু: শেয়ারপ্রতি $70–$78, ticker \"ANT\"",
+   "summary": "মঙ্গলবার Anthropic যুক্তরাষ্ট্রে IPO-র roadshow শুরু করেছে। দাম নির্ধারণ হয়েছে শেয়ারপ্রতি $70 থেকে $78, মোট 825 মিলিয়ন Class A শেয়ার, যার মধ্যে প্রায় 801 মিলিয়ন নতুন আর প্রায় 24 মিলিয়ন বর্তমান শেয়ারহোল্ডারদের। সর্বোচ্চ দামে সংগ্রহ হতে পারে প্রায় $64.4 বিলিয়ন (Fortune)। মূল্যায়ন কত, তা গণনার পদ্ধতির ওপর নির্ভর করে: CNN-এর হিসাবে fully diluted ভিত্তিতে সর্বোচ্চ দামে প্রায় $1.4 ট্রিলিয়ন, আবার Reuters-এর হিসাবে বাজারে থাকা শেয়ারের ভিত্তিতে প্রায় $1.02 ট্রিলিয়ন। চূড়ান্ত দাম ঠিক হওয়ার আগে সব সংখ্যাই সাময়িক। (পাঠকের জন্য উল্লেখ: এই সংবাদটি আপনাদের এই AI সম্পাদকের নির্মাতা প্রতিষ্ঠানকে নিয়ে।)",
+   "why": "IPO-র price range, primary আর secondary শেয়ার, আর valuation-এর ভিন্ন গণনাপদ্ধতি (fully diluted বনাম outstanding shares) বোঝার ভালো উদাহরণ।",
+   "source": {
+    "name": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/"
+   }
+  },
+  {
+   "id": "n6",
+   "category": "বিশ্ব অর্থনীতি",
+   "title": "চীনে অক্টোবরে কারখানার দাম (PPI) 5.7% বেড়ে সাড়ে চার বছরের সর্বোচ্চে, ভোক্তা মূল্যবৃদ্ধি মাত্র 0.7%",
+   "summary": "চীনের পরিসংখ্যান ব্যুরো জানিয়েছে, অক্টোবরে producer price index বছরওয়ারি 5.7% বেড়েছে (Reuters সমীক্ষায় পূর্বাভাস ছিল 5.3%), যা জুন 2022-এর পর সর্বোচ্চ। ভোক্তা মূল্যসূচক (CPI) 0.9% থেকে কমে 0.7%, পূর্বাভাস ছিল 0.8%। খাদ্যের দাম 2.9% কমেছে, তাজা সবজি 16.9% আর শূকরের মাংস 8.6% সস্তা হয়েছে। core CPI 0.8%। খনি আর কাঁচামাল খাতের দামবৃদ্ধি PPI-কে ঠেলেছে। কারখানার খরচ আর ভোক্তার দামের এই ফারাক বিশ্লেষকদের নজরে।",
+   "why": "উৎপাদক-মূল্য (PPI) আর ভোক্তা-মূল্য (CPI)-র ফারাক কোম্পানির margin-এর ওপর কী চাপ ফেলে, তা বোঝার সুযোগ। খরচ বাড়লেও দাম বাড়াতে না পারলে মুনাফা কমে।",
+   "source": {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/09/china-wholesale-inflation-rises-consumer.html"
+   }
+  },
+  {
+   "id": "n7",
+   "category": "কমোডিটি",
+   "title": "হট CPI-র পর সোনা প্রায় 2% পড়ে প্রায় $4,053-এ",
+   "summary": "মঙ্গলবার spot gold প্রতি আউন্স প্রায় $4,053-এ নেমেছে, দিনে প্রায় 2.1% পতন, রুপো পড়েছে প্রায় 2.8%। আরেকটি সূত্রে সোনা 2.8% কমে প্রায় $4,021 দেখানো হয়েছে, তাই সঠিক স্তর নিয়ে সামান্য মতভেদ আছে। দিনের শুরুতে সোনা তিন সপ্তাহে প্রথমবার $4,100-এর ওপরে খুলেছিল। হার বাড়ার আশঙ্কা ফিরে আসায় সোনার মতো সুদহীন সম্পদ চাপে পড়েছে।",
+   "why": "সোনা কোনো সুদ বা লভ্যাংশ দেয় না, তাই সুদের হার বাড়লে এর opportunity cost বাড়ে। এই সম্পর্ক পোর্টফোলিও ম্যানেজমেন্টে খুব কাজে লাগে।",
+   "source": {
+    "name": "USAGOLD",
+    "url": "https://www.usagold.com/daily-precious-metals-market-report-november-10-2026/"
+   }
+  },
+  {
+   "id": "n8",
+   "category": "ভারত",
+   "title": "দিওয়ালি-বলিপ্রতিপদায় ছুটিতে 10 নভেম্বর বাজার বন্ধ, GIFT Nifty-র সংকেত জোরালো শুরুর",
+   "summary": "Diwali-Balipratipada উপলক্ষে 10 নভেম্বর NSE আর BSE বন্ধ ছিল, লেনদেন ফিরছে বুধবার 11 নভেম্বর। শেষ ক্লোজিং ছিল সোমবার 9 নভেম্বর: Sensex 81,106.65 (+0.13%) আর Nifty 50 25,044.65 (+0.23%)। অপরিশোধিত তেল নরম হওয়ায় GIFT Nifty মঙ্গলবার প্রায় 1.2% বেড়েছে বলে Free Press Journal জানিয়েছে, যা শক্তিশালী শুরুর ইঙ্গিত। টাকা 9 নভেম্বর বন্ধ হয়েছে ডলারপ্রতি 93.9275-এ। ভারতের বাজার বন্ধ থাকলেও আমেরিকার গরম CPI-র প্রভাব আজ প্রথম পড়বে।",
+   "why": "আন্তর্জাতিক বাজার এক দিন এগিয়ে যেতে পারে, আর ছুটির পর ভারতীয় বাজারকে সেই খবর একসঙ্গে হজম করতে হয়। এখানে বাজার সংযোগ (market linkage) আর গ্যাপ ওপেনিং বোঝা যায়।",
+   "source": {
+    "name": "Free Press Journal",
+    "url": "https://freepressjournal.in/business/gift-nifty-surges-nearly-12-as-crude-oil-eases-strong-opening-likely-for-indian-markets-2"
+   }
+  }
+ ],
+ "market": {
+  "asOf": "১০ নভেম্বর ২০২৬, মঙ্গলবারের ক্লোজিং (ভারতের বাজার ছুটিতে বন্ধ ছিল, তাই Sensex, Nifty আর টাকা ৯ নভেম্বরের)। Brent আর সোনা আনুমানিক।",
+  "items": [
+   {
+    "name": "S&P 500",
+    "region": "US",
+    "value": "7,520.93",
+    "change": "-0.38%",
+    "dir": "down"
+   },
+   {
+    "name": "Dow Jones",
+    "region": "US",
+    "value": "52,231.89",
+    "change": "-0.30%",
+    "dir": "down"
+   },
+   {
+    "name": "Nasdaq",
+    "region": "US",
+    "value": "25,065.87",
+    "change": "-0.74%",
+    "dir": "down"
+   },
+   {
+    "name": "Sensex",
+    "region": "ভারত (৯ নভেম্বরের ক্লোজিং)",
+    "value": "81,106.65",
+    "change": "+0.13%",
+    "dir": "up"
+   },
+   {
+    "name": "Nifty 50",
+    "region": "ভারত (৯ নভেম্বরের ক্লোজিং)",
+    "value": "25,044.65",
+    "change": "+0.23%",
+    "dir": "up"
+   },
+   {
+    "name": "Brent Crude",
+    "region": "$ প্রতি ব্যারেল",
+    "value": "~$91",
+    "change": "",
+    "dir": "flat"
+   },
+   {
+    "name": "Gold",
+    "region": "$ প্রতি আউন্স",
+    "value": "~$4,053",
+    "change": "≈ -2%",
+    "dir": "down"
+   },
+   {
+    "name": "USD/INR",
+    "region": "৯ নভেম্বরের ক্লোজিং",
+    "value": "93.9275",
+    "change": "+0.02%",
+    "dir": "flat"
+   }
+  ]
+ },
+ "term": {
+  "term": "Core Inflation",
+  "bangla": "মূল মুদ্রাস্ফীতি",
+  "definition": "খাদ্য আর জ্বালানির মতো অস্থির দামের জিনিস বাদ দিয়ে হিসাব করা মুদ্রাস্ফীতি। এতে দামবৃদ্ধির স্থায়ী প্রবণতা বোঝা যায়, তাই কেন্দ্রীয় ব্যাংক সুদের হার ঠিক করার সময় এতে বেশি নজর দেয়।",
+  "example": "অক্টোবরে আমেরিকার headline CPI বেড়েছে 0.4%, আর core CPI 0.3%। গ্যাসোলিন আর খাবার বাদ দিলেও দাম বাড়ার চাপ থাকায় Fed-এর কয়েকজন কর্তা হার বাড়ানোর পক্ষে জোর দিচ্ছেন।",
+  "formula": "Core inflation = (খাদ্য ও জ্বালানি বাদে CPI-র পরিবর্তন) ÷ আগের CPI × 100",
+  "tip": "ইন্টারভিউতে headline আর core inflation-এর ফারাক জিজ্ঞেস করলে বলো, headline সব জিনিস ধরে, core অস্থির দাম বাদ দিয়ে মূল প্রবণতা দেখায়।"
+ },
+ "gd": {
+  "topic": "আমেরিকায় সুদের হার বাড়লে ভারতের শেয়ারবাজার আর টাকার ওপর চাপ কি অনিবার্য?",
+  "context": "আমেরিকায় গরম CPI-র পর 10-year yield প্রায় 5%-এ আর ডিসেম্বরে Fed-এর হার বাড়ানোর সম্ভাবনা জোরালো। ভারতের বাজার ছুটির পর আজ খুলছে।",
+  "for": [
+   "আমেরিকায় yield বাড়লে বিদেশি পুঁজি সেখানে ফিরে যেতে পারে, ফলে ভারতে FPI বিক্রি আর টাকার ওপর চাপ বাড়ে।",
+   "ডলার শক্তিশালী হলে আমদানির খরচ বাড়ে, যা ভারতের মুদ্রাস্ফীতি আর কোম্পানির খরচে চাপ ফেলে।",
+   "বৈশ্বিক সুদ বাড়লে ঝুঁকিপূর্ণ সম্পদের মূল্যায়ন কমে, তাই উদীয়মান বাজারও দুর্বল হয়।"
+  ],
+  "against": [
+   "ভারতের বাজারে দেশীয় বিনিয়োগকারীর অংশগ্রহণ বেড়েছে, তাই বিদেশি বিক্রির ধাক্কা আগের চেয়ে কম।",
+   "তেলের দাম নামলে ভারতের আমদানি বিল আর মুদ্রাস্ফীতির চাপ কমে, যা পুঁজির বেরিয়ে যাওয়ার ক্ষতি আংশিক পুষিয়ে দিতে পারে।",
+   "RBI-র হাতে বিনিময় হার সামলানোর হাতিয়ার আছে, তাই প্রভাব অনিবার্য নয়, সীমিত হতে পারে।"
+  ]
+ },
+ "blog": {
+  "title": "বন্ড yield ৫%-এ উঠলে শেয়ারবাজার কেন কেঁপে ওঠে",
+  "topic": "বন্ড yield আর শেয়ারের মূল্যায়ন",
+  "readMin": 4,
+  "body": [
+   "গতকাল আমেরিকার অক্টোবরের মুদ্রাস্ফীতির তথ্য বেরোনোর পর 10-year Treasury yield প্রায় 5%-এ উঠে গেল, আর শেয়ারবাজার নামল। অনেকে ভাবেন বন্ড মানে শুধু ব্যাংক আর ফান্ডের ব্যাপার। কিন্তু একজন BBA ছাত্রের জন্য বন্ড yield বোঝা জরুরি, কারণ এটাই প্রায় সব সম্পদের দামের ভিত্তি। আজকের লেখায় একদম গোড়া থেকে বোঝার চেষ্টা করব।",
+   "## বন্ড আর yield কী",
+   "বন্ড হলো ধার দেওয়ার কাগজ। সরকার বা কোম্পানি তোমার কাছ থেকে টাকা ধার নেয়, বছরে নির্দিষ্ট সুদ (coupon) দেয় আর মেয়াদ শেষে আসল ফেরত দেয়। ধরো ১০০ টাকার একটা বন্ড বছরে ৫ টাকা সুদ দেয়। বাজারে এর দাম ১০০ টাকা হলে yield, অর্থাৎ বছরে বিনিয়োগের ওপর আয়, মোটামুটি ৫%। Yield তাই বন্ডে টাকা রাখার বাজারদরের প্রতিদান।",
+   "## দাম আর yield কেন উল্টো পথে চলে",
+   "এখন ধরো বাজারে নতুন বন্ডে ৬% yield পাওয়া যাচ্ছে। তোমার ৫ টাকা সুদের পুরনো বন্ড কেউ ১০০ টাকায় কিনবে না, কারণ ১০০ টাকায় নতুনটায় বেশি আয়। ক্রেতা পেতে হলে পুরনো বন্ডের দাম নামাতে হবে। মোটামুটি হিসাবে ৫ ÷ ৮৩.৩ ≈ ৬%, অর্থাৎ দাম প্রায় ৮৩ টাকায় নামলে yield ৬% হয়। এভাবে yield বাড়া মানেই বন্ডের দাম কমা। খবরে 'yield বেড়েছে' শুনলে বুঝে নেবে বন্ডের দাম পড়েছে।",
+   "## মুদ্রাস্ফীতি থেকে yield: শৃঙ্খলটা",
+   "মুদ্রাস্ফীতি বেশি হলে বিনিয়োগকারী চান বাড়তি প্রতিদান, কারণ দাম বাড়লে তাঁর টাকার ক্রয়ক্ষমতা কমে। আবার কেন্দ্রীয় ব্যাংক সুদ বাড়াবে, এই আশঙ্কায়ও নতুন বন্ডের yield বাড়ে। গতকাল ঠিক তা-ই হয়েছে: অক্টোবরের CPI 0.4% এসেছে, প্রত্যাশা ছিল 0.3%। বাজার ধরে নিল ডিসেম্বরে Fed সুদ বাড়াবে, আর 10-year yield প্রায় 5%-এ পৌঁছাল।",
+   "একটা সহজ উদাহরণ ভাবো। তুমি ১০০ টাকা দিয়ে ৫% সুদের একটা বন্ড কিনেছ, আর ঠিক তখনই বাজারে নতুন বন্ডে ৬% পাওয়া যেতে শুরু করল। তুমি বন্ডটা বেচতে চাইলে ক্রেতা ১০০ টাকা দেবে না, ৮৩-৮৪ টাকার কাছাকাছি দাম দেবে। কাগজে তোমার ক্ষতি হলো, যদিও মেয়াদ পর্যন্ত রাখলে পুরো আসল ফেরত পাবে। এই কারণে ব্যাংক আর ফান্ড, যাদের হাতে বিপুল বন্ড থাকে, yield বাড়লে বইয়ে ক্ষতি দেখায়। আর এজন্যই কেন্দ্রীয় ব্যাংকের প্রতিটি সুদ-সংকেত গোটা আর্থিক ব্যবস্থার কাছে এত গুরুত্বপূর্ণ।",
+   "## শেয়ারের ওপর প্রভাব: দুটো পথ",
+   "প্রথম পথ হলো বিকল্প। সরকারি বন্ডকে ঝুঁকিহীন (risk-free) ধরা হয়। এতে যদি ৫% মেলে, তাহলে ঝুঁকিপূর্ণ শেয়ারে বিনিয়োগ করতে বাড়তি প্রতিদান চাই। শেয়ারের আকর্ষণ কমে। দ্বিতীয় পথ হলো মূল্যায়ন। শেয়ারের ন্যায্য দাম হলো ভবিষ্যতের আয়ের বর্তমান মূল্য (present value), যা বের করতে একটা discount rate দিয়ে ভাগ করা হয়। Risk-free rate বাড়লে discount rate বাড়ে, আর বর্তমান মূল্য কমে। যে কোম্পানির বড় আয় দূর ভবিষ্যতে আসবে, যেমন growth আর tech কোম্পানি, তাদের মূল্য বেশি কমে, কারণ দূরের আয়ে discount বেশি পড়ে।",
+   "আজকের খবরে এর ছাপ আছে: গতকাল Dow কমেছে প্রায় 0.3%, কিন্তু tech-ভারী Nasdaq কমেছে প্রায় 0.74%। তবে সব পতন শুধু yield-এর জন্য নয়, Nvidia-র 5.52% পতনও Nasdaq-কে টেনেছে। বাজারের একটা দিনের নড়াচড়ার একটাই কারণ খুঁজতে যেও না।",
+   "## ভারতের জন্য এর মানে",
+   "আমেরিকায় yield বেশি থাকলে বিশ্বের পুঁজি সেদিকে টান পায়। ভারতের মতো উদীয়মান বাজার থেকে বিদেশি পুঁজি বেরিয়ে যেতে পারে, টাকা দুর্বল হতে পারে, আর আমদানি ব্যয়বহুল হয়। এজন্য ভারতের বাজার ছুটির পর খুললেই আমেরিকার খবরে প্রতিক্রিয়া দেখায়। অবশ্য তেলের দাম কমা বা দেশীয় বিনিয়োগকারীর কেনাকাটা এই চাপ কিছুটা কমাতে পারে।",
+   "## BBA ছাত্রের জন্য ব্যবহারিক শিক্ষা",
+   "এই ধারণাগুলো সিলেবাসে বারবার আসে: CAPM-এ risk-free rate, কোম্পানির মূল্যায়নে discount rate, মূলধন খরচে WACC। ইন্টারভিউয়ে কেউ জিজ্ঞেস করলে একটা লাইনে বলতে পারবে: সুদের হার বা yield বাড়লে discount rate বাড়ে, তাই শেয়ার আর বন্ড দুটোরই বর্তমান মূল্য কমে। আর প্রতিদিন একটা কাজ করো: সংবাদে 10-year yield দেখে মনে মনে বলো, বন্ডের দাম উঠল না নামল, শেয়ারের মূল্যায়নে কী চাপ। কয়েক সপ্তাহে এটা অভ্যাস হয়ে যাবে। মনে রেখো, এটা শেখার জন্য, বিনিয়োগের পরামর্শ নয়।"
+  ],
+  "takeaways": [
+   "বন্ডের দাম আর yield উল্টো পথে চলে: yield বাড়লে দাম কমে।",
+   "মুদ্রাস্ফীতি আর সুদ বাড়ার আশঙ্কা yield বাড়ায়, আর বেশি risk-free rate শেয়ারের মূল্যায়ন কমায় (discount rate বাড়ে)।",
+   "একদিনের বাজার নড়াচড়ার পেছনে একাধিক কারণ থাকে, শুধু yield নয়।"
+  ]
+ },
+ "quiz": [
+  {
+   "q": "অক্টোবরে আমেরিকার CPI মাসওয়ারি কত বেড়েছে?",
+   "options": [
+    "0.3%",
+    "0.4%",
+    "0.6%",
+    "1.0%"
+   ],
+   "answer": 1,
+   "explain": "CPI 0.4% বেড়েছে, প্রত্যাশা ছিল 0.3%। 0.6% ছিল সেপ্টেম্বরের বৃদ্ধি।"
+  },
+  {
+   "q": "বন্ডের yield বাড়লে বন্ডের দামের কী হয়?",
+   "options": [
+    "বাড়ে",
+    "কোনো পরিবর্তন হয় না",
+    "আগে বাড়ে, পরে কমে",
+    "কমে"
+   ],
+   "answer": 3,
+   "explain": "বন্ডের দাম আর yield উল্টো পথে চলে। yield বাড়ার মানে দাম কমা।"
+  },
+  {
+   "q": "Core inflation হিসাবে কোন দুটি জিনিস বাদ দেওয়া হয়?",
+   "options": [
+    "খাদ্য ও জ্বালানি",
+    "ভাড়া ও শিক্ষা",
+    "বিদ্যুৎ ও জল",
+    "পোশাক ও ওষুধ"
+   ],
+   "answer": 0,
+   "explain": "খাদ্য আর জ্বালানির দাম অস্থির, তাই বাদ দিয়ে মূল প্রবণতা দেখা হয়।"
+  },
+  {
+   "q": "মঙ্গলবার Nvidia-র শেয়ার প্রায় কত শতাংশ কমে বন্ধ হয়েছে?",
+   "options": [
+    "1.3%",
+    "2.1%",
+    "5.52%",
+    "10%"
+   ],
+   "answer": 2,
+   "explain": "Nvidia 5.52% কমে $168.80-এ বন্ধ হয়েছে। 1.30% ছিল AMD-র বৃদ্ধি।"
+  },
+  {
+   "q": "Anthropic-এর IPO-তে শেয়ারপ্রতি দামের পরিসর কত ঠিক হয়েছে?",
+   "options": [
+    "$50–$58",
+    "$70–$78",
+    "$90–$98",
+    "$110–$118"
+   ],
+   "answer": 1,
+   "explain": "দামের পরিসর $70 থেকে $78, ticker \"ANT\"।"
+  }
+ ],
+ "caseStudy": {
+  "week": "2026-W46",
+  "weekLabel": "৯ – ১৫ নভেম্বর ২০২৬",
+  "company": "Netflix",
+  "title": "DVD ডাকে পাঠানো থেকে বিশ্বজোড়া streaming: Netflix কীভাবে নিজেকে বারবার বদলেছে",
+  "concept": "Business Model Innovation ও Disruptive Strategy",
+  "intro": "1997 সালে Reed Hastings আর Marc Randolph Netflix শুরু করেছিলেন ডাকে DVD ভাড়া দেওয়ার কোম্পানি হিসেবে। তখনকার বড় নাম ছিল Blockbuster, যার দোকানের সামনে লাইন পড়ত। আজ Netflix বিশ্বের অন্যতম বড় streaming প্ল্যাটফর্ম। এই যাত্রা দেখায়, বাজারে টিকে থাকতে হলে নিজের সফল ব্যবসাকেই কখনো কখনো নিজ হাতে বদলে ফেলতে হয়।",
+  "sections": [
+   {
+    "h": "কী করেছিল",
+    "p": "Netflix প্রথমে ডাকে DVD পাঠাত, পরে সাবস্ক্রিপশন মডেলে নিয়ে আসে, যেখানে দেরিতে ফেরত দেওয়ার জরিমানা ছিল না। 2007 সালে তারা ইন্টারনেটে streaming শুরু করে। 2013 সালে House of Cards দিয়ে নিজেদের তৈরি original কনটেন্টে ঢোকে। 2016 সালের জানুয়ারিতে একসঙ্গে বহু দেশে সেবা চালু করে বিশ্বজোড়া সম্প্রসারণ ঘটায়। পরে বিজ্ঞাপননির্ভর সস্তা প্ল্যানও আনে।"
+   },
+   {
+    "h": "ফলাফল",
+    "p": "Netflix ডাকে DVD পাঠানো ব্যবসা থেকে streaming-এ সরে গিয়ে বিশ্বজুড়ে কোটি কোটি গ্রাহক পেয়েছে। Blockbuster শেষ পর্যন্ত বাজার থেকে প্রায় মুছে গেছে। Netflix এখন শুধু বিতরণকারী নয়, কনটেন্ট প্রযোজকও, আর বিশ্বজুড়ে স্থানীয় ভাষার সিরিজ বানায়।"
+   },
+   {
+    "h": "কেন কাজ করল",
+    "p": "তিনটি কারণ। প্রথমত, তারা গ্রাহকের সুবিধা (বাড়িতে বসে, দেরির জরিমানা ছাড়া) আগে ভেবেছে। দ্বিতীয়ত, ব্যবহারকারীর দেখার তথ্য কাজে লাগিয়ে সুপারিশ আর কনটেন্ট সিদ্ধান্ত নিয়েছে। তৃতীয়ত, নিজের কনটেন্ট বানিয়ে অন্যের লাইসেন্সের ওপর নির্ভরতা কমিয়েছে। এছাড়া তারা পুরনো সফল ব্যবসাকে নিজেই বদলাতে ভয় পায়নি, যা Blockbuster করতে পারেনি।"
+   },
+   {
+    "h": "ঝুঁকি আর সমালোচনা",
+    "p": "কনটেন্ট বানাতে প্রচুর অর্থ খরচ হয়, আর এতে ঋণ ও নগদ প্রবাহের চাপ থাকে। 2011 সালে DVD আর streaming আলাদা করতে গিয়ে Qwikster পরিকল্পনা নিয়ে গ্রাহকদের ক্ষোভের মুখে পড়ে সেটি বাতিল করতে হয়েছিল। এখন Disney, Amazon, Apple-এর মতো প্রতিযোগী বাড়ায় গ্রাহক ধরে রাখা কঠিন। সমালোচকরা বলেন, বারবার দাম বাড়ানো আর নিয়ম কড়া করা গ্রাহকের বিরক্তির কারণ হতে পারে।"
+   }
+  ],
+  "lesson": "সফল ব্যবসা চালু থাকলেও বাজার আর প্রযুক্তি বদলালে নিজের মডেল নিজেই বদলাতে হয়। গ্রাহকের প্রকৃত চাহিদা বুঝে এগোলে disruption কাজে লাগানো যায়, না হলে অন্য কেউ সেটা করবে।",
+  "question": "Netflix-এর জায়গায় তুমি থাকলে DVD ব্যবসা চালু রেখে streaming শুরু করতে, না একেবারে ছেড়ে দিতে? Opportunity cost আর ঝুঁকির হিসাব দিয়ে বোঝাও।"
+ },
+ "en": {
+  "dateLabel": "Wednesday, 11 November 2026",
+  "news": [
+   {
+    "id": "n1",
+    "category": "Economy",
+    "title": "US consumer prices rose 0.4% in October, above forecasts, firming the case for a December Fed hike",
+    "summary": "Data released on Tuesday showed US consumer prices rose 0.4% in October from September, above the 0.3% economists expected. September's rise was 0.6%. Core CPI rose 0.3%, gasoline gained 1% (versus 9.1% in September) and food 0.5%. No year-on-year rate was published because the 2025 government shutdown left October 2025 data missing. Fed Governor Christopher Waller had said a core reading near 0.3% could push him to back a half-point hike in December, and Dallas Fed's Lorie Logan sees a need for two more quarter-point hikes. The Fed's current range is 3.75%-4%.",
+    "why": "It shows how inflation and monetary policy are linked. If price rises don't slow, a central bank raises rates, and borrowing becomes costlier.",
+    "source": {
+     "name": "CNBC",
+     "url": "https://www.cnbc.com/2026/11/10/cpi-inflation-report-october-2026.html"
+    }
+   },
+   {
+    "id": "n2",
+    "category": "Bond market",
+    "title": "The 10-year Treasury yield is back near 5% as markets all but price in a December hike",
+    "summary": "After the hot CPI and Waller's hint at a half-point move, the US 10-year Treasury yield jumped to about 5% on Tuesday. Reports put the day's level between 4.94% and 5.02%, and some cite a rise of 10 to 15 basis points. The odds of a 25 basis point hike in December are put anywhere from 84% to 99%, depending on the source. The exact numbers differ, but the direction does not.",
+    "why": "Bond prices and yields move in opposite directions, and the risk-free rate is a key input in valuing shares. Today's blog explains this in detail.",
+    "source": {
+     "name": "CNBC",
+     "url": "https://www.cnbc.com/2026/11/10/us-bonds-treasurys-yields.html"
+    }
+   },
+   {
+    "id": "n3",
+    "category": "Stock market",
+    "title": "Wall Street slips on hot inflation data: S&P 500 falls 0.38% to 7,520.93",
+    "summary": "On Tuesday the Dow Jones fell about 0.3% to 52,231.89, the S&P 500 about 0.38% to 7,520.93 and the Nasdaq Composite about 0.74% to 25,065.87. The day before, the S&P 500 had its best day since April. Higher Treasury yields and fears of rate hikes were behind the fall. A few outlets list slightly different closes, so the figures used here are the ones most sources agree on.",
+    "why": "A strong day followed by a weak one shows that markets keep repricing on new information (market efficiency). Interest-rate fears were the main driver here.",
+    "source": {
+     "name": "TradingKey",
+     "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262299537-us-october-cpi-tops-forecasts-nasdaq-falls-nvidia-stock-drops-tradingkey"
+    }
+   },
+   {
+    "id": "n4",
+    "category": "Companies",
+    "title": "Nvidia falls for a second straight day, down 5.52% to $168.80; class action filed",
+    "summary": "Nvidia shares closed 5.52% lower at $168.80 on Tuesday, after a drop of more than 4% on Monday. The board is running an independent probe after allegations about CEO Jensen Huang (claims of a relationship with a Chinese spy). A class-action suit has also been filed against Nvidia and Huang in federal court in San Jose. AMD, by contrast, rose 1.30% to $515.21 and Broadcom 3.91% to $331.98. Analysts expect Nvidia's third-quarter results on 17 November. The outcome of the probe is not yet known.",
+    "why": "A real case of key-person risk and corporate governance: one company's shares fall over a controversy around its leader while peers in the same sector rise.",
+    "source": {
+     "name": "CNBC",
+     "url": "https://www.cnbc.com/2026/11/10/nvidia-nvda-jensen-huang-affair-chinese-spy.html"
+    }
+   },
+   {
+    "id": "n5",
+    "category": "IPO",
+    "title": "Anthropic starts its IPO roadshow: $70-$78 a share, ticker \"ANT\"",
+    "summary": "On Tuesday Anthropic began the roadshow for its US IPO. The range is $70 to $78 a share for 825 million Class A shares, about 801 million of them new and about 24 million from existing holders. At the top of the range it could raise about $64.4 billion (Fortune). The valuation depends on how shares are counted: CNN puts it near $1.4 trillion fully diluted at the top of the range, while Reuters' calculation on shares outstanding gives about $1.02 trillion. All numbers are provisional until final pricing. (Disclosure: this story is about the company that built this AI editor.)",
+    "why": "A good example of price ranges, primary versus secondary shares, and how valuation changes with the counting method (fully diluted versus shares outstanding).",
+    "source": {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/"
+    }
+   },
+   {
+    "id": "n6",
+    "category": "World economy",
+    "title": "China's factory prices (PPI) rise 5.7% in October, a four-and-a-half-year high, while consumer inflation is just 0.7%",
+    "summary": "China's statistics bureau said the producer price index rose 5.7% year on year in October (a Reuters poll had expected 5.3%), the highest since June 2022. Consumer prices (CPI) eased to 0.7% from 0.9%, against a forecast of 0.8%. Food prices fell 2.9%, with fresh vegetables down 16.9% and pork 8.6% cheaper. Core CPI was 0.8%. Mining and raw-material prices pushed PPI up. Analysts are watching the gap between factory costs and consumer prices.",
+    "why": "A chance to see how the gap between producer prices (PPI) and consumer prices (CPI) squeezes company margins. If costs rise but prices cannot, profits fall.",
+    "source": {
+     "name": "CNBC",
+     "url": "https://www.cnbc.com/2026/11/09/china-wholesale-inflation-rises-consumer.html"
+    }
+   },
+   {
+    "id": "n7",
+    "category": "Commodities",
+    "title": "Gold drops about 2% to around $4,053 after hot CPI",
+    "summary": "Spot gold fell to about $4,053 an ounce on Tuesday, down roughly 2.1% on the day, while silver dropped about 2.8%. Another source shows gold down 2.8% at about $4,021, so the exact level differs slightly. Gold had opened above $4,100 for the first time in three weeks. The return of rate-hike fears weighed on a non-yielding asset like gold.",
+    "why": "Gold pays no interest or dividend, so higher interest rates raise its opportunity cost. This relationship is very useful in portfolio management.",
+    "source": {
+     "name": "USAGOLD",
+     "url": "https://www.usagold.com/daily-precious-metals-market-report-november-10-2026/"
+    }
+   },
+   {
+    "id": "n8",
+    "category": "India",
+    "title": "Indian markets shut on 10 November for Diwali-Balipratipada; GIFT Nifty points to a strong open",
+    "summary": "NSE and BSE were closed on 10 November for Diwali-Balipratipada, and trading resumes on Wednesday 11 November. The last close was Monday 9 November: Sensex 81,106.65 (+0.13%) and Nifty 50 25,044.65 (+0.23%). GIFT Nifty rose nearly 1.2% on Tuesday as crude oil eased, Free Press Journal reported, pointing to a strong start. The rupee closed on 9 November at 93.9275 per dollar. Indian markets were shut, but the effect of the hot US CPI will show up for the first time today.",
+    "why": "International markets can move a day ahead, and after a holiday Indian markets must absorb that news all at once. It illustrates market linkage and gap openings.",
+    "source": {
+     "name": "Free Press Journal",
+     "url": "https://freepressjournal.in/business/gift-nifty-surges-nearly-12-as-crude-oil-eases-strong-opening-likely-for-indian-markets-2"
+    }
+   }
+  ],
+  "market": {
+   "asOf": "Close of Tuesday, 10 November 2026 (Indian markets were shut for a holiday, so Sensex, Nifty and rupee are from 9 November). Brent and gold are approximate.",
+   "items": [
+    {
+     "name": "S&P 500",
+     "region": "US",
+     "value": "7,520.93",
+     "change": "-0.38%",
+     "dir": "down"
+    },
+    {
+     "name": "Dow Jones",
+     "region": "US",
+     "value": "52,231.89",
+     "change": "-0.30%",
+     "dir": "down"
+    },
+    {
+     "name": "Nasdaq",
+     "region": "US",
+     "value": "25,065.87",
+     "change": "-0.74%",
+     "dir": "down"
+    },
+    {
+     "name": "Sensex",
+     "region": "India (9 Nov close)",
+     "value": "81,106.65",
+     "change": "+0.13%",
+     "dir": "up"
+    },
+    {
+     "name": "Nifty 50",
+     "region": "India (9 Nov close)",
+     "value": "25,044.65",
+     "change": "+0.23%",
+     "dir": "up"
+    },
+    {
+     "name": "Brent Crude",
+     "region": "$ per barrel",
+     "value": "~$91",
+     "change": "",
+     "dir": "flat"
+    },
+    {
+     "name": "Gold",
+     "region": "$ per ounce",
+     "value": "~$4,053",
+     "change": "≈ -2%",
+     "dir": "down"
+    },
+    {
+     "name": "USD/INR",
+     "region": "9 Nov close",
+     "value": "93.9275",
+     "change": "+0.02%",
+     "dir": "flat"
+    }
+   ]
+  },
+  "term": {
+   "term": "Core Inflation",
+   "bangla": "Inflation excluding food and energy",
+   "definition": "Inflation measured after removing volatile items such as food and energy. It shows the underlying trend in price rises, so central banks watch it closely when setting interest rates.",
+   "example": "In October US headline CPI rose 0.4% and core CPI 0.3%. Even without gasoline and food, price pressure remained, so some Fed officials are pushing for a rate hike.",
+   "formula": "Core inflation = (change in CPI excluding food and energy) ÷ previous CPI × 100",
+   "tip": "If asked the difference between headline and core inflation: headline covers everything, core strips out volatile prices to show the underlying trend."
+  },
+  "gd": {
+   "topic": "Is pressure on Indian stocks and the rupee inevitable when US interest rates rise?",
+   "context": "After the hot US CPI, the 10-year yield is near 5% and a December Fed hike looks likely. Indian markets reopen today after a holiday.",
+   "for": [
+    "Higher US yields can pull foreign money back to the US, raising FPI selling and pressure on the rupee in India.",
+    "A stronger dollar raises import costs, adding to India's inflation and company costs.",
+    "Higher global rates lower valuations of risky assets, so emerging markets weaken too."
+   ],
+   "against": [
+    "Domestic investors now play a bigger role in Indian markets, so foreign selling hurts less than before.",
+    "Falling oil prices lower India's import bill and inflation pressure, partly offsetting capital outflows.",
+    "The RBI has tools to manage the exchange rate, so the effect may be limited rather than inevitable."
+   ]
+  },
+  "blog": {
+   "title": "Why stock markets shake when bond yields hit 5%",
+   "topic": "Bond yields and share valuation",
+   "readMin": 4,
+   "body": [
+    "Yesterday, after the US October inflation data, the 10-year Treasury yield rose to nearly 5% and stocks fell. Many think bonds are only for banks and funds. For a BBA student, though, understanding bond yields matters, because they are the base for pricing almost every asset. Today we build the idea from scratch.",
+    "## What a bond and a yield are",
+    "A bond is an IOU. A government or company borrows from you, pays a fixed yearly interest (the coupon), and returns the principal at maturity. Say a 100-rupee bond pays 5 rupees a year. If it trades at 100, the yield, the yearly return on what you invest, is roughly 5%. So yield is the market return for holding the bond.",
+    "## Why price and yield move in opposite directions",
+    "Now suppose new bonds offer a 6% yield. Nobody will pay 100 for your old bond paying 5, because the new one earns more. To find a buyer, the old bond's price must fall. As a rough calculation, 5 ÷ 83.3 ≈ 6%, so at about 83 the yield is 6%. A rising yield means a falling bond price. When you read 'yields rose', understand that bond prices fell.",
+    "## From inflation to yield: the chain",
+    "When inflation is high, investors demand extra return because rising prices erode their purchasing power. They also expect the central bank to raise rates, which pushes new-bond yields up. That is what happened yesterday: October CPI came in at 0.4% versus 0.3% expected. Markets assumed the Fed would hike in December, and the 10-year yield reached nearly 5%.",
+    "Think of a simple case. You buy a 100-rupee bond paying 5%, and just then new bonds start paying 6%. If you want to sell, a buyer will not pay 100; they will pay somewhere near 83-84. You make a loss on paper, even though holding to maturity would return the full principal. That is why banks and funds, which hold huge bond portfolios, show losses on their books when yields rise. It is also why every interest-rate signal from a central bank matters so much to the whole financial system.",
+    "## The effect on stocks: two channels",
+    "The first channel is the alternative. Government bonds are treated as risk-free. If they pay 5%, risky shares must offer extra return to be worth holding, so shares become less attractive. The second is valuation. A share's fair value is the present value of future earnings, found by discounting at a discount rate. When the risk-free rate rises, the discount rate rises and present value falls. Companies whose big earnings lie far in the future, such as growth and tech firms, lose more value, because distant earnings are discounted more heavily.",
+    "Today's news shows traces of this: yesterday the Dow fell about 0.3%, but the tech-heavy Nasdaq fell about 0.74%. Not all of that is yields, though. Nvidia's 5.52% drop also dragged the Nasdaq. Don't look for a single cause behind one day's market move.",
+    "## What it means for India",
+    "When US yields are high, global capital is pulled that way. Foreign money can leave emerging markets like India, the rupee can weaken, and imports become costlier. That is why Indian markets react to US news as soon as they reopen after a holiday. Falling oil prices or buying by domestic investors can ease some of that pressure.",
+    "## A practical lesson for BBA students",
+    "These ideas come up again and again in the syllabus: the risk-free rate in CAPM, the discount rate in valuation, WACC in cost of capital. In an interview you can say in one line: when interest rates or yields rise, the discount rate rises, so the present value of both shares and bonds falls. Build a daily habit too: when you see the 10-year yield in the news, say to yourself whether bond prices went up or down and what pressure that puts on valuations. After a few weeks it becomes natural. This is for learning, not investment advice."
+   ],
+   "takeaways": [
+    "Bond prices and yields move in opposite directions: when yield rises, price falls.",
+    "Inflation and rate-hike fears push yields up, and a higher risk-free rate lowers share valuations (the discount rate rises).",
+    "One day's market move has several causes, not just yields."
+   ]
+  },
+  "quiz": [
+   {
+    "q": "By how much did US CPI rise month on month in October?",
+    "options": [
+     "0.3%",
+     "0.4%",
+     "0.6%",
+     "1.0%"
+    ],
+    "answer": 1,
+    "explain": "CPI rose 0.4%, against 0.3% expected. The 0.6% was September's rise."
+   },
+   {
+    "q": "What happens to a bond's price when its yield rises?",
+    "options": [
+     "It rises",
+     "Nothing changes",
+     "It first rises, then falls",
+     "It falls"
+    ],
+    "answer": 3,
+    "explain": "Bond prices and yields move in opposite directions. A rising yield means a falling price."
+   },
+   {
+    "q": "Which two items does core inflation leave out?",
+    "options": [
+     "Food and energy",
+     "Rent and education",
+     "Electricity and water",
+     "Clothing and medicine"
+    ],
+    "answer": 0,
+    "explain": "Food and energy prices are volatile, so they are removed to see the underlying trend."
+   },
+   {
+    "q": "By roughly how much did Nvidia shares fall on Tuesday?",
+    "options": [
+     "1.3%",
+     "2.1%",
+     "5.52%",
+     "10%"
+    ],
+    "answer": 2,
+    "explain": "Nvidia closed 5.52% lower at $168.80. The 1.30% was AMD's rise."
+   },
+   {
+    "q": "What price range was set for Anthropic's IPO per share?",
+    "options": [
+     "$50-$58",
+     "$70-$78",
+     "$90-$98",
+     "$110-$118"
+    ],
+    "answer": 1,
+    "explain": "The range is $70 to $78 a share, ticker \"ANT\"."
+   }
+  ],
+  "caseStudy": {
+   "week": "2026-W46",
+   "weekLabel": "9 – 15 November 2026",
+   "company": "Netflix",
+   "title": "From mailing DVDs to global streaming: how Netflix kept reinventing itself",
+   "concept": "Business Model Innovation and Disruptive Strategy",
+   "intro": "In 1997 Reed Hastings and Marc Randolph started Netflix as a company renting DVDs by mail. The big name then was Blockbuster, with queues outside its stores. Today Netflix is among the world's largest streaming platforms. The journey shows that to survive, a company sometimes has to reshape its own successful business with its own hands.",
+   "sections": [
+    {
+     "h": "What it did",
+     "p": "Netflix first mailed DVDs, then moved to a subscription model with no late fees. In 2007 it began streaming over the internet. In 2013 it entered original content with House of Cards. In January 2016 it expanded to many countries at once. Later it added a cheaper ad-supported plan."
+    },
+    {
+     "h": "The result",
+     "p": "By shifting from mailing DVDs to streaming, Netflix gained many millions of customers worldwide. Blockbuster has almost vanished from the market. Netflix is now not just a distributor but also a producer of content, making local-language series around the world."
+    },
+    {
+     "h": "Why it worked",
+     "p": "Three reasons. First, it put customer convenience first (from home, no late fees). Second, it used viewing data for recommendations and content decisions. Third, by making its own content it reduced dependence on others' licences. It also was not afraid to change its own successful business, which Blockbuster could not do."
+    },
+    {
+     "h": "Risks and criticism",
+     "p": "Making content costs a great deal and puts pressure on debt and cash flow. In 2011 its plan to split DVD and streaming into Qwikster angered customers and was cancelled. Competitors such as Disney, Amazon and Apple make retaining customers harder. Critics say repeated price rises and tighter rules can annoy subscribers."
+    }
+   ],
+   "lesson": "Even while a business is succeeding, a company must be ready to change its own model when markets and technology change. Following real customer needs lets you use disruption, otherwise someone else will.",
+   "question": "If you were in Netflix's place, would you keep the DVD business running while starting streaming, or drop it altogether? Explain with opportunity cost and risk."
+  }
+ }
+}
