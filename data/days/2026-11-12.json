@@ -1,0 +1,567 @@
+{
+ "date": "2026-11-12",
+ "dateLabel": "১২ নভেম্বর ২০২৬, বৃহস্পতিবার",
+ "edition": 1,
+ "updatedAt": "2026-11-12T06:50:00+05:30",
+ "news": [
+  {
+   "id": "n1",
+   "category": "কর্পোরেট",
+   "title": "Nvidia-র বোর্ড নাকি CEO Jensen Huang-কে সরানোর প্রস্তুতি নিচ্ছে, after-hours-এ শেয়ার প্রায় 8% পড়ল",
+   "summary": "Wall Street Journal-এর প্রতিবেদন অনুযায়ী Nvidia-র বোর্ড বুধবারই বৈঠকে বসে Huang-এর ভবিষ্যৎ নিয়ে সিদ্ধান্ত নিতে পারে। আগে New York Times জানায়, তাঁর কোম্পানির এক ঊর্ধ্বতন কর্তার সঙ্গে ব্যক্তিগত সম্পর্ক ছিল। দুটি প্রতিবেদনই নাম-না-জানানো সূত্রের ওপর নির্ভরশীল, Reuters বলেছে তারা তা যাচাই করতে পারেনি, আর Nvidia প্রকাশ্যে কিছু বলেনি। CBS News জানিয়েছে, after-hours ট্রেডিংয়ে শেয়ার 8%-এর বেশি পড়ে $159.51-এ নেমেছে। স্বাধীন directors-দের তদন্ত চলছে, আর তদন্ত চলাকালীন Huang CEO পদে আছেন। এখনও কোনো সিদ্ধান্ত ঘোষণা হয়নি।",
+   "why": "এটি key-person risk আর corporate governance-এর বাস্তব উদাহরণ: একজন প্রতিষ্ঠাতা-CEO-র ওপর কোম্পানির নির্ভরতা বেশি হলে তাঁর ব্যক্তিগত বিতর্কও শেয়ারদরে ধাক্কা দেয়।",
+   "source": {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-affair-employee.html"
+   }
+  },
+  {
+   "id": "n2",
+   "category": "প্রযুক্তি",
+   "title": "CoreWeave-এর রাজস্ব 168% বেড়ে প্রায় $3.66 বিলিয়ন, backlog $132.5 বিলিয়নে; AI শেয়ারে ফের উত্থান",
+   "summary": "AI cloud কোম্পানি CoreWeave-এর তৃতীয় কোয়ার্টারের রাজস্ব এক বছর আগের চেয়ে প্রায় 168% বেড়ে প্রায় $3.66 বিলিয়ন হয়েছে, যা প্রত্যাশিত প্রায় $3.55 বিলিয়নের চেয়ে বেশি। জুনের শেষে $104 বিলিয়ন থাকা backlog বেড়ে প্রায় $132.5 বিলিয়ন হয়েছে। 2026 সালের রাজস্ব পূর্বাভাস তারা বাড়িয়ে $13.0–13.3 বিলিয়ন করেছে। আগের এক মাসে শেয়ার 40%-এর বেশি পড়েছিল, কিন্তু ফল প্রকাশের পর বড় লাফ দেয়। এর ধাক্কায় Nasdaq বুধবার 1.60% বেড়ে 25,466.19-এ বন্ধ হয়েছে।",
+   "why": "Order backlog কোম্পানির ভবিষ্যৎ রাজস্বের দৃশ্যমানতা দেখায়, কিন্তু সুদের খরচ আর বিপুল মূলধনী ব্যয় (capex) থাকলে প্রবৃদ্ধি আর মুনাফা এক কথা নয়, এটা বোঝার সুযোগ।",
+   "source": {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/10/coreweave-crwv-q3-earnings-report-2026.html"
+   }
+  },
+  {
+   "id": "n3",
+   "category": "ভারতের বাজার",
+   "title": "Sensex 773 পয়েন্ট বেড়ে 81,879.40-এ, Nifty 25,255.05; টাকা সাত মাসের উঁচুতে",
+   "summary": "বুধবার Sensex প্রায় 773 পয়েন্ট (0.95%) বেড়ে 81,879.40-এ আর Nifty 50 প্রায় 210 পয়েন্ট (0.84%) বেড়ে 25,255.05-এ বন্ধ হয়েছে। Nifty PSU Bank প্রায় 3% বেড়েছে, আর Nifty IT তুলনায় পিছিয়ে ছিল। জ্বালানির দাম কমা আর বিদেশি পুঁজির বেরিয়ে যাওয়া উল্টে যাওয়ায় বাজারে জোর এসেছে। টাকা প্রতি ডলারে প্রায় 93.70-এ বন্ধ হয়েছে, বিভিন্ন সূত্রে 93.69 থেকে 93.71, যা সাত মাসের সবচেয়ে ভালো স্তর বলে জানানো হয়েছে। Brent প্রায় $92.76-এ বন্ধ হয়েছে, ইরান নিয়ে অনিশ্চয়তায় 1.4% বেড়ে।",
+   "why": "তেলের দাম, বিদেশি পুঁজির প্রবাহ (FPI flow) আর বিনিময় হার একে অপরের সঙ্গে কীভাবে জড়িয়ে আছে, ভারতের বাজার তার ভালো উদাহরণ।",
+   "source": {
+    "name": "Business Standard",
+    "url": "https://www.business-standard.com/amp/markets/news/stock-market-live-november-11-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-126111100079_1.html"
+   }
+  },
+  {
+   "id": "n4",
+   "category": "M&A",
+   "title": "ক্যালিফোর্নিয়ার শর্তে Western Union প্রায় $500 মিলিয়নের Intermex অধিগ্রহণ বাতিল করল, Intermex মানছে না",
+   "summary": "Western Union জানিয়েছে, ক্যালিফোর্নিয়ার আর্থিক নিয়ন্ত্রক DFPI-র চূড়ান্ত শর্তগুলো তাদের কাছে গ্রহণযোগ্য নয়, কারণ তাতে ব্যবসার মডেল আর এজেন্ট সম্পর্ক বদলাতে হতো। তাই বোর্ড Intermex-কে কেনার চুক্তি বাতিল করেছে। চুক্তির শর্ত অনুযায়ী কোনো পক্ষকেই বাতিলের জন্য অর্থ দিতে হবে না। Intermex বাতিলের নোটিস প্রত্যাখ্যান করে চুক্তি সম্পূর্ণ করার দাবি জানিয়েছে এবং specific performance ও ক্ষতিপূরণ চাওয়ার অধিকার সংরক্ষণ করেছে। DFPI বলেছে, শর্তগুলো প্রতারণা ও money laundering ঠেকানোর জন্য।",
+   "why": "M&A-তে শুধু দুই কোম্পানির সম্মতি নয়, নিয়ন্ত্রকের অনুমোদনও (regulatory approval) চূড়ান্ত ঝুঁকি; চুক্তি ভাঙলে আইনি লড়াই হতে পারে।",
+   "source": {
+    "name": "Western Union",
+    "url": "https://ir.westernunion.com/news/archived-press-releases/press-release-details/2026/Western-Union-Announces-Termination-of-Agreement-to-Acquire-Intermex/default.aspx"
+   }
+  },
+  {
+   "id": "n5",
+   "category": "M&A",
+   "title": "AkzoNobel–Axalta প্রায় $25 বিলিয়নের চুক্তিতে UK-র CMA-র প্রতিযোগিতা-উদ্বেগ, প্রতিকারের জন্য 18 নভেম্বর পর্যন্ত সময়",
+   "summary": "UK-র প্রতিযোগিতা নিয়ন্ত্রক CMA জানিয়েছে, বুধবার Phase 1 পর্যায়ে তারা উদ্বেগ চিহ্নিত করেছে, যা শুধু UK-র vehicle refinish coatings বাজারে সীমাবদ্ধ। সেখানে দুই কোম্পানির মিলিত অংশ 40–50% হবে। কোম্পানিগুলো 18 নভেম্বর পর্যন্ত গ্রহণযোগ্য undertakings দিতে পারবে। তারা ইউরোপীয় কমিশনের গ্রহণ করা প্রতিকারই দিতে চায়, অর্থাৎ AkzoNobel-এর ইউরোপীয় vehicle refinish ব্যবসা (UK সহ) বিক্রি। প্রতিকার গৃহীত না হলে বিষয়টি গভীর Phase 2 পর্যালোচনায় যাবে। কোম্পানিগুলো 2027-এর শুরুতে চুক্তি শেষ হবে বলে আশা করছে।",
+   "why": "Antitrust আর market concentration বোঝার জন্য এটি ভালো কেস: নিয়ন্ত্রকরা বাজারে অংশ বেশি হলে divestiture বা ব্যবসা বিক্রির শর্ত দেয়।",
+   "source": {
+    "name": "Reuters (via Euronext)",
+    "url": "https://live.euronext.com/en/financial-news/akzonobel-axalta-get-week-address-uk-regulator-concerns-over-25-billion-merger"
+   }
+  },
+  {
+   "id": "n6",
+   "category": "স্টার্টআপ ও AI",
+   "title": "OpenAI-র তৃতীয় কোয়ার্টারের রাজস্ব প্রায় $10 বিলিয়ন, তবু operating loss বেড়ে $10.9 বিলিয়ন",
+   "summary": "WSJ-এর বরাতে Reuters জানিয়েছে, সেপ্টেম্বরে শেষ হওয়া কোয়ার্টারে OpenAI-র রাজস্ব প্রায় 50% বেড়ে $10 বিলিয়ন হয়েছে। একই সময়ে operating loss $10.1 বিলিয়ন থেকে বেড়ে $10.9 বিলিয়ন হয়েছে বলে মাধ্যমিক সূত্র জানিয়েছে। adjusted operating margin -150% থেকে উন্নত হয়ে -109% হয়েছে। বিপুল AI infrastructure খরচই লোকসানের মূল কারণ। প্রতিবেদন অনুযায়ী কোম্পানি সম্ভাব্য 2027 সালের IPO-র প্রস্তুতি নিচ্ছে। OpenAI এ নিয়ে মন্তব্য করেনি।",
+   "why": "Revenue growth আর profitability আলাদা বিষয়; operating margin ঋণাত্মক হলেও কোম্পানি কীভাবে অর্থায়ন পায়, তা unit economics আর valuation বোঝার জন্য জরুরি।",
+   "source": {
+    "name": "Reuters (via Investing.com)",
+    "url": "https://www.investing.com/news/stock-market-news/openai-posts-steep-losses-even-as-quarterly-revenue-rises-to-10-billion-wsj-reports-5017353"
+   }
+  },
+  {
+   "id": "n7",
+   "category": "শিল্প ও জ্বালানি",
+   "title": "Siemens Energy-র রেকর্ড FY2026: রাজস্ব প্রায় €44.2 বিলিয়ন, gas turbine-এর order book রেকর্ড",
+   "summary": "Siemens Energy জানিয়েছে, 2026 অর্থবছরে তাদের রাজস্ব প্রায় €44.2 বিলিয়ন, comparable ভিত্তিতে 15.5% বৃদ্ধি, আর বিশেষ খরচ বাদে মুনাফার হার 12.4%। Gas Services-এর রাজস্ব €14.5 বিলিয়ন, comparable ভিত্তিতে 20.3% বেশি। কোম্পানি gas turbine-এর রেকর্ড order book আর চাহিদা কমার কোনো লক্ষণ না দেখার কথা বলেছে। Siemens Gamesa €1.5 বিলিয়ন লোকসান থেকে 2026-এ break-even-এ এসেছে। 2030 নাগাদ রাজস্ব €70 বিলিয়নের বেশি আর মার্জিন 20–22% তাদের লক্ষ্য।",
+   "why": "AI data center-এর বিদ্যুৎ চাহিদা কীভাবে শিল্প কোম্পানির order book আর capacity বিনিয়োগ বাড়ায়, তা demand-driven investment-এর উদাহরণ।",
+   "source": {
+    "name": "Siemens Energy (press release)",
+    "url": "https://news.europawire.eu/siemens-energy-posts-record-fy-2026-revenue-and-e164bn-backlog-sets-2030-margin-goal-of-20-22/eu-press-release/2026/11/11/13/46/13/187248/"
+   }
+  },
+  {
+   "id": "n8",
+   "category": "ভারতের অর্থনীতি",
+   "title": "আজ ভারতের অক্টোবরের খুচরা মূল্যবৃদ্ধির তথ্য: অর্থনীতিবিদদের অনুমান RBI-র 6% সীমা ছুঁতে পারে",
+   "summary": "অক্টোবরের CPI মুদ্রাস্ফীতির তথ্য আজ, 12 নভেম্বর, প্রকাশের কথা। Mint-এর 15 জন অর্থনীতিবিদের জরিপে অনুমান 6%, সেপ্টেম্বরের 5.5% থেকে বেশি। Bloomberg Economics অনুমান করছে 6.1%। মূল চালক খাদ্যের দাম; India Ratings খাদ্যে মুদ্রাস্ফীতি 9.1% আর Bloomberg Economics 8.8% ধরছে। core inflation প্রায় 4.5–4.6% থাকার কথা। এই অনুমান আসল তথ্য নয়, তাই প্রকাশিত সংখ্যার সঙ্গে মিলিয়ে দেখা দরকার।",
+   "why": "RBI-র inflation targeting আর মুদ্রানীতি (monetary policy) বোঝার জন্য এটা সরাসরি প্রাসঙ্গিক: CPI সীমা ছাড়ালে সুদের হারের সিদ্ধান্তে চাপ বাড়ে।",
+   "source": {
+    "name": "Business Today",
+    "url": "https://businesstoday.in/latest/economy/story/will-inflation-breach-6-in-october-what-it-means-for-interest-rates-emis-and-gdp-growth-566855-2026-11-11"
+   }
+  }
+ ],
+ "market": {
+  "asOf": "১১ নভেম্বর ২০২৬, বুধবারের ক্লোজিং। সোনার সঠিক ক্লোজিং যাচাই করা যায়নি, তাই বাদ।",
+  "items": [
+   {
+    "name": "S&P 500",
+    "region": "US",
+    "value": "7,619.38",
+    "change": "+1.31%",
+    "dir": "up"
+   },
+   {
+    "name": "Dow Jones",
+    "region": "US",
+    "value": "52,486.49",
+    "change": "+0.49%",
+    "dir": "up"
+   },
+   {
+    "name": "Nasdaq",
+    "region": "US",
+    "value": "25,466.19",
+    "change": "+1.60%",
+    "dir": "up"
+   },
+   {
+    "name": "Sensex",
+    "region": "ভারত",
+    "value": "81,879.40",
+    "change": "+0.95%",
+    "dir": "up"
+   },
+   {
+    "name": "Nifty 50",
+    "region": "ভারত",
+    "value": "25,255.05",
+    "change": "+0.84%",
+    "dir": "up"
+   },
+   {
+    "name": "Brent Crude",
+    "region": "$ প্রতি ব্যারেল",
+    "value": "$92.76",
+    "change": "+1.4%",
+    "dir": "up"
+   },
+   {
+    "name": "USD/INR",
+    "region": "₹ প্রতি ডলার",
+    "value": "93.70",
+    "change": "-7 পয়সা",
+    "dir": "down"
+   }
+  ]
+ },
+ "term": {
+  "term": "Order Backlog",
+  "bangla": "অসম্পূর্ণ অর্ডারের মূল্য",
+  "definition": "যেসব চুক্তি বা অর্ডার কোম্পানি পেয়েছে কিন্তু যার রাজস্ব এখনও হিসাবে ধরা হয়নি বা পুরো সরবরাহ হয়নি, তার মোট মূল্য। এটি ভবিষ্যৎ রাজস্বের একটি ইঙ্গিত দেয়, তবে অর্ডার বাতিল বা দেরি হলে তা নিশ্চিত আয় নয়।",
+  "example": "CoreWeave-এর backlog জুনের শেষে $104 বিলিয়ন থেকে বেড়ে প্রায় $132.5 বিলিয়ন হয়েছে, যেখানে এই বছরের রাজস্ব পূর্বাভাস $13.0–13.3 বিলিয়ন। অর্থাৎ ভবিষ্যৎ অর্ডার অনেক বেশি, কিন্তু সুদের খরচ আর বিনিয়োগও বিশাল।",
+  "formula": "Backlog কভারেজ = Backlog ÷ বার্ষিক রাজস্ব",
+  "tip": "ইন্টারভিউতে backlog আর বাস্তব রাজস্বের ফারাক জিজ্ঞেস করলে বলো: backlog হলো চুক্তি-ভিত্তিক সম্ভাব্য রাজস্ব, আর রাজস্ব হলো ইতিমধ্যে অর্জিত আয়।"
+ },
+ "gd": {
+  "topic": "ঘন ঘন লোকসানের পরও AI কোম্পানিগুলোর বিশাল মূল্যায়ন কি যুক্তিসংগত?",
+  "context": "OpenAI-র কোয়ার্টারে রাজস্ব প্রায় $10 বিলিয়ন কিন্তু operating loss $10.9 বিলিয়ন; CoreWeave-এর backlog $132.5 বিলিয়ন কিন্তু সুদের খরচে লোকসান বাড়ছে।",
+  "for": [
+   "দ্রুত রাজস্ববৃদ্ধি আর বিপুল backlog দেখায় যে বাজারে বাস্তব চাহিদা আছে।",
+   "অবকাঠামোয় আগাম বিনিয়োগ পরে scale economies দিতে পারে, যেমন মার্জিন -150% থেকে -109%-এ উন্নত হয়েছে।",
+   "প্রযুক্তি-নির্ভর শিল্পে প্রথমে লোকসান করে পরে বাজার দখলের নজির আছে।"
+  ],
+  "against": [
+   "লোকসান বাড়লে বাইরের অর্থায়নের ওপর নির্ভরতা বাড়ে, আর বাজারের মেজাজ বদলালে তা ঝুঁকিপূর্ণ।",
+   "CoreWeave-এর শেয়ার এক মাসে 40%-এর বেশি পড়েছিল, যা মূল্যায়নের অস্থিরতা দেখায়।",
+   "backlog চুক্তি-ভিত্তিক সম্ভাবনা মাত্র, বাতিল বা দেরি হলে আয় আসবে না।"
+  ]
+ },
+ "blog": {
+  "title": "রাজস্ব বাড়ছে, তবু লোকসান কেন? OpenAI আর CoreWeave থেকে শিক্ষা",
+  "topic": "রাজস্ব বনাম মুনাফা, operating margin",
+  "readMin": 5,
+  "body": [
+   "আজকের খবরে দুটো সংখ্যা পাশাপাশি দেখা যাচ্ছে। OpenAI-র তৃতীয় কোয়ার্টারের রাজস্ব প্রায় $10 বিলিয়ন, কিন্তু operating loss $10.9 বিলিয়ন। CoreWeave-এর রাজস্ব 168% বেড়েছে, কিন্তু সুদের খরচে লোকসান বাড়ছে। প্রশ্ন হলো, রাজস্ব এত বাড়ছে, তবু লোকসান কেন? আজ গোড়া থেকে এটা বুঝব।",
+   "## রাজস্ব আর মুনাফা এক জিনিস নয়",
+   "রাজস্ব (revenue) হলো বিক্রি থেকে আসা মোট টাকা। মুনাফা (profit) হলো রাজস্ব থেকে সব খরচ বাদ দেওয়ার পর যা থাকে। ধরো, তুমি একটা কফির দোকান চালাও। মাসে ১ লাখ টাকার কফি বিক্রি হলো, কিন্তু ভাড়া, কর্মী আর কফির দাম মিলিয়ে খরচ হলো ১ লাখ ২০ হাজার। তোমার রাজস্ব ১ লাখ, কিন্তু লোকসান ২০ হাজার। বিক্রি বাড়লেও খরচ তার চেয়ে দ্রুত বাড়লে লোকসান হবেই।",
+   "## Operating margin কী বলে",
+   "Operating margin = (operating profit ÷ রাজস্ব) × 100। এটা বলে, প্রতি ১০০ টাকার বিক্রিতে ব্যবসা চালানোর পর কত টাকা বাঁচে। OpenAI-র adjusted operating margin -109%। মানে প্রতি ১০০ টাকা আয়ের জন্য তারা প্রায় ২০৯ টাকা খরচ করছে। তবে আগের কোয়ার্টারে এটা ছিল -150%, অর্থাৎ অবস্থা উন্নত হচ্ছে। ঋণাত্মক margin মানেই কোম্পানি ব্যর্থ, এমন নয়। দেখতে হবে margin কি ধীরে ধীরে ভালো হচ্ছে।",
+   "## লোকসান কেন বাড়ে: স্থির খরচ আর scale",
+   "AI কোম্পানির সবচেয়ে বড় খরচ চিপ, data center আর বিদ্যুৎ, মানে অবকাঠামো। এগুলো বেশিরভাগই আগে থেকে বিনিয়োগ করতে হয়, চাহিদা আসার অপেক্ষায় বসে থাকা যায় না। এই বিনিয়োগকে বলে মূলধনী ব্যয় (capex)। যখন কোম্পানি অন্যের টাকা ধার করে অবকাঠামো বানায়, তখন সুদের খরচও যোগ হয়। CoreWeave-এর ক্ষেত্রে ঠিক এটাই ঘটছে: রাজস্ব বাড়ছে, কিন্তু সুদের খরচ নিট লোকসান বাড়াচ্ছে।",
+   "কিন্তু এখানে আশার জায়গাও আছে। স্থির খরচ (fixed cost) একবার তৈরি হলে বেশি বিক্রি হলে প্রতি ইউনিটের গড় খরচ কমে। একে বলে economies of scale। যদি কোনো কোম্পানির বিক্রি বাড়তে বাড়তে একসময় স্থির খরচ ছাড়িয়ে যায়, তখন লোকসান মুনাফায় বদলায়। বিনিয়োগকারীরা সেই দিনটার জন্যই অপেক্ষা করেন।",
+   "## Backlog কী আশ্বাস দেয়",
+   "CoreWeave-এর backlog প্রায় $132.5 বিলিয়ন। Backlog হলো যেসব অর্ডার পাওয়া গেছে কিন্তু রাজস্ব এখনও আসেনি। তাদের 2026 সালের রাজস্ব পূর্বাভাস $13.0–13.3 বিলিয়ন, তাই backlog বার্ষিক রাজস্বের প্রায় দশ গুণ। এটা ভবিষ্যৎ আয়ের একটা দৃশ্যমানতা দেয়। কিন্তু সাবধান: backlog হলো চুক্তি, ব্যাংকের টাকা নয়। গ্রাহক চুক্তি বাতিল করলে, গ্রাহকের অর্থ-সংকট হলে, বা সরবরাহে দেরি হলে এই টাকা আসবে না।",
+   "## লোকসানের টাকা আসে কোথা থেকে",
+   "লোকসান চালিয়ে যেতে হলে টাকা লাগে, আর সেই টাকা আসে দুই পথে: ঋণ (debt) বা নতুন শেয়ার বিক্রি (equity)। ঋণ নিলে সুদ দিতে হয় আর মূল টাকা ফেরত দিতে হয়, তাই আয় না বাড়লে চাপ বাড়ে। নতুন শেয়ার বেচলে বিদ্যমান শেয়ারহোল্ডারদের মালিকানার অংশ কমে যায়, যাকে বলে dilution। এজন্যই বিনিয়োগকারীরা প্রশ্ন করেন, কোম্পানির কাছে নগদ কতদিন চলবে? এই হিসাবকে বলে cash runway। প্রতিবেদন অনুযায়ী OpenAI সম্ভাব্য 2027 সালে IPO-র প্রস্তুতি নিচ্ছে, অর্থাৎ বাইরের পুঁজি আনার পথ খুঁজছে। আবার Siemens Energy-র মতো প্রতিষ্ঠিত কোম্পানি একই AI চাহিদা থেকে লাভ করছে: তাদের মুনাফার হার 12.4%। অর্থাৎ একই প্রবণতায় যে কোম্পানি যন্ত্রপাতি বেচে, সে লাভ করছে, আর যে কোম্পানি অবকাঠামো বানায় ও চালায়, সে এখনও লোকসানে।",
+   "## বাজার কেন কখনও ভয় পায়, কখনও লাফায়",
+   "গত মাসে CoreWeave-এর শেয়ার 40%-এর বেশি পড়েছিল, কারণ বিনিয়োগকারীরা ভাবছিলেন AI-তে ব্যয় আয়ের চেয়ে বেশি দ্রুত বাড়ছে কিনা। ফল প্রকাশের পর শেয়ার লাফিয়ে উঠল, আর Nasdaq 1.60% বাড়ল। মানে বাজার শুধু আজকের লোকসান দেখে না, ভবিষ্যতের আয়ের প্রমাণ খোঁজে। প্রমাণ মিললে আস্থা ফেরে, না মিললে দাম পড়ে।",
+   "## BBA ছাত্রের জন্য শিক্ষা",
+   "কোনো কোম্পানির কথা শুনলে শুধু \"রাজস্ব কত বাড়ল\" দেখে থেমো না। তিনটে প্রশ্ন করো: এক, operating margin কোন দিকে যাচ্ছে? দুই, লোকসান মেটাতে টাকা আসছে কোথা থেকে, ঋণ না শেয়ার? তিন, backlog বা অর্ডার সত্যিই নগদ আয়ে বদলাবে তো? এই তিন প্রশ্নের উত্তর পেলে প্রবৃদ্ধির গল্প আর টেকসই ব্যবসার তফাত তুমি নিজেই ধরতে পারবে। এটা বিনিয়োগের পরামর্শ নয়, শেখার একটা কাঠামো।"
+  ],
+  "takeaways": [
+   "রাজস্ব বাড়া আর মুনাফা হওয়া এক কথা নয়; খরচ দ্রুত বাড়লে লোকসান হয়।",
+   "Operating margin-এর দিক (উন্নতি না অবনতি) বিনিয়োগকারীরা নজরে রাখেন।",
+   "Backlog ভবিষ্যৎ আয়ের ইঙ্গিত, নিশ্চিত নগদ নয়।"
+  ]
+ },
+ "quiz": [
+  {
+   "q": "11 নভেম্বর Nasdaq কত শতাংশ বেড়ে বন্ধ হয়েছে?",
+   "options": [
+    "0.49%",
+    "0.95%",
+    "1.60%",
+    "1.31%"
+   ],
+   "answer": 2,
+   "explain": "Nasdaq 1.60% বেড়ে 25,466.19-এ বন্ধ হয়েছে। 0.49% Dow-এর, 1.31% S&P 500-এর, আর 0.95% Sensex-এর বৃদ্ধি।"
+  },
+  {
+   "q": "CoreWeave-এর backlog প্রায় কত?",
+   "options": [
+    "$132.5 বিলিয়ন",
+    "$104 বিলিয়ন",
+    "$13.3 বিলিয়ন",
+    "$3.66 বিলিয়ন"
+   ],
+   "answer": 0,
+   "explain": "Backlog প্রায় $132.5 বিলিয়ন। $104 বিলিয়ন ছিল জুনের শেষে, আর $13.0–13.3 বিলিয়ন বছরের রাজস্ব পূর্বাভাস।"
+  },
+  {
+   "q": "Order backlog বলতে কী বোঝায়?",
+   "options": [
+    "গত বছরের মোট রাজস্ব",
+    "কোম্পানির নগদ জমা",
+    "কোম্পানির মোট ঋণ",
+    "পাওয়া অর্ডার, যার রাজস্ব এখনও আসেনি"
+   ],
+   "answer": 3,
+   "explain": "Backlog হলো চুক্তি বা অর্ডার যার রাজস্ব এখনও হিসাবে ধরা হয়নি বা সরবরাহ হয়নি। এটি নিশ্চিত নগদ নয়।"
+  },
+  {
+   "q": "Western Union কেন Intermex অধিগ্রহণ চুক্তি বাতিল করল?",
+   "options": [
+    "Intermex-এর লোকসানের কারণে",
+    "ক্যালিফোর্নিয়ার DFPI-র শর্ত গ্রহণযোগ্য নয় বলে",
+    "শেয়ারদর পড়ে যাওয়ায়",
+    "Intermex নিজেই চুক্তি ছেড়েছে বলে"
+   ],
+   "answer": 1,
+   "explain": "Western Union বলেছে DFPI-র চূড়ান্ত শর্ত তাদের ব্যবসার মডেল বদলাতে বাধ্য করত। Intermex বাতিলের নোটিস মানছে না।"
+  },
+  {
+   "q": "OpenAI-র adjusted operating margin কোথা থেকে কোথায় এসেছে?",
+   "options": [
+    "-109% থেকে -150%",
+    "-150% থেকে -80%",
+    "-150% থেকে -109%",
+    "-50% থেকে -109%"
+   ],
+   "answer": 2,
+   "explain": "Margin -150% থেকে উন্নত হয়ে -109% হয়েছে। তবে এখনও ঋণাত্মক, অর্থাৎ খরচ আয়ের চেয়ে বেশি।"
+  }
+ ],
+ "caseStudy": {
+  "week": "2026-W46",
+  "weekLabel": "৯ – ১৫ নভেম্বর ২০২৬",
+  "company": "Netflix",
+  "title": "DVD ডাকে পাঠানো থেকে বিশ্বজোড়া streaming: Netflix কীভাবে নিজেকে বারবার বদলেছে",
+  "concept": "Business Model Innovation ও Disruptive Strategy",
+  "intro": "1997 সালে Reed Hastings আর Marc Randolph Netflix শুরু করেছিলেন ডাকে DVD ভাড়া দেওয়ার কোম্পানি হিসেবে। তখনকার বড় নাম ছিল Blockbuster, যার দোকানের সামনে লাইন পড়ত। আজ Netflix বিশ্বের অন্যতম বড় streaming প্ল্যাটফর্ম। এই যাত্রা দেখায়, বাজারে টিকে থাকতে হলে নিজের সফল ব্যবসাকেই কখনো কখনো নিজ হাতে বদলে ফেলতে হয়।",
+  "sections": [
+   {
+    "h": "কী করেছিল",
+    "p": "Netflix প্রথমে ডাকে DVD পাঠাত, পরে সাবস্ক্রিপশন মডেলে নিয়ে আসে, যেখানে দেরিতে ফেরত দেওয়ার জরিমানা ছিল না। 2007 সালে তারা ইন্টারনেটে streaming শুরু করে। 2013 সালে House of Cards দিয়ে নিজেদের তৈরি original কনটেন্টে ঢোকে। 2016 সালের জানুয়ারিতে একসঙ্গে বহু দেশে সেবা চালু করে বিশ্বজোড়া সম্প্রসারণ ঘটায়। পরে বিজ্ঞাপননির্ভর সস্তা প্ল্যানও আনে।"
+   },
+   {
+    "h": "ফলাফল",
+    "p": "Netflix ডাকে DVD পাঠানো ব্যবসা থেকে streaming-এ সরে গিয়ে বিশ্বজুড়ে কোটি কোটি গ্রাহক পেয়েছে। Blockbuster শেষ পর্যন্ত বাজার থেকে প্রায় মুছে গেছে। Netflix এখন শুধু বিতরণকারী নয়, কনটেন্ট প্রযোজকও, আর বিশ্বজুড়ে স্থানীয় ভাষার সিরিজ বানায়।"
+   },
+   {
+    "h": "কেন কাজ করল",
+    "p": "তিনটি কারণ। প্রথমত, তারা গ্রাহকের সুবিধা (বাড়িতে বসে, দেরির জরিমানা ছাড়া) আগে ভেবেছে। দ্বিতীয়ত, ব্যবহারকারীর দেখার তথ্য কাজে লাগিয়ে সুপারিশ আর কনটেন্ট সিদ্ধান্ত নিয়েছে। তৃতীয়ত, নিজের কনটেন্ট বানিয়ে অন্যের লাইসেন্সের ওপর নির্ভরতা কমিয়েছে। এছাড়া তারা পুরনো সফল ব্যবসাকে নিজেই বদলাতে ভয় পায়নি, যা Blockbuster করতে পারেনি।"
+   },
+   {
+    "h": "ঝুঁকি আর সমালোচনা",
+    "p": "কনটেন্ট বানাতে প্রচুর অর্থ খরচ হয়, আর এতে ঋণ ও নগদ প্রবাহের চাপ থাকে। 2011 সালে DVD আর streaming আলাদা করতে গিয়ে Qwikster পরিকল্পনা নিয়ে গ্রাহকদের ক্ষোভের মুখে পড়ে সেটি বাতিল করতে হয়েছিল। এখন Disney, Amazon, Apple-এর মতো প্রতিযোগী বাড়ায় গ্রাহক ধরে রাখা কঠিন। সমালোচকরা বলেন, বারবার দাম বাড়ানো আর নিয়ম কড়া করা গ্রাহকের বিরক্তির কারণ হতে পারে।"
+   }
+  ],
+  "lesson": "সফল ব্যবসা চালু থাকলেও বাজার আর প্রযুক্তি বদলালে নিজের মডেল নিজেই বদলাতে হয়। গ্রাহকের প্রকৃত চাহিদা বুঝে এগোলে disruption কাজে লাগানো যায়, না হলে অন্য কেউ সেটা করবে।",
+  "question": "Netflix-এর জায়গায় তুমি থাকলে DVD ব্যবসা চালু রেখে streaming শুরু করতে, না একেবারে ছেড়ে দিতে? Opportunity cost আর ঝুঁকির হিসাব দিয়ে বোঝাও।"
+ },
+ "en": {
+  "dateLabel": "Thursday, 12 November 2026",
+  "news": [
+   {
+    "id": "n1",
+    "category": "Corporate",
+    "title": "Nvidia's board reportedly preparing to oust CEO Jensen Huang; shares fall nearly 8% after hours",
+    "summary": "The Wall Street Journal reports that Nvidia's board could meet as soon as Wednesday to decide Huang's future. The New York Times had earlier reported that he had a personal relationship with a senior executive at the company. Both reports rely on anonymous sources, Reuters said it could not verify them, and Nvidia has not commented publicly. CBS News reported the shares fell more than 8% after hours to $159.51. An investigation led by independent directors is under way, and Huang remains CEO while it continues. No decision has been announced.",
+    "why": "A live example of key-person risk and corporate governance: when a company depends heavily on a founder-CEO, even personal controversy can move the share price.",
+    "source": {
+     "name": "CNBC",
+     "url": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-affair-employee.html"
+    }
+   },
+   {
+    "id": "n2",
+    "category": "Tech",
+    "title": "CoreWeave revenue jumps 168% to about $3.66 billion, backlog hits $132.5 billion; AI stocks rally again",
+    "summary": "AI cloud company CoreWeave's third-quarter revenue rose about 168% from a year earlier to about $3.66 billion, above the roughly $3.55 billion expected. Its backlog grew from $104 billion at the end of June to about $132.5 billion. It raised its 2026 revenue outlook to $13.0–13.3 billion. The shares had fallen more than 40% in the previous month but jumped after the results. The Nasdaq rose 1.60% on Wednesday to close at 25,466.19.",
+    "why": "Order backlog shows visibility on future revenue, but with heavy interest costs and capital expenditure (capex), growth is not the same as profit.",
+    "source": {
+     "name": "CNBC",
+     "url": "https://www.cnbc.com/2026/11/10/coreweave-crwv-q3-earnings-report-2026.html"
+    }
+   },
+   {
+    "id": "n3",
+    "category": "India markets",
+    "title": "Sensex adds 773 points to 81,879.40, Nifty at 25,255.05; rupee at a seven-month high",
+    "summary": "On Wednesday the Sensex gained about 773 points (0.95%) to close at 81,879.40 and the Nifty 50 rose about 210 points (0.84%) to 25,255.05. Nifty PSU Bank rose nearly 3% while Nifty IT lagged. Lower energy prices and a reversal of foreign fund outflows supported the market. The rupee closed at about 93.70 per dollar (sources say 93.69 to 93.71), reported as a seven-month best. Brent settled near $92.76, up 1.4% on uncertainty over Iran.",
+    "why": "The Indian market shows how oil prices, foreign portfolio flows (FPI flows) and the exchange rate are linked.",
+    "source": {
+     "name": "Business Standard",
+     "url": "https://www.business-standard.com/amp/markets/news/stock-market-live-november-11-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-126111100079_1.html"
+    }
+   },
+   {
+    "id": "n4",
+    "category": "M&A",
+    "title": "Western Union scraps its roughly $500 million Intermex deal over California's conditions; Intermex rejects the termination",
+    "summary": "Western Union says the final conditions set by California's financial regulator, the DFPI, are unacceptable because they would force changes to its business model and agent relationships. Its board therefore terminated the agreement to buy Intermex. Under the agreement neither side has to pay the other for the termination. Intermex rejected the notice, demanded that the deal be completed and reserved its right to seek specific performance and damages. The DFPI says its conditions are aimed at fraud and money laundering.",
+    "why": "In M&A, regulatory approval is a final-stage risk, not just the two companies' consent; a broken deal can end up in court.",
+    "source": {
+     "name": "Western Union",
+     "url": "https://ir.westernunion.com/news/archived-press-releases/press-release-details/2026/Western-Union-Announces-Termination-of-Agreement-to-Acquire-Intermex/default.aspx"
+    }
+   },
+   {
+    "id": "n5",
+    "category": "M&A",
+    "title": "UK's CMA raises competition concerns over the roughly $25 billion AkzoNobel–Axalta merger; remedy deadline 18 November",
+    "summary": "The UK competition regulator CMA said on Wednesday that its Phase 1 review found concerns limited to the UK vehicle refinish coatings market, where the two firms would hold a combined 40–50%. The companies have until 18 November to offer acceptable undertakings. They plan to offer the same remedy the European Commission accepted: selling AkzoNobel's European vehicle refinish business, including the UK. If it is not accepted the case goes to an in-depth Phase 2 review. The companies still expect to complete the deal in early 2027.",
+    "why": "A good case on antitrust and market concentration: regulators ask for divestitures when a merger gives the combined firm too large a market share.",
+    "source": {
+     "name": "Reuters (via Euronext)",
+     "url": "https://live.euronext.com/en/financial-news/akzonobel-axalta-get-week-address-uk-regulator-concerns-over-25-billion-merger"
+    }
+   },
+   {
+    "id": "n6",
+    "category": "Startups & AI",
+    "title": "OpenAI's third-quarter revenue about $10 billion, yet operating loss widens to $10.9 billion",
+    "summary": "Reuters, citing the WSJ, reports that OpenAI's revenue for the quarter ended September rose about 50% to $10 billion. Secondary sources say the operating loss grew from $10.1 billion to $10.9 billion. The adjusted operating margin improved from -150% to -109%. Heavy AI infrastructure spending is the main reason for the losses. Reports say the company is preparing for a possible 2027 IPO. OpenAI did not comment.",
+    "why": "Revenue growth and profitability are different things; how a company funds a negative operating margin matters for unit economics and valuation.",
+    "source": {
+     "name": "Reuters (via Investing.com)",
+     "url": "https://www.investing.com/news/stock-market-news/openai-posts-steep-losses-even-as-quarterly-revenue-rises-to-10-billion-wsj-reports-5017353"
+    }
+   },
+   {
+    "id": "n7",
+    "category": "Industry & energy",
+    "title": "Siemens Energy posts record FY2026: revenue about €44.2 billion, record gas turbine order book",
+    "summary": "Siemens Energy says fiscal 2026 revenue was about €44.2 billion, up 15.5% on a comparable basis, with a profit margin before special items of 12.4%. Gas Services revenue was €14.5 billion, up 20.3% comparable. It reports a record gas turbine order book and no foreseeable weakening in demand. Siemens Gamesa went from a €1.5 billion loss to break-even in 2026. For 2030 it targets revenue above €70 billion and a 20–22% margin.",
+    "why": "Shows how power demand from AI data centres raises an industrial company's order book and capacity investment, an example of demand-driven investment.",
+    "source": {
+     "name": "Siemens Energy (press release)",
+     "url": "https://news.europawire.eu/siemens-energy-posts-record-fy-2026-revenue-and-e164bn-backlog-sets-2030-margin-goal-of-20-22/eu-press-release/2026/11/11/13/46/13/187248/"
+    }
+   },
+   {
+    "id": "n8",
+    "category": "India economy",
+    "title": "India's October retail inflation data due today: economists expect it to touch the RBI's 6% limit",
+    "summary": "October CPI inflation data is due today, 12 November. A Mint poll of 15 economists expects 6%, up from 5.5% in September. Bloomberg Economics expects 6.1%. Food prices are the main driver; India Ratings expects food inflation of 9.1% and Bloomberg Economics 8.8%. Core inflation is expected at about 4.5–4.6%. These are forecasts, not actual data, so check them against the published number.",
+    "why": "Directly relevant to RBI's inflation targeting and monetary policy: if CPI crosses the limit, pressure builds on interest-rate decisions.",
+    "source": {
+     "name": "Business Today",
+     "url": "https://businesstoday.in/latest/economy/story/will-inflation-breach-6-in-october-what-it-means-for-interest-rates-emis-and-gdp-growth-566855-2026-11-11"
+    }
+   }
+  ],
+  "market": {
+   "asOf": "Close of Wednesday, 11 November 2026. Gold's exact close could not be verified, so it is left out.",
+   "items": [
+    {
+     "name": "S&P 500",
+     "region": "US",
+     "value": "7,619.38",
+     "change": "+1.31%",
+     "dir": "up"
+    },
+    {
+     "name": "Dow Jones",
+     "region": "US",
+     "value": "52,486.49",
+     "change": "+0.49%",
+     "dir": "up"
+    },
+    {
+     "name": "Nasdaq",
+     "region": "US",
+     "value": "25,466.19",
+     "change": "+1.60%",
+     "dir": "up"
+    },
+    {
+     "name": "Sensex",
+     "region": "India",
+     "value": "81,879.40",
+     "change": "+0.95%",
+     "dir": "up"
+    },
+    {
+     "name": "Nifty 50",
+     "region": "India",
+     "value": "25,255.05",
+     "change": "+0.84%",
+     "dir": "up"
+    },
+    {
+     "name": "Brent Crude",
+     "region": "$ per barrel",
+     "value": "$92.76",
+     "change": "+1.4%",
+     "dir": "up"
+    },
+    {
+     "name": "USD/INR",
+     "region": "₹ per dollar",
+     "value": "93.70",
+     "change": "-7 paise",
+     "dir": "down"
+    }
+   ]
+  },
+  "term": {
+   "term": "Order Backlog",
+   "bangla": "Value of orders not yet fulfilled",
+   "definition": "The total value of contracts or orders a company has won but not yet recognised as revenue or fully delivered. It signals future revenue, but it is not guaranteed income if orders are cancelled or delayed.",
+   "example": "CoreWeave's backlog rose from $104 billion at the end of June to about $132.5 billion, against a 2026 revenue outlook of $13.0–13.3 billion. Future orders are large, but so are interest costs and investment.",
+   "formula": "Backlog coverage = Backlog ÷ annual revenue",
+   "tip": "If asked the difference between backlog and revenue: backlog is contracted potential revenue, revenue is income already earned."
+  },
+  "gd": {
+   "topic": "Are huge valuations for AI companies justified despite continuing losses?",
+   "context": "OpenAI's quarterly revenue is about $10 billion but its operating loss is $10.9 billion; CoreWeave's backlog is $132.5 billion but interest costs are widening its loss.",
+   "for": [
+    "Fast revenue growth and a huge backlog show real demand in the market.",
+    "Upfront infrastructure spending can bring economies of scale later; the margin improved from -150% to -109%.",
+    "Tech industries have a record of losing money first and winning the market later."
+   ],
+   "against": [
+    "Rising losses increase dependence on outside financing, which is risky if market mood turns.",
+    "CoreWeave shares fell more than 40% in a month, showing valuation volatility.",
+    "A backlog is only contracted potential; cancellations or delays mean no income."
+   ]
+  },
+  "blog": {
+   "title": "Revenue is growing, so why the losses? Lessons from OpenAI and CoreWeave",
+   "topic": "Revenue vs profit, operating margin",
+   "readMin": 5,
+   "body": [
+    "Two numbers sit side by side in today's news. OpenAI's third-quarter revenue is about $10 billion, yet its operating loss is $10.9 billion. CoreWeave's revenue is up 168%, yet interest costs are widening its loss. If revenue is growing this fast, why the losses? Let's understand it from scratch.",
+    "## Revenue and profit are not the same",
+    "Revenue is the total money coming in from sales. Profit is what is left after subtracting all costs. Suppose you run a coffee shop. You sell 100,000 rupees of coffee a month, but rent, staff and coffee beans cost 120,000. Your revenue is 100,000 but you lose 20,000. If costs grow faster than sales, losses follow even as sales rise.",
+    "## What operating margin tells you",
+    "Operating margin = (operating profit ÷ revenue) × 100. It tells you how much is left from every 100 of sales after running the business. OpenAI's adjusted operating margin is -109%, meaning it spends about 209 for every 100 it earns. In the previous quarter it was -150%, so the position is improving. A negative margin does not automatically mean failure. What matters is whether the margin is slowly getting better.",
+    "## Why losses grow: fixed costs and scale",
+    "An AI company's biggest costs are chips, data centres and electricity, in other words infrastructure. Most of this must be invested before demand arrives; you cannot wait. This spending is called capital expenditure (capex). When a company borrows to build infrastructure, interest costs are added too. That is exactly what is happening at CoreWeave: revenue is rising, but interest costs are deepening the net loss.",
+    "There is a hopeful side, though. Once a fixed cost is built, selling more lowers the average cost per unit. This is economies of scale. If sales keep growing until they cover the fixed costs, losses turn into profit. Investors are waiting for that day.",
+    "## What a backlog promises",
+    "CoreWeave's backlog is about $132.5 billion. A backlog is orders won but not yet turned into revenue. Its 2026 revenue outlook is $13.0–13.3 billion, so the backlog is roughly ten times annual revenue. That gives visibility on future income. But be careful: a backlog is a contract, not cash in the bank. If customers cancel, run into financial trouble or deliveries slip, the money will not arrive.",
+    "## Where does the money for losses come from",
+    "To keep running at a loss you need money, and it comes from two routes: debt or selling new shares (equity). Debt means paying interest and returning the principal, so pressure builds if income doesn't grow. Selling new shares reduces existing shareholders' ownership share, which is called dilution. That is why investors ask how long the company's cash will last. This measure is called cash runway. Reports say OpenAI is preparing for a possible IPO in 2027, that is, it is looking for ways to bring in outside capital. Meanwhile an established company like Siemens Energy profits from the same AI-driven demand: its margin is 12.4%. In the same trend, the firm that sells the equipment is making money, while the firm that builds and runs the infrastructure is still losing it.",
+    "## Why the market sometimes panics and sometimes jumps",
+    "Last month CoreWeave's shares fell more than 40% as investors worried that AI spending was growing faster than income. After the results the shares jumped and the Nasdaq rose 1.60%. The market does not only look at today's loss; it looks for proof of future income. When proof appears, confidence returns; when it doesn't, prices fall.",
+    "## A lesson for BBA students",
+    "When you hear about a company, don't stop at 'how much did revenue grow'. Ask three questions. One, which way is operating margin moving? Two, where is the money to cover losses coming from, debt or equity? Three, will the backlog or orders really turn into cash income? With these three answers you can tell a growth story from a sustainable business. This is not investment advice, just a framework for learning."
+   ],
+   "takeaways": [
+    "Rising revenue is not the same as profit; if costs grow faster, losses follow.",
+    "Investors watch the direction of operating margin, improving or worsening.",
+    "A backlog signals future income, not guaranteed cash."
+   ]
+  },
+  "quiz": [
+   {
+    "q": "By what percentage did the Nasdaq close higher on 11 November?",
+    "options": [
+     "0.49%",
+     "0.95%",
+     "1.60%",
+     "1.31%"
+    ],
+    "answer": 2,
+    "explain": "The Nasdaq rose 1.60% to 25,466.19. 0.49% was the Dow, 1.31% the S&P 500 and 0.95% the Sensex."
+   },
+   {
+    "q": "About how large is CoreWeave's backlog?",
+    "options": [
+     "$132.5 billion",
+     "$104 billion",
+     "$13.3 billion",
+     "$3.66 billion"
+    ],
+    "answer": 0,
+    "explain": "The backlog is about $132.5 billion. $104 billion was the end-June figure and $13.0–13.3 billion is the full-year revenue outlook."
+   },
+   {
+    "q": "What does order backlog mean?",
+    "options": [
+     "Last year's total revenue",
+     "The company's cash reserves",
+     "The company's total debt",
+     "Orders won whose revenue has not yet arrived"
+    ],
+    "answer": 3,
+    "explain": "Backlog is contracts or orders not yet recognised as revenue or delivered. It is not guaranteed cash."
+   },
+   {
+    "q": "Why did Western Union cancel the Intermex acquisition agreement?",
+    "options": [
+     "Because of Intermex's losses",
+     "Because California DFPI's conditions were unacceptable to it",
+     "Because its share price fell",
+     "Because Intermex left the deal itself"
+    ],
+    "answer": 1,
+    "explain": "Western Union says the DFPI's final conditions would force changes to its business model. Intermex rejects the termination."
+   },
+   {
+    "q": "How did OpenAI's adjusted operating margin move?",
+    "options": [
+     "From -109% to -150%",
+     "From -150% to -80%",
+     "From -150% to -109%",
+     "From -50% to -109%"
+    ],
+    "answer": 2,
+    "explain": "The margin improved from -150% to -109%, but is still negative: costs exceed income."
+   }
+  ],
+  "caseStudy": {
+   "week": "2026-W46",
+   "weekLabel": "9 – 15 November 2026",
+   "company": "Netflix",
+   "title": "From mailing DVDs to global streaming: how Netflix kept reinventing itself",
+   "concept": "Business Model Innovation and Disruptive Strategy",
+   "intro": "In 1997 Reed Hastings and Marc Randolph started Netflix as a company renting DVDs by mail. The big name then was Blockbuster, with queues outside its stores. Today Netflix is among the world's largest streaming platforms. The journey shows that to survive, a company sometimes has to reshape its own successful business with its own hands.",
+   "sections": [
+    {
+     "h": "What it did",
+     "p": "Netflix first mailed DVDs, then moved to a subscription model with no late fees. In 2007 it began streaming over the internet. In 2013 it entered original content with House of Cards. In January 2016 it expanded to many countries at once. Later it added a cheaper ad-supported plan."
+    },
+    {
+     "h": "The result",
+     "p": "By shifting from mailing DVDs to streaming, Netflix gained many millions of customers worldwide. Blockbuster has almost vanished from the market. Netflix is now not just a distributor but also a producer of content, making local-language series around the world."
+    },
+    {
+     "h": "Why it worked",
+     "p": "Three reasons. First, it put customer convenience first (from home, no late fees). Second, it used viewing data for recommendations and content decisions. Third, by making its own content it reduced dependence on others' licences. It also was not afraid to change its own successful business, which Blockbuster could not do."
+    },
+    {
+     "h": "Risks and criticism",
+     "p": "Making content costs a great deal and puts pressure on debt and cash flow. In 2011 its plan to split DVD and streaming into Qwikster angered customers and was cancelled. Competitors such as Disney, Amazon and Apple make retaining customers harder. Critics say repeated price rises and tighter rules can annoy subscribers."
+    }
+   ],
+   "lesson": "Even while a business is succeeding, a company must be ready to change its own model when markets and technology change. Following real customer needs lets you use disruption, otherwise someone else will.",
+   "question": "If you were in Netflix's place, would you keep the DVD business running while starting streaming, or drop it altogether? Explain with opportunity cost and risk."
+  }
+ }
+}
