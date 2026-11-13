@@ -1,0 +1,547 @@
+{
+ "date": "2026-11-13",
+ "dateLabel": "১৩ নভেম্বর ২০২৬, শুক্রবার",
+ "edition": 1,
+ "updatedAt": "2026-11-13T06:48:26+05:30",
+ "news": [
+  {
+   "id": "n1",
+   "category": "কর্পোরেট",
+   "title": "Nvidia-র CEO Jensen Huang পদত্যাগ করলেন, অন্তর্বর্তী CEO হলেন CFO Colette Kress",
+   "summary": "Nvidia-র 8-K ফাইলিং অনুযায়ী Jensen Huang অবিলম্বে প্রেসিডেন্ট, CEO আর বোর্ড সদস্যের পদ ছেড়েছেন। CFO Colette Kress CFO পদে থেকেই অন্তর্বর্তী CEO-র দায়িত্ব নিয়েছেন, আর বোর্ড স্থায়ী CEO খুঁজছে, ভেতর ও বাইরের দুই দিক থেকেই। বোর্ডের সদস্য Harvey Jones কোম্পানির প্রথম চেয়ার হয়েছেন। CNN জানিয়েছে, তাঁর ব্যক্তিগত সম্পর্ক নিয়ে প্রতিবেদনের পর বোর্ড একটি আইনি সংস্থাকে দিয়ে তদন্ত করাচ্ছিল। ঘোষণার পর Nvidia-র শেয়ার প্রথমে তীব্র পড়ে, পরে ক্ষতির অনেকটা পুষিয়ে নেয়।",
+   "why": "এটি key-person risk আর succession planning-এর সবচেয়ে বড় বাস্তব উদাহরণ: প্রতিষ্ঠাতা-CEO হঠাৎ সরে গেলে কোম্পানির বোর্ড ও শেয়ারদর কীভাবে প্রভাবিত হয়, তা এখানে দেখা যাচ্ছে।",
+   "source": {
+    "name": "Fortune",
+    "url": "https://fortune.com/2026/11/11/nvidia-oust-jensen-huang-spy-affairs/"
+   }
+  },
+  {
+   "id": "n2",
+   "category": "M&A",
+   "title": "Hancock Whitney $3.2 বিলিয়নের all-stock চুক্তিতে Trustmark কিনছে, তৈরি হবে $58 বিলিয়ন সম্পদের ব্যাংক",
+   "summary": "Hancock Whitney ঘোষণা করেছে, তারা Trustmark-কে প্রায় $3.2 বিলিয়নে কিনবে, পুরোটাই শেয়ারের বিনিময়ে। Trustmark-এর প্রতিটি শেয়ারের জন্য মিলবে Hancock Whitney-র 0.7463টি শেয়ার। একীভূত ব্যাংকে Hancock Whitney-র শেয়ারহোল্ডারদের মালিকানা থাকবে প্রায় 65%, Trustmark-এর প্রায় 35%। চুক্তি 2027-এর প্রথম ত্রৈমাসিকের শেষ দিকে শেষ হওয়ার কথা, নিয়ন্ত্রক ও শেয়ারহোল্ডারদের অনুমোদন সাপেক্ষে।",
+   "why": "All-stock M&A-তে ক্রেতা নগদ দেয় না, নিজের শেয়ার দেয়। তাই exchange ratio, ownership split আর dilution বোঝা M&A অধ্যায়ের মূল কথা।",
+   "source": {
+    "name": "SEC (Form 8-K)",
+    "url": "https://www.sec.gov/Archives/edgar/data/0000750577/000119312526457037/hwc-ex99_1.htm"
+   }
+  },
+  {
+   "id": "n3",
+   "category": "মুদ্রানীতি",
+   "title": "আমেরিকায় 10-year yield প্রায় 4.98%, Waller-এর ইঙ্গিতে ডিসেম্বরে সুদ বাড়ার সম্ভাবনা চড়ছে",
+   "summary": "অক্টোবরের মূল্যবৃদ্ধির তথ্য আশার চেয়ে খারাপ আসার পর আমেরিকায় 10-year Treasury yield প্রায় 10 basis point বেড়ে 4.98%-এ পৌঁছেছে, দিনের মধ্যে একসময় 5%-এর ওপরেও গেছে। Fed গভর্নর Chris Waller বলেছেন, core inflation মাসে 0.3% বা তার বেশি থাকলে তিনি ডিসেম্বরে আধ শতাংশ (50 basis point) বৃদ্ধির পক্ষে ভাবতে পারেন। ট্রেডাররা এখন ডিসেম্বরে সিকি শতাংশ বৃদ্ধির সম্ভাবনা প্রায় 91% ধরছে।",
+   "why": "সুদের হার বাড়লে ঋণ ও bond-এর খরচ বাড়ে, শেয়ারের মূল্যায়ন চাপে পড়ে। Monetary policy আর yield-এর সম্পর্ক পরীক্ষায় প্রায়ই আসে।",
+   "source": {
+    "name": "IndexBox",
+    "url": "https://www.indexbox.io/blog/treasury-yields-surge-as-hot-inflation-and-hawkish-fed-comments-fuel-rate-hike-bets/"
+   }
+  },
+  {
+   "id": "n4",
+   "category": "ভারত",
+   "title": "ভারতে অক্টোবরে খুচরো মূল্যবৃদ্ধি 6.09%, RBI-র 6% সীমা পার, খাদ্যে 8.94%",
+   "summary": "পরিসংখ্যান মন্ত্রক জানিয়েছে, অক্টোবরে ভারতের খুচরো মূল্যবৃদ্ধি (CPI inflation) সেপ্টেম্বরের 5.54% থেকে বেড়ে 6.09% হয়েছে, যা RBI-র ঊর্ধ্বসীমা 6% ছাড়িয়েছে। খাদ্যদ্রব্যের মূল্যবৃদ্ধি 7.74% থেকে বেড়ে 8.94%। গ্রামাঞ্চলে মূল্যবৃদ্ধি 6.63%, শহরে 5.41%। RBI অক্টোবরে রেপো রেট 25 basis point বাড়িয়ে 5.50% করেছিল। পরের নীতি ঘোষণা 4 ডিসেম্বর।",
+   "why": "Inflation targeting আর repo rate-এর সম্পর্ক সরাসরি এই খবরে দেখা যায়। মূল্যবৃদ্ধি সীমা ছাড়ালে কেন্দ্রীয় ব্যাংক সুদ বাড়ানোর দিকে ঝোঁকে।",
+   "source": {
+    "name": "Business Today",
+    "url": "https://www.businesstoday.in/latest/economy/story/retail-inflation-hits-two-year-high-of-6-09-in-october-breaches-rbis-6-limit-december-rate-hike-likely-567161-2026-11-12"
+   }
+  },
+  {
+   "id": "n5",
+   "category": "কমোডিটি",
+   "title": "Iran নিয়ে Trump-এর মন্তব্যে তেলের দাম লাফ: Brent 3.3% বেড়ে $95.82-এ",
+   "summary": "বৃহস্পতিবার Brent futures $3.06 (3.3%) বেড়ে ব্যারেলপ্রতি $95.82-এ বন্ধ হয়েছে। মার্কিন WTI 2.6% বেড়ে $88.74। Reuters জানায়, সৌদি তেল পরিকাঠামোয় হামলা আর Hormuz প্রণালীতে জাহাজ চলাচলে বিঘ্নের খবর দাম বাড়িয়েছে, যদিও কিছু খবর তখনও যাচাই হয়নি। Trump বলেছেন, Iran-এর সঙ্গে চুক্তির দরকার নেই। তবু সপ্তাহের হিসাবে Brent ও WTI দুটোই প্রায় 2.5% কম।",
+   "why": "তেলের দামের ওঠানামা supply shock আর geopolitical risk premium-এর উদাহরণ। ভারতের মতো আমদানিকারক দেশে এর প্রভাব পড়ে মূল্যবৃদ্ধি আর টাকার দামে।",
+   "source": {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/12/oil-prices-jump-after-trump-says-no-iran-deal-needed-weve-got-their-strait.html"
+   }
+  },
+  {
+   "id": "n6",
+   "category": "মুদ্রা",
+   "title": "টাকা 33 পয়সা পড়ে 94.04-এ, ডলার শক্ত হল Fed-এর কড়া সুরে",
+   "summary": "বৃহস্পতিবার টাকা 33 পয়সা কমে প্রতি ডলারে 94.04-এ বন্ধ হয়েছে (প্রাথমিক হিসাব)। আগের দিন টাকা 6 পয়সা বেড়ে 93.71-এ বন্ধ হয়েছিল। ফরেক্স ব্যবসায়ীরা বলছেন, Fed-এর কড়া বক্তব্য আর ডিসেম্বরে সুদ বাড়ার সম্ভাবনায় ডলার শক্ত হয়েছে। তেলের দাম বাড়াও টাকাকে চাপে ফেলেছে।",
+   "why": "বিনিময় হার, সুদের হারের ফারাক আর আমদানি-বিল (তেল)-এর সম্পর্ক বোঝার ভালো উদাহরণ। টাকা দুর্বল হলে আমদানি ব্যয় বাড়ে।",
+   "source": {
+    "name": "Deccan Herald",
+    "url": "https://www.deccanherald.com/business/markets/rupee-falls-33-paise-to-close-at-9404-against-us-dollar-4215907"
+   }
+  },
+  {
+   "id": "n7",
+   "category": "অর্থনীতি",
+   "title": "অর্থ ও ঋণের বৃদ্ধি 2012-13-র পর সবচেয়ে দ্রুত, RBI-র 4% লক্ষ্য ছোঁয়া কঠিন হতে পারে: অর্থনীতিবিদ",
+   "summary": "ISB-র এক অধ্যাপক সতর্ক করেছেন, অর্থের জোগান (money supply) আর ব্যাংক ঋণ যে গতিতে বাড়ছে তা 2012-13-র পর সবচেয়ে দ্রুত, তাই RBI-র 4% মূল্যবৃদ্ধির লক্ষ্যে পৌঁছানো কঠিন হতে পারে। Moody's-ও বলেছে, মূল্যবৃদ্ধি RBI-র 2–6% পরিসরের ঊর্ধ্বসীমার কাছাকাছি থাকায় পরিবারের ভোগব্যয় চাপে থাকতে পারে।",
+   "why": "Money supply, credit growth আর inflation-এর সম্পর্ক (quantity theory of money) এখানে বাস্তব তথ্যে দেখা যায়।",
+   "source": {
+    "name": "Business Today",
+    "url": "https://www.businesstoday.in/latest/economy/story/rbi-may-struggle-to-meet-4-inflation-target-economist-flags-fastest-money-credit-growth-since-2012-13-566941-2026-11-11"
+   }
+  }
+ ],
+ "market": {
+  "asOf": "১২ নভেম্বর ২০২৬, বৃহস্পতিবারের ক্লোজিং। সোনার সঠিক ক্লোজিং যাচাই করা যায়নি, তাই বাদ।",
+  "items": [
+   {
+    "name": "S&P 500",
+    "region": "US",
+    "value": "7,592.40",
+    "change": "-0.35%",
+    "dir": "down"
+   },
+   {
+    "name": "Dow Jones",
+    "region": "US",
+    "value": "52,297.09",
+    "change": "-0.36%",
+    "dir": "down"
+   },
+   {
+    "name": "Nasdaq",
+    "region": "US",
+    "value": "25,366.09",
+    "change": "-0.39%",
+    "dir": "down"
+   },
+   {
+    "name": "Sensex",
+    "region": "ভারত",
+    "value": "81,911.01",
+    "change": "+0.04%",
+    "dir": "up"
+   },
+   {
+    "name": "Nifty 50",
+    "region": "ভারত",
+    "value": "25,299.35",
+    "change": "+0.18%",
+    "dir": "up"
+   },
+   {
+    "name": "Brent Crude",
+    "region": "$ প্রতি ব্যারেল",
+    "value": "$95.82",
+    "change": "+3.3%",
+    "dir": "up"
+   },
+   {
+    "name": "USD/INR",
+    "region": "₹ প্রতি ডলার",
+    "value": "94.04",
+    "change": "+33 পয়সা",
+    "dir": "up"
+   }
+  ]
+ },
+ "term": {
+  "term": "Succession Planning",
+  "bangla": "উত্তরসূরি পরিকল্পনা",
+  "definition": "শীর্ষ পদে (যেমন CEO) কেউ হঠাৎ বা নির্ধারিত সময়ে সরে গেলে কে দায়িত্ব নেবে, তা আগে থেকে ঠিক করে প্রস্তুত করার প্রক্রিয়া। এতে সম্ভাব্য উত্তরসূরি চিহ্নিত করা, প্রশিক্ষণ দেওয়া আর বোর্ডের অনুমোদন নেওয়া থাকে।",
+  "example": "Nvidia-র CEO Jensen Huang আচমকা পদত্যাগ করায় বোর্ডকে CFO Colette Kress-কে অন্তর্বর্তী CEO করতে হয়েছে আর স্থায়ী CEO খোঁজা শুরু হয়েছে। Fortune জানাচ্ছে, এর আগে বোর্ডে কোনো চেয়ারই ছিল না।",
+  "formula": "",
+  "tip": "ইন্টারভিউতে বলো: succession planning শুধু সংকটে নয়, নিয়মিত কাজ। বোর্ড অন্তত দুজন সম্ভাব্য উত্তরসূরি তৈরি রাখে।"
+ },
+ "gd": {
+  "topic": "প্রতিষ্ঠাতা-CEO-র ওপর নির্ভরশীল কোম্পানির জন্য আগে থেকে প্রকাশ্য উত্তরসূরি পরিকল্পনা কি বাধ্যতামূলক হওয়া উচিত?",
+  "context": "Nvidia-র CEO Jensen Huang হঠাৎ পদত্যাগ করেছেন; Fortune জানাচ্ছে বোর্ডে এতদিন কোনো চেয়ার ছিল না আর স্পষ্ট উত্তরসূরি পরিকল্পনাও ঘোষিত ছিল না।",
+  "for": [
+   "স্পষ্ট পরিকল্পনা থাকলে হঠাৎ পদত্যাগে বিনিয়োগকারীদের আস্থা কম নড়ে।",
+   "বোর্ড সংকটের সময় তাড়াহুড়ো না করে ভেবেচিন্তে সিদ্ধান্ত নিতে পারে।",
+   "শেয়ারহোল্ডারদের জানার অধিকার আছে কোম্পানির মূল ঝুঁকি কীভাবে সামলানো হবে।"
+  ],
+  "against": [
+   "উত্তরসূরির নাম প্রকাশ্যে এলে বর্তমান CEO আর বোর্ডের মধ্যে অস্বস্তি বাড়তে পারে।",
+   "প্রতিটি কোম্পানির পরিস্থিতি আলাদা, একই নিয়ম সবার জন্য খাটে না।",
+   "বাধ্যতামূলক করলে তা নিছক কাগুজে নিয়মে পরিণত হতে পারে।"
+  ]
+ },
+ "blog": {
+  "title": "CEO হঠাৎ চলে গেলে কী হয়? Nvidia থেকে succession planning-এর পাঠ",
+  "topic": "Succession planning, key-person risk, corporate governance",
+  "readMin": 5,
+  "body": [
+   "আজকের সবচেয়ে বড় খবর Nvidia-র CEO Jensen Huang-এর পদত্যাগ। কোম্পানির 8-K ফাইলিং বলছে, তিনি অবিলম্বে CEO, প্রেসিডেন্ট আর বোর্ড সদস্যের পদ ছেড়েছেন। CFO Colette Kress অন্তর্বর্তী CEO হয়েছেন, আর বোর্ড স্থায়ী CEO খুঁজছে। এই ঘটনার মধ্য দিয়ে আজ আমরা বুঝব, উত্তরসূরি পরিকল্পনা (succession planning) কী আর কেন এটা শুধু বড় কোম্পানির নয়, প্রতিটি সংগঠনের জন্য জরুরি।",
+   "## উত্তরসূরি পরিকল্পনা আসলে কী",
+   "ধরো তোমার কলেজের ক্লাবের সভাপতি হঠাৎ কলেজ ছেড়ে চলে গেলেন। যদি আগে থেকে সহ-সভাপতি তৈরি থাকেন, ক্লাব চলতে থাকবে। না থাকলে কয়েক সপ্তাহ সব থমকে যাবে। কোম্পানির ক্ষেত্রেও একই কথা, শুধু অঙ্কটা অনেক বড়। Succession planning হলো শীর্ষ পদে কেউ সরে গেলে কে দায়িত্ব নেবে, তা আগে থেকে ঠিক করা, তাকে তৈরি করা এবং বোর্ডের অনুমোদন নিয়ে রাখা।",
+   "## কেন এটা এত গুরুত্বপূর্ণ",
+   "প্রথম কারণ হলো key-person risk। কোনো কোম্পানি যখন একজন মানুষের নামে, মুখে আর সিদ্ধান্তে চলে, তখন সেই মানুষটি সরে গেলে পুরো কোম্পানির ভবিষ্যৎ নিয়ে অনিশ্চয়তা তৈরি হয়। বিনিয়োগকারীরা অনিশ্চয়তা পছন্দ করেন না, তাই শেয়ারদর দ্রুত নড়ে যায়। আজ Nvidia-র ক্ষেত্রেও শেয়ার প্রথমে তীব্র পড়েছিল, পরে ক্ষতির অনেকটা পুষিয়ে নেয়। অর্থাৎ বাজার প্রথমে ভয় পায়, তারপর দেখে কোম্পানির ভেতরের ব্যবস্থা কতটা শক্ত।",
+   "দ্বিতীয় কারণ হলো corporate governance। Fortune জানাচ্ছে, Harvey Jones-কে নিয়োগ দেওয়ার আগে Nvidia-র বোর্ডে কোনো চেয়ারই ছিল না। বোর্ডের চেয়ার হলেন সেই ব্যক্তি, যিনি বোর্ডের সভা চালান আর CEO-র কাজের ওপর নজর রাখেন। যখন CEO আর চেয়ার একই ব্যক্তি হন বা চেয়ারই থাকে না, তখন নজরদারির জায়গাটা দুর্বল হয়ে যায়। ভালো governance মানে হলো ক্ষমতার ভারসাম্য থাকা।",
+   "তৃতীয় কারণ হলো ধারাবাহিকতা। কর্মী, গ্রাহক, সরবরাহকারী আর ঋণদাতা সবাই জানতে চান, কোম্পানি কে চালাবে। অন্তর্বর্তী CEO নিয়োগ এই প্রশ্নের তাৎক্ষণিক উত্তর দেয়। Nvidia এখানে CFO Colette Kress-কে দায়িত্ব দিয়েছে, যিনি আগে থেকেই কোম্পানির আর্থিক দিক দেখতেন। এতে অন্তত রোজকার কাজ থমকে যাওয়ার ভয় কমে।",
+   "## ভালো পরিকল্পনা কেমন দেখতে",
+   "প্রথমত, বোর্ড নিয়মিত, বছরে অন্তত একবার, আলোচনা করে কারা সম্ভাব্য উত্তরসূরি। দ্বিতীয়ত, ভেতর থেকে প্রতিভা তৈরি করা হয়, তাদের বিভিন্ন বিভাগে কাজের অভিজ্ঞতা দেওয়া হয়। তৃতীয়ত, জরুরি অবস্থার জন্য আলাদা পরিকল্পনা থাকে, যেখানে হঠাৎ পদত্যাগ বা অসুস্থতায় কে অন্তর্বর্তী দায়িত্ব নেবে তা লেখা থাকে। চতুর্থত, ভেতরের প্রার্থীর পাশাপাশি বাইরের প্রার্থীও বিবেচনা করা হয়। Nvidia-র বোর্ড বলেছে, তারা ভেতর ও বাইরে দুই দিকেই খুঁজবে।",
+   "## ভেতরের না বাইরের নেতা",
+   "ভেতরের নেতার সুবিধা হলো তিনি কোম্পানির সংস্কৃতি আর কাজ জানেন, তাই দ্রুত মানিয়ে নেন। অসুবিধা হলো পুরনো ধ্যানধারণায় আটকে থাকার ঝুঁকি। বাইরের নেতা নতুন দৃষ্টিভঙ্গি আনেন, কিন্তু কোম্পানিকে চিনতে সময় লাগে আর কর্মীদের আস্থা অর্জন করতে হয়। কোনটা ভালো, তা নির্ভর করে কোম্পানি তখন কী চায়: স্থিরতা, না পরিবর্তন।",
+   "## আগের নজির থেকে শিক্ষা",
+   "Apple-এর কথা ভাবো। 2011 সালে Steve Jobs CEO-র পদ ছাড়েন আর Tim Cook দায়িত্ব নেন। Cook তখন বহু বছর ধরে কোম্পানির operations দেখছিলেন, তাই হস্তান্তর তুলনামূলক মসৃণ হয়েছিল। এই নজির দেখায়, উত্তরসূরিকে আগে থেকে কোম্পানির ভেতরে গুরুত্বপূর্ণ দায়িত্ব দিয়ে তৈরি করা কতটা কাজে লাগে। অন্যদিকে যেখানে আগে থেকে কোনো প্রস্তুতি থাকে না, সেখানে বোর্ডকে সংকটের মধ্যেই সিদ্ধান্ত নিতে হয়, আর ভুল সিদ্ধান্তের দাম কোম্পানিকে দিতে হয়। তাই ভালো কোম্পানি শান্ত সময়েই এই কাজটা সেরে রাখে।",
+   "## আজকের বাজারের সঙ্গে সম্পর্ক",
+   "আজই বাজারে আরও দুটি বড় ঘটনা ঘটেছে: আমেরিকায় 10-year yield প্রায় 4.98%-এ আর ডিসেম্বরে Fed-এর সুদ বাড়ানোর সম্ভাবনা। এমন সময়ে একটি বড় কোম্পানির নেতৃত্ব নিয়ে অনিশ্চয়তা বিনিয়োগকারীদের কাছে বাড়তি ঝুঁকি হয়ে দাঁড়ায়, কারণ উঁচু সুদের হারের সময় বাজার ভুল সহ্য করে কম। তবু S&P 500 আজ প্রায় 0.35% কমে বন্ধ হয়েছে, যদিও শুরুতে প্রায় 1% পড়েছিল। বাজার মনে করছে, Nvidia-র ব্যবসা আর বোর্ড ব্যবস্থা এই ধাক্কা সামলে নেওয়ার মতো।",
+   "## BBA স্টুডেন্টের জন্য ব্যবহারিক শিক্ষা",
+   "প্রথমত, পরীক্ষায় বা ইন্টারভিউতে succession planning-এর কথা উঠলে key-person risk, governance আর ধারাবাহিকতা, এই তিনটি পয়েন্ট বলবে। দ্বিতীয়ত, কোনো কোম্পানি বিশ্লেষণ করার সময় শুধু আয়-মুনাফা নয়, দেখবে নেতৃত্ব একজনের ওপর কতটা নির্ভরশীল আর বোর্ড কতটা স্বাধীন। তৃতীয়ত, তোমার নিজের দলগত প্রজেক্ট বা ক্লাবেও একজন backup তৈরি রাখো, কারণ প্রস্তুতি আগে থেকেই করতে হয়, সংকট এলে করা যায় না।"
+  ],
+  "takeaways": [
+   "Succession planning মানে শীর্ষ পদ খালি হলে কে দায়িত্ব নেবে, তা আগে থেকে তৈরি রাখা।",
+   "একজনের ওপর নির্ভরশীল কোম্পানিতে key-person risk বেশি, আর স্বাধীন বোর্ড সেই ঝুঁকি কমায়।",
+   "অন্তর্বর্তী CEO দ্রুত ধারাবাহিকতা দেয়, কিন্তু স্থায়ী নেতৃত্বের স্পষ্ট পরিকল্পনা আগে থেকেই থাকা ভালো।"
+  ]
+ },
+ "quiz": [
+  {
+   "q": "Nvidia-র অন্তর্বর্তী CEO কে হয়েছেন?",
+   "options": [
+    "Harvey Jones",
+    "Jensen Huang",
+    "Tim Cook",
+    "Colette Kress"
+   ],
+   "answer": 3,
+   "explain": "CFO Colette Kress CFO পদে থেকেই অন্তর্বর্তী CEO হয়েছেন। Harvey Jones বোর্ডের প্রথম চেয়ার, আর Tim Cook-এর নাম Trump-এর পরামর্শ মাত্র, বোর্ডের সিদ্ধান্ত নয়।"
+  },
+  {
+   "q": "Hancock Whitney-Trustmark চুক্তিতে প্রতিটি Trustmark শেয়ারের বদলে কতটি Hancock Whitney শেয়ার মিলবে?",
+   "options": [
+    "0.7463",
+    "0.35",
+    "1.0",
+    "0.65"
+   ],
+   "answer": 0,
+   "explain": "Exchange ratio 0.7463। 35% হলো একীভূত ব্যাংকে Trustmark শেয়ারহোল্ডারদের মোটামুটি মালিকানা, শেয়ার-অনুপাত নয়।"
+  },
+  {
+   "q": "অক্টোবরে ভারতের খুচরো মূল্যবৃদ্ধি কত হয়েছে?",
+   "options": [
+    "5.54%",
+    "8.94%",
+    "6.09%",
+    "5.50%"
+   ],
+   "answer": 2,
+   "explain": "CPI inflation 6.09%। 5.54% ছিল সেপ্টেম্বরের হার, 8.94% খাদ্যের মূল্যবৃদ্ধি, আর 5.50% হলো RBI-র রেপো রেট।"
+  },
+  {
+   "q": "বৃহস্পতিবার Brent futures কত দামে বন্ধ হয়েছে?",
+   "options": [
+    "$92.76",
+    "$95.82",
+    "$88.74",
+    "$98.32"
+   ],
+   "answer": 1,
+   "explain": "Brent $3.06 (3.3%) বেড়ে $95.82-এ বন্ধ হয়েছে। $88.74 মার্কিন WTI-এর দাম।"
+  },
+  {
+   "q": "Succession planning বলতে কী বোঝায়?",
+   "options": [
+    "কোম্পানির শেয়ার ভাগ করা",
+    "শীর্ষ পদে কেউ সরে গেলে কে দায়িত্ব নেবে তা আগে থেকে ঠিক করা",
+    "কর্মীদের বেতন বাড়ানোর পরিকল্পনা",
+    "নতুন কোম্পানি কেনার পরিকল্পনা"
+   ],
+   "answer": 1,
+   "explain": "এটি উত্তরসূরি তৈরি আর বোর্ডের অনুমোদন নিয়ে রাখার প্রক্রিয়া, যা key-person risk কমায়।"
+  }
+ ],
+ "caseStudy": {
+  "week": "2026-W46",
+  "weekLabel": "৯ – ১৫ নভেম্বর ২০২৬",
+  "company": "Netflix",
+  "title": "DVD ডাকে পাঠানো থেকে বিশ্বজোড়া streaming: Netflix কীভাবে নিজেকে বারবার বদলেছে",
+  "concept": "Business Model Innovation ও Disruptive Strategy",
+  "intro": "1997 সালে Reed Hastings আর Marc Randolph Netflix শুরু করেছিলেন ডাকে DVD ভাড়া দেওয়ার কোম্পানি হিসেবে। তখনকার বড় নাম ছিল Blockbuster, যার দোকানের সামনে লাইন পড়ত। আজ Netflix বিশ্বের অন্যতম বড় streaming প্ল্যাটফর্ম। এই যাত্রা দেখায়, বাজারে টিকে থাকতে হলে নিজের সফল ব্যবসাকেই কখনো কখনো নিজ হাতে বদলে ফেলতে হয়।",
+  "sections": [
+   {
+    "h": "কী করেছিল",
+    "p": "Netflix প্রথমে ডাকে DVD পাঠাত, পরে সাবস্ক্রিপশন মডেলে নিয়ে আসে, যেখানে দেরিতে ফেরত দেওয়ার জরিমানা ছিল না। 2007 সালে তারা ইন্টারনেটে streaming শুরু করে। 2013 সালে House of Cards দিয়ে নিজেদের তৈরি original কনটেন্টে ঢোকে। 2016 সালের জানুয়ারিতে একসঙ্গে বহু দেশে সেবা চালু করে বিশ্বজোড়া সম্প্রসারণ ঘটায়। পরে বিজ্ঞাপননির্ভর সস্তা প্ল্যানও আনে।"
+   },
+   {
+    "h": "ফলাফল",
+    "p": "Netflix ডাকে DVD পাঠানো ব্যবসা থেকে streaming-এ সরে গিয়ে বিশ্বজুড়ে কোটি কোটি গ্রাহক পেয়েছে। Blockbuster শেষ পর্যন্ত বাজার থেকে প্রায় মুছে গেছে। Netflix এখন শুধু বিতরণকারী নয়, কনটেন্ট প্রযোজকও, আর বিশ্বজুড়ে স্থানীয় ভাষার সিরিজ বানায়।"
+   },
+   {
+    "h": "কেন কাজ করল",
+    "p": "তিনটি কারণ। প্রথমত, তারা গ্রাহকের সুবিধা (বাড়িতে বসে, দেরির জরিমানা ছাড়া) আগে ভেবেছে। দ্বিতীয়ত, ব্যবহারকারীর দেখার তথ্য কাজে লাগিয়ে সুপারিশ আর কনটেন্ট সিদ্ধান্ত নিয়েছে। তৃতীয়ত, নিজের কনটেন্ট বানিয়ে অন্যের লাইসেন্সের ওপর নির্ভরতা কমিয়েছে। এছাড়া তারা পুরনো সফল ব্যবসাকে নিজেই বদলাতে ভয় পায়নি, যা Blockbuster করতে পারেনি।"
+   },
+   {
+    "h": "ঝুঁকি আর সমালোচনা",
+    "p": "কনটেন্ট বানাতে প্রচুর অর্থ খরচ হয়, আর এতে ঋণ ও নগদ প্রবাহের চাপ থাকে। 2011 সালে DVD আর streaming আলাদা করতে গিয়ে Qwikster পরিকল্পনা নিয়ে গ্রাহকদের ক্ষোভের মুখে পড়ে সেটি বাতিল করতে হয়েছিল। এখন Disney, Amazon, Apple-এর মতো প্রতিযোগী বাড়ায় গ্রাহক ধরে রাখা কঠিন। সমালোচকরা বলেন, বারবার দাম বাড়ানো আর নিয়ম কড়া করা গ্রাহকের বিরক্তির কারণ হতে পারে।"
+   }
+  ],
+  "lesson": "সফল ব্যবসা চালু থাকলেও বাজার আর প্রযুক্তি বদলালে নিজের মডেল নিজেই বদলাতে হয়। গ্রাহকের প্রকৃত চাহিদা বুঝে এগোলে disruption কাজে লাগানো যায়, না হলে অন্য কেউ সেটা করবে।",
+  "question": "Netflix-এর জায়গায় তুমি থাকলে DVD ব্যবসা চালু রেখে streaming শুরু করতে, না একেবারে ছেড়ে দিতে? Opportunity cost আর ঝুঁকির হিসাব দিয়ে বোঝাও।"
+ },
+ "en": {
+  "dateLabel": "Friday, 13 November 2026",
+  "news": [
+   {
+    "id": "n1",
+    "category": "Corporate",
+    "title": "Nvidia CEO Jensen Huang resigns; CFO Colette Kress named interim CEO",
+    "summary": "Nvidia's 8-K filing says Jensen Huang has resigned as president, CEO and board member, effective immediately. CFO Colette Kress takes over as interim CEO while keeping her CFO role, and the board is searching for a permanent CEO from inside and outside the company. Board member Harvey Jones becomes the company's first chair. CNN reports the board had hired a law firm to investigate after reports about Huang's personal relationships. Nvidia shares fell sharply at first after the news, then recovered much of the loss.",
+    "why": "This is a textbook case of key-person risk and succession planning: it shows how a founder-CEO's sudden exit hits a company's board and its share price.",
+    "source": {
+     "name": "Fortune",
+     "url": "https://fortune.com/2026/11/11/nvidia-oust-jensen-huang-spy-affairs/"
+    }
+   },
+   {
+    "id": "n2",
+    "category": "M&A",
+    "title": "Hancock Whitney to buy Trustmark in a $3.2 billion all-stock deal, creating a $58 billion bank",
+    "summary": "Hancock Whitney announced it will acquire Trustmark for about $3.2 billion, paid entirely in shares. Each Trustmark share will convert into 0.7463 Hancock Whitney shares. After the merger, Hancock Whitney shareholders will own about 65% of the combined bank and Trustmark holders about 35%. The deal is expected to close in late Q1 2027, subject to regulatory and shareholder approvals.",
+    "why": "In an all-stock deal the buyer pays with its own shares, not cash, so the exchange ratio, ownership split and dilution are the core of the M&A chapter.",
+    "source": {
+     "name": "SEC (Form 8-K)",
+     "url": "https://www.sec.gov/Archives/edgar/data/0000750577/000119312526457037/hwc-ex99_1.htm"
+    }
+   },
+   {
+    "id": "n3",
+    "category": "Monetary policy",
+    "title": "US 10-year yield near 4.98% as Waller's hint raises odds of a December Fed hike",
+    "summary": "After October inflation data came in hotter than expected, the US 10-year Treasury yield rose about 10 basis points to 4.98%, and briefly traded above 5% during the day. Fed Governor Chris Waller said he could back a half-point (50 basis point) hike in December if core inflation keeps running at 0.3% a month or more. Traders now put the chance of a quarter-point hike in December at about 91%.",
+    "why": "Higher interest rates raise borrowing and bond costs and squeeze share valuations. The link between monetary policy and yields is a regular exam topic.",
+    "source": {
+     "name": "IndexBox",
+     "url": "https://www.indexbox.io/blog/treasury-yields-surge-as-hot-inflation-and-hawkish-fed-comments-fuel-rate-hike-bets/"
+    }
+   },
+   {
+    "id": "n4",
+    "category": "India",
+    "title": "India's October retail inflation hits 6.09%, above RBI's 6% limit; food at 8.94%",
+    "summary": "The statistics ministry says India's October retail (CPI) inflation rose to 6.09% from 5.54% in September, above the RBI's 6% upper limit. Food inflation rose to 8.94% from 7.74%. Rural inflation was 6.63% and urban 5.41%. The RBI raised the repo rate by 25 basis points to 5.50% in October. Its next policy announcement is on 4 December.",
+    "why": "The link between inflation targeting and the repo rate is visible right here. When inflation breaches the limit, central banks lean towards raising rates.",
+    "source": {
+     "name": "Business Today",
+     "url": "https://www.businesstoday.in/latest/economy/story/retail-inflation-hits-two-year-high-of-6-09-in-october-breaches-rbis-6-limit-december-rate-hike-likely-567161-2026-11-12"
+    }
+   },
+   {
+    "id": "n5",
+    "category": "Commodities",
+    "title": "Oil jumps after Trump's Iran comments: Brent up 3.3% to $95.82",
+    "summary": "Brent futures settled $3.06 (3.3%) higher at $95.82 a barrel on Thursday, and US WTI rose 2.6% to $88.74. Reuters said reports of attacks on Saudi energy infrastructure and shipping disruptions in the Strait of Hormuz lifted prices, though some reports could not be verified at the time. Trump said Washington does not need a deal with Iran. Even so, both benchmarks are down about 2.5% on the week.",
+    "why": "Oil price swings show supply shocks and the geopolitical risk premium at work. For an importer like India, they feed into inflation and the rupee.",
+    "source": {
+     "name": "CNBC",
+     "url": "https://www.cnbc.com/2026/11/12/oil-prices-jump-after-trump-says-no-iran-deal-needed-weve-got-their-strait.html"
+    }
+   },
+   {
+    "id": "n6",
+    "category": "Currency",
+    "title": "Rupee falls 33 paise to 94.04 as the dollar firms on a hawkish Fed",
+    "summary": "The rupee fell 33 paise to close at 94.04 per dollar on Thursday (provisional). The day before, it had gained 6 paise to close at 93.71. Forex traders say the dollar strengthened on hawkish Fed remarks and rising odds of a December rate hike. Higher oil prices also weighed on the rupee.",
+    "why": "A good example of how exchange rates relate to interest-rate differentials and the import bill (oil). A weaker rupee raises import costs.",
+    "source": {
+     "name": "Deccan Herald",
+     "url": "https://www.deccanherald.com/business/markets/rupee-falls-33-paise-to-close-at-9404-against-us-dollar-4215907"
+    }
+   },
+   {
+    "id": "n7",
+    "category": "Economy",
+    "title": "Money and credit growth fastest since 2012-13; RBI may struggle to hit 4% inflation target, economist says",
+    "summary": "An ISB professor warns that money supply and bank credit are growing at their fastest pace since 2012-13, so the RBI may struggle to bring inflation back to its 4% target. Moody's has also said household consumption could stay under pressure because inflation is near the upper end of the RBI's 2–6% range.",
+    "why": "The link between money supply, credit growth and inflation (the quantity theory of money) shows up in real data here.",
+    "source": {
+     "name": "Business Today",
+     "url": "https://www.businesstoday.in/latest/economy/story/rbi-may-struggle-to-meet-4-inflation-target-economist-flags-fastest-money-credit-growth-since-2012-13-566941-2026-11-11"
+    }
+   }
+  ],
+  "market": {
+   "asOf": "Close of Thursday, 12 November 2026. Gold's exact close could not be verified, so it is left out.",
+   "items": [
+    {
+     "name": "S&P 500",
+     "region": "US",
+     "value": "7,592.40",
+     "change": "-0.35%",
+     "dir": "down"
+    },
+    {
+     "name": "Dow Jones",
+     "region": "US",
+     "value": "52,297.09",
+     "change": "-0.36%",
+     "dir": "down"
+    },
+    {
+     "name": "Nasdaq",
+     "region": "US",
+     "value": "25,366.09",
+     "change": "-0.39%",
+     "dir": "down"
+    },
+    {
+     "name": "Sensex",
+     "region": "India",
+     "value": "81,911.01",
+     "change": "+0.04%",
+     "dir": "up"
+    },
+    {
+     "name": "Nifty 50",
+     "region": "India",
+     "value": "25,299.35",
+     "change": "+0.18%",
+     "dir": "up"
+    },
+    {
+     "name": "Brent Crude",
+     "region": "$ per barrel",
+     "value": "$95.82",
+     "change": "+3.3%",
+     "dir": "up"
+    },
+    {
+     "name": "USD/INR",
+     "region": "₹ per dollar",
+     "value": "94.04",
+     "change": "+33 paise",
+     "dir": "up"
+    }
+   ]
+  },
+  "term": {
+   "term": "Succession Planning",
+   "bangla": "Preparing who takes over at the top",
+   "definition": "The process of deciding in advance who will take over a top role (such as CEO) if the current holder leaves suddenly or on schedule. It involves identifying possible successors, developing them and getting board approval.",
+   "example": "After Nvidia CEO Jensen Huang resigned abruptly, the board had to make CFO Colette Kress interim CEO and begin a search for a permanent one. Fortune notes the board previously had no chair at all.",
+   "formula": "",
+   "tip": "In interviews say: succession planning is routine, not just a crisis tool. Boards keep at least two possible successors in development."
+  },
+  "gd": {
+   "topic": "Should publicly disclosed succession planning be mandatory for companies that depend heavily on a founder-CEO?",
+   "context": "Nvidia CEO Jensen Huang has resigned abruptly; Fortune notes the board had no chair until now and no clear succession plan had been announced.",
+   "for": [
+    "A clear plan means a sudden resignation shakes investor confidence less.",
+    "The board can decide calmly instead of rushing in a crisis.",
+    "Shareholders have a right to know how a company's key risk is being handled."
+   ],
+   "against": [
+    "Naming a successor publicly can create friction between the current CEO and the board.",
+    "Every company is different, so one rule does not fit all.",
+    "Making it mandatory could turn it into a box-ticking exercise."
+   ]
+  },
+  "blog": {
+   "title": "What happens when the CEO suddenly leaves? Succession planning lessons from Nvidia",
+   "topic": "Succession planning, key-person risk, corporate governance",
+   "readMin": 5,
+   "body": [
+    "Today's biggest story is the resignation of Nvidia CEO Jensen Huang. The company's 8-K filing says he has left his roles as CEO, president and board member with immediate effect. CFO Colette Kress is interim CEO and the board is searching for a permanent one. Through this event we will learn what succession planning is and why it matters for every organisation, not just giant companies.",
+    "## What succession planning actually is",
+    "Imagine the president of your college club suddenly leaves. If a vice-president has been groomed, the club carries on. If not, everything stalls for weeks. Companies are the same, only the stakes are bigger. Succession planning means deciding in advance who takes over a top role if its holder leaves, preparing that person, and getting board approval.",
+    "## Why it matters so much",
+    "The first reason is key-person risk. When a company runs on one person's name, voice and decisions, that person's exit creates uncertainty about the whole company's future. Investors dislike uncertainty, so the share price moves fast. Nvidia's shares fell sharply at first today and then recovered much of the loss. The market panics first, then checks how strong the company's internal arrangements are.",
+    "The second reason is corporate governance. Fortune notes that until Harvey Jones was appointed, Nvidia's board had no chair at all. The chair is the person who runs board meetings and keeps watch over the CEO's work. When the CEO and chair are the same person, or there is no chair, oversight is weaker. Good governance means a balance of power.",
+    "The third reason is continuity. Employees, customers, suppliers and lenders all want to know who will run the company. An interim CEO answers that question immediately. Nvidia gave the role to CFO Colette Kress, who already oversaw the company's finances, which at least lowers the fear of day-to-day work stalling.",
+    "## What good planning looks like",
+    "First, the board regularly, at least once a year, discusses who the possible successors are. Second, talent is grown from within, with experience across different divisions. Third, there is a separate emergency plan that says who steps in temporarily after a sudden resignation or illness. Fourth, outside candidates are considered alongside inside ones. Nvidia's board has said it will look both inside and outside.",
+    "## Inside leader or outsider",
+    "An insider knows the culture and the work, so adapts quickly, but may be stuck in old thinking. An outsider brings fresh ideas but needs time to learn the company and win staff trust. Which is better depends on what the company needs at that moment: stability or change.",
+    "## Lessons from an earlier precedent",
+    "Think of Apple. In 2011 Steve Jobs stepped down as CEO and Tim Cook took over. Cook had been running operations for years, so the handover was comparatively smooth. This shows how useful it is to prepare a successor in advance by giving them important responsibilities inside the company. Where no preparation exists, the board must decide in the middle of a crisis, and a wrong decision is paid for by the company. Good companies do this work in calm times.",
+    "## Link to today's markets",
+    "Two other big things happened in markets today: the US 10-year yield rose to about 4.98% and odds of a December Fed hike increased. In such a climate, uncertainty over a major company's leadership is extra risk for investors, because when interest rates are high the market tolerates mistakes less. Even so, the S&P 500 closed down only about 0.35%, though it had fallen nearly 1% at the open. The market seems to think Nvidia's business and board can absorb the shock.",
+    "## Practical lessons for BBA students",
+    "First, if succession planning comes up in an exam or interview, mention three points: key-person risk, governance and continuity. Second, when analysing a company, look beyond revenue and profit to how dependent leadership is on one person and how independent the board is. Third, keep a backup in your own team project or club too, because preparation has to happen before a crisis, not during it."
+   ],
+   "takeaways": [
+    "Succession planning means preparing in advance who takes over when a top role becomes vacant.",
+    "Key-person risk is higher in founder-dependent companies, and an independent board reduces it.",
+    "An interim CEO gives quick continuity, but a clear plan for permanent leadership should exist beforehand."
+   ]
+  },
+  "quiz": [
+   {
+    "q": "Who has become Nvidia's interim CEO?",
+    "options": [
+     "Harvey Jones",
+     "Jensen Huang",
+     "Tim Cook",
+     "Colette Kress"
+    ],
+    "answer": 3,
+    "explain": "CFO Colette Kress is interim CEO while remaining CFO. Harvey Jones is the board's first chair, and Tim Cook was only a suggestion from Trump, not a board decision."
+   },
+   {
+    "q": "In the Hancock Whitney–Trustmark deal, how many Hancock Whitney shares does each Trustmark share get?",
+    "options": [
+     "0.7463",
+     "0.35",
+     "1.0",
+     "0.65"
+    ],
+    "answer": 0,
+    "explain": "The exchange ratio is 0.7463. The 35% is roughly Trustmark holders' ownership of the combined bank, not the share ratio."
+   },
+   {
+    "q": "What was India's retail inflation in October?",
+    "options": [
+     "5.54%",
+     "8.94%",
+     "6.09%",
+     "5.50%"
+    ],
+    "answer": 2,
+    "explain": "CPI inflation was 6.09%. 5.54% was September's rate, 8.94% is food inflation, and 5.50% is the RBI repo rate."
+   },
+   {
+    "q": "At what price did Brent futures settle on Thursday?",
+    "options": [
+     "$92.76",
+     "$95.82",
+     "$88.74",
+     "$98.32"
+    ],
+    "answer": 1,
+    "explain": "Brent rose $3.06 (3.3%) to settle at $95.82. $88.74 is the price of US WTI."
+   },
+   {
+    "q": "What does succession planning mean?",
+    "options": [
+     "Splitting a company's shares",
+     "Deciding in advance who takes over a top role if its holder leaves",
+     "A plan to raise staff salaries",
+     "A plan to buy another company"
+    ],
+    "answer": 1,
+    "explain": "It is the process of preparing successors and getting board approval in advance, which reduces key-person risk."
+   }
+  ],
+  "caseStudy": {
+   "week": "2026-W46",
+   "weekLabel": "9 – 15 November 2026",
+   "company": "Netflix",
+   "title": "From mailing DVDs to global streaming: how Netflix kept reinventing itself",
+   "concept": "Business Model Innovation and Disruptive Strategy",
+   "intro": "In 1997 Reed Hastings and Marc Randolph started Netflix as a company renting DVDs by mail. The big name then was Blockbuster, with queues outside its stores. Today Netflix is among the world's largest streaming platforms. The journey shows that to survive, a company sometimes has to reshape its own successful business with its own hands.",
+   "sections": [
+    {
+     "h": "What it did",
+     "p": "Netflix first mailed DVDs, then moved to a subscription model with no late fees. In 2007 it began streaming over the internet. In 2013 it entered original content with House of Cards. In January 2016 it expanded to many countries at once. Later it added a cheaper ad-supported plan."
+    },
+    {
+     "h": "The result",
+     "p": "By shifting from mailing DVDs to streaming, Netflix gained many millions of customers worldwide. Blockbuster has almost vanished from the market. Netflix is now not just a distributor but also a producer of content, making local-language series around the world."
+    },
+    {
+     "h": "Why it worked",
+     "p": "Three reasons. First, it put customer convenience first (from home, no late fees). Second, it used viewing data for recommendations and content decisions. Third, by making its own content it reduced dependence on others' licences. It also was not afraid to change its own successful business, which Blockbuster could not do."
+    },
+    {
+     "h": "Risks and criticism",
+     "p": "Making content costs a great deal and puts pressure on debt and cash flow. In 2011 its plan to split DVD and streaming into Qwikster angered customers and was cancelled. Competitors such as Disney, Amazon and Apple make retaining customers harder. Critics say repeated price rises and tighter rules can annoy subscribers."
+    }
+   ],
+   "lesson": "Even while a business is succeeding, a company must be ready to change its own model when markets and technology change. Following real customer needs lets you use disruption, otherwise someone else will.",
+   "question": "If you were in Netflix's place, would you keep the DVD business running while starting streaming, or drop it altogether? Explain with opportunity cost and risk."
+  }
+ }
+}

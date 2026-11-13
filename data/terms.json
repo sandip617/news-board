@@ -1,6 +1,23 @@
 {
  "terms": [
   {
+   "date": "2026-11-13",
+   "term": "Succession Planning",
+   "bangla": "উত্তরসূরি পরিকল্পনা",
+   "definition": "শীর্ষ পদে (যেমন CEO) কেউ হঠাৎ বা নির্ধারিত সময়ে সরে গেলে কে দায়িত্ব নেবে, তা আগে থেকে ঠিক করে প্রস্তুত করার প্রক্রিয়া। এতে সম্ভাব্য উত্তরসূরি চিহ্নিত করা, প্রশিক্ষণ দেওয়া আর বোর্ডের অনুমোদন নেওয়া থাকে।",
+   "example": "Nvidia-র CEO Jensen Huang আচমকা পদত্যাগ করায় বোর্ডকে CFO Colette Kress-কে অন্তর্বর্তী CEO করতে হয়েছে আর স্থায়ী CEO খোঁজা শুরু হয়েছে। Fortune জানাচ্ছে, এর আগে বোর্ডে কোনো চেয়ারই ছিল না।",
+   "formula": "",
+   "tip": "ইন্টারভিউতে বলো: succession planning শুধু সংকটে নয়, নিয়মিত কাজ। বোর্ড অন্তত দুজন সম্ভাব্য উত্তরসূরি তৈরি রাখে।",
+   "en": {
+    "term": "Succession Planning",
+    "bangla": "Preparing who takes over at the top",
+    "definition": "The process of deciding in advance who will take over a top role (such as CEO) if the current holder leaves suddenly or on schedule. It involves identifying possible successors, developing them and getting board approval.",
+    "example": "After Nvidia CEO Jensen Huang resigned abruptly, the board had to make CFO Colette Kress interim CEO and begin a search for a permanent one. Fortune notes the board previously had no chair at all.",
+    "formula": "",
+    "tip": "In interviews say: succession planning is routine, not just a crisis tool. Boards keep at least two possible successors in development."
+   }
+  },
+  {
    "date": "2026-11-12",
    "term": "Order Backlog",
    "bangla": "অসম্পূর্ণ অর্ডারের মূল্য",
