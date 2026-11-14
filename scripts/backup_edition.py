@@ -3,7 +3,8 @@
 
 Runs from GitHub Actions after the daily Claude run. If today's edition
 (data/days/DATE.json, India time) is already in the repo it does nothing.
-Otherwise it writes the edition with Gemini (Google Search grounding),
+Otherwise it collects the day's headlines from business RSS feeds
+and market closes from Yahoo Finance, has Gemini write the edition from them,
 updates data/index.json and data/terms.json, and emails subscribers via
 MailerLite (once a day, skipped if a campaign for DATE already exists).
 
@@ -65,32 +66,136 @@ def labels(day):
     return bn, en
 
 
+# ---------------------------------------------------------------- news & market (free sources)
+
+FEEDS = [
+    ("Economic Times", "https://economictimes.indiatimes.com/markets/rssfeeds/1977021501.cms"),
+    ("Economic Times", "https://economictimes.indiatimes.com/news/economy/rssfeeds/1373380680.cms"),
+    ("Economic Times", "https://economictimes.indiatimes.com/news/company/rssfeeds/2143429.cms"),
+    ("Mint", "https://www.livemint.com/rss/markets"),
+    ("Mint", "https://www.livemint.com/rss/companies"),
+    ("Mint", "https://www.livemint.com/rss/economy"),
+    ("Business Standard", "https://www.business-standard.com/rss/markets-106.rss"),
+    ("Business Standard", "https://www.business-standard.com/rss/economy-102.rss"),
+    ("CNBC", "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10001147"),
+    ("CNBC", "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=20910258"),
+    ("BBC", "https://feeds.bbci.co.uk/news/business/rss.xml"),
+    ("The Guardian", "https://www.theguardian.com/business/rss"),
+]
+UA = {"User-Agent": "Mozilla/5.0 (compatible; SandipsBoardBackup/1.0)"}
+
+
+def http_text(url, timeout=30):
+    req = urllib.request.Request(url, headers=UA)
+    with urllib.request.urlopen(req, timeout=timeout) as r:
+        return r.read().decode("utf-8", errors="replace")
+
+
+def strip_html(t):
+    return re.sub(r"\s+", " ", html.unescape(re.sub(r"<[^>]+>", " ", t or ""))).strip()
+
+
+def collect_news(day):
+    """Recent headlines (title, summary, link, time) from business RSS feeds,
+    published in the 36 hours before the end of DAY (India time)."""
+    import xml.etree.ElementTree as ET
+    from email.utils import parsedate_to_datetime
+    end = dt.datetime.combine(day, dt.time(23, 59), IST)
+    start = end - dt.timedelta(hours=36) if day < dt.datetime.now(IST).date() else dt.datetime.now(IST) - dt.timedelta(hours=36)
+    items, seen = [], set()
+    for source, url in FEEDS:
+        try:
+            root = ET.fromstring(http_text(url).encode())
+        except Exception as e:  # one broken feed must not stop the edition
+            log(f"feed failed ({source}): {e}")
+            continue
+        for it in root.iter("item"):
+            title = strip_html(it.findtext("title"))
+            link = (it.findtext("link") or "").strip()
+            if not title or not link.startswith("https://") or link in seen:
+                continue
+            try:
+                when = parsedate_to_datetime(it.findtext("pubDate") or "")
+                if when.tzinfo is None:
+                    when = when.replace(tzinfo=dt.timezone.utc)
+            except (TypeError, ValueError):
+                continue
+            if not (start <= when <= end):
+                continue
+            seen.add(link)
+            items.append({"source": source, "title": title, "summary": strip_html(it.findtext("description"))[:500],
+                          "url": link, "published": when.astimezone(IST).strftime("%Y-%m-%d %H:%M IST")})
+    items.sort(key=lambda x: x["published"], reverse=True)
+    log(f"collected {len(items)} news items")
+    return items[:90]
+
+
+MARKETS = [  # name, Yahoo symbol, Bangla region, English region
+    ("S&P 500", "^GSPC", "US", "US"), ("Dow Jones", "^DJI", "US", "US"), ("Nasdaq", "^IXIC", "US", "US"),
+    ("Sensex", "^BSESN", "ভারত", "India"), ("Nifty 50", "^NSEI", "ভারত", "India"),
+    ("Brent Crude", "BZ=F", "$ প্রতি ব্যারেল", "$ per barrel"), ("Gold", "GC=F", "$ প্রতি আউন্স", "$ per ounce"),
+    ("USD/INR", "INR=X", "₹ প্রতি $", "₹ per $"),
+]
+
+
+def collect_market(day):
+    """Latest closes up to DAY from Yahoo Finance's public chart data. A figure
+    that can't be fetched is left out, never guessed."""
+    end = dt.datetime.combine(day, dt.time(23, 59), IST).timestamp()
+    bn, en, last_day = [], [], None
+    for name, sym, reg_bn, reg_en in MARKETS:
+        try:
+            url = f"https://query1.finance.yahoo.com/v8/finance/chart/{urllib.request.quote(sym)}?range=10d&interval=1d"
+            res = json.loads(http_text(url))["chart"]["result"][0]
+            pts = [(t, c) for t, c in zip(res["timestamp"], res["indicators"]["quote"][0]["close"]) if c is not None and t <= end]
+            (t0, prev), (t1, close) = pts[-2], pts[-1]
+        except Exception as e:
+            log(f"market failed ({name}): {e}")
+            continue
+        pct = (close - prev) / prev * 100
+        change = f"{pct:+.2f}%"
+        direction = "up" if pct > 0.005 else "down" if pct < -0.005 else "flat"
+        value = f"{close:,.2f}"
+        bn.append({"name": name, "region": reg_bn, "value": value, "change": change, "dir": direction})
+        en.append({"name": name, "region": reg_en, "value": value, "change": change, "dir": direction})
+        d = dt.datetime.fromtimestamp(t1, IST).date()
+        if name in ("S&P 500", "Sensex") and (last_day is None or d > last_day):
+            last_day = d
+    if not bn:
+        return None, None
+    last_day = last_day or day
+    lb, le = labels(last_day)
+    return ({"asOf": f"{lb}ের ক্লোজিং", "items": bn},
+            {"asOf": f"Close of {le}", "items": en})
+
+
 # ---------------------------------------------------------------- Gemini
 
-def build_prompt(date, label_bn, label_en, template, used_terms):
-    tpl = {k: v for k, v in template.items() if k not in ("caseStudy", "weekly")}
-    tpl["en"] = {k: v for k, v in template.get("en", {}).items() if k not in ("caseStudy", "weekly")}
+def build_prompt(date, label_bn, label_en, template, used_terms, news):
+    tpl = {k: v for k, v in template.items() if k not in ("caseStudy", "weekly", "market")}
+    tpl["en"] = {k: v for k, v in template.get("en", {}).items() if k not in ("caseStudy", "weekly", "market")}
     return f"""You are the backup editor of "Sandip's Board", a bilingual (Bangla + English) daily business newspaper for BBA students in India.
 Today (India time) is {date} ({label_en}).
 
-Use Google Search to find the 7-8 most important GLOBAL business/economy stories of the last 24-36 hours (M&A, central banks Fed/RBI/ECB, inflation/GDP data, oil/gold, big company results, startups/tech, Indian markets, policy/trade). Mix global and India. Prefer Reuters, AP, CNBC, Bloomberg, FT, Business Standard, Economic Times, Mint, company press releases.
-Also find the latest closing value and % change of: S&P 500, Dow Jones, Nasdaq, Sensex, Nifty 50, Brent Crude ($/bbl), Gold ($/oz), USD/INR.
+Below are today's headlines collected from business news feeds (Economic Times, Mint, Business Standard, CNBC, BBC, The Guardian). From ONLY these items, pick the 7-8 most important GLOBAL business/economy stories a BBA student should know (M&A, central banks, inflation/GDP, oil/gold, big company results, startups/tech, Indian markets, policy/trade). Mix global and India; don't pick two items about the same story.
 
-ACCURACY RULES: every number and fact must come from your search results; never invent figures. Every news item needs a real article URL (https, not a search page). If a market figure can't be verified, drop that item. If % change unknown use "" and dir "flat".
+ACCURACY RULES (most important): use only facts and numbers that appear in the items below; never add facts, numbers or quotes from memory. If an item has few details, write a shorter summary rather than inventing. Each news item's source.url must be exactly the url of the item you used, and source.name its source.
 
 WRITE: natural, simple standard Bangla (West Bengal style). Keep English business terms in English inside sentences, e.g. "সুদের হার (interest rate)". Use Western digits 0-9 inside text.
 Fields:
-- news: 7-8 items, most important first. Each {{id:"n1".., category (short Bangla), title, summary (3-5 sentences with numbers), why (1-2 sentences naming the BBA concept), source {{name,url}}}}.
-- market: {{asOf (Bangla, e.g. "১৩ নভেম্বর ২০২৬, শুক্রবারের ক্লোজিং"), items:[{{name, region, value, change, dir:"up"|"down"|"flat"}}]}}.
+- news: 7-8 items, most important first. Each {{id:"n1".., category (short Bangla), title, summary (2-5 sentences), why (1-2 sentences naming the BBA concept), source {{name,url}}}}.
 - term: Term of the Day tied to today's news {{term, bangla, definition, example, formula ("" if none), tip}}. It must NOT be any of these already-used terms: {json.dumps(used_terms, ensure_ascii=False)}
 - gd: {{topic, context, for:[3], against:[3]}}.
-- blog: {{title, topic, readMin, body:[paragraph strings, "## " prefix = subheading], takeaways:[3]}}, 500-800 words.
-- quiz: exactly 5 MCQs {{q, options:[4], answer (0-based), explain}}; vary the answer position.
-- en: full English version with the SAME structure, ids, numbers, URLs and quiz answer indexes: {{news, market, term (its "bangla" = short English gloss), gd, blog, quiz}}. In en.market translate region to English.
+- blog: {{title, topic, readMin, body:[paragraph strings, "## " prefix = subheading], takeaways:[3]}}, 500-800 words; explain the concept from scratch (general textbook knowledge is fine here) and connect it to today's news.
+- quiz: exactly 5 MCQs {{q, options:[4], answer (0-based), explain}} from today's news/blog/term; vary the answer position.
+- en: full English version with the SAME structure, ids, numbers, URLs and quiz answer indexes: {{news, term (its "bangla" = short English gloss), gd, blog, quiz}}.
 
-OUTPUT: only one JSON object, no markdown fences, no commentary, with keys news, market, term, gd, blog, quiz, en.
-Here is yesterday's edition as the exact schema example (copy field names exactly; do NOT copy its content):
-{json.dumps(tpl, ensure_ascii=False)[:14000]}
+OUTPUT: only one JSON object, no markdown fences, no commentary, with keys news, term, gd, blog, quiz, en.
+Schema example from yesterday's edition (copy field names exactly; do NOT copy its content):
+{json.dumps(tpl, ensure_ascii=False)[:9000]}
+
+TODAY'S NEWS ITEMS:
+{json.dumps(news, ensure_ascii=False)}
 """
 
 
@@ -134,7 +239,6 @@ def call_gemini(prompt, key):
     last = "no model tried"
     payload = {
         "contents": [{"role": "user", "parts": [{"text": prompt}]}],
-        "tools": [{"google_search": {}}],
         "generationConfig": {"temperature": 0.4, "maxOutputTokens": 60000},
     }
     for model in pick_models(key)[:6]:
@@ -163,19 +267,19 @@ def parse_json(text):
     return json.loads(text[start:end + 1])
 
 
-def validate(ed, used_terms):
+def validate(ed, used_terms, urls):
     errs = []
     for side, d in (("bn", ed), ("en", ed.get("en") or {})):
         news = d.get("news") or []
         if not 5 <= len(news) <= 8:
             errs.append(f"{side}: {len(news)} news")
         for n in news:
-            if not str((n.get("source") or {}).get("url", "")).startswith("https://"):
-                errs.append(f"{side}: news {n.get('id')} has no https source")
+            if (n.get("source") or {}).get("url", "") not in urls:
+                errs.append(f"{side}: news {n.get('id')} source url is not one of the given items")
         quiz = d.get("quiz") or []
         if len(quiz) != 5 or any(q.get("answer") not in (0, 1, 2, 3) or len(q.get("options") or []) != 4 for q in quiz):
             errs.append(f"{side}: quiz must be 5 items with 4 options and answer 0-3")
-        for k in ("market", "term", "gd", "blog"):
+        for k in ("term", "gd", "blog"):
             if not d.get(k):
                 errs.append(f"{side}: missing {k}")
     if not errs:
@@ -274,14 +378,20 @@ def main():
     template = json.loads((DATA / "days" / f"{index['latest']}.json").read_text())
     used_terms = [t["term"] for t in terms["terms"]]
     label_bn, label_en = labels(day)
-    prompt = build_prompt(date, label_bn, label_en, template, used_terms)
+    news = collect_news(day)
+    if len(news) < 7:
+        log(f"ERROR: only {len(news)} news items found in the feeds, not enough for an edition")
+        return 1
+    urls = {n["url"] for n in news}
+    market_bn, market_en = collect_market(day)
+    prompt = build_prompt(date, label_bn, label_en, template, used_terms, news)
 
     ed, problems = None, []
     for attempt in range(3):
         try:
             model, text = call_gemini(prompt + ("\n\nYour previous answer had problems: " + "; ".join(problems) if problems else ""), gkey)
             cand = parse_json(text)
-            problems = validate(cand, used_terms)
+            problems = validate(cand, used_terms, urls)
             if not problems:
                 ed = cand
                 log("edition written by", model)
@@ -299,12 +409,18 @@ def main():
           "updatedAt": dt.datetime.now(IST).replace(microsecond=0).isoformat(),
           "generatedBy": "gemini-backup", **{k: v for k, v in ed.items() if k not in ("date", "dateLabel", "edition", "updatedAt")}}
     ed["en"]["dateLabel"] = label_en
+    if market_bn:
+        ed["market"], ed["en"]["market"] = market_bn, market_en
+    else:  # no live prices: keep the last known ones, clearly dated by their asOf
+        ed["market"], ed["en"]["market"] = template["market"], template["en"]["market"]
     if template.get("caseStudy"):
         ed["caseStudy"] = template["caseStudy"]
         if template.get("en", {}).get("caseStudy"):
             ed["en"]["caseStudy"] = template["en"]["caseStudy"]
     for key in ("news", "market", "term", "gd", "blog", "quiz"):  # keep key order like Claude's files
         ed[key] = ed.pop(key)
+    for key in ("news", "market", "term", "gd", "blog", "quiz"):
+        ed["en"][key] = ed["en"].pop(key)
     en = ed.pop("en")
     ed["en"] = en
 
