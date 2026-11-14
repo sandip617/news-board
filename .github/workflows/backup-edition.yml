@@ -1,0 +1,51 @@
+name: Backup edition (Gemini)
+
+# Claude's routine publishes the edition at 7:00 AM India time.
+# At 8:00 AM India time this checks the repo: if today's edition is missing
+# (Claude limit reached or the run failed), Gemini writes it and MailerLite emails it.
+on:
+  schedule:
+    - cron: "30 2 * * *"   # 02:30 UTC = 8:00 AM IST
+  workflow_dispatch:
+    inputs:
+      date:
+        description: "Date to make (YYYY-MM-DD, India time). Leave empty for today."
+        required: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: backup-edition
+  cancel-in-progress: false
+
+jobs:
+  backup:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Make today's edition if Claude didn't
+        id: make
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          MAILERLITE_API_KEY: ${{ secrets.MAILERLITE_API_KEY }}
+          GEMINI_MODEL: ${{ vars.GEMINI_MODEL }}
+          FORCE_DATE: ${{ github.event.inputs.date }}
+        run: python3 scripts/backup_edition.py
+
+      - name: Commit and push the edition
+        if: always()
+        run: |
+          if [ -z "$(git status --porcelain data)" ]; then echo "Nothing to commit"; exit 0; fi
+          git config user.name "Sandip's Board backup"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data
+          git commit -m "Add $(TZ=Asia/Kolkata date +%Y-%m-%d) edition (Gemini backup)"
+          for i in 1 2 3; do git pull --rebase origin main && git push origin HEAD:main && exit 0; sleep 10; done
+          exit 1

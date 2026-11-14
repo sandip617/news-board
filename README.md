@@ -47,7 +47,7 @@ The board updates by itself at 7 AM. You need a paid Claude plan (Pro or Max) wi
 1. **Get the code.** Download this repo (green **Code** button → **Download ZIP**) and unzip it. Or run `git clone https://github.com/sandip617/news-board`.
 2. **Open it in Claude Code.** Open the `news-board` folder in Claude Code (terminal, VS Code or the desktop app).
 3. **Publish the board.** Paste the prompt from [SETUP_WITH_CLAUDE.md](SETUP_WITH_CLAUDE.md) (step 1). Claude publishes the board on claude.ai and gives you a link like `https://claude.ai/artifact/...`. Copy it.
-4. **Set up the daily update.** Open [ROUTINE_PROMPT.md](ROUTINE_PROMPT.md) and replace `YOUR_ARTIFACT_URL` with your link. Then paste the prompt from SETUP_WITH_CLAUDE.md (step 2). Claude creates a daily "routine" that runs at 6:45 AM India time and publishes a new edition by 7 AM.
+4. **Set up the daily update.** Open [ROUTINE_PROMPT.md](ROUTINE_PROMPT.md) and replace `YOUR_ARTIFACT_URL` with your link. Then paste the prompt from SETUP_WITH_CLAUDE.md (step 2). Claude creates a daily "routine" that runs at 7 AM India time and publishes the new edition (with a free Gemini backup at 8 AM, see below).
 5. **Test it.** Ask Claude: "Run the News Board routine now." After about 5 minutes, open your link and check the new edition.
 6. **Share it.** On your board, open the **Share** menu and choose who can see it. To let people suggest blog topics, give them **Contributor** access.
 
@@ -102,3 +102,13 @@ SETUP_WITH_CLAUDE.md     prompts to publish the board and create the routine
 ## License
 
 MIT. Use it, change it, share it.
+
+## Backup edition (Gemini, free)
+
+If the daily Claude run doesn't publish (usage limit reached or the run failed), the GitHub Action `.github/workflows/backup-edition.yml` runs at 8:00 AM India time, sees that today's `data/days/DATE.json` is missing, writes the edition with Gemini (Google Search grounding), commits it and emails subscribers through MailerLite. On days Claude already published it does nothing.
+
+Setup (once): in the repo go to **Settings → Secrets and variables → Actions → New repository secret** and add
+- `GEMINI_API_KEY` — free key from https://aistudio.google.com/apikey
+- `MAILERLITE_API_KEY` — MailerLite → Integrations → API → Generate new token
+
+Optional: a repository *variable* `GEMINI_MODEL` to use a different Gemini model. Test it any time from **Actions → Backup edition (Gemini) → Run workflow** (it does nothing if today's edition already exists; enter a past missing date to make that day). If the backup fails, GitHub emails you that the workflow failed.
