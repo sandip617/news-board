@@ -1,0 +1,564 @@
+{
+ "date": "2026-11-14",
+ "dateLabel": "১৪ নভেম্বর ২০২৬, শনিবার",
+ "edition": 1,
+ "updatedAt": "2026-11-15T04:27:42+05:30",
+ "generatedBy": "gemini-backup",
+ "caseStudy": {
+  "week": "2026-W46",
+  "weekLabel": "৯ – ১৫ নভেম্বর ২০২৬",
+  "company": "Netflix",
+  "title": "DVD ডাকে পাঠানো থেকে বিশ্বজোড়া streaming: Netflix কীভাবে নিজেকে বারবার বদলেছে",
+  "concept": "Business Model Innovation ও Disruptive Strategy",
+  "intro": "1997 সালে Reed Hastings আর Marc Randolph Netflix শুরু করেছিলেন ডাকে DVD ভাড়া দেওয়ার কোম্পানি হিসেবে। তখনকার বড় নাম ছিল Blockbuster, যার দোকানের সামনে লাইন পড়ত। আজ Netflix বিশ্বের অন্যতম বড় streaming প্ল্যাটফর্ম। এই যাত্রা দেখায়, বাজারে টিকে থাকতে হলে নিজের সফল ব্যবসাকেই কখনো কখনো নিজ হাতে বদলে ফেলতে হয়।",
+  "sections": [
+   {
+    "h": "কী করেছিল",
+    "p": "Netflix প্রথমে ডাকে DVD পাঠাত, পরে সাবস্ক্রিপশন মডেলে নিয়ে আসে, যেখানে দেরিতে ফেরত দেওয়ার জরিমানা ছিল না। 2007 সালে তারা ইন্টারনেটে streaming শুরু করে। 2013 সালে House of Cards দিয়ে নিজেদের তৈরি original কনটেন্টে ঢোকে। 2016 সালের জানুয়ারিতে একসঙ্গে বহু দেশে সেবা চালু করে বিশ্বজোড়া সম্প্রসারণ ঘটায়। পরে বিজ্ঞাপননির্ভর সস্তা প্ল্যানও আনে।"
+   },
+   {
+    "h": "ফলাফল",
+    "p": "Netflix ডাকে DVD পাঠানো ব্যবসা থেকে streaming-এ সরে গিয়ে বিশ্বজুড়ে কোটি কোটি গ্রাহক পেয়েছে। Blockbuster শেষ পর্যন্ত বাজার থেকে প্রায় মুছে গেছে। Netflix এখন শুধু বিতরণকারী নয়, কনটেন্ট প্রযোজকও, আর বিশ্বজুড়ে স্থানীয় ভাষার সিরিজ বানায়।"
+   },
+   {
+    "h": "কেন কাজ করল",
+    "p": "তিনটি কারণ। প্রথমত, তারা গ্রাহকের সুবিধা (বাড়িতে বসে, দেরির জরিমানা ছাড়া) আগে ভেবেছে। দ্বিতীয়ত, ব্যবহারকারীর দেখার তথ্য কাজে লাগিয়ে সুপারিশ আর কনটেন্ট সিদ্ধান্ত নিয়েছে। তৃতীয়ত, নিজের কনটেন্ট বানিয়ে অন্যের লাইসেন্সের ওপর নির্ভরতা কমিয়েছে। এছাড়া তারা পুরনো সফল ব্যবসাকে নিজেই বদলাতে ভয় পায়নি, যা Blockbuster করতে পারেনি।"
+   },
+   {
+    "h": "ঝুঁকি আর সমালোচনা",
+    "p": "কনটেন্ট বানাতে প্রচুর অর্থ খরচ হয়, আর এতে ঋণ ও নগদ প্রবাহের চাপ থাকে। 2011 সালে DVD আর streaming আলাদা করতে গিয়ে Qwikster পরিকল্পনা নিয়ে গ্রাহকদের ক্ষোভের মুখে পড়ে সেটি বাতিল করতে হয়েছিল। এখন Disney, Amazon, Apple-এর মতো প্রতিযোগী বাড়ায় গ্রাহক ধরে রাখা কঠিন। সমালোচকরা বলেন, বারবার দাম বাড়ানো আর নিয়ম কড়া করা গ্রাহকের বিরক্তির কারণ হতে পারে।"
+   }
+  ],
+  "lesson": "সফল ব্যবসা চালু থাকলেও বাজার আর প্রযুক্তি বদলালে নিজের মডেল নিজেই বদলাতে হয়। গ্রাহকের প্রকৃত চাহিদা বুঝে এগোলে disruption কাজে লাগানো যায়, না হলে অন্য কেউ সেটা করবে।",
+  "question": "Netflix-এর জায়গায় তুমি থাকলে DVD ব্যবসা চালু রেখে streaming শুরু করতে, না একেবারে ছেড়ে দিতে? Opportunity cost আর ঝুঁকির হিসাব দিয়ে বোঝাও।"
+ },
+ "news": [
+  {
+   "id": "n1",
+   "category": "এম অ্যান্ড এ",
+   "title": "Elon Musk-এর Tesla ও SpaceX মার্জার প্রস্তাব: S&P 500 প্রবেশের চেষ্টায় নতুন গুঞ্জন",
+   "summary": "SpaceX-কে S&P 500 সূচকে অন্তর্ভুক্ত করার উদ্যোগে নতুন মাত্রা যোগ করে Elon Musk Tesla এবং SpaceX-এর মধ্যে মার্জারের প্রস্তাব দিয়েছেন। নতুন প্রকল্পে অর্থায়নের জন্য দুটি কোম্পানিই বিলিয়ন বিলিয়ন ডলার নগদ পোড়াচ্ছে (cash burn)। AI খাতের সাম্প্রতিক পতনের আশঙ্কার মধ্যে বাজার যখন ডালপালা মেলছে, তখন এই একত্রীকরণের প্রস্তাব উত্থাপিত হলো।",
+   "why": "এটি Merger & Acquisition (M&A) এবং cash burn-এর উদাহরণ: কীভাবে দুটি উচ্চ-ঝুঁকিপূর্ণ প্রযুক্তি কোম্পানি মূলধন ও বাজার সুবিধা বাড়াতে মার্জারের কথা বিবেচনা করে।",
+   "source": {
+    "name": "Mint",
+    "url": "https://www.livemint.com/companies/news/spacexs-s-p-500-bid-gets-new-life-as-elon-musk-pitches-tesla-merger-11794670926716.html"
+   }
+  },
+  {
+   "id": "n2",
+   "category": "আন্তর্জাতিক বাণিজ্য",
+   "title": "ভারত-মার্কিন বাণিজ্য চুক্তি চূড়ান্ত হওয়ার দ্বারপ্রান্তে: শীঘ্রই স্বাক্ষরের আশা জয়শঙ্করের",
+   "summary": "পররাষ্ট্রমন্ত্রী S. Jaishankar শনিবার জানিয়েছেন যে ভারত ও মার্কিন যুক্তরাষ্ট্র প্রস্তাবিত বাণিজ্য চুক্তির বেশিরভাগ জটিল সমস্যার সমাধান করে ফেলেছে এবং এটি শীঘ্রই চূড়ান্ত হতে পারে। আলোচনার মূল ফোকাস ছিল মার্কিন পক্ষের প্রয়োজনীয় পরিবর্তনগুলোর ওপর। আগামী মাসে দুই দেশের বৈঠকে এই চুক্তিতে সীলমোহর পড়তে পারে বলে আশা করা হচ্ছে।",
+   "why": "এটি Bilateral Trade Agreement এবং Trade Policy-র বাস্তব উদাহরণ: দুটি দেশের দ্বিপক্ষীয় বাণিজ্য চুক্তি কীভাবে শুল্ক ও বৈদেশিক ব্যবসা সুগম করে।",
+   "source": {
+    "name": "Business Standard",
+    "url": "https://www.business-standard.com/economy/news/india-us-trade-deal-nearing-finish-line-may-be-sealed-soon-jaishankar-126111400766_1.html"
+   }
+  },
+  {
+   "id": "n3",
+   "category": "কর্পোরেট গভার্নেন্স",
+   "title": "Nvidia CEO দৌড়ে Arm-এর Rene Haas-এর নাম, Elon Musk বললেন Jensen Huang-কে ফেরানোর কথা",
+   "summary": "Jensen Huang-এর বিদায়ের পর Nvidia Arm-এর CEO Rene Haas-কে নতুন সিইও হিসেবে আনার প্রাথমিক চিন্তাভাবনা করছে বলে জানা গেছে। সাবেক Nvidia এক্সিকিউটিভ Haas প্রযুক্তি খাতে দক্ষ হলেও Nvidia জানিয়েছে এই সিইও খোঁজ প্রাথমিক পর্যায়ে রয়েছে। অন্যদিকে Elon Musk Jensen Huang-কে Nvidia-র সিইও পদে পুনর্বহাল করার প্রচারণাকে সমর্থন জানিয়েছেন।",
+   "why": "এটি Succession Planning এবং Executive Leadership Risk-এর উদাহরণ: প্রযুক্তি খাতের কোনো বড় কোম্পানির প্রতিষ্ঠাতা সিইও বিদায় নিলে উত্তরাধিকার নির্ধারণ কতটা চ্যালেঞ্জিং হয়।",
+   "source": {
+    "name": "Mint",
+    "url": "https://www.livemint.com/companies/people/who-is-rene-haas-arm-ceo-emerges-as-potential-nvidia-chief-after-jensen-huang-s-exit-what-makes-him-a-frontrunner-11794652190506.html"
+   }
+  },
+  {
+   "id": "n4",
+   "category": "আইপিও",
+   "title": "Coal India-র সহযোগী Mahanadi Coalfields-এর ₹9,500 কোটির IPO: দায়ের হলো RHP",
+   "summary": "Coal India-র সহযোগী প্রতিষ্ঠান Mahanadi Coalfields Ltd (MCL) তাদের প্রস্তাবিত initial public offering (IPO)-এর জন্য Red Herring Prospectus (RHP) জমা দিয়েছে। এই IPO-তে Coal India তাদের 10% স্টেক বা 66.18 কোটি শেয়ার Offer for Sale (OFS)-এর মাধ্যমে বিক্রি করবে। FY26-এ MCL 218.31 মিলিয়ন টন কয়লা উৎপাদন করেছিল এবং এই অফারটি 19 নভেম্বর 2026-এ খোলার কথা রয়েছে।",
+   "why": "এটি Offer for Sale (OFS) এবং RHP-র ক্লাসিক পাঠ্যপুস্তক উদাহরণ: যেখানে মূল কোম্পানি (parent company) সাবসিডিয়ারির শেয়ার বেচে টাকা তোলে।",
+   "source": {
+    "name": "Economic Times",
+    "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/mahanadi-coalfields-files-rhp-for-proposed-ipo-worth-nearly-rs-9500-crore/articleshow/135829640.cms"
+   }
+  },
+  {
+   "id": "n5",
+   "category": "প্রাইভেট ইকুইটি",
+   "title": "দক্ষিণ ভারতীয় ফুড চেইন Adyar Ananda Bhavan-এ $180 মিলিয়ন বিনিয়োগ করছে Bodhi Tree Systems",
+   "summary": "James Murdoch এবং Uday Shankar সমর্থিত প্ল্যাটফর্ম Bodhi Tree Systems দক্ষিণ ভারতীয় জনপ্রিয় ফুড চেইন Adyar Ananda Bhavan (A2B)-এর মেজরিটি স্টেক কেনার জন্য $180 মিলিয়ন বিনিয়োগ করতে চলেছে। এই বিনিয়োগের মাধ্যমে কোম্পানিটি ভারত ও আন্তর্জাতিক বাজারে A2B-র ব্যবসা সম্প্রসারণে সহায়তা করবে।",
+   "why": "এটি Private Equity (PE) investment এবং Majority Stake Acquisition-এর স্পষ্ট উদাহরণ: কীভাবে প্রাইভেট ইকুইটি ফান্ড পারিবারিক ব্যবসা বা আঞ্চলিক ব্র্যান্ডের সম্প্রসারণে মূলধন জোগায়।",
+   "source": {
+    "name": "Mint",
+    "url": "https://www.livemint.com/companies/news/bodhi-tree-systems-to-invest-180-million-for-majority-stake-in-south-indian-food-chain-adyar-ananda-bhavan-11794665523532.html"
+   }
+  },
+  {
+   "id": "n6",
+   "category": "কর্পোরেট গভার্নেন্স",
+   "title": "Tata Sons তালিকাভুক্তি বিতর্ক: Noel Tata বললেন শেয়ারবাজারে এলে জনকল্যাণমূলক লক্ষ্য ব্যাহত হতে পারে",
+   "summary": "Hindustan Times Leadership Summit-এ Noel Tata সতর্ক করেছেন যে Tata Sons-কে শেয়ারবাজারে তালিকাভুক্ত (listing) করা হলে গ্রুপের মূল অগ্রাধিকার শেয়ারহোল্ডার রিটার্নের দিকে চলে যাবে এবং জনকল্যাণমুখী ভাবমূর্তি ব্যাহত হতে পারে। Tata Trusts নিয়ন্ত্রক সংস্থাগুলোর সাথে আলোচনা চালিয়ে যাচ্ছে। অন্যদিকে পর্ষদ সভার রেকর্ডিং হস্তান্তরের অনুরোধ প্রত্যাখ্যান করেছে Tata Sons।",
+   "why": "এটি Holding Company, Conglomerate Governance এবং Corporate Listing vs Private Control-এর লড়াইয়ের কেস স্টাডি।",
+   "source": {
+    "name": "Mint",
+    "url": "https://www.livemint.com/market/stock-market-news/tata-sons-listing-noel-tata-decodes-why-there-should-be-no-tinkering-what-he-said-at-hindustan-times-leadership-summit-11794643211510.html"
+   }
+  },
+  {
+   "id": "n7",
+   "category": "ম্যাক্রো",
+   "title": "ভারতে পেঁয়াজের দাম 116% ও রসুনের দাম 61% বৃদ্ধি: অক্টোবরে মূল্যবৃদ্ধির চাপে পারিবারিক বাজেট",
+   "summary": "অক্টোবর মাসে পেঁয়াজে 116% এবং রসুনে 61% মূল্যবৃদ্ধির ফলে ভারতের দক্ষিণ রাজ্যগুলোতে খুচরো মূল্যবৃদ্ধি জাতীয় গড় 6.09%-এর চেয়েও উপরে উঠেছে। রিপোর্টে প্রকাশ, তরুণ জনসংখ্যা ও ডিজিটালাইজেশনের কারণে সার্বিক ভোগ ভালো থাকলেও গ্রামীণ আয় ও খাদ্য মূল্যবৃদ্ধি স্বল্পমেয়াদী চাহিদায় বড় চ্যালেঞ্জ তৈরি করছে।",
+   "why": "এটি Food Inflation এবং Consumer Spending Power-এর উদাহরণ: কীভাবে খাদ্যসামগ্রীর দাম বেড়ে গেলে পরিবারের খরচ বাড়ে এবং ডিসক্রিশনারি ব্যয় কমে।",
+   "source": {
+    "name": "Mint",
+    "url": "https://www.livemint.com/economy/why-your-monthly-grocery-bill-is-rising-onion-prices-jump-116-garlic-61-as-south-india-feels-inflation-heat-11794655058440.html"
+   }
+  },
+  {
+   "id": "n8",
+   "category": "টেক",
+   "title": "২৪ ঘণ্টার বিশ্বব্যাপী বিভ্রাটের পর Microsoft-এর পরিষেবা স্বাভাবিক, শেয়ারের দামে প্রভাব নেই",
+   "summary": "৭০টিরও বেশি দেশের ব্যবহারকারীদের প্রভাবিত করার পর Microsoft অবশেষে তাদের Outlook, Teams ও Copilot-সহ Microsoft 365 পরিষেবাগুলো পুনরায় চালু করেছে। কোম্পানিটি নেটওয়ার্ক ক্যাপাসিটি আপগ্রেডের ত্রুটিকে দায়ী করে গ্রাহকদের কাছে ক্ষমা চেয়েছে এবং কোনো সাইবার হামলার সম্ভাবনা বাতিল করেছে। এই বিভ্রাট সত্ত্বেও শুক্রবার Microsoft-এর শেয়ার ফ্ল্যাট বা কিছুটা উর্ধ্বমুখী হয়ে বন্ধ হয়েছে।",
+   "why": "এটি Operational Risk এবং Market Resilience-এর উদাহরণ: আইটি বিভ্রাট সত্ত্বেও মূল ব্যবসায়িক অবস্থান শক্তিশালী থাকলে শেয়ারমূল্য সুরক্ষিত থাকে।",
+   "source": {
+    "name": "Mint",
+    "url": "https://www.livemint.com/market/stock-market-news/microsoft-shares-defy-massive-global-outage-close-higher-on-friday-outlook-teams-services-recover-things-to-know-11794647299206.html"
+   }
+  }
+ ],
+ "market": {
+  "asOf": "১৩ নভেম্বর ২০২৬, শুক্রবারের ক্লোজিং",
+  "items": [
+   {
+    "name": "S&P 500",
+    "region": "US",
+    "value": "7,561.67",
+    "change": "-0.40%",
+    "dir": "down"
+   },
+   {
+    "name": "Dow Jones",
+    "region": "US",
+    "value": "52,347.55",
+    "change": "+0.10%",
+    "dir": "up"
+   },
+   {
+    "name": "Nasdaq",
+    "region": "US",
+    "value": "25,136.27",
+    "change": "-0.91%",
+    "dir": "down"
+   },
+   {
+    "name": "Sensex",
+    "region": "ভারত",
+    "value": "81,592.45",
+    "change": "-0.39%",
+    "dir": "down"
+   },
+   {
+    "name": "Nifty 50",
+    "region": "ভারত",
+    "value": "25,144.30",
+    "change": "-0.61%",
+    "dir": "down"
+   },
+   {
+    "name": "Brent Crude",
+    "region": "$ প্রতি ব্যারেল",
+    "value": "95.84",
+    "change": "+0.02%",
+    "dir": "up"
+   },
+   {
+    "name": "Gold",
+    "region": "$ প্রতি আউন্স",
+    "value": "3,886.30",
+    "change": "+0.03%",
+    "dir": "up"
+   },
+   {
+    "name": "USD/INR",
+    "region": "₹ প্রতি $",
+    "value": "94.24",
+    "change": "+0.22%",
+    "dir": "up"
+   }
+  ]
+ },
+ "term": {
+  "term": "Offer for Sale (OFS)",
+  "bangla": "অফার ফর সেল",
+  "definition": "যখন কোনো কোম্পানির বিদ্যমান প্রমোটর বা প্রধান শেয়ারহোল্ডাররা তাদের ধারণ করা শেয়ারের কিছু অংশ শেয়ারবাজারের মাধ্যমে সরাসরি জনসাধারণের কাছে বিক্রি করে, তাকে Offer for Sale (OFS) বলা হয়। এতে কোম্পানি কোনো নতুন শেয়ার ইস্যু করে না এবং উত্তোলিত টাকা কোম্পানির অ্যাকাউন্টে না গিয়ে বিক্রয়কারী শেয়ারহোল্ডারের পকেটে যায়।",
+  "example": "Coal India তাদের সহযোগী প্রতিষ্ঠান Mahanadi Coalfields-এর 10% স্টেক (66.18 কোটি শেয়ার) OFS-এর মাধ্যমে বিক্রি করে প্রায় ₹9,500 কোটি টাকা তুলছে।",
+  "formula": "OFS উত্তোলিত অর্থ = বিক্রীত শেয়ার সংখ্যা × অফার প্রাইস (টাকা বিক্রয়কারী প্রমোটরের তহবিলে জমা হয়)",
+  "tip": "ইন্টারভিউতে মনে রাখবে: Fresh Issue আর OFS এক নয়। Fresh Issue-তে কোম্পানি নতুন মূলধন পায় (নগদ বাড়ে), আর OFS-তে শুধুই শেয়ারের হাতবদল হয়, কোম্পানির ক্যাশ ফ্লো বা শেয়ার সংখ্যায় কোনো পরিবর্তন হয় না।"
+ },
+ "gd": {
+  "topic": "SpaceX ও Tesla-র মার্জার: উদ্ভাবনের নতুন সুযোগ নাকি অতিরিক্ত নগদ সংকটের ঝুঁকি?",
+  "context": "Elon Musk প্রস্তাব করেছেন যে SpaceX এবং Tesla-কে মার্জ করা হতে পারে, যা SpaceX-কে S&P 500-এ প্রবেশের সুযোগ দেবে। কিন্তু একই সঙ্গে উভয় কোম্পানিই বিলিয়ন ডলার নগদ পোড়াচ্ছে (cash burn)।",
+  "for": [
+   "Tesla-র উৎপাদন সক্ষমতা ও নগদ রিজার্ভের সঙ্গে SpaceX-এর মহাকাশ ও স্যাটেলাইট প্রযুক্তির মিলন নতুন উদ্ভাবনের সুযোগ তৈরি করবে।",
+   "SpaceX সরাসরি S&P 500 সূচক এবং পাবলিক ক্যাপিটাল মার্কেটে প্রবেশ করে বিশাল মূলধন সংগ্রহ করতে পারবে।",
+   "উভয় কোম্পানির AI, রোবোটিক্স এবং টেক্সাস-ভিত্তিক অপারেশনের মধ্যে খরচ কমানো (cost efficiencies) সম্ভব হবে।"
+  ],
+  "against": [
+   "উভয় কোম্পানিই বিলিয়ন ডলার ক্যাশ বার্ন (cash burn) করছে; একত্রীকরণ আর্থিক ঝুঁকি দ্বিগুণ করতে পারে।",
+   "Tesla-র শেয়ারহোল্ডারদের মালিকানা লঘু (dilution) হবে এবং তারা ইভি বাজারের বাইরে গিয়ে মহাকাশ গবেষণার উচ্চ ঝুঁকিতে পড়বে।",
+   "একটি পাবলিক লিস্টেড ইভি মেকার এবং প্রাইভেট স্পেস টেক কোম্পানির মূল্যায়ন ও নিয়ন্ত্রক সম্মতি (regulatory clearance) অত্যন্ত জটিল।"
+  ]
+ },
+ "blog": {
+  "title": "Offer for Sale (OFS) এবং Red Herring Prospectus (RHP) কী? Mahanadi Coalfields-এর ₹9,500 কোটির IPO থেকে পাঠ",
+  "topic": "IPO, Offer for Sale, Red Herring Prospectus, Corporate Finance",
+  "readMin": 5,
+  "body": [
+   "আজকের শেয়ারবাজারের অন্যতম আলোচিত খবর হলো Coal India-র সহযোগী প্রতিষ্ঠান Mahanadi Coalfields Ltd (MCL)-এর IPO ফাইলিং। কোম্পানিটি প্রায় ₹9,500 কোটি টাকার IPO আনার জন্য মূলধন বাজার নিয়ন্ত্রক সংস্থা SEBI-র কাছে Red Herring Prospectus (RHP) জমা দিয়েছে। একজন BBA শিক্ষার্থীর জন্য এই খবরটিতে কর্পোরেট ফাইন্যান্স ও ক্যাপিটাল মার্কেটের দুটি মৌলিক কনসেপ্ট লুকিয়ে আছে: Red Herring Prospectus (RHP) এবং Offer for Sale (OFS)। আসুন আজ বিস্তারিত বোঝা যাক এগুলো কীভাবে কাজ করে।",
+   "## Red Herring Prospectus (RHP) কী?",
+   "শেয়ারবাজারে কোনো প্রাইভেট কোম্পানি বা পাবলিক কোম্পানির সাবসিডিয়ারি যখন জনসাধারনের কাছে শেয়ার বিক্রি করতে চায়, তখন তাদের একটি বিস্তারিত অফিসিয়াল নথি বা প্রসপেক্টাস প্রকাশ করতে হয়। একেই বলা হয় Red Herring Prospectus বা RHP। কিন্তু একে 'Red Herring' বলা হয় কেন? কারণ এই খসড়া নথিতে কোম্পানির ব্যবসা, বিগত বছরের লাভ-ক্ষতি, ব্যালেন্স শিট, প্রমোটরদের পরিচয় এবং ব্যবসার ঝুঁকি সম্পর্কে সমস্ত সত্য তথ্য থাকে; কেবল যে বিষয়টি থাকে না তা হলো শেয়ারের চূড়ান্ত দাম (final issue price) বা নির্দিষ্ট দামের পরিসীমা (price band)। নথির প্রচ্ছদে লাল কালিতে লেখা থাকে যে এটি একটি অসম্পূর্ণ প্রসপেক্টাস, যা থেকে এর নাম এসেছে 'Red Herring'।",
+   "## Offer for Sale (OFS) বনাম Fresh Issue: পার্থক্য কোথায়?",
+   "একটি সাধারণ ভুল ধারণা হলো, IPO মানেই কোম্পানি নতুন শেয়ার তৈরি করে বিনিয়োগকারীদের কাছে বিক্রি করছে এবং সেই টাকা কোম্পানির অ্যাকাউন্টে গিয়ে জমছে। বাস্তবে IPO দুই ধরনের হতে পারে: Fresh Issue এবং Offer for Sale (OFS)। Mahanadi Coalfields-এর ক্ষেত্রে পুরো 66.18 কোটি শেয়ারই বিক্রি করা হচ্ছে OFS-এর মাধ্যমে। এর মানে হলো Coal India (যা MCL-এর মূল কোম্পানি বা parent company) নিজের মালিকানাধীন 10% স্টেক জনগণের কাছে বিক্রি করে দিচ্ছে। এই ₹9,500 কোটি টাকা Mahanadi Coalfields-এর ব্যাংকে যাবে না, বরং পুরো টাকাই পাবে Coal India। কোম্পানির নিজের ব্যালেন্স শিটে নতুন কোনো ক্যাশ যোগ হবে না বা মোট শেয়ার সংখ্যাও বাড়বে না—কেবলমাত্র মালিকানার হাতবদল ঘটবে।",
+   "## BBA শিক্ষার্থীদের জন্য মূল শিক্ষণীয় বিষয়",
+   "১. Capital Structure ও Parent-Subsidiary সম্পর্ক: মূল কোম্পানি (parent company) কীভাবে সাবসিডিয়ারিতে থাকা নিজের স্টেক বিক্রি করে নিজ তহবিলের নগদান বা রিটার্ন বাড়ায়, এটি তার উৎকৃষ্ট উদাহরণ।\n২. Investment Valuation: বিনিয়োগকারীদের বুঝতে হবে যে OFS-এর মাধ্যমে ওঠা টাকা কোম্পানির ভবিষ্যৎ সম্প্রসারণ বা নতুন প্ল্যান্ট তৈরিতে সরাসরি ব্যবহৃত হবে না। তাই বিনিয়োগ সিদ্ধান্তের আগে কোম্পানির নিজস্ব ক্যাশ ফ্লো ও ডিভিডেন্ড সক্ষমতা খতিয়ে দেখা জরুরি।\n৩. Regulatory Compliance: SEBI-র নিয়ম অনুযায়ী নির্দিষ্ট আকারের রাষ্ট্রায়ত্ত বা বড় কোম্পানিগুলোকে পাবলিক শেয়ারহোল্ডিং বাড়াতে হয়, যা OFS-এর মাধ্যমেই প্রধানত করা হয়ে থাকে।"
+  ],
+  "takeaways": [
+   "RHP হলো একটি প্রাতিষ্ঠানিক প্রসপেক্টাস যাতে কোম্পানির সমস্ত আর্থিক ও ব্যবসায়িক তথ্য থাকে, কেবল চূড়ান্ত শেয়ারের দাম উল্লেখ থাকে না।",
+   "Offer for Sale (OFS)-এ নতুন শেয়ার ইস্যু হয় না; প্রমোটর বা শেয়ারহোল্ডাররা তাদের শেয়ার বেচে টাকা নিজেদের অ্যাকাউন্টে নেন।",
+   "Mahanadi Coalfields-এর IPO-র পুরো ₹9,500 কোটি টাকা যাবে Coal India-র কাছে, MCL-এর নিজস্ব তহবিলে নয়।"
+  ]
+ },
+ "quiz": [
+  {
+   "q": "Mahanadi Coalfields-এর প্রস্তাবিত IPO-র আকার কত এবং কে এই শেয়ারগুলো Offer for Sale (OFS)-এর মাধ্যমে বিক্রি করছে?",
+   "options": [
+    "₹9,500 কোটি, Coal India (10% স্টেক)",
+    "₹12,000 কোটি, NTPC (15% স্টেক)",
+    "₹5,000 কোটি, Adani Power (5% স্টেক)",
+    "₹18,000 কোটি, ONGC (20% স্টেক)"
+   ],
+   "answer": 0,
+   "explain": "Economic Times-এর খবর অনুযায়ী, Mahanadi Coalfields-এর ₹9,500 কোটির IPO-তে Coal India তাদের 10% স্টেক বা 66.18 কোটি শেয়ার OFS-এর মাধ্যমে বিক্রি করছে।"
+  },
+  {
+   "q": "Elon Musk সাম্প্রতিক সময়ে কোন দুটি কোম্পানির মধ্যে মার্জার (Merger) ঘটানোর প্রস্তাব দিয়েছেন?",
+   "options": [
+    "Nvidia ও Arm",
+    "Tesla ও SpaceX",
+    "Microsoft ও OpenAI",
+    "Google ও Rigi"
+   ],
+   "answer": 1,
+   "explain": "Mint-এর রিপোর্ট অনুযায়ী, Elon Musk SpaceX-কে S&P 500-এ অন্তর্ভুক্ত করার প্রচেষ্টার অংশ হিসেবে Tesla ও SpaceX-এর মধ্যে মার্জার প্রস্তাব করেছেন।"
+  },
+  {
+   "q": "Bodhi Tree Systems দক্ষিণ ভারতীয় ফুড চেইন Adyar Ananda Bhavan-এ কত মূল্যের মেজরিটি স্টেক অধিগ্রহণের পরিকল্পনা করেছে?",
+   "options": [
+    "$500 million",
+    "$100 million",
+    "$180 million",
+    "$250 million"
+   ],
+   "answer": 2,
+   "explain": "Mint-এর খবর অনুযায়ী, James Murdoch এবং Uday Shankar সমর্থিত Bodhi Tree Systems $180 মিলিয়ন বিনিয়োগের মাধ্যমে Adyar Ananda Bhavan-এর মেজরিটি স্টেক কিনছে।"
+  },
+  {
+   "q": "Offer for Sale (OFS)-এর মূল বৈশিষ্ট্য কোনটি?",
+   "options": [
+    "কোম্পানি নতুন শেয়ার ইস্যু করে ক্যাশ ইনফ্লো বাড়ায়",
+    "বিদ্যমান শেয়ারহোল্ডাররা নিজেদের শেয়ার বিক্রি করে, ফলে অর্থ শেয়ারহোল্ডারের অ্যাকাউন্টে যায়",
+    "কোম্পানি ব্যাংক থেকে দীর্ঘমেয়াদী ঋণ সংগ্রহ করে",
+    "বিদ্যমান শেয়ারহোল্ডারদের বিনামূল্যে অতিরিক্ত শেয়ার বোনাস দেওয়া হয়"
+   ],
+   "answer": 1,
+   "explain": "OFS-এ কোম্পানি নতুন শেয়ার ইস্যু করে না; প্রমোটর বা মূল শেয়ারহোল্ডাররা নিজেদের ধারণ করা শেয়ার বেচে টাকা গ্রহণ করে।"
+  },
+  {
+   "q": "পররাষ্ট্রমন্ত্রী S. Jaishankar-এর বক্তব্য অনুযায়ী কোন দুটি দেশের মধ্যে প্রস্তাবিত দ্বিপক্ষীয় বাণিজ্য চুক্তি দ্রুত চূড়ান্ত হওয়ার পথে?",
+   "options": [
+    "ভারত ও মার্কিন যুক্তরাষ্ট্র (India and US)",
+    "ভারত ও চীন (India and China)",
+    "ভারত ও যুক্তরাজ্য (India and UK)",
+    "ভারত ও রাশিয়া (India and Russia)"
+   ],
+   "answer": 0,
+   "explain": "Business Standard-এর খবর অনুযায়ী, S. Jaishankar জানিয়েছেন ভারত ও মার্কিন যুক্তরাষ্ট্রের প্রস্তাবিত বাণিজ্য চুক্তির বেশিরভাগ বিষয় মীমাংসা হয়ে গেছে এবং এটি শীঘ্রই স্বাক্ষরিত হতে পারে।"
+  }
+ ],
+ "en": {
+  "dateLabel": "Saturday, 14 November 2026",
+  "caseStudy": {
+   "week": "2026-W46",
+   "weekLabel": "9 – 15 November 2026",
+   "company": "Netflix",
+   "title": "From mailing DVDs to global streaming: how Netflix kept reinventing itself",
+   "concept": "Business Model Innovation and Disruptive Strategy",
+   "intro": "In 1997 Reed Hastings and Marc Randolph started Netflix as a company renting DVDs by mail. The big name then was Blockbuster, with queues outside its stores. Today Netflix is among the world's largest streaming platforms. The journey shows that to survive, a company sometimes has to reshape its own successful business with its own hands.",
+   "sections": [
+    {
+     "h": "What it did",
+     "p": "Netflix first mailed DVDs, then moved to a subscription model with no late fees. In 2007 it began streaming over the internet. In 2013 it entered original content with House of Cards. In January 2016 it expanded to many countries at once. Later it added a cheaper ad-supported plan."
+    },
+    {
+     "h": "The result",
+     "p": "By shifting from mailing DVDs to streaming, Netflix gained many millions of customers worldwide. Blockbuster has almost vanished from the market. Netflix is now not just a distributor but also a producer of content, making local-language series around the world."
+    },
+    {
+     "h": "Why it worked",
+     "p": "Three reasons. First, it put customer convenience first (from home, no late fees). Second, it used viewing data for recommendations and content decisions. Third, by making its own content it reduced dependence on others' licences. It also was not afraid to change its own successful business, which Blockbuster could not do."
+    },
+    {
+     "h": "Risks and criticism",
+     "p": "Making content costs a great deal and puts pressure on debt and cash flow. In 2011 its plan to split DVD and streaming into Qwikster angered customers and was cancelled. Competitors such as Disney, Amazon and Apple make retaining customers harder. Critics say repeated price rises and tighter rules can annoy subscribers."
+    }
+   ],
+   "lesson": "Even while a business is succeeding, a company must be ready to change its own model when markets and technology change. Following real customer needs lets you use disruption, otherwise someone else will.",
+   "question": "If you were in Netflix's place, would you keep the DVD business running while starting streaming, or drop it altogether? Explain with opportunity cost and risk."
+  },
+  "news": [
+   {
+    "id": "n1",
+    "category": "M&A",
+    "title": "Elon Musk Pitches Tesla-SpaceX Merger as SpaceX Pursues S&P 500 Entry",
+    "summary": "Elon Musk has floated a proposal to merge Tesla and SpaceX, breathing new life into SpaceX's push for S&P 500 inclusion. Both Tesla and SpaceX have been burning through billions of dollars in cash to fund new ventures amid market worries regarding the sustainability of the AI boom.",
+    "why": "A prime example of Mergers & Acquisitions (M&A) and cash burn strategy: how capital-intensive high-tech firms evaluate consolidations to enhance balance sheet capability and market access.",
+    "source": {
+     "name": "Mint",
+     "url": "https://www.livemint.com/companies/news/spacexs-s-p-500-bid-gets-new-life-as-elon-musk-pitches-tesla-merger-11794670926716.html"
+    }
+   },
+   {
+    "id": "n2",
+    "category": "Trade Policy",
+    "title": "India-US Trade Deal Nearing Finish Line, May Be Sealed Soon: Jaishankar",
+    "summary": "External Affairs Minister S Jaishankar stated on Saturday that India and the US have resolved the bulk of issues regarding the proposed trade deal, which could be finalized soon. Negotiations have centered primarily on adjustments needed from the US side ahead of upcoming high-level bilateral meetings next month.",
+    "why": "Direct application of Bilateral Trade Agreements: showing how trade policy negotiations help mitigate tariff barriers and facilitate cross-border business.",
+    "source": {
+     "name": "Business Standard",
+     "url": "https://www.business-standard.com/economy/news/india-us-trade-deal-nearing-finish-line-may-be-sealed-soon-jaishankar-126111400766_1.html"
+    }
+   },
+   {
+    "id": "n3",
+    "category": "Corporate Governance",
+    "title": "Arm CEO Rene Haas Emerges as Nvidia CEO Contender; Elon Musk Backs Huang's Return",
+    "summary": "Nvidia has reportedly approached Arm CEO Rene Haas as a potential successor to Jensen Huang following his abrupt exit. While Haas brings deep semiconductor expertise, Nvidia noted its CEO search remains at an early stage. Concurrently, Elon Musk backed a public campaign advocating for Huang's reinstatement.",
+    "why": "Illustrates Succession Planning and Key-Person Risk: highlights the market friction and governance hurdles when replacing an iconic founder-CEO.",
+    "source": {
+     "name": "Mint",
+     "url": "https://www.livemint.com/companies/people/who-is-rene-haas-arm-ceo-emerges-as-potential-nvidia-chief-after-jensen-huang-s-exit-what-makes-him-a-frontrunner-11794652190506.html"
+    }
+   },
+   {
+    "id": "n4",
+    "category": "IPO",
+    "title": "Mahanadi Coalfields Files RHP for Proposed ₹9,500 Crore IPO",
+    "summary": "Coal India subsidiary Mahanadi Coalfields Ltd (MCL) has filed its Red Herring Prospectus (RHP) for an IPO set to open on November 19, 2026. The issue consists entirely of an Offer for Sale (OFS) of 66.18 crore equity shares (10% stake) by parent Coal India. MCL produced 218.31 million tonnes of coal in FY26.",
+    "why": "Classic textbook study of Offer for Sale (OFS) and Red Herring Prospectus (RHP), demonstrating how a parent conglomerate monetizes equity in a subsidiary.",
+    "source": {
+     "name": "Economic Times",
+     "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/mahanadi-coalfields-files-rhp-for-proposed-ipo-worth-nearly-rs-9500-crore/articleshow/135829640.cms"
+    }
+   },
+   {
+    "id": "n5",
+    "category": "Private Equity",
+    "title": "Bodhi Tree Systems to Invest $180 Million for Majority Stake in Adyar Ananda Bhavan",
+    "summary": "Bodhi Tree Systems, backed by James Murdoch and Uday Shankar, plans to acquire a majority stake in South Indian food chain Adyar Ananda Bhavan (A2B) for $180 million. The investment platform aims to support A2B's expansion across India and international markets.",
+    "why": "Demonstrates Private Equity (PE) investment and Majority Stake Acquisition: showcasing how institutional capital helps scale regional family businesses.",
+    "source": {
+     "name": "Mint",
+     "url": "https://www.livemint.com/companies/news/bodhi-tree-systems-to-invest-180-million-for-majority-stake-in-south-indian-food-chain-adyar-ananda-bhavan-11794665523532.html"
+    }
+   },
+   {
+    "id": "n6",
+    "category": "Corporate Governance",
+    "title": "Tata Sons Listing Row: Noel Tata Warns Market Listing Could Dilute Philanthropic Mission",
+    "summary": "Speaking at HTLS 2026, Noel Tata warned that listing Tata Sons could shift the group's focus toward quarterly shareholder returns and away from philanthropy. Tata Trusts continues discussions with regulators, while Tata Sons rejected Noel's request for recordings of a key September board meeting.",
+    "why": "A case study in Holding Company Structure, Conglomerate Governance, and Public Listing vs Private Control.",
+    "source": {
+     "name": "Mint",
+     "url": "https://www.livemint.com/market/stock-market-news/tata-sons-listing-noel-tata-decodes-why-there-should-be-no-tinkering-what-he-said-at-hindustan-times-leadership-summit-11794643211510.html"
+    }
+   },
+   {
+    "id": "n7",
+    "category": "Macroeconomics",
+    "title": "Grocery Bills Rise in India: Onion Prices Jump 116%, Garlic Up 61% in October",
+    "summary": "Food inflation intensified in October, with onion prices surging 116% and garlic rising 61% year-on-year, driving retail inflation in southern states above the national average of 6.09%. While underlying consumption trends remain resilient, elevated food inflation poses near-term risks to rural demand.",
+    "why": "Highlights Food Inflation and Consumer Purchasing Power: demonstrating how essential price spikes squeeze household budgets and curb discretionary spending.",
+    "source": {
+     "name": "Mint",
+     "url": "https://www.livemint.com/economy/why-your-monthly-grocery-bill-is-rising-onion-prices-jump-116-garlic-61-as-south-india-feels-inflation-heat-11794655058440.html"
+    }
+   },
+   {
+    "id": "n8",
+    "category": "Tech",
+    "title": "Microsoft Shares Defy Global Outage, Close Stable as Services Recover",
+    "summary": "Microsoft fully restored Outlook, Teams, Copilot, and Microsoft 365 services following a day-long global outage affecting users in over 70 countries. The tech giant attributed the issue to a network capacity upgrade error while ruling out a cyberattack; its shares closed virtually flat on Friday.",
+    "why": "Illustrates Operational Risk and Market Resilience: showing that share prices remain protected during technical disruptions if fundamental business models are sound.",
+    "source": {
+     "name": "Mint",
+     "url": "https://www.livemint.com/market/stock-market-news/microsoft-shares-defy-massive-global-outage-close-higher-on-friday-outlook-teams-services-recover-things-to-know-11794647299206.html"
+    }
+   }
+  ],
+  "market": {
+   "asOf": "Close of Friday, 13 November 2026",
+   "items": [
+    {
+     "name": "S&P 500",
+     "region": "US",
+     "value": "7,561.67",
+     "change": "-0.40%",
+     "dir": "down"
+    },
+    {
+     "name": "Dow Jones",
+     "region": "US",
+     "value": "52,347.55",
+     "change": "+0.10%",
+     "dir": "up"
+    },
+    {
+     "name": "Nasdaq",
+     "region": "US",
+     "value": "25,136.27",
+     "change": "-0.91%",
+     "dir": "down"
+    },
+    {
+     "name": "Sensex",
+     "region": "India",
+     "value": "81,592.45",
+     "change": "-0.39%",
+     "dir": "down"
+    },
+    {
+     "name": "Nifty 50",
+     "region": "India",
+     "value": "25,144.30",
+     "change": "-0.61%",
+     "dir": "down"
+    },
+    {
+     "name": "Brent Crude",
+     "region": "$ per barrel",
+     "value": "95.84",
+     "change": "+0.02%",
+     "dir": "up"
+    },
+    {
+     "name": "Gold",
+     "region": "$ per ounce",
+     "value": "3,886.30",
+     "change": "+0.03%",
+     "dir": "up"
+    },
+    {
+     "name": "USD/INR",
+     "region": "₹ per $",
+     "value": "94.24",
+     "change": "+0.22%",
+     "dir": "up"
+    }
+   ]
+  },
+  "term": {
+   "term": "Offer for Sale (OFS)",
+   "bangla": "Sale of existing shares to public",
+   "definition": "An Offer for Sale (OFS) is a transparent route on stock exchanges where existing promoters or major shareholders sell their shares to the public to dilute their holding. Unlike a fresh issue, the company does not issue new shares, and the capital raised goes directly to the selling shareholders, not to the company's bank account.",
+   "example": "Coal India is selling a 10% stake (66.18 crore shares) in its subsidiary Mahanadi Coalfields via OFS to raise nearly ₹9,500 crore.",
+   "formula": "OFS Proceeds = Shares Sold × Offer Price (credited to selling promoter, not company)",
+   "tip": "Interview tip: Always distinguish between a Fresh Issue and an OFS. A Fresh Issue provides new equity capital to the company (increasing cash balance), whereas an OFS is merely a transfer of existing shares between shareholders without altering corporate cash flow or total share count."
+  },
+  "gd": {
+   "topic": "Proposed Tesla-SpaceX Merger: Strategic Synergy or Dangerous Cash-Burn Risk?",
+   "context": "Elon Musk has suggested merging Tesla and SpaceX to help SpaceX achieve S&P 500 inclusion, even as both companies burn billions of dollars in cash to finance futuristic ventures.",
+   "for": [
+    "Combines Tesla's manufacturing scale and cash reserves with SpaceX's satellite and aerospace tech, fostering innovative cross-industry synergy.",
+    "Enables SpaceX to gain public market valuation and capital access by tapping into Tesla's S&P 500 status.",
+    "Creates cost efficiencies across joint AI, robotics, and Texas-based manufacturing infrastructure."
+   ],
+   "against": [
+    "Both entities are currently burning billions of dollars in cash; combining them doubles overall balance sheet risk.",
+    "Tesla equity holders face share dilution and unwanted exposure to high-risk space exploration ventures.",
+    "Merging a publicly listed automaker with a private aerospace firm creates severe valuation and regulatory compliance hurdles."
+   ]
+  },
+  "blog": {
+   "title": "Demystifying OFS and RHP: Capital Market Lessons from Mahanadi Coalfields' ₹9,500 Crore IPO",
+   "topic": "IPO, Offer for Sale, Red Herring Prospectus, Corporate Finance",
+   "readMin": 5,
+   "body": [
+    "One of today's biggest stock market headlines is the Red Herring Prospectus (RHP) filing by Mahanadi Coalfields Ltd (MCL), a subsidiary of state-owned Coal India. MCL is preparing for a public listing to raise approximately ₹9,500 crore. For BBA students, this news presents a real-world case study of two fundamental concepts in capital markets: the Red Herring Prospectus (RHP) and an Offer for Sale (OFS). Let us break down how they work from scratch.",
+    "## What is a Red Herring Prospectus (RHP)?",
+    "Before a company sells shares to the public, regulatory authorities like SEBI require it to issue a comprehensive disclosure document called a Prospectus. An RHP is an initial version of this document. It contains complete information about the company's operations, audited financial statements, board management, industry metrics, and key operational risks. However, it intentionally omits the final issue price or the exact price band of the shares. The term 'Red Herring' comes from the red disclaimer printed on its cover page stating that the prospectus is incomplete prior to official price discovery.",
+    "## Offer for Sale (OFS) vs. Fresh Issue: What is the Difference?",
+    "A common misconception among retail investors is that every IPO supplies new capital directly into the company's bank accounts. In reality, IPOs consist of Fresh Issues, Offers for Sale (OFS), or a combination of both. In the case of Mahanadi Coalfields, the entire ₹9,500 crore issue is an Offer for Sale by parent entity Coal India, which is selling 66.18 crore shares (a 10% stake). Consequently, zero rupees from this IPO will flow into MCL's treasury. All gross proceeds will go to Coal India. Total outstanding shares of MCL remain unchanged; only shareholder ownership is transferred.",
+    "## Strategic Takeaways for BBA Students",
+    "1. Capital Allocation in Conglomerates: An OFS is an efficient mechanism for parent corporations to monetize investments in subsidiaries without expanding equity bases.\n2. Fundamental Valuation: Financial analysts must evaluate OFS-backed IPOs on existing cash flow and dividend generation rather than assuming post-IPO business expansion from cash inflows.\n3. Regulatory Dilution Standards: Government and market regulators frequently utilize OFS mechanisms to meet minimum public shareholding norms in public sector enterprises."
+   ],
+   "takeaways": [
+    "An RHP contains complete operational details of an issuing company except for the final share price or price band.",
+    "In an Offer for Sale (OFS), existing promoters sell their holdings; capital flows to the selling shareholders rather than the company.",
+    "The entirety of the ₹9,500 crore raised in Mahanadi Coalfields' IPO will go to parent company Coal India, not MCL itself."
+   ]
+  },
+  "quiz": [
+   {
+    "q": "What is the proposed issue size of Mahanadi Coalfields' IPO and who is selling the stake via an Offer for Sale (OFS)?",
+    "options": [
+     "₹9,500 crore, Coal India (10% stake)",
+     "₹12,000 crore, NTPC (15% stake)",
+     "₹5,000 crore, Adani Power (5% stake)",
+     "₹18,000 crore, ONGC (20% stake)"
+    ],
+    "answer": 0,
+    "explain": "According to Economic Times, Mahanadi Coalfields filed its RHP for a ₹9,500 crore IPO consisting of an Offer for Sale of a 10% stake (66.18 crore shares) by parent Coal India."
+   },
+   {
+    "q": "Elon Musk recently pitched a potential merger between which two major companies?",
+    "options": [
+     "Nvidia and Arm",
+     "Tesla and SpaceX",
+     "Microsoft and OpenAI",
+     "Google and Rigi"
+    ],
+    "answer": 1,
+    "explain": "As reported by Mint, Elon Musk proposed a merger between Tesla and SpaceX to support SpaceX's bid for S&P 500 inclusion."
+   },
+   {
+    "q": "How much is Bodhi Tree Systems investing to acquire a majority stake in South Indian food chain Adyar Ananda Bhavan?",
+    "options": [
+     "$500 million",
+     "$100 million",
+     "$180 million",
+     "$250 million"
+    ],
+    "answer": 2,
+    "explain": "Mint reported that James Murdoch and Uday Shankar-backed Bodhi Tree Systems is investing $180 million for a majority stake in Adyar Ananda Bhavan."
+   },
+   {
+    "q": "What is the defining financial characteristic of an Offer for Sale (OFS)?",
+    "options": [
+     "The company issues new equity shares to boost capital reserves",
+     "Existing shareholders sell their shares, and proceeds go to the selling shareholders",
+     "The issuing firm raises long-term debt from commercial banks",
+     "Bonus shares are distributed free of charge to current investors"
+    ],
+    "answer": 1,
+    "explain": "In an OFS, no new equity capital is created by the company; existing promoters sell their shares, and proceeds flow to the selling shareholders."
+   },
+   {
+    "q": "According to External Affairs Minister S Jaishankar, a bilateral trade deal between India and which nation is nearing completion?",
+    "options": [
+     "India and the US",
+     "India and China",
+     "India and the UK",
+     "India and Russia"
+    ],
+    "answer": 0,
+    "explain": "Business Standard reported that S Jaishankar confirmed India and the US have resolved most issues regarding their trade agreement, which could be sealed soon."
+   }
+  ]
+ }
+}

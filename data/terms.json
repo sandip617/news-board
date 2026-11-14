@@ -1,6 +1,23 @@
 {
  "terms": [
   {
+   "date": "2026-11-14",
+   "term": "Offer for Sale (OFS)",
+   "bangla": "অফার ফর সেল",
+   "definition": "যখন কোনো কোম্পানির বিদ্যমান প্রমোটর বা প্রধান শেয়ারহোল্ডাররা তাদের ধারণ করা শেয়ারের কিছু অংশ শেয়ারবাজারের মাধ্যমে সরাসরি জনসাধারণের কাছে বিক্রি করে, তাকে Offer for Sale (OFS) বলা হয়। এতে কোম্পানি কোনো নতুন শেয়ার ইস্যু করে না এবং উত্তোলিত টাকা কোম্পানির অ্যাকাউন্টে না গিয়ে বিক্রয়কারী শেয়ারহোল্ডারের পকেটে যায়।",
+   "example": "Coal India তাদের সহযোগী প্রতিষ্ঠান Mahanadi Coalfields-এর 10% স্টেক (66.18 কোটি শেয়ার) OFS-এর মাধ্যমে বিক্রি করে প্রায় ₹9,500 কোটি টাকা তুলছে।",
+   "formula": "OFS উত্তোলিত অর্থ = বিক্রীত শেয়ার সংখ্যা × অফার প্রাইস (টাকা বিক্রয়কারী প্রমোটরের তহবিলে জমা হয়)",
+   "tip": "ইন্টারভিউতে মনে রাখবে: Fresh Issue আর OFS এক নয়। Fresh Issue-তে কোম্পানি নতুন মূলধন পায় (নগদ বাড়ে), আর OFS-তে শুধুই শেয়ারের হাতবদল হয়, কোম্পানির ক্যাশ ফ্লো বা শেয়ার সংখ্যায় কোনো পরিবর্তন হয় না।",
+   "en": {
+    "term": "Offer for Sale (OFS)",
+    "bangla": "Sale of existing shares to public",
+    "definition": "An Offer for Sale (OFS) is a transparent route on stock exchanges where existing promoters or major shareholders sell their shares to the public to dilute their holding. Unlike a fresh issue, the company does not issue new shares, and the capital raised goes directly to the selling shareholders, not to the company's bank account.",
+    "example": "Coal India is selling a 10% stake (66.18 crore shares) in its subsidiary Mahanadi Coalfields via OFS to raise nearly ₹9,500 crore.",
+    "formula": "OFS Proceeds = Shares Sold × Offer Price (credited to selling promoter, not company)",
+    "tip": "Interview tip: Always distinguish between a Fresh Issue and an OFS. A Fresh Issue provides new equity capital to the company (increasing cash balance), whereas an OFS is merely a transfer of existing shares between shareholders without altering corporate cash flow or total share count."
+   }
+  },
+  {
    "date": "2026-11-15",
    "term": "Initial Public Offering (IPO)",
    "bangla": "প্রথমবার জনসাধারণের কাছে শেয়ার বিক্রি",
