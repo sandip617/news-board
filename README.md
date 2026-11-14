@@ -105,7 +105,7 @@ MIT. Use it, change it, share it.
 
 ## Backup edition (Gemini, free)
 
-If the daily Claude run doesn't publish (usage limit reached or the run failed), the GitHub Action `.github/workflows/backup-edition.yml` runs at 8:00 AM India time, sees that today's `data/days/DATE.json` is missing, writes the edition with Gemini (Google Search grounding), commits it and emails subscribers through MailerLite. On days Claude already published it does nothing.
+If the daily Claude run doesn't publish (usage limit reached or the run failed), the GitHub Action `.github/workflows/backup-edition.yml` runs at 8:00 AM India time, sees that today's `data/days/DATE.json` is missing, collects the day's headlines from business RSS feeds (ET, Mint, Business Standard, CNBC, BBC, Guardian) and market closes from Yahoo Finance, has Gemini (free tier, no paid search) write the edition from only that material, commits it and emails subscribers through MailerLite. On days Claude already published it does nothing.
 
 Setup (once): in the repo go to **Settings → Secrets and variables → Actions → New repository secret** and add
 - `GEMINI_API_KEY` — free key from https://aistudio.google.com/apikey
