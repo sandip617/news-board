@@ -1,6 +1,23 @@
 {
  "terms": [
   {
+   "date": "2026-11-15",
+   "term": "Initial Public Offering (IPO)",
+   "bangla": "প্রথমবার জনসাধারণের কাছে শেয়ার বিক্রি",
+   "definition": "কোনো বেসরকারি কোম্পানি যখন প্রথমবার স্টক এক্সচেঞ্জে নিজের শেয়ার জনসাধারণ ও প্রতিষ্ঠানের কাছে বিক্রি করে মূলধন তোলে আর তালিকাভুক্ত (listed) হয়, তাকে IPO বলে। দাম ঠিক হয় সাধারণত একটি price range-এর মধ্যে, আর underwriter ব্যাংকগুলো বিনিয়োগকারীদের চাহিদা যাচাই করে (book building) চূড়ান্ত দাম নির্ধারণ করে।",
+   "example": "Anthropic শেয়ারপ্রতি $70–$78 দামে 82.5 কোটি শেয়ার বিক্রি করতে চলেছে। midpoint $74 ধরলে প্রায় $61 বিলিয়ন ওঠার কথা।",
+   "formula": "তোলা অর্থ = বিক্রি হওয়া নতুন শেয়ারের সংখ্যা × অফার প্রাইস",
+   "tip": "ইন্টারভিউতে বলো: IPO মানে শুধু টাকা তোলা নয়, এতে কোম্পানির তথ্য প্রকাশের দায়, বাজারের নজরদারি আর প্রতিষ্ঠাতাদের শেয়ার ভাগাভাগিও আসে। primary আর secondary offering-এর পার্থক্যটা জেনে যাও।",
+   "en": {
+    "term": "Initial Public Offering (IPO)",
+    "bangla": "Selling shares to the public for the first time",
+    "definition": "When a private company sells its shares to the public and institutions for the first time on a stock exchange to raise capital and become listed, it is called an IPO. The price is usually set within a price range, and underwriter banks gauge investor demand (book building) before fixing the final price.",
+    "example": "Anthropic plans to sell 825 million shares at $70–$78 each. At a $74 midpoint, that is about $61 billion raised.",
+    "formula": "Money raised = number of new shares sold × offer price",
+    "tip": "In interviews say: an IPO is not just about raising money. It also brings disclosure duties, market scrutiny and sharing of founders' ownership. Know the difference between a primary and a secondary offering."
+   }
+  },
+  {
    "date": "2026-11-13",
    "term": "Succession Planning",
    "bangla": "উত্তরসূরি পরিকল্পনা",

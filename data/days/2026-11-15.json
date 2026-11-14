@@ -1,0 +1,819 @@
+{
+ "date": "2026-11-15",
+ "dateLabel": "১৫ নভেম্বর ২০২৬, রবিবার",
+ "edition": 1,
+ "updatedAt": "2026-11-15T07:00:00+05:30",
+ "news": [
+  {
+   "id": "n1",
+   "category": "ম্যাক্রো",
+   "title": "Fed-এর ডিসেম্বরে সুদ বাড়ানোর সম্ভাবনা প্রায় 90%, PPI প্রত্যাশার চেয়ে কম হলেও Waller সতর্ক",
+   "summary": "অক্টোবরের US producer price index (PPI) মাসে 0.3% বেড়েছে, অর্থনীতিবিদদের অনুমান ছিল 0.4%। তবু CME FedWatch অনুযায়ী ডিসেম্বরে সিকি শতাংশ (25 basis point) সুদ বাড়ানোর সম্ভাবনা প্রায় 85% থেকে বেড়ে প্রায় 90% হয়েছে, আর অর্ধ শতাংশ বাড়ানোর সম্ভাবনা প্রায় 10%-এ নেমেছে। Fed গভর্নর Waller বলেছেন, তথ্য প্রত্যাশার চেয়ে কম হলেও অর্ধ শতাংশ বাড়ানোর সম্ভাবনা বাতিল করার মতো নয়। বাজারের মূল আলোচনা এখন সুদ বাড়বে কি না তা নিয়ে নয়, কতটা বাড়বে তা নিয়ে।",
+   "why": "এটি monetary policy আর interest rate-এর সরাসরি উদাহরণ: মূল্যবৃদ্ধি সামলাতে কেন্দ্রীয় ব্যাংক সুদ বাড়ায়, আর তার প্রভাব শেয়ার, বন্ড ও ডলারে পড়ে।",
+   "source": {
+    "name": "InvestmentNews",
+    "url": "https://www.investmentnews.com/equities/ppi-still-uncomfortably-high-as-december-rate-hike-looms/269002"
+   }
+  },
+  {
+   "id": "n2",
+   "category": "কর্পোরেট",
+   "title": "Nvidia-র বাজারমূল্য প্রথমবার $4 ট্রিলিয়নের নিচে, টানা ষষ্ঠ সপ্তাহে শেয়ার পড়ল",
+   "summary": "CEO Jensen Huang-এর পদত্যাগের পর Nvidia-র শেয়ার শুক্রবার 2.01% কমে $162.85-এ বন্ধ হয়েছে। কোম্পানির বাজারমূল্য 2025 সালের জুলাইয়ের পর প্রথমবার $4 ট্রিলিয়নের নিচে নেমেছে। সপ্তাহে শেয়ার পড়েছে 12.75%, যা টানা ষষ্ঠ সাপ্তাহিক পতন। HSBC স্টকটিকে hold-এ নামিয়ে লক্ষ্যদাম $375 থেকে $170-এ কমিয়েছে, কারণ স্থায়ী CEO না আসা পর্যন্ত শেয়ার চাপে থাকবে বলে তাদের ধারণা। 17 নভেম্বর কোম্পানির earnings call হওয়ার কথা।",
+   "why": "এটি key-person risk আর succession planning-এর বাস্তব প্রভাব: নেতৃত্বের অনিশ্চয়তা বাড়লে বিশ্লেষকরা লক্ষ্যদাম কমান আর valuation চাপে পড়ে।",
+   "source": {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/13/nvidia-nvda-stock-jensen-huang-transition.html"
+   }
+  },
+  {
+   "id": "n3",
+   "category": "টেক",
+   "title": "Cisco-র রাজস্ব 24% বেড়ে $18.5 বিলিয়ন, তবু gross margin কমায় শেয়ার 6%-এর বেশি পড়ল",
+   "summary": "Cisco-র প্রথম কোয়ার্টারের রাজস্ব এসেছে $18.5 বিলিয়ন, আগের বছরের চেয়ে 24% বেশি। কোম্পানি পুরো বছরের রাজস্বের পূর্বাভাস (guidance) বাড়িয়ে $74.8–$75.8 বিলিয়ন করেছে আর AI infrastructure রাজস্বের লক্ষ্য দ্বিগুণ করে $9 বিলিয়ন করেছে। কিন্তু non-GAAP gross margin নেমেছে 65.6%-এ, এক বছর আগে ছিল 68.1%। বিনিয়োগকারীদের মতে কম-margin AI networking hardware-এর অংশ বাড়া আর memory-র খরচ বাড়াই এর কারণ। ফলে শেয়ার 6%-এর বেশি পড়েছে, আর একই দিনে AMD পড়েছে 8.8%।",
+   "why": "রাজস্ব বাড়লেই লাভজনকতা বাড়ে না। gross margin আর earnings guidance কেন শেয়ারদর ঠিক করে, এটা তার ভালো উদাহরণ।",
+   "source": {
+    "name": "The Motley Fool",
+    "url": "https://www.fool.com/investing/2026/11/14/is-cisco-systems-a-buy-after-its-latest-earnings-report/"
+   }
+  },
+  {
+   "id": "n4",
+   "category": "IPO",
+   "title": "Anthropic-এর IPO: শেয়ারপ্রতি $70–$78, midpoint-এ valuation প্রায় $1.33 ট্রিলিয়ন",
+   "summary": "সংশোধিত ফাইলিং অনুযায়ী Anthropic 82.5 কোটি শেয়ার বিক্রি করবে, শেয়ারপ্রতি $70–$78 দামে। midpoint-এ কোম্পানি প্রায় $61 বিলিয়ন তুলবে আর fully diluted valuation দাঁড়াবে প্রায় $1.33 ট্রিলিয়ন; দামের ঊর্ধ্বসীমায় এটি প্রায় $1.4 ট্রিলিয়ন। এর বাইরে Microsoft, Nvidia, Alphabet ও Micron-সহ কৌশলগত বিনিয়োগকারীদের কাছে IPO-দামে প্রায় $26 বিলিয়নের শেয়ার আলাদাভাবে বিক্রি হবে। রিপোর্ট অনুযায়ী Nasdaq-এ ticker ANT-এ লেনদেন শুরু হতে পারে 19 নভেম্বরের কাছাকাছি।",
+   "why": "IPO, valuation আর primary market-এর পাঠ্যে এটি এখনকার সবচেয়ে বড় কেস: কোম্পানি কীভাবে শেয়ারের দাম ঠিক করে আর কত টাকা তোলে।",
+   "source": {
+    "name": "ABC News",
+    "url": "https://abcnews.com/Business/anthropic-seeks-70-78-share-new-ipo-filing/story?id=138007081"
+   }
+  },
+  {
+   "id": "n5",
+   "category": "ভারত",
+   "title": "ভারতে অক্টোবরের খুচরো মূল্যবৃদ্ধি 6.09%, RBI-র 6% সীমা পার; ডিসেম্বরে আরেক দফা সুদ বাড়ার আশঙ্কা",
+   "summary": "ভারতের CPI মূল্যবৃদ্ধি সেপ্টেম্বরের 5.54% থেকে বেড়ে অক্টোবরে 6.09% হয়েছে, আর খাদ্যে মূল্যবৃদ্ধি 7.74% থেকে বেড়ে 8.94%। দুই বছরে এই প্রথম RBI-র 6% উপরের সীমা পেরোল। RBI অক্টোবরে রেপো রেট 25 basis point বাড়িয়ে 5.50% করেছিল। অন্তত ছয়জন অর্থনীতিবিদ 2–4 ডিসেম্বরের বৈঠকে আরও 25 basis point বাড়ার আশা করছেন। RBI-র নিজের অনুমান অক্টোবর–ডিসেম্বর কোয়ার্টারে গড় মূল্যবৃদ্ধি 6%।",
+   "why": "inflation targeting আর repo rate-এর সম্পর্ক: মূল্যবৃদ্ধি সীমা ছাড়ালে RBI সুদ বাড়ায়, ফলে ঋণের EMI আর কোম্পানির খরচ দুটোই বাড়ে।",
+   "source": {
+    "name": "The Tribune",
+    "url": "https://www.tribuneindia.com/news/india/at-6-09-retail-inflation-exceeds-rbis-upper-limit-rate-hike-likely/"
+   }
+  },
+  {
+   "id": "n6",
+   "category": "ভারতের বাজার",
+   "title": "Sensex 319 পয়েন্ট কমে 81,592-এ, Nifty 25,144-এ; টাকা 94.24-এ নামল",
+   "summary": "শুক্রবার Sensex 318.56 পয়েন্ট (0.39%) কমে 81,592.45-এ আর Nifty 50 155.05 পয়েন্ট (0.61%) কমে 25,144.30-এ বন্ধ হয়েছে। অটোমোবাইল, ধাতু, রিয়েল এস্টেট ও আর্থিক শেয়ারে বিক্রি বেশি ছিল, আর Nifty Bank 484 পয়েন্ট কমে 61,034-এ নেমেছে। কারণ হিসেবে বলা হয়েছে অপরিশোধিত তেলের দাম আর 6.09% মূল্যবৃদ্ধি। তবু টানা তৃতীয় সপ্তাহে সূচক বেড়েছে: Sensex 0.7% আর Nifty 0.5%। টাকা 21 পয়সা দুর্বল হয়ে 94.24-এ বন্ধ হয়েছে।",
+   "why": "বাজারের দৈনিক ওঠানামার সঙ্গে সাপ্তাহিক প্রবণতা মিলিয়ে দেখা শেখা জরুরি। এখানে macro খবর (inflation, oil) কীভাবে equity বাজারে পড়ে তা দেখা যায়।",
+   "source": {
+    "name": "Business Standard",
+    "url": "https://www.business-standard.com/amp/markets/news/stock-market-live-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-bn-agrochem-share-split-november-13-126111300069_1.html"
+   }
+  },
+  {
+   "id": "n7",
+   "category": "বাণিজ্য",
+   "title": "চীনে APEC-এর ফাঁকে Trump, Xi আর Putin-এর প্রথম ত্রিপক্ষীয় বৈঠক, বাণিজ্য-চুক্তির প্রত্যাশা কম",
+   "summary": "Al Jazeera জানিয়েছে, আগামী সপ্তাহে চীনে APEC সম্মেলনের পাশে Donald Trump, Xi Jinping আর Vladimir Putin প্রথমবার তিনজন একসঙ্গে বসবেন। এক জ্যেষ্ঠ মার্কিন কর্মকর্তা বলেছেন, কোনো চুক্তির প্রত্যাশা নেই, এটি আলোচনার শুরু মাত্র। Trump আর Xi-র আলাদা দ্বিপক্ষীয় বৈঠক ও বৃহস্পতিবারের মধ্যাহ্নভোজও রয়েছে। বাজার নজর রাখবে US-China বাণিজ্য যুদ্ধবিরতি বাড়ে কি না, কারণ বিশ্লেষকদের মতে বড় সিদ্ধান্ত ডিসেম্বরের G20-র জন্য অপেক্ষা করতে পারে।",
+   "why": "আন্তর্জাতিক বাণিজ্য, tariff আর geopolitical risk-এর পাঠ্যে এটি কাজে লাগে: কূটনৈতিক বৈঠক সরবরাহ শৃঙ্খল ও শেয়ারবাজারকে প্রভাবিত করে।",
+   "source": {
+    "name": "Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2026/11/14/trump-xi-and-putin-to-hold-first-three-way-summit-in-china"
+   }
+  },
+  {
+   "id": "n8",
+   "category": "কমোডিটি",
+   "title": "সোনার সাপ্তাহিক পতন: উঁচু US yield আর শক্ত ডলারের চাপে $3,880-র আশেপাশে; Brent $95.84-এ",
+   "summary": "FXStreet-এর রিপোর্ট অনুযায়ী উঁচু US Treasury yield আর Fed-এর সুদ বাড়ানোর বাজির কারণে সোনা সপ্তাহের শেষে বড় সাপ্তাহিক ক্ষতির মুখে, দাম প্রায় $3,880–$3,890 প্রতি আউন্স। ডলার 19 মাসের উচ্চতার কাছে। অন্যদিকে Brent crude শুক্রবার প্রায় $95.84-এ বন্ধ হয়েছে এবং সপ্তাহে প্রায় 2.4% কমেছে, যা টানা দ্বিতীয় সাপ্তাহিক পতন।",
+   "why": "সুদের হার বাড়লে সোনার মতো yield-হীন সম্পদের opportunity cost বাড়ে, তাই দাম চাপে পড়ে। এই সম্পর্কটা পরীক্ষায় প্রায়ই আসে।",
+   "source": {
+    "name": "FXStreet",
+    "url": "https://www.fxstreet.com/news/gold-faces-weekly-rout-as-high-us-yields-fuel-fed-rate-hike-bets-202611132023"
+   }
+  }
+ ],
+ "market": {
+  "asOf": "১৩ নভেম্বর ২০২৬, শুক্রবারের ক্লোজিং",
+  "items": [
+   {
+    "name": "S&P 500",
+    "region": "US",
+    "value": "7,561.67",
+    "change": "-0.40%",
+    "dir": "down"
+   },
+   {
+    "name": "Dow Jones",
+    "region": "US",
+    "value": "52,347.55",
+    "change": "+0.10%",
+    "dir": "up"
+   },
+   {
+    "name": "Nasdaq",
+    "region": "US",
+    "value": "25,136.27",
+    "change": "-0.91%",
+    "dir": "down"
+   },
+   {
+    "name": "Sensex",
+    "region": "ভারত",
+    "value": "81,592.45",
+    "change": "-0.39%",
+    "dir": "down"
+   },
+   {
+    "name": "Nifty 50",
+    "region": "ভারত",
+    "value": "25,144.30",
+    "change": "-0.61%",
+    "dir": "down"
+   },
+   {
+    "name": "Brent Crude",
+    "region": "$ প্রতি ব্যারেল",
+    "value": "$95.84",
+    "change": "+0.02%",
+    "dir": "up"
+   },
+   {
+    "name": "Gold",
+    "region": "$ প্রতি আউন্স",
+    "value": "$3,881.75",
+    "change": "+0.14%",
+    "dir": "up"
+   },
+   {
+    "name": "USD/INR",
+    "region": "₹ প্রতি ডলার",
+    "value": "94.24",
+    "change": "+21 পয়সা",
+    "dir": "up"
+   }
+  ]
+ },
+ "term": {
+  "term": "Initial Public Offering (IPO)",
+  "bangla": "প্রথমবার জনসাধারণের কাছে শেয়ার বিক্রি",
+  "definition": "কোনো বেসরকারি কোম্পানি যখন প্রথমবার স্টক এক্সচেঞ্জে নিজের শেয়ার জনসাধারণ ও প্রতিষ্ঠানের কাছে বিক্রি করে মূলধন তোলে আর তালিকাভুক্ত (listed) হয়, তাকে IPO বলে। দাম ঠিক হয় সাধারণত একটি price range-এর মধ্যে, আর underwriter ব্যাংকগুলো বিনিয়োগকারীদের চাহিদা যাচাই করে (book building) চূড়ান্ত দাম নির্ধারণ করে।",
+  "example": "Anthropic শেয়ারপ্রতি $70–$78 দামে 82.5 কোটি শেয়ার বিক্রি করতে চলেছে। midpoint $74 ধরলে প্রায় $61 বিলিয়ন ওঠার কথা।",
+  "formula": "তোলা অর্থ = বিক্রি হওয়া নতুন শেয়ারের সংখ্যা × অফার প্রাইস",
+  "tip": "ইন্টারভিউতে বলো: IPO মানে শুধু টাকা তোলা নয়, এতে কোম্পানির তথ্য প্রকাশের দায়, বাজারের নজরদারি আর প্রতিষ্ঠাতাদের শেয়ার ভাগাভাগিও আসে। primary আর secondary offering-এর পার্থক্যটা জেনে যাও।"
+ },
+ "gd": {
+  "topic": "ট্রিলিয়ন ডলারের valuation-এ AI কোম্পানির IPO কি বুদবুদের লক্ষণ?",
+  "context": "Anthropic প্রায় $1.33–$1.4 ট্রিলিয়ন valuation-এ IPO করতে চলেছে, আবার একই সপ্তাহে Nvidia-র শেয়ার টানা ষষ্ঠ সপ্তাহে পড়েছে আর Fed ডিসেম্বরে সুদ বাড়াতে পারে।",
+  "for": [
+   "Valuation আগের প্রত্যাশা ($2 ট্রিলিয়ন) থেকে নেমেছে, কিন্তু রাজস্বের তুলনায় এখনও অনেক উঁচু।",
+   "সুদের হার বাড়লে ভবিষ্যতের আয়ের বর্তমান মূল্য কমে, তাই growth শেয়ার বেশি ঝুঁকিতে।",
+   "Nvidia-র মতো AI নেতার পতন দেখাচ্ছে বাজারের আস্থা কতটা ভঙ্গুর।"
+  ],
+  "against": [
+   "Anthropic-এর হাতে প্রায় $132 বিলিয়ন নগদ আছে আর প্রচলিত ঋণ নেই।",
+   "Microsoft, Alphabet-এর মতো কৌশলগত বিনিয়োগকারীরা $26 বিলিয়ন বসাচ্ছে, যা বাস্তব চাহিদার ইঙ্গিত।",
+   "Cisco-র AI infrastructure লক্ষ্য দ্বিগুণ হওয়া দেখায়, AI-তে বাস্তব ব্যয় বাড়ছে।"
+  ]
+ },
+ "blog": {
+  "title": "IPO কীভাবে কাজ করে? Anthropic-এর শেয়ার বিক্রি থেকে valuation-এর পাঠ",
+  "topic": "IPO, valuation, primary market",
+  "readMin": 5,
+  "body": [
+   "এই সপ্তাহের সবচেয়ে বড় পুঁজিবাজারের খবরগুলোর একটি Anthropic-এর IPO। সংশোধিত ফাইলিং বলছে, শেয়ারপ্রতি $70–$78 দামে 82.5 কোটি শেয়ার বিক্রি হবে। আজ আমরা শূন্য থেকে বুঝব, IPO আসলে কী, দাম কীভাবে ঠিক হয়, আর এই সংখ্যাগুলো থেকে একজন বিবিএ স্টুডেন্ট কী শিখতে পারে।",
+   "## IPO মানে কী",
+   "ধরো তোমার একটা ছোট ব্যবসা আছে আর তুমি একা মালিক। ব্যবসা বাড়াতে অনেক টাকা দরকার। ব্যাংক থেকে ধার নিতে পারো, আবার ব্যবসার একটা অংশ অন্যদের বিক্রি করেও টাকা তুলতে পারো। কোনো কোম্পানি যখন প্রথমবার তার মালিকানার ছোট ছোট অংশ, অর্থাৎ শেয়ার, স্টক এক্সচেঞ্জের মাধ্যমে সবার কাছে বিক্রি করে, তখন সেটাকে Initial Public Offering (IPO) বলে। এর পর কোম্পানিটি listed হয় আর তার শেয়ার প্রতিদিন কেনাবেচা হয়।",
+   "## দাম কীভাবে ঠিক হয়",
+   "IPO-র দাম সরাসরি ঠিক হয় না। প্রথমে একটা দামের পরিসর (price range) ঘোষণা হয়, যেমন Anthropic-এর $70 থেকে $78। underwriter ব্যাংকগুলো বড় বিনিয়োগকারীদের কাছে গিয়ে জানতে চায়, কে কত শেয়ার কত দামে নিতে রাজি। একে roadshow আর book building বলে। চাহিদা বেশি হলে দাম পরিসরের ঊর্ধ্বসীমার কাছে যায়, কম হলে কমে। খবরে এসেছে, আগে ধারণা ছিল valuation $2 ট্রিলিয়ন হতে পারে, কিন্তু এখন লক্ষ্য প্রায় $1.33–$1.4 ট্রিলিয়ন। অর্থাৎ বাজারের চাহিদাই শেষ কথা বলে।",
+   "## সংখ্যাগুলো পড়তে শেখো",
+   "একটা সহজ হিসাব করো। তোলা অর্থ = শেয়ারের সংখ্যা × অফার প্রাইস। midpoint $74 ধরলে 82.5 কোটি × $74 প্রায় $61 বিলিয়ন, যা খবরের সংখ্যার সঙ্গে মেলে। valuation আলাদা হিসাব: কোম্পানির মোট শেয়ার (fully diluted) × শেয়ারদাম। তাই valuation $1.33 ট্রিলিয়ন মানে বাজার পুরো কোম্পানির মালিকানার দাম প্রায় এতটা ধরছে, কিন্তু কোম্পানি নিজে তুলছে শুধু নতুন শেয়ার বিক্রির টাকাটা।",
+   "## আজকের বাজারের সঙ্গে সম্পর্ক",
+   "সময়টা IPO-র জন্য সহজ নয়। US-তে অক্টোবরের producer price index মাসে 0.3% বেড়েছে, আর Fed ডিসেম্বরে সুদ বাড়াবে এমন সম্ভাবনা প্রায় 90%। সুদ বাড়লে ভবিষ্যতের আয়ের বর্তমান মূল্য কমে, তাই যেসব কোম্পানির আয় আসবে অনেক দূরের ভবিষ্যতে, তাদের valuation বেশি চাপে পড়ে। একই সপ্তাহে Nvidia-র শেয়ার টানা ষষ্ঠ সপ্তাহে পড়েছে, আর Cisco রাজস্ব বাড়িয়েও gross margin কমায় 6%-এর বেশি পড়েছে। এই সবই বিনিয়োগকারীদের মেজাজ বদলের ইঙ্গিত।",
+   "## শক্তি আর দুর্বলতা",
+   "Anthropic-এর পক্ষে কয়েকটা জিনিস যায়: হাতে প্রায় $132 বিলিয়ন নগদ, কোনো প্রচলিত ঋণ নেই, আর Microsoft, Nvidia, Alphabet ও Micron প্রায় $26 বিলিয়নের শেয়ার আলাদাভাবে কিনছে। উল্টো দিকে, valuation এখনও অনেক উঁচু, আর প্রত্যাশা পূরণ না হলে শেয়ার তালিকাভুক্তির পর পড়তে পারে। তাই IPO-তে অংশ নেওয়া মানেই লাভের নিশ্চয়তা নয়।",
+   "## বিবিএ স্টুডেন্টের জন্য ব্যবহারিক শিক্ষা",
+   "প্রথমত, IPO-র খবর পড়লে তিনটি সংখ্যা খুঁজবে: price range, শেয়ারের সংখ্যা আর valuation। দ্বিতীয়ত, দাম কেন ওই জায়গায় তা বোঝার চেষ্টা করবে: রাজস্ব, লাভ, নগদ আর প্রতিযোগিতা দেখবে। তৃতীয়ত, বাজারের সুদের হার আর মেজাজ IPO-র দামে বড় ভূমিকা রাখে, তাই macro খবরও পড়বে। ইন্টারভিউতে এই তিনটি যুক্তি সাজিয়ে বললে তোমার উত্তর অন্যদের থেকে আলাদা হবে।"
+  ],
+  "takeaways": [
+   "IPO-তে তোলা অর্থ = শেয়ারের সংখ্যা × অফার প্রাইস, আর valuation আলাদা হিসাব।",
+   "দাম ঠিক হয় price range আর book building-এর মাধ্যমে, চাহিদাই শেষ কথা বলে।",
+   "সুদের হার বেড়ে গেলে growth কোম্পানির valuation বেশি চাপে পড়ে।"
+  ]
+ },
+ "quiz": [
+  {
+   "q": "Fed ডিসেম্বরে সিকি শতাংশ সুদ বাড়াবে, FedWatch অনুযায়ী এর সম্ভাবনা PPI-র পর প্রায় কত?",
+   "options": [
+    "প্রায় 50%",
+    "প্রায় 70%",
+    "প্রায় 90%",
+    "প্রায় 10%"
+   ],
+   "answer": 2,
+   "explain": "PPI প্রকাশের পর সিকি শতাংশ বাড়ানোর সম্ভাবনা প্রায় 85% থেকে প্রায় 90% হয়েছে।"
+  },
+  {
+   "q": "সপ্তাহে Nvidia-র শেয়ার প্রায় কত শতাংশ পড়েছে?",
+   "options": [
+    "2%",
+    "5%",
+    "8%",
+    "12.75%"
+   ],
+   "answer": 3,
+   "explain": "শুক্রবার পড়েছে 2.01%, কিন্তু পুরো সপ্তাহে 12.75%, যা টানা ষষ্ঠ সাপ্তাহিক পতন।"
+  },
+  {
+   "q": "Cisco-র non-GAAP gross margin প্রথম কোয়ার্টারে কত ছিল?",
+   "options": [
+    "65.6%",
+    "68.1%",
+    "70.2%",
+    "62.5%"
+   ],
+   "answer": 0,
+   "explain": "65.6%, আগের বছরের 68.1% থেকে 250 basis point কম। 68.1% ছিল এক বছর আগের হার।"
+  },
+  {
+   "q": "Anthropic midpoint দামে (প্রায় $74) 82.5 কোটি শেয়ার বেচলে প্রায় কত তুলবে?",
+   "options": [
+    "প্রায় $6.1 বিলিয়ন",
+    "প্রায় $26 বিলিয়ন",
+    "প্রায় $61 বিলিয়ন",
+    "প্রায় $610 বিলিয়ন"
+   ],
+   "answer": 2,
+   "explain": "শেয়ারের সংখ্যা × অফার প্রাইস = 82.5 কোটি × $74 ≈ $61 বিলিয়ন।"
+  },
+  {
+   "q": "ভারতে অক্টোবরের CPI মূল্যবৃদ্ধি কত ছিল?",
+   "options": [
+    "5.54%",
+    "6.09%",
+    "8.94%",
+    "4%"
+   ],
+   "answer": 1,
+   "explain": "6.09%। 5.54% ছিল সেপ্টেম্বরের হার, 8.94% অক্টোবরের খাদ্যে মূল্যবৃদ্ধি।"
+  }
+ ],
+ "caseStudy": {
+  "week": "2026-W46",
+  "weekLabel": "৯ – ১৫ নভেম্বর ২০২৬",
+  "company": "Netflix",
+  "title": "DVD ডাকে পাঠানো থেকে বিশ্বজোড়া streaming: Netflix কীভাবে নিজেকে বারবার বদলেছে",
+  "concept": "Business Model Innovation ও Disruptive Strategy",
+  "intro": "1997 সালে Reed Hastings আর Marc Randolph Netflix শুরু করেছিলেন ডাকে DVD ভাড়া দেওয়ার কোম্পানি হিসেবে। তখনকার বড় নাম ছিল Blockbuster, যার দোকানের সামনে লাইন পড়ত। আজ Netflix বিশ্বের অন্যতম বড় streaming প্ল্যাটফর্ম। এই যাত্রা দেখায়, বাজারে টিকে থাকতে হলে নিজের সফল ব্যবসাকেই কখনো কখনো নিজ হাতে বদলে ফেলতে হয়।",
+  "sections": [
+   {
+    "h": "কী করেছিল",
+    "p": "Netflix প্রথমে ডাকে DVD পাঠাত, পরে সাবস্ক্রিপশন মডেলে নিয়ে আসে, যেখানে দেরিতে ফেরত দেওয়ার জরিমানা ছিল না। 2007 সালে তারা ইন্টারনেটে streaming শুরু করে। 2013 সালে House of Cards দিয়ে নিজেদের তৈরি original কনটেন্টে ঢোকে। 2016 সালের জানুয়ারিতে একসঙ্গে বহু দেশে সেবা চালু করে বিশ্বজোড়া সম্প্রসারণ ঘটায়। পরে বিজ্ঞাপননির্ভর সস্তা প্ল্যানও আনে।"
+   },
+   {
+    "h": "ফলাফল",
+    "p": "Netflix ডাকে DVD পাঠানো ব্যবসা থেকে streaming-এ সরে গিয়ে বিশ্বজুড়ে কোটি কোটি গ্রাহক পেয়েছে। Blockbuster শেষ পর্যন্ত বাজার থেকে প্রায় মুছে গেছে। Netflix এখন শুধু বিতরণকারী নয়, কনটেন্ট প্রযোজকও, আর বিশ্বজুড়ে স্থানীয় ভাষার সিরিজ বানায়।"
+   },
+   {
+    "h": "কেন কাজ করল",
+    "p": "তিনটি কারণ। প্রথমত, তারা গ্রাহকের সুবিধা (বাড়িতে বসে, দেরির জরিমানা ছাড়া) আগে ভেবেছে। দ্বিতীয়ত, ব্যবহারকারীর দেখার তথ্য কাজে লাগিয়ে সুপারিশ আর কনটেন্ট সিদ্ধান্ত নিয়েছে। তৃতীয়ত, নিজের কনটেন্ট বানিয়ে অন্যের লাইসেন্সের ওপর নির্ভরতা কমিয়েছে। এছাড়া তারা পুরনো সফল ব্যবসাকে নিজেই বদলাতে ভয় পায়নি, যা Blockbuster করতে পারেনি।"
+   },
+   {
+    "h": "ঝুঁকি আর সমালোচনা",
+    "p": "কনটেন্ট বানাতে প্রচুর অর্থ খরচ হয়, আর এতে ঋণ ও নগদ প্রবাহের চাপ থাকে। 2011 সালে DVD আর streaming আলাদা করতে গিয়ে Qwikster পরিকল্পনা নিয়ে গ্রাহকদের ক্ষোভের মুখে পড়ে সেটি বাতিল করতে হয়েছিল। এখন Disney, Amazon, Apple-এর মতো প্রতিযোগী বাড়ায় গ্রাহক ধরে রাখা কঠিন। সমালোচকরা বলেন, বারবার দাম বাড়ানো আর নিয়ম কড়া করা গ্রাহকের বিরক্তির কারণ হতে পারে।"
+   }
+  ],
+  "lesson": "সফল ব্যবসা চালু থাকলেও বাজার আর প্রযুক্তি বদলালে নিজের মডেল নিজেই বদলাতে হয়। গ্রাহকের প্রকৃত চাহিদা বুঝে এগোলে disruption কাজে লাগানো যায়, না হলে অন্য কেউ সেটা করবে।",
+  "question": "Netflix-এর জায়গায় তুমি থাকলে DVD ব্যবসা চালু রেখে streaming শুরু করতে, না একেবারে ছেড়ে দিতে? Opportunity cost আর ঝুঁকির হিসাব দিয়ে বোঝাও।"
+ },
+ "weekly": {
+  "title": "সপ্তাহের রিভিশন: Nvidia-র নেতৃত্ব সংকট, তেলের পতন আর সুদের হারের চাপ",
+  "summary": [
+   "Nvidia-র বোর্ডের তদন্ত থেকে CEO Jensen Huang-এর পদত্যাগ পর্যন্ত ঘটনা key-person risk আর succession planning-এর শিক্ষা দিল।",
+   "তেলের দাম এক সপ্তাহে 13%-এর বেশি পড়ায় (Brent $98.32) Wall Street একদিনে S&P 500 2.35% বেড়ে 7,549.94 হয়েছিল।",
+   "US-এ অক্টোবরের মূল্যবৃদ্ধি 0.4% হওয়ায় 10-year yield প্রায় 5%-এ গেছে আর ডিসেম্বরে Fed-এর সুদ বাড়ানোর সম্ভাবনা জোরালো হয়েছে।",
+   "ভারতে অক্টোবরের খুচরো মূল্যবৃদ্ধি 6.09%, RBI-র 6% সীমা পার, খাদ্যে 8.94%।",
+   "CoreWeave-এর backlog $132.5 বিলিয়ন আর OpenAI-র operating loss $10.9 বিলিয়ন দেখায়, রাজস্ব বাড়লেও লাভ নিশ্চিত নয়।"
+  ],
+  "quiz": [
+   {
+    "q": "সপ্তাহের শুরুতে Nvidia-র বোর্ড CEO Jensen Huang-কে নিয়ে কী শুরু করেছিল?",
+    "options": [
+     "অধিগ্রহণ",
+     "স্বাধীন তদন্ত",
+     "buyback",
+     "শেয়ার split"
+    ],
+    "answer": 1,
+    "explain": "বোর্ড স্বাধীন তদন্ত শুরু করেছিল, পরে Huang পদত্যাগ করেন।"
+   },
+   {
+    "q": "Brent এক সপ্তাহে 13%-এর বেশি পড়ে কত ডলারে নেমেছিল?",
+    "options": [
+     "$98.32",
+     "$92.57",
+     "$95.82",
+     "$105"
+    ],
+    "answer": 0,
+    "explain": "সোমবারের সংস্করণে Brent ছিল $98.32। $92.57 পরের দিনের দাম, $95.82 বৃহস্পতিবারের।"
+   },
+   {
+    "q": "একদিনে S&P 500 2.35% বেড়ে কত হয়েছিল?",
+    "options": [
+     "7,520.93",
+     "7,592.40",
+     "7,549.94",
+     "7,500"
+    ],
+    "answer": 2,
+    "explain": "7,549.94, এপ্রিলের পর সেরা দিন। 7,520.93 পরের দিনের ক্লোজিং।"
+   },
+   {
+    "q": "অক্টোবরে US-এ মূল্যবৃদ্ধি মাসে কত ছিল?",
+    "options": [
+     "0.1%",
+     "0.4%",
+     "0.9%",
+     "1.2%"
+    ],
+    "answer": 1,
+    "explain": "0.4%, প্রত্যাশার চেয়ে বেশি।"
+   },
+   {
+    "q": "Mitsui Chemicals কোন কোম্পানিকে কিনছে?",
+    "options": [
+     "Axalta",
+     "Trustmark",
+     "JSR",
+     "Intermex"
+    ],
+    "answer": 2,
+    "explain": "Mitsui Chemicals জাপানের সবচেয়ে বড় রাসায়নিক অধিগ্রহণে JSR কিনছে, মূল্য প্রায় $11.6 বিলিয়ন।"
+   },
+   {
+    "q": "CoreWeave-এর backlog কত বিলিয়ন ডলারে পৌঁছেছে?",
+    "options": [
+     "$13.25",
+     "$66",
+     "$1.3",
+     "$132.5"
+    ],
+    "answer": 3,
+    "explain": "backlog $132.5 বিলিয়ন, রাজস্ব 168% বেড়ে প্রায় $3.66 বিলিয়ন।"
+   },
+   {
+    "q": "OpenAI-র তৃতীয় কোয়ার্টারের operating loss কত?",
+    "options": [
+     "$1.9 বিলিয়ন",
+     "$5.5 বিলিয়ন",
+     "$10.9 বিলিয়ন",
+     "$20 বিলিয়ন"
+    ],
+    "answer": 2,
+    "explain": "রাজস্ব প্রায় $10 বিলিয়ন হলেও operating loss $10.9 বিলিয়ন।"
+   },
+   {
+    "q": "Anthropic-এর IPO roadshow-তে ঘোষিত ticker কী?",
+    "options": [
+     "ANT",
+     "ANTH",
+     "CLD",
+     "AI"
+    ],
+    "answer": 0,
+    "explain": "ticker ANT, শেয়ারপ্রতি $70–$78।"
+   },
+   {
+    "q": "Hancock Whitney কত বিলিয়ন ডলারের all-stock চুক্তিতে Trustmark কিনছে?",
+    "options": [
+     "$1.2",
+     "$3.2",
+     "$32",
+     "$58"
+    ],
+    "answer": 1,
+    "explain": "$3.2 বিলিয়ন, ফলে তৈরি হবে প্রায় $58 বিলিয়ন সম্পদের ব্যাংক।"
+   },
+   {
+    "q": "ভারতে অক্টোবরে খাদ্যে মূল্যবৃদ্ধি কত ছিল?",
+    "options": [
+     "6.09%",
+     "5.54%",
+     "8.94%",
+     "4%"
+    ],
+    "answer": 2,
+    "explain": "খাদ্যে 8.94%, আর সামগ্রিক 6.09%।"
+   }
+  ]
+ },
+ "en": {
+  "dateLabel": "Sunday, 15 November 2026",
+  "news": [
+   {
+    "id": "n1",
+    "category": "Macro",
+    "title": "Fed December hike odds near 90% as PPI misses forecast but Waller stays cautious",
+    "summary": "October US producer prices rose 0.3% on the month against a 0.4% forecast. Even so, CME FedWatch put the chance of a quarter-point (25 basis point) hike in December at about 90%, up from about 85%, while the odds of a half-point hike fell to about 10%. Fed Governor Waller said the print, though below consensus, was still too high to rule out a half-point move. The market debate is now less about whether rates rise and more about by how much.",
+    "why": "A direct example of monetary policy and interest rates: central banks raise rates to fight inflation, and the effects ripple through stocks, bonds and the dollar.",
+    "source": {
+     "name": "InvestmentNews",
+     "url": "https://www.investmentnews.com/equities/ppi-still-uncomfortably-high-as-december-rate-hike-looms/269002"
+    }
+   },
+   {
+    "id": "n2",
+    "category": "Corporate",
+    "title": "Nvidia's market value falls below $4 trillion for the first time as shares slide a sixth straight week",
+    "summary": "After CEO Jensen Huang's resignation, Nvidia shares fell 2.01% on Friday to close at $162.85, and its market value dropped below $4 trillion for the first time since July 2025. The stock lost 12.75% over the week, its sixth straight weekly decline. HSBC cut it to hold and lowered its price target from $375 to $170, expecting the stock to struggle until a permanent CEO is named. Nvidia's earnings call is expected on 17 November.",
+    "why": "This shows key-person risk and succession planning at work: leadership uncertainty leads analysts to cut targets and puts pressure on valuation.",
+    "source": {
+     "name": "CNBC",
+     "url": "https://www.cnbc.com/2026/11/13/nvidia-nvda-stock-jensen-huang-transition.html"
+    }
+   },
+   {
+    "id": "n3",
+    "category": "Tech",
+    "title": "Cisco revenue up 24% to $18.5 billion, but shares fall over 6% on a lower gross margin",
+    "summary": "Cisco's first-quarter revenue was $18.5 billion, up 24% from a year earlier. It raised its full-year revenue guidance to $74.8–$75.8 billion and doubled its AI infrastructure revenue target to $9 billion. But non-GAAP gross margin slipped to 65.6% from 68.1% a year ago, which investors blamed on a heavier mix of lower-margin AI networking hardware and higher memory costs. The shares fell more than 6%, and AMD fell 8.8% the same day.",
+    "why": "Revenue growth does not guarantee profitability. This is a clear example of why gross margin and earnings guidance move share prices.",
+    "source": {
+     "name": "The Motley Fool",
+     "url": "https://www.fool.com/investing/2026/11/14/is-cisco-systems-a-buy-after-its-latest-earnings-report/"
+    }
+   },
+   {
+    "id": "n4",
+    "category": "IPO",
+    "title": "Anthropic IPO: $70–$78 a share, about $1.33 trillion valuation at the midpoint",
+    "summary": "According to its amended filing, Anthropic will sell 825 million shares at $70–$78 each. At the midpoint it would raise about $61 billion at a fully diluted valuation of about $1.33 trillion; at the top of the range, about $1.4 trillion. It will also sell about $26 billion of stock at the IPO price to strategic investors including Microsoft, Nvidia, Alphabet and Micron. Reports say trading on Nasdaq under the ticker ANT could start around 19 November.",
+    "why": "The biggest live case for IPO, valuation and the primary market: how a company sets its share price and how much it raises.",
+    "source": {
+     "name": "ABC News",
+     "url": "https://abcnews.com/Business/anthropic-seeks-70-78-share-new-ipo-filing/story?id=138007081"
+    }
+   },
+   {
+    "id": "n5",
+    "category": "India",
+    "title": "India's October retail inflation hits 6.09%, above the RBI's 6% limit; another rate hike seen in December",
+    "summary": "India's CPI inflation rose to 6.09% in October from 5.54% in September, with food inflation up from 7.74% to 8.94%. It is the first breach of the RBI's 6% upper limit in two years. The RBI raised the repo rate by 25 basis points to 5.50% in October, and at least six economists expect another 25 basis points at the 2–4 December meeting. The RBI itself expects inflation to average 6% in October–December.",
+    "why": "Inflation targeting and the repo rate: when inflation crosses the limit, the RBI raises rates, which pushes up both EMIs and company borrowing costs.",
+    "source": {
+     "name": "The Tribune",
+     "url": "https://www.tribuneindia.com/news/india/at-6-09-retail-inflation-exceeds-rbis-upper-limit-rate-hike-likely/"
+    }
+   },
+   {
+    "id": "n6",
+    "category": "India markets",
+    "title": "Sensex falls 319 points to 81,592, Nifty to 25,144; rupee weakens to 94.24",
+    "summary": "On Friday the Sensex fell 318.56 points (0.39%) to 81,592.45 and the Nifty 50 fell 155.05 points (0.61%) to 25,144.30. Selling was heaviest in auto, metal, realty and financial shares, and Nifty Bank dropped 484 points to 61,034. Rising crude prices and 6.09% inflation were cited as reasons. Even so, the indices gained for a third straight week: the Sensex 0.7% and the Nifty 0.5%. The rupee weakened 21 paise to close at 94.24.",
+    "why": "Learn to read daily moves alongside the weekly trend, and see how macro news (inflation, oil) flows into the equity market.",
+    "source": {
+     "name": "Business Standard",
+     "url": "https://www.business-standard.com/amp/markets/news/stock-market-live-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-bn-agrochem-share-split-november-13-126111300069_1.html"
+    }
+   },
+   {
+    "id": "n7",
+    "category": "Trade",
+    "title": "First-ever Trump–Xi–Putin meeting on the APEC sidelines in China, but few trade deliverables expected",
+    "summary": "Al Jazeera reports that next week, on the sidelines of APEC in China, Donald Trump, Xi Jinping and Vladimir Putin will sit down together for the first time. A senior US official said no agreement is expected and that this is the start of a conversation. Trump and Xi also have a separate bilateral meeting and a working lunch on Thursday. Markets will watch whether the US–China trade truce is extended, though analysts say the big decisions may wait for the G20 in December.",
+    "why": "Useful for international trade, tariffs and geopolitical risk: diplomatic meetings can move supply chains and stock markets.",
+    "source": {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/14/trump-xi-and-putin-to-hold-first-three-way-summit-in-china"
+    }
+   },
+   {
+    "id": "n8",
+    "category": "Commodities",
+    "title": "Gold heads for a weekly rout on high US yields and a strong dollar, near $3,880; Brent at $95.84",
+    "summary": "FXStreet reports that high US Treasury yields and bets on a Fed hike left gold facing a big weekly loss, at roughly $3,880–$3,890 an ounce. The dollar is near a 19-month high. Brent crude closed around $95.84 on Friday and fell about 2.4% on the week, its second straight weekly decline.",
+    "why": "When interest rates rise, the opportunity cost of holding a non-yielding asset like gold rises, so its price comes under pressure. This link is asked often in exams.",
+    "source": {
+     "name": "FXStreet",
+     "url": "https://www.fxstreet.com/news/gold-faces-weekly-rout-as-high-us-yields-fuel-fed-rate-hike-bets-202611132023"
+    }
+   }
+  ],
+  "market": {
+   "asOf": "Close of Friday, 13 November 2026",
+   "items": [
+    {
+     "name": "S&P 500",
+     "region": "US",
+     "value": "7,561.67",
+     "change": "-0.40%",
+     "dir": "down"
+    },
+    {
+     "name": "Dow Jones",
+     "region": "US",
+     "value": "52,347.55",
+     "change": "+0.10%",
+     "dir": "up"
+    },
+    {
+     "name": "Nasdaq",
+     "region": "US",
+     "value": "25,136.27",
+     "change": "-0.91%",
+     "dir": "down"
+    },
+    {
+     "name": "Sensex",
+     "region": "India",
+     "value": "81,592.45",
+     "change": "-0.39%",
+     "dir": "down"
+    },
+    {
+     "name": "Nifty 50",
+     "region": "India",
+     "value": "25,144.30",
+     "change": "-0.61%",
+     "dir": "down"
+    },
+    {
+     "name": "Brent Crude",
+     "region": "$ per barrel",
+     "value": "$95.84",
+     "change": "+0.02%",
+     "dir": "up"
+    },
+    {
+     "name": "Gold",
+     "region": "$ per ounce",
+     "value": "$3,881.75",
+     "change": "+0.14%",
+     "dir": "up"
+    },
+    {
+     "name": "USD/INR",
+     "region": "₹ per dollar",
+     "value": "94.24",
+     "change": "+21 paise",
+     "dir": "up"
+    }
+   ]
+  },
+  "term": {
+   "term": "Initial Public Offering (IPO)",
+   "bangla": "Selling shares to the public for the first time",
+   "definition": "When a private company sells its shares to the public and institutions for the first time on a stock exchange to raise capital and become listed, it is called an IPO. The price is usually set within a price range, and underwriter banks gauge investor demand (book building) before fixing the final price.",
+   "example": "Anthropic plans to sell 825 million shares at $70–$78 each. At a $74 midpoint, that is about $61 billion raised.",
+   "formula": "Money raised = number of new shares sold × offer price",
+   "tip": "In interviews say: an IPO is not just about raising money. It also brings disclosure duties, market scrutiny and sharing of founders' ownership. Know the difference between a primary and a secondary offering."
+  },
+  "gd": {
+   "topic": "Are trillion-dollar IPO valuations for AI companies a sign of a bubble?",
+   "context": "Anthropic is going for an IPO at roughly a $1.33–$1.4 trillion valuation, in the same week Nvidia shares fell for a sixth straight week and the Fed may hike in December.",
+   "for": [
+    "The valuation has come down from the earlier $2 trillion expectation, but it is still very high relative to revenue.",
+    "Rising interest rates cut the present value of future earnings, so growth stocks are riskier.",
+    "The fall of an AI leader like Nvidia shows how fragile market confidence is."
+   ],
+   "against": [
+    "Anthropic has about $132 billion in cash and no conventional debt.",
+    "Strategic investors such as Microsoft and Alphabet are putting in $26 billion, a sign of real demand.",
+    "Cisco doubling its AI infrastructure target shows real spending on AI is growing."
+   ]
+  },
+  "blog": {
+   "title": "How does an IPO work? Valuation lessons from Anthropic's share sale",
+   "topic": "IPO, valuation, primary market",
+   "readMin": 5,
+   "body": [
+    "One of the biggest capital-market stories this week is Anthropic's IPO. The amended filing says 825 million shares will be sold at $70–$78 each. Today we will understand from scratch what an IPO is, how the price is set, and what a BBA student can learn from these numbers.",
+    "## What an IPO means",
+    "Suppose you own a small business alone and need a lot of money to grow it. You can borrow from a bank, or you can sell a part of the business to others. When a company sells small slices of ownership, called shares, to the public through a stock exchange for the first time, that is an Initial Public Offering (IPO). After that the company is listed and its shares trade every day.",
+    "## How the price is set",
+    "An IPO price is not simply declared. First a price range is announced, for example Anthropic's $70 to $78. Underwriter banks then go to large investors to ask who will take how many shares at what price. This is called the roadshow and book building. If demand is strong, the price moves toward the top of the range; if weak, it falls. News reports say the valuation was once expected to reach $2 trillion but the target is now about $1.33–$1.4 trillion. Market demand has the final say.",
+    "## Learn to read the numbers",
+    "Try a simple calculation. Money raised = number of shares × offer price. At a $74 midpoint, 825 million × $74 is about $61 billion, which matches the reported figure. Valuation is a separate calculation: total fully diluted shares × share price. So a $1.33 trillion valuation means the market is putting roughly that price on the whole company, while the company itself raises only the money from the new shares sold.",
+    "## Link to today's market",
+    "The timing is not easy. US producer prices rose 0.3% in October, and the odds of a December Fed hike are about 90%. When rates rise, the present value of future earnings falls, so companies whose profits lie far in the future see their valuations hit hardest. In the same week Nvidia fell for a sixth straight week, and Cisco dropped more than 6% despite higher revenue because its gross margin fell. All of this signals a change in investor mood.",
+    "## Strengths and weaknesses",
+    "Several things work in Anthropic's favour: about $132 billion in cash, no conventional debt, and around $26 billion of stock being bought separately by Microsoft, Nvidia, Alphabet and Micron. On the other side, the valuation is still very high, and if expectations are not met the stock can fall after listing. So taking part in an IPO never guarantees a profit.",
+    "## A practical lesson for BBA students",
+    "First, when you read IPO news, look for three numbers: the price range, the number of shares and the valuation. Second, try to understand why the price sits where it does: look at revenue, profit, cash and competition. Third, interest rates and market mood play a big role in IPO pricing, so read the macro news too. If you can lay out these three arguments in an interview, your answer will stand out."
+   ],
+   "takeaways": [
+    "Money raised in an IPO = number of shares × offer price; valuation is a separate calculation.",
+    "The price is set through a price range and book building, and demand has the final say.",
+    "Higher interest rates put growth companies' valuations under more pressure."
+   ]
+  },
+  "quiz": [
+   {
+    "q": "After the PPI release, about how likely did FedWatch show a quarter-point Fed hike in December?",
+    "options": [
+     "About 50%",
+     "About 70%",
+     "About 90%",
+     "About 10%"
+    ],
+    "answer": 2,
+    "explain": "After the PPI the chance rose from about 85% to about 90%."
+   },
+   {
+    "q": "About how much did Nvidia shares fall over the week?",
+    "options": [
+     "2%",
+     "5%",
+     "8%",
+     "12.75%"
+    ],
+    "answer": 3,
+    "explain": "It fell 2.01% on Friday, but 12.75% over the whole week, its sixth straight weekly decline."
+   },
+   {
+    "q": "What was Cisco's non-GAAP gross margin in the first quarter?",
+    "options": [
+     "65.6%",
+     "68.1%",
+     "70.2%",
+     "62.5%"
+    ],
+    "answer": 0,
+    "explain": "65.6%, which is 250 basis points below 68.1% a year earlier."
+   },
+   {
+    "q": "If Anthropic sells 825 million shares at a $74 midpoint, about how much does it raise?",
+    "options": [
+     "About $6.1 billion",
+     "About $26 billion",
+     "About $61 billion",
+     "About $610 billion"
+    ],
+    "answer": 2,
+    "explain": "Number of shares × offer price = 825 million × $74 ≈ $61 billion."
+   },
+   {
+    "q": "What was India's CPI inflation in October?",
+    "options": [
+     "5.54%",
+     "6.09%",
+     "8.94%",
+     "4%"
+    ],
+    "answer": 1,
+    "explain": "6.09%. 5.54% was September, and 8.94% was October food inflation."
+   }
+  ],
+  "caseStudy": {
+   "week": "2026-W46",
+   "weekLabel": "9 – 15 November 2026",
+   "company": "Netflix",
+   "title": "From mailing DVDs to global streaming: how Netflix kept reinventing itself",
+   "concept": "Business Model Innovation and Disruptive Strategy",
+   "intro": "In 1997 Reed Hastings and Marc Randolph started Netflix as a company renting DVDs by mail. The big name then was Blockbuster, with queues outside its stores. Today Netflix is among the world's largest streaming platforms. The journey shows that to survive, a company sometimes has to reshape its own successful business with its own hands.",
+   "sections": [
+    {
+     "h": "What it did",
+     "p": "Netflix first mailed DVDs, then moved to a subscription model with no late fees. In 2007 it began streaming over the internet. In 2013 it entered original content with House of Cards. In January 2016 it expanded to many countries at once. Later it added a cheaper ad-supported plan."
+    },
+    {
+     "h": "The result",
+     "p": "By shifting from mailing DVDs to streaming, Netflix gained many millions of customers worldwide. Blockbuster has almost vanished from the market. Netflix is now not just a distributor but also a producer of content, making local-language series around the world."
+    },
+    {
+     "h": "Why it worked",
+     "p": "Three reasons. First, it put customer convenience first (from home, no late fees). Second, it used viewing data for recommendations and content decisions. Third, by making its own content it reduced dependence on others' licences. It also was not afraid to change its own successful business, which Blockbuster could not do."
+    },
+    {
+     "h": "Risks and criticism",
+     "p": "Making content costs a great deal and puts pressure on debt and cash flow. In 2011 its plan to split DVD and streaming into Qwikster angered customers and was cancelled. Competitors such as Disney, Amazon and Apple make retaining customers harder. Critics say repeated price rises and tighter rules can annoy subscribers."
+    }
+   ],
+   "lesson": "Even while a business is succeeding, a company must be ready to change its own model when markets and technology change. Following real customer needs lets you use disruption, otherwise someone else will.",
+   "question": "If you were in Netflix's place, would you keep the DVD business running while starting streaming, or drop it altogether? Explain with opportunity cost and risk."
+  },
+  "weekly": {
+   "title": "Weekly revision: Nvidia's leadership crisis, the oil slump and interest-rate pressure",
+   "summary": [
+    "From the board probe to Jensen Huang's resignation, Nvidia's week taught key-person risk and succession planning.",
+    "Brent fell over 13% in a week ($98.32), and the S&P 500 jumped 2.35% to 7,549.94 in one day.",
+    "US October inflation of 0.4% pushed the 10-year yield near 5% and raised the odds of a December Fed hike.",
+    "India's October retail inflation was 6.09%, above the RBI's 6% limit, with food at 8.94%.",
+    "CoreWeave's $132.5 billion backlog and OpenAI's $10.9 billion operating loss show that growing revenue does not guarantee profit."
+   ],
+   "quiz": [
+    {
+     "q": "What did Nvidia's board start at the beginning of the week concerning CEO Jensen Huang?",
+     "options": [
+      "An acquisition",
+      "An independent probe",
+      "A buyback",
+      "A stock split"
+     ],
+     "answer": 1,
+     "explain": "The board started an independent probe; Huang later resigned."
+    },
+    {
+     "q": "To what level did Brent fall after dropping over 13% in a week?",
+     "options": [
+      "$98.32",
+      "$92.57",
+      "$95.82",
+      "$105"
+     ],
+     "answer": 0,
+     "explain": "Monday's edition had Brent at $98.32. $92.57 was the next day's price and $95.82 was Thursday's."
+    },
+    {
+     "q": "To what level did the S&P 500 rise in a single 2.35% jump?",
+     "options": [
+      "7,520.93",
+      "7,592.40",
+      "7,549.94",
+      "7,500"
+     ],
+     "answer": 2,
+     "explain": "7,549.94, its best day since April. 7,520.93 was the next day's close."
+    },
+    {
+     "q": "How much did US prices rise in October on the month?",
+     "options": [
+      "0.1%",
+      "0.4%",
+      "0.9%",
+      "1.2%"
+     ],
+     "answer": 1,
+     "explain": "0.4%, above expectations."
+    },
+    {
+     "q": "Which company is Mitsui Chemicals buying?",
+     "options": [
+      "Axalta",
+      "Trustmark",
+      "JSR",
+      "Intermex"
+     ],
+     "answer": 2,
+     "explain": "Mitsui Chemicals is buying JSR in Japan's biggest chemical acquisition, at about $11.6 billion."
+    },
+    {
+     "q": "How large did CoreWeave's backlog grow to?",
+     "options": [
+      "$13.25 billion",
+      "$66 billion",
+      "$1.3 billion",
+      "$132.5 billion"
+     ],
+     "answer": 3,
+     "explain": "Backlog of $132.5 billion, with revenue up 168% to about $3.66 billion."
+    },
+    {
+     "q": "What was OpenAI's third-quarter operating loss?",
+     "options": [
+      "$1.9 billion",
+      "$5.5 billion",
+      "$10.9 billion",
+      "$20 billion"
+     ],
+     "answer": 2,
+     "explain": "Revenue was about $10 billion, yet the operating loss was $10.9 billion."
+    },
+    {
+     "q": "What ticker was announced in Anthropic's IPO roadshow?",
+     "options": [
+      "ANT",
+      "ANTH",
+      "CLD",
+      "AI"
+     ],
+     "answer": 0,
+     "explain": "The ticker is ANT, at $70–$78 a share."
+    },
+    {
+     "q": "How much is Hancock Whitney paying for Trustmark in an all-stock deal?",
+     "options": [
+      "$1.2 billion",
+      "$3.2 billion",
+      "$32 billion",
+      "$58 billion"
+     ],
+     "answer": 1,
+     "explain": "$3.2 billion, creating a bank with about $58 billion in assets."
+    },
+    {
+     "q": "What was India's food inflation in October?",
+     "options": [
+      "6.09%",
+      "5.54%",
+      "8.94%",
+      "4%"
+     ],
+     "answer": 2,
+     "explain": "Food inflation was 8.94%, and overall 6.09%."
+    }
+   ]
+  }
+ }
+}

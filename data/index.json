@@ -1,6 +1,13 @@
 {
- "latest": "2026-11-13",
+ "latest": "2026-11-15",
  "days": [
+  {
+   "date": "2026-11-15",
+   "label": "১৫ নভেম্বর ২০২৬, রবিবার",
+   "labelEn": "Sunday, 15 November 2026",
+   "headline": "Fed-এর ডিসেম্বরে সুদ বাড়ানোর সম্ভাবনা প্রায় 90%, Anthropic-এর IPO $70–$78 দামে",
+   "headlineEn": "Fed December hike odds near 90%; Anthropic IPO priced at $70–$78 a share"
+  },
   {
    "date": "2026-11-13",
    "label": "১৩ নভেম্বর ২০২৬, শুক্রবার",
