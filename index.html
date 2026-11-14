@@ -1,11 +1,10 @@
 <!doctype html><html><head><meta charset=utf8><meta name=viewport content="width=device-width,initial-scale=1,viewport-fit=cover"><style>:root{color-scheme:light;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}html{scroll-padding-top:env(safe-area-inset-top,0px)}body{margin:0;padding:0;font:14px -apple-system,BlinkMacSystemFont,sans-serif;background:#fff;color:#000}img{max-width:100%}[hidden]:not([hidden=until-found i]){display:none!important}</style></head><body>
 <title>News Board</title>
-<link rel="icon" type="image/png" href="https://sandip617.github.io/news-board/icons/favicon.png?v=2">
-<link rel="apple-touch-icon" href="https://sandip617.github.io/news-board/icons/apple-touch-icon.png?v=2">
+<link rel="icon" type="image/png" href="icons/favicon.png?v=2">
+<link rel="apple-touch-icon" href="icons/apple-touch-icon.png?v=2">
 <meta property="og:title" content="Sandip's Board">
-<meta property="og:image" content="https://sandip617.github.io/news-board/icons/og.png">
+<meta property="og:image" content="https://news.itzsandippal.com/icons/og.png">
 <meta name="theme-color" content="#f5f1e8">
-<script>if (location.hostname === "sandip617.github.io" && !/[?&]stay\b/.test(location.search)) location.replace("https://itzsandippal.com/newsboard/" + location.hash);</script>
 <meta name="claude:viewport-fit-sides" content="cover">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -523,9 +522,7 @@ html[lang="en"] .kicker { letter-spacing: 0.1em; }
 (function () {
   // ---------- site settings (public values only, never put secrets here) ----------
   const CONFIG = {
-    PUBLIC_URL: "https://itzsandippal.com/newsboard/",
-    // where data/*.json lives: the GitHub Pages copy (used when the board is opened at itzsandippal.com/newsboard)
-    DATA_HOME: "https://sandip617.github.io/news-board/",
+    PUBLIC_URL: "https://news.itzsandippal.com/",
     SUBSCRIBE_ACTION: "https://assets.mailerlite.com/jsonp/2780838/forms/203652515509569524/subscribe",
     // 50%-scroll popup: Sandip's newsletter "The Brief" (MailerLite group "Website newsletter")
     POPUP_ACTION: "https://assets.mailerlite.com/jsonp/2780838/forms/203669994616129009/subscribe"
@@ -731,9 +728,8 @@ html[lang="en"] .kicker { letter-spacing: 0.1em; }
   };
 
   // ---------- data loading ----------
-  const DATA_BASE = /(^|\.)itzsandippal\.com$/.test(location.hostname) ? CONFIG.DATA_HOME : "";
   async function getJSON(path) {
-    const r = await fetch(DATA_BASE + path, { cache: "no-cache" });
+    const r = await fetch(path, { cache: "no-cache" });
     if (!r.ok) throw new Error(path + " " + r.status);
     return r.json();
   }

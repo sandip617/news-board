@@ -2,7 +2,7 @@
 
 A daily business newspaper for BBA students, in **Bangla and English**. Every morning it gets a new edition with the day's most important global business news, an AI-written blog, a business term, a GD topic, a 5-question quiz, a weekly case study and a market snapshot.
 
-**Live:** https://itzsandippal.com/newsboard/ (a new edition every morning)
+**Live:** https://news.itzsandippal.com/ (a new edition every morning)
 **Made by:** [Sandip Pal](https://itzsandippal.com)
 
 ## What's on the board
