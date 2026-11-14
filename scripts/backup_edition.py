@@ -58,6 +58,8 @@ def http_json(url, data=None, headers=None, method=None, timeout=300):
             return e.code, json.loads(raw)
         except ValueError:
             return e.code, {"raw": raw[:500]}
+    except (urllib.error.URLError, TimeoutError, OSError) as e:  # timeout / network: let the caller move on
+        return 0, {"error": f"{type(e).__name__}: {e}"}
 
 
 def labels(day):
@@ -123,11 +125,11 @@ def collect_news(day):
             if not (start <= when <= end):
                 continue
             seen.add(link)
-            items.append({"source": source, "title": title, "summary": strip_html(it.findtext("description"))[:500],
+            items.append({"source": source, "title": title, "summary": strip_html(it.findtext("description"))[:280],
                           "url": link, "published": when.astimezone(IST).strftime("%Y-%m-%d %H:%M IST")})
     items.sort(key=lambda x: x["published"], reverse=True)
     log(f"collected {len(items)} news items")
-    return items[:90]
+    return items[:60]
 
 
 MARKETS = [  # name, Yahoo symbol, Bangla region, English region
@@ -200,6 +202,7 @@ TODAY'S NEWS ITEMS:
 
 
 GAPI = "https://generativelanguage.googleapis.com/v1beta"
+DEADLINE = time.time() + 45 * 60  # stay inside the Action's 60-minute limit
 _models_cache = []
 
 
@@ -241,9 +244,12 @@ def call_gemini(prompt, key):
         "contents": [{"role": "user", "parts": [{"text": prompt}]}],
         "generationConfig": {"temperature": 0.4, "maxOutputTokens": 60000},
     }
-    for model in pick_models(key)[:6]:
+    for model in pick_models(key)[:4]:
+        if time.time() > DEADLINE:
+            last += " (stopped: out of time)"
+            break
         for attempt in range(2):  # one retry per model, then move on
-            code, res = http_json(f"{GAPI}/models/{model}:generateContent", payload, {"x-goog-api-key": key})
+            code, res = http_json(f"{GAPI}/models/{model}:generateContent", payload, {"x-goog-api-key": key}, timeout=480)
             if code == 200:
                 parts = (res.get("candidates") or [{}])[0].get("content", {}).get("parts", [])
                 text = "".join(p.get("text", "") for p in parts)
@@ -253,7 +259,7 @@ def call_gemini(prompt, key):
                 break
             last = f"{model}: HTTP {code} {json.dumps(res)[:200]}"
             log("failed:", last)
-            if code not in (429, 500, 502, 503, 504) or attempt == 1:
+            if code not in (429, 500, 502, 503, 504) or attempt == 1 or time.time() > DEADLINE:
                 break
             time.sleep(65 if code == 429 else 15)  # free tier counts requests per minute
     raise RuntimeError("Gemini failed: " + last)
@@ -388,6 +394,8 @@ def main():
 
     ed, problems = None, []
     for attempt in range(3):
+        if time.time() > DEADLINE:
+            break
         try:
             model, text = call_gemini(prompt + ("\n\nYour previous answer had problems: " + "; ".join(problems) if problems else ""), gkey)
             cand = parse_json(text)
@@ -397,6 +405,9 @@ def main():
                 log("edition written by", model)
                 break
             log("invalid edition:", problems)
+        except RuntimeError as e:  # every model failed this round
+            problems = []
+            log("round failed:", e)
         except (ValueError, KeyError, TypeError) as e:
             problems = [f"answer was not valid JSON ({e})"]
             log("bad answer:", e)
