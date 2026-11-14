@@ -28,8 +28,7 @@ IST = dt.timezone(dt.timedelta(hours=5, minutes=30))
 PUBLIC_URL = "https://news.itzsandippal.com/"
 SENDER = "newsletter@itzsandippal.com"
 SENDER_NAME = "Sandip's Board"
-MODELS = [m for m in [os.environ.get("GEMINI_MODEL", "").strip(),
-                      "gemini-2.5-flash", "gemini-flash-latest"] if m]
+
 
 BN_DIGITS = str.maketrans("0123456789", "০১২৩৪৫৬৭৮৯")
 BN_MONTHS = ["জানুয়ারি", "ফেব্রুয়ারি", "মার্চ", "এপ্রিল", "মে", "জুন", "জুলাই",
@@ -95,32 +94,64 @@ Here is yesterday's edition as the exact schema example (copy field names exactl
 """
 
 
+GAPI = "https://generativelanguage.googleapis.com/v1beta"
+_models_cache = []
+
+
+def version_of(name):
+    m = re.search(r"(\d+(?:\.\d+)?)", name)
+    return float(m.group(1)) if m else 0.0
+
+
+def pick_models(key):
+    """Flash models this key can use, best first: env GEMINI_MODEL, then
+    newest non-lite Flash, then newest Flash Lite. Found from the API so a
+    retired model name never breaks the backup."""
+    if _models_cache:
+        return _models_cache
+    names = []
+    code, res = http_json(f"{GAPI}/models?pageSize=200", None, {"x-goog-api-key": key}, timeout=60)
+    if code == 200:
+        for m in res.get("models", []):
+            name = m.get("name", "").split("/")[-1]
+            if "generateContent" not in m.get("supportedGenerationMethods", []):
+                continue
+            if "flash" not in name or re.search(r"image|tts|audio|live|embed|thinking-exp", name):
+                continue
+            names.append(name)
+    else:
+        log(f"could not list models (HTTP {code}), using fallbacks")
+    names.sort(key=lambda n: ("lite" in n, "preview" in n or "exp" in n, -version_of(n), len(n)))
+    env_model = os.environ.get("GEMINI_MODEL", "").strip()
+    order = ([env_model] if env_model else []) + names + ["gemini-flash-latest", "gemini-flash-lite-latest"]
+    seen = set()
+    _models_cache.extend(m for m in order if not (m in seen or seen.add(m)))
+    log("models to try:", ", ".join(_models_cache[:6]))
+    return _models_cache
+
+
 def call_gemini(prompt, key):
     last = "no model tried"
-    for model in MODELS:
-        url = f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent"
-        payload = {
-            "contents": [{"role": "user", "parts": [{"text": prompt}]}],
-            "tools": [{"google_search": {}}],
-            "generationConfig": {"temperature": 0.4, "maxOutputTokens": 60000},
-        }
-        for attempt in range(3):
-            code, res = http_json(url, payload, {"x-goog-api-key": key})
+    payload = {
+        "contents": [{"role": "user", "parts": [{"text": prompt}]}],
+        "tools": [{"google_search": {}}],
+        "generationConfig": {"temperature": 0.4, "maxOutputTokens": 60000},
+    }
+    for model in pick_models(key)[:6]:
+        for attempt in range(2):  # one retry per model, then move on
+            code, res = http_json(f"{GAPI}/models/{model}:generateContent", payload, {"x-goog-api-key": key})
             if code == 200:
                 parts = (res.get("candidates") or [{}])[0].get("content", {}).get("parts", [])
                 text = "".join(p.get("text", "") for p in parts)
                 if text.strip():
                     return model, text
                 last = f"{model}: empty answer ({json.dumps(res)[:300]})"
-            elif code == 404:
-                last = f"{model}: model not found"
                 break
-            else:
-                last = f"{model}: HTTP {code} {json.dumps(res)[:300]}"
-                if code not in (429, 500, 502, 503, 504):
-                    break
-            log("retrying after:", last)
-            time.sleep(20 * (attempt + 1))
+            last = f"{model}: HTTP {code} {json.dumps(res)[:200]}"
+            log("failed:", last)
+            if code not in (429, 500, 502, 503, 504) or attempt == 1:
+                break
+            time.sleep(65 if code == 429 else 15)  # free tier counts requests per minute
     raise RuntimeError("Gemini failed: " + last)
 
 
