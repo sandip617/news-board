@@ -1,0 +1,555 @@
+{
+ "date": "2026-11-16",
+ "dateLabel": "১৬ নভেম্বর ২০২৬, সোমবার",
+ "edition": 1,
+ "updatedAt": "2026-11-16T07:30:00+05:30",
+ "news": [
+  {
+   "id": "n1",
+   "category": "কর্পোরেট",
+   "title": "Nvidia-র জন্য বাইরে থেকে CEO চান Bessent; মঙ্গলবার Kress-এর প্রথম earnings",
+   "summary": "US Treasury Secretary Scott Bessent রবিবার Fox News-এ বলেছেন, Jensen Huang-এর পদত্যাগের পর Nvidia-র বোর্ডের উচিত কোম্পানির বাইরে থেকে নতুন CEO খোঁজা, আর দরকার একটি \"dramatic shake-up\"। তিনি বলেছেন, export restriction মানার সংস্কৃতি নিয়ে বোর্ড ও বাইরের আইনজীবীদের আগামী 10 দিনের মধ্যে প্রশ্নের উত্তর দিতে হবে। অন্তর্বর্তী CEO Colette Kress মঙ্গলবার (17 নভেম্বর) বাজার বন্ধের পর কোম্পানির ফল পেশ করবেন; কোম্পানির নিজের guidance ছিল প্রায় $108 বিলিয়ন রাজস্ব (±2%), বিশ্লেষকদের গড় অনুমান প্রায় $109 বিলিয়ন। Financial Times-এর সূত্রে Reuters জানিয়েছে, বোর্ড Arm-এর CEO Rene Haas-এর সঙ্গে যোগাযোগ করেছে।",
+   "why": "এটি corporate governance আর succession planning-এর বাস্তব পরীক্ষা: শীর্ষ নেতার হঠাৎ প্রস্থানে শেয়ারের দাম, নিয়ন্ত্রক চাপ আর বিনিয়োগকারীর আস্থা একসঙ্গে নড়ে যায়।",
+   "source": {
+    "name": "Fox Business",
+    "url": "https://www.foxbusiness.com/business-leaders/bessent-calls-nvidia-leadership-shake-up-amid-china-chip-scandal-urges-outside-ceo"
+   }
+  },
+  {
+   "id": "n2",
+   "category": "IPO",
+   "title": "Anthropic-এর IPO: শেয়ারপ্রতি $70–$78, চাহিদা প্রায় ছয় গুণ বলে খবর",
+   "summary": "Anthropic Nasdaq-এ \"ANT\" নামে 82.5 কোটি Class A শেয়ার শেয়ারপ্রতি $70–$78 দামে বিক্রির roadshow শুরু করেছে। Bloomberg-এর সূত্রে খবর, অর্ডার উপলব্ধ শেয়ারের প্রায় ছয় গুণে পৌঁছেছে। সংবাদমাধ্যমের হিসেবে দাম ঠিক হতে পারে 18 নভেম্বর আর লেনদেন শুরু 19 নভেম্বর (এগুলো কোম্পানি নিশ্চিত করেনি)। দামের ঊর্ধ্বসীমায় fully diluted valuation প্রায় $1.4 ট্রিলিয়ন, যা আগে ভাসা $2 ট্রিলিয়নের অনুমানের চেয়ে কম।",
+   "why": "এখানে book building, oversubscription আর valuation একসঙ্গে দেখা যায়। চাহিদা বেশি হলে underwriter সাধারণত দামের range-এর ওপরের দিকে যেতে পারে।",
+   "source": {
+    "name": "Fortune",
+    "url": "https://fortune.com/2026/11/10/anthropic-ipo-price-range-ai-stock-sell-off/"
+   }
+  },
+  {
+   "id": "n3",
+   "category": "ম্যাক্রো",
+   "title": "অপ্রত্যাশিতভাবে সংকুচিত হলো Japan-এর অর্থনীতি: Q3-তে GDP annualized 0.1% কমেছে",
+   "summary": "Japan-এর অর্থনীতি জুলাই–সেপ্টেম্বর কোয়ার্টারে annualized 0.1% সংকুচিত হয়েছে, অথচ Reuters-এর জরিপে অর্থনীতিবিদরা 0.3% বৃদ্ধি আশা করেছিলেন; আগের কোয়ার্টারে বৃদ্ধি ছিল 1.4%। উঁচু জ্বালানি আমদানি খরচের কারণে net exports বৃদ্ধি থেকে 0.6 percentage point কমিয়েছে। সেপ্টেম্বরে পরিবারের জন্য জ্বালানি ভর্তুকি শেষ হওয়ায় ব্যক্তিগত ভোগ 0.3% কমেছে। বাজারে আশা, Bank of Japan ডিসেম্বরে আরও একবার সুদ বাড়াতে পারে।",
+   "why": "GDP-র উপাদান (consumption, investment, government spending, net exports) বুঝতে এটি ভালো উদাহরণ: জ্বালানির দাম বাড়লে আমদানি খরচ বেড়ে net exports আর ভোগ দুটোই চাপে পড়ে।",
+   "source": {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/16/japan-q3-gdp-energy-oil-prices.html"
+   }
+  },
+  {
+   "id": "n4",
+   "category": "কমোডিটি",
+   "title": "সৌদি জ্বালানি স্থাপনায় হামলা আর Hormuz-এ বিঘ্নে Brent $3-এর বেশি লাফিয়ে $95.82-এ (বৃহস্পতিবার)",
+   "summary": "বৃহস্পতিবার 12 নভেম্বর Brent $3.06 (3.3%) বেড়ে ব্যারেলপ্রতি $95.82-এ বন্ধ হয়েছে, WTI বন্ধ হয়েছে $88.74-এ। Houthi বাহিনী সৌদি East-West pipeline-এর একটি পাম্পিং স্টেশন, Yanbu-র একটি তেল স্থাপনা ও Riyadh-এ একটি Aramco ভবনে হামলার দাবি করেছে; সৌদি নেতৃত্বাধীন জোট দুটি drone ধ্বংসের কথা বলেছে। Iran-এর সেনাবাহিনী জানিয়েছে Hormuz প্রণালীতে চারটি তেলের ট্যাংকারে বিস্ফোরণ হয়েছে। এত কিছুর পরও সপ্তাহ জুড়ে দুটি benchmark প্রায় 2.5% নিচে ছিল।",
+   "why": "Supply shock-এ দাম কীভাবে লাফায় তা বোঝায়। তেলের দাম ভারতের মতো আমদানিনির্ভর দেশে মূল্যবৃদ্ধি আর বাণিজ্য ঘাটতি বাড়ায়।",
+   "source": {
+    "name": "AsiaOne (Reuters)",
+    "url": "https://www.asiaone.com/money/oil-settles-3-higher-attacks-saudi-energy-sites-strait-hormuz-disruptions"
+   }
+  },
+  {
+   "id": "n5",
+   "category": "ভারত",
+   "title": "ভারতে খুচরো মূল্যবৃদ্ধি 6.09%, RBI-র সীমার ওপরে; Sensex 319 পয়েন্ট পড়ল, রুপি 94.24",
+   "summary": "অক্টোবরে ভারতের CPI মূল্যবৃদ্ধি সেপ্টেম্বরের 5.54% থেকে বেড়ে 6.09% হয়েছে, যা RBI-র 6% উপরের সহনসীমা পেরিয়েছে। গ্রামে মূল্যবৃদ্ধি 6.63% আর শহরে 5.41%। RBI অক্টোবরে repo rate 25 basis point বাড়িয়ে 5.50% করেছিল, 2023-এর ফেব্রুয়ারির পর প্রথম বৃদ্ধি। শুক্রবার Sensex 318.56 পয়েন্ট (0.39%) কমে 81,592.45-এ আর Nifty 155.05 পয়েন্ট কমে 25,144.30-এ বন্ধ হয়েছে; ডলারের বিপরীতে রুপি 21 পয়সা দুর্বল হয়ে 94.24।",
+   "why": "Inflation targeting আর monetary policy-র সরাসরি প্রয়োগ: মূল্যবৃদ্ধি সহনসীমা ছাড়ালে কেন্দ্রীয় ব্যাংক সুদ বাড়ায়, যার প্রভাব শেয়ার, ঋণ আর মুদ্রায় পড়ে।",
+   "source": {
+    "name": "The Tribune",
+    "url": "https://www.tribuneindia.com/news/6inflation/retail-inflation-hits-24-month-high-of-6-09-in-october-crosses-rbis-upper-tolerance-limit-ahead-of-december-mpc-meet"
+   }
+  },
+  {
+   "id": "n6",
+   "category": "ম্যাক্রো",
+   "title": "এই সপ্তাহে নজরে: US retail sales, Fed-এর বৈঠকের minutes, Walmart-এর ফল",
+   "summary": "পূর্বাভাস অনুযায়ী মঙ্গলবার প্রকাশিতব্য US অক্টোবর retail sales প্রায় অপরিবর্তিত (0.0%) থাকবে, সেপ্টেম্বরে বৃদ্ধি ছিল 0.8%। বুধবার Fed-এর গত বৈঠকের minutes প্রকাশ হবে; সেই বৈঠকে সুদ 3.75%–4.00%-এ অপরিবর্তিত রাখার পক্ষে ভোট ছিল 10–2, আর Cook ও Hammack সুদ বাড়াতে চেয়েছিলেন। বৃহস্পতিবার Walmart-এর ফলের পূর্বাভাস: শেয়ারপ্রতি আয় $0.63, রাজস্ব $187.2 বিলিয়ন। গত সপ্তাহে S&P 500 প্রায় 2.5% বেড়ে টানা চার সপ্তাহের পতন থামিয়েছে।",
+   "why": "ভোক্তা ব্যয় (consumer spending) অর্থনীতির সবচেয়ে বড় চালিকা, আর Fed-এর minutes থেকে বোঝা যায় ভবিষ্যৎ সুদের হার নিয়ে কেন্দ্রীয় ব্যাংক কোন দিকে ভাবছে।",
+   "source": {
+    "name": "TradingView News",
+    "url": "https://www.tradingview.com/news/moodys:45cad514d6c8f:0-wall-street-week-ahead-nvidia-earnings-anthropic-ipo-federal-reserve-minutes-retail-sales-top-things-to-watch/"
+   }
+  },
+  {
+   "id": "n7",
+   "category": "M&A",
+   "title": "Tesla–SpaceX একত্রীকরণের জল্পনা: Musk নিজেকে \"conflicted party\" বলেছেন বলে খবর",
+   "summary": "Reuters-এর প্রতিবেদনের সারসংক্ষেপ অনুযায়ী, Tesla-SpaceX সম্ভাব্য merger নিয়ে Elon Musk-এর সমর্থন কোম্পানির ভেতরের লোকদের অস্বস্তিতে ফেলেছে। Musk নিজেকে \"conflicted party\" বলেছেন বলে খবর, কারণ দুই কোম্পানিতেই তাঁর বড় অংশীদারি। দুটি সম্ভাব্য কাঠামো খতিয়ে দেখা হচ্ছে বলে জানা গেছে। এটি এখনও অনিশ্চিত জল্পনা, কোনো আনুষ্ঠানিক প্রস্তাব নয়।",
+   "why": "M&A-তে conflict of interest আর independent committee-র ভূমিকা কেন গুরুত্বপূর্ণ তা বোঝায়: যে পক্ষ দুই দিকেই স্বার্থ রাখে, তার সিদ্ধান্ত স্বাধীনভাবে যাচাই করা দরকার।",
+   "source": {
+    "name": "Admiral Markets (Reuters-based)",
+    "url": "https://admiralmarkets.com/analytics/traders-blog/spacex-tesla-merger-sp500"
+   }
+  }
+ ],
+ "market": {
+  "asOf": "১৩ নভেম্বর ২০২৬, শুক্রবারের ক্লোজিং",
+  "items": [
+   {
+    "name": "S&P 500",
+    "region": "US",
+    "value": "7,561.67",
+    "change": "-0.40%",
+    "dir": "down"
+   },
+   {
+    "name": "Dow Jones",
+    "region": "US",
+    "value": "52,347.55",
+    "change": "+0.10%",
+    "dir": "up"
+   },
+   {
+    "name": "Nasdaq",
+    "region": "US",
+    "value": "25,136.27",
+    "change": "-0.91%",
+    "dir": "down"
+   },
+   {
+    "name": "Sensex",
+    "region": "ভারত",
+    "value": "81,592.45",
+    "change": "-0.39%",
+    "dir": "down"
+   },
+   {
+    "name": "Nifty 50",
+    "region": "ভারত",
+    "value": "25,144.30",
+    "change": "-0.61%",
+    "dir": "down"
+   },
+   {
+    "name": "Brent Crude",
+    "region": "$ প্রতি ব্যারেল",
+    "value": "$95.84",
+    "change": "+0.02%",
+    "dir": "up"
+   },
+   {
+    "name": "Gold",
+    "region": "$ প্রতি আউন্স",
+    "value": "$3,884.69",
+    "change": "+0.18%",
+    "dir": "up"
+   },
+   {
+    "name": "USD/INR",
+    "region": "₹ প্রতি ডলার",
+    "value": "94.24",
+    "change": "+21 পয়সা",
+    "dir": "up"
+   }
+  ]
+ },
+ "term": {
+  "term": "Net Exports",
+  "bangla": "রপ্তানি ও আমদানির পার্থক্য",
+  "definition": "কোনো দেশ একটি নির্দিষ্ট সময়ে যত টাকার পণ্য-পরিষেবা রপ্তানি করে আর যত টাকার আমদানি করে, তার পার্থক্যকে net exports বলে। রপ্তানি বেশি হলে এটি ধনাত্মক হয় আর GDP বাড়ায়; আমদানি বেশি হলে ঋণাত্মক হয় আর GDP-র বৃদ্ধি কমায়। এটি GDP-র expenditure approach-এর চতুর্থ উপাদান।",
+  "example": "Japan-এর Q3-তে উঁচু জ্বালানি আমদানি খরচের কারণে net exports GDP বৃদ্ধি থেকে 0.6 percentage point কমিয়েছে, ফলে অর্থনীতি annualized 0.1% সংকুচিত হয়েছে।",
+  "formula": "Net Exports = Exports − Imports; GDP = C + I + G + (X − M)",
+  "tip": "Interview-তে GDP-র সূত্র C + I + G + (X − M) মুখস্থ রাখো আর বলো, আমদানি বাড়লে GDP-র হিসাবে তা কেটে যায়, কারণ আমদানি করা পণ্য দেশের উৎপাদন নয়।"
+ },
+ "gd": {
+  "topic": "সংকটের পর বোর্ড কি কোম্পানির বাইরে থেকে CEO আনবে, নাকি ভেতরের কাউকে?",
+  "context": "Jensen Huang-এর পদত্যাগের পর Nvidia অন্তর্বর্তী CEO Colette Kress-এর নেতৃত্বে চলছে। Bessent বাইরে থেকে CEO আনতে বলেছেন, আর বোর্ড Arm-এর CEO-র সঙ্গেও কথা বলেছে বলে খবর।",
+  "for": [
+   "বাইরের CEO নতুন দৃষ্টিভঙ্গি আনে আর আগের সংস্কৃতি ও compliance-এর দুর্বলতা ভাঙতে পারে।",
+   "নিয়ন্ত্রক ও বিনিয়োগকারীদের কাছে স্পষ্ট বার্তা যায় যে সত্যিই পরিবর্তন হচ্ছে।",
+   "স্বাধীনভাবে সিদ্ধান্ত নেওয়া সহজ হয়, কারণ আগের নেতৃত্বের সঙ্গে ব্যক্তিগত সম্পর্ক থাকে না।"
+  ],
+  "against": [
+   "ভেতরের লোক কোম্পানির প্রযুক্তি, গ্রাহক আর সংস্কৃতি ভালো জানে, ফলে পরিবর্তন দ্রুত হয়।",
+   "বাইরের CEO-কে শেখার সময় দিতে হয়, আর সংকটের সময় সেই সময় কম।",
+   "রাজনৈতিক চাপে বোর্ডের সিদ্ধান্ত নেওয়া শাসনব্যবস্থার স্বাধীনতার প্রশ্ন তোলে।"
+  ]
+ },
+ "blog": {
+  "title": "GDP-র সূত্রে Japan-এর সংকোচন: net exports কীভাবে অর্থনীতি টেনে নামায়",
+  "topic": "GDP আর Net Exports",
+  "readMin": 5,
+  "body": [
+   "## GDP কী আর কীভাবে মাপা হয়",
+   "কোনো দেশের অর্থনীতি কতটা বড় বা কতটা দ্রুত বাড়ছে, তা মাপার সবচেয়ে প্রচলিত উপায় হলো Gross Domestic Product বা GDP। সহজ ভাষায়, এক নির্দিষ্ট সময়ে (সাধারণত এক কোয়ার্টার বা এক বছরে) দেশের ভেতরে উৎপাদিত সব চূড়ান্ত পণ্য ও পরিষেবার মোট বাজারমূল্যই GDP। একে মাপার তিনটি পথ আছে: উৎপাদন, আয় আর ব্যয়। BBA-র অর্থনীতি ক্লাসে সবচেয়ে বেশি আসে ব্যয়ের পথ, যার সূত্র হলো GDP = C + I + G + (X − M)।",
+   "এই সূত্রে C হলো Consumption, অর্থাৎ পরিবারগুলোর ভোগ। I হলো Investment, অর্থাৎ কোম্পানির যন্ত্রপাতি, কারখানা আর সফটওয়্যারে বিনিয়োগ। G হলো Government spending, অর্থাৎ সরকারি ব্যয়। শেষ অংশ (X − M) হলো net exports, অর্থাৎ রপ্তানি (Exports) থেকে আমদানি (Imports) বাদ দিলে যা থাকে। আমদানি বাদ যায় কারণ আমদানি করা পণ্য দেশের ভেতরে উৎপাদিত নয়, অথচ সেটি ভোগ বা বিনিয়োগের হিসাবে ঢুকে পড়ে। তাই তা কেটে না দিলে GDP বেশি দেখাত।",
+   "## Japan-এর উদাহরণ: কেন GDP কমল",
+   "আজকের খবরে দেখা যাচ্ছে, Japan-এর অর্থনীতি জুলাই–সেপ্টেম্বর কোয়ার্টারে annualized 0.1% সংকুচিত হয়েছে, অথচ অর্থনীতিবিদরা 0.3% বৃদ্ধি আশা করেছিলেন। আগের কোয়ার্টারে বৃদ্ধি ছিল 1.4%। অর্থাৎ বৃদ্ধি থেকে সরাসরি সংকোচনে চলে যাওয়াটা ছিল অপ্রত্যাশিত। কারণ খুঁজলে সূত্রের দুটি অংশ চোখে পড়ে।",
+   "প্রথমত, net exports। Japan তার জ্বালানির বড় অংশ আমদানি করে। এই কোয়ার্টারে জ্বালানির দাম উঁচু থাকায় আমদানির খরচ বেড়েছে, ফলে (X − M) ছোট হয়েছে এবং এটি একাই বৃদ্ধি থেকে 0.6 percentage point কমিয়েছে। দ্বিতীয়ত, Consumption। সেপ্টেম্বরে পরিবারগুলোর জ্বালানি ভর্তুকি শেষ হয়ে যাওয়ায় তাদের হাতে খরচের টাকা কমেছে, আর ব্যক্তিগত ভোগ 0.3% কমেছে। সূত্রের আরেকটি অংশ অবশ্য সাহায্য করেছে: কোম্পানিগুলো AI-তে বেশি বিনিয়োগ করেছে, ফলে I কিছুটা ঠেকা দিয়েছে। কিন্তু তা যথেষ্ট ছিল না।",
+   "## তেলের দাম আর GDP-র সম্পর্ক",
+   "একই সপ্তাহের অন্য খবরের সঙ্গে এটি মেলালে ছবি পরিষ্কার হয়। বৃহস্পতিবার সৌদি জ্বালানি স্থাপনায় হামলা আর Hormuz প্রণালীতে বিঘ্নের খবরে Brent $3.06 বেড়ে $95.82-এ বন্ধ হয়েছে। যে দেশ জ্বালানি আমদানি করে, তার জন্য তেলের দাম বাড়া মানে আমদানির বিল বড় হওয়া। এতে দুদিক থেকে চাপ আসে: একদিকে net exports কমে, অন্যদিকে মূল্যবৃদ্ধি বাড়ায় মানুষের প্রকৃত আয় (real income) কমে, তাই ভোগও কমে। ভারতের অবস্থাও একই ধরনের, কারণ ভারত তার অপরিশোধিত তেলের বড় অংশ আমদানি করে। অক্টোবরে ভারতের খুচরো মূল্যবৃদ্ধি 6.09% হয়ে RBI-র 6% সীমা পেরিয়েছে, আর রুপি দুর্বল হয়ে 94.24-এ নেমেছে।",
+   "## কেন্দ্রীয় ব্যাংকের উভয়সংকট",
+   "এখানেই কেন্দ্রীয় ব্যাংকের কঠিন পরিস্থিতি। Japan-এ অর্থনীতি সংকুচিত হচ্ছে, অথচ বাজার আশা করছে Bank of Japan ডিসেম্বরে আবার সুদ বাড়াবে। আমেরিকায় Fed সুদ কমাচ্ছে না, বরং ডিসেম্বরে বাড়ানোর কথা উঠছে। অর্থাৎ বৃদ্ধি দুর্বল হলেও মূল্যবৃদ্ধি বেশি থাকলে কেন্দ্রীয় ব্যাংক সুদ বাড়ানোর দিকেই ঝোঁকে। এই পরিস্থিতিকে stagflation-এর ঝুঁকি বলা হয়, যেখানে বৃদ্ধি কমে আর দাম বাড়তে থাকে। এখানে সুদের হার বাড়ালে মূল্যবৃদ্ধি কমতে পারে, কিন্তু ঋণ ব্যয়বহুল হওয়ায় বিনিয়োগ (I) আর ভোগ (C) আরও কমে যেতে পারে।",
+   "## ভারতের শিক্ষার্থীর জন্য প্রাসঙ্গিকতা",
+   "ভারতে GDP-র হিসাবে ভোগ (C) সবচেয়ে বড় অংশ, তাই খুচরো মূল্যবৃদ্ধি 6%-এর ওপরে থাকলে মানুষের ক্রয়ক্ষমতা কমে আর কোম্পানির বিক্রিতে তার ছাপ পড়ে। আবার তেল আমদানির খরচ বাড়লে বাণিজ্য ঘাটতি বাড়ে, রুপি দুর্বল হয়, আর তাতে অন্য আমদানি করা পণ্যও দামি হয়। এই কারণেই RBI-র মতো সংস্থা মূল্যবৃদ্ধি আর বৃদ্ধির মধ্যে ভারসাম্য রাখতে সুদের হার নিয়ে সতর্কভাবে সিদ্ধান্ত নেয়। কোম্পানির দিক থেকে দেখলে, যারা আমদানি করা কাঁচামালের ওপর নির্ভরশীল, তাদের খরচ আর মুনাফার margin দ্রুত বদলে যেতে পারে, আর যারা রপ্তানি করে তারা দুর্বল রুপির সুবিধা পেতে পারে।",
+   "## BBA শিক্ষার্থীর জন্য ব্যবহারিক শিক্ষা",
+   "এক, কোনো দেশের GDP-র খবর পড়লে শুধু মোট সংখ্যা দেখো না, সূত্রের কোন অংশ বদলেছে তা খোঁজো। দুই, কোনো কোম্পানির ব্যবসা পরিকল্পনা করার সময় ভাবো, জ্বালানির দাম বা সুদের হার বদলালে তোমার গ্রাহকের ভোগ আর তোমার খরচ কীভাবে বদলাবে। তিন, interview বা GD-তে বড় খবর পেলে সেটিকে C, I, G আর (X − M)-এর কাঠামোয় সাজিয়ে বলো; এতে তোমার উত্তর গোছানো আর বিশ্লেষণধর্মী শোনাবে। চার, মনে রাখো, একটি খবর প্রায় কখনোই একা আসে না: তেল, মুদ্রা, সুদ আর বৃদ্ধি একে অপরের সঙ্গে জড়িত, আর ভালো বিশ্লেষক সেই যোগসূত্র দেখাতে পারে।"
+  ],
+  "takeaways": [
+   "GDP = C + I + G + (X − M); আমদানি বাড়লে net exports কমে আর GDP-র বৃদ্ধি চাপে পড়ে।",
+   "জ্বালানির দাম বাড়লে আমদানিকারক দেশে net exports আর ভোগ দুটোই কমতে পারে, যেমন Japan-এ হয়েছে।",
+   "বৃদ্ধি দুর্বল আর মূল্যবৃদ্ধি বেশি হলে কেন্দ্রীয় ব্যাংকের সামনে stagflation-এর উভয়সংকট তৈরি হয়।"
+  ]
+ },
+ "quiz": [
+  {
+   "q": "Japan-এর Q3 GDP annualized কত শতাংশ কমেছে?",
+   "options": [
+    "0.3%",
+    "0.1%",
+    "1.4%",
+    "0.6%"
+   ],
+   "answer": 1,
+   "explain": "GDP annualized 0.1% সংকুচিত হয়েছে; 0.3% ছিল বৃদ্ধির পূর্বাভাস।"
+  },
+  {
+   "q": "Bessent-এর মতে Nvidia-র নতুন CEO কেমন হওয়া উচিত?",
+   "options": [
+    "কোম্পানির বাইরে থেকে আনা",
+    "Jensen Huang-কে ফেরানো",
+    "অবশ্যই Colette Kress",
+    "কোনো সরকারি কর্মকর্তা"
+   ],
+   "answer": 0,
+   "explain": "Bessent বলেছেন বোর্ডের উচিত কোম্পানির বাইরে থেকে CEO খোঁজা।"
+  },
+  {
+   "q": "Anthropic-এর IPO-তে শেয়ারের প্রস্তাবিত দামের range কত?",
+   "options": [
+    "$60–$68",
+    "$74–$82",
+    "$80–$90",
+    "$70–$78"
+   ],
+   "answer": 3,
+   "explain": "Roadshow-তে range ধরা হয়েছে শেয়ারপ্রতি $70–$78।"
+  },
+  {
+   "q": "GDP-র ব্যয়ভিত্তিক সূত্রে net exports কোনটি?",
+   "options": [
+    "X + M",
+    "X − M",
+    "C − I",
+    "G − X"
+   ],
+   "answer": 1,
+   "explain": "Net exports = রপ্তানি (X) − আমদানি (M)।"
+  },
+  {
+   "q": "অক্টোবরে ভারতের CPI মূল্যবৃদ্ধি কত হয়েছে?",
+   "options": [
+    "5.54%",
+    "5.50%",
+    "6.09%",
+    "6.63%"
+   ],
+   "answer": 2,
+   "explain": "CPI 6.09%, যা RBI-র 6% সীমার ওপরে; 5.54% ছিল সেপ্টেম্বরে।"
+  }
+ ],
+ "caseStudy": {
+  "week": "2026-W47",
+  "weekLabel": "১৬–২২ নভেম্বর ২০২৬",
+  "company": "Zara (Inditex)",
+  "title": "Zara কীভাবে ডিজাইন থেকে দোকানে পৌঁছায় মাত্র কয়েক সপ্তাহে",
+  "concept": "Vertical Integration আর Supply Chain Responsiveness",
+  "intro": "1975 সালে Amancio Ortega স্পেনের A Coruña শহরে প্রথম Zara দোকান খোলেন। পরে এটি Inditex গোষ্ঠীর সবচেয়ে বড় ব্র্যান্ড হয়ে ওঠে। অন্য ফ্যাশন কোম্পানি যেখানে মৌসুমের আগে মাসের পর মাস আগে থেকে পরিকল্পনা করে, Zara সেখানে বাজারে কী চলছে তা দেখে দ্রুত নতুন ডিজাইন বানাতে পারে।",
+  "sections": [
+   {
+    "h": "কী করেছিল",
+    "p": "Zara নিজের ডিজাইন, কাটিং আর প্রধান উৎপাদনের একটি বড় অংশ নিজের নিয়ন্ত্রণে রাখে, যার বড় অংশ সদর দপ্তরের কাছে স্পেন ও আশেপাশের দেশে। দোকানগুলো কোন পোশাক বিক্রি হচ্ছে তার তথ্য নিয়মিত কেন্দ্রে পাঠায়, আর সেই অনুযায়ী ছোট ছোট batch-এ নতুন পোশাক বানিয়ে দোকানে পাঠানো হয়। Zara বিজ্ঞাপনে তুলনামূলকভাবে কম খরচ করে এবং দোকানের অবস্থানকেই প্রধান বিজ্ঞাপন হিসেবে ব্যবহার করে।"
+   },
+   {
+    "h": "ফলাফল",
+    "p": "নতুন ডিজাইন খুব অল্প সময়ে দোকানে পৌঁছায়, আর দোকানে নতুন পোশাক ঘনঘন আসে বলে ক্রেতারা বারবার ফিরে আসে। Inditex বিশ্বের সবচেয়ে বড় ফ্যাশন খুচরা কোম্পানিগুলোর একটি হয়েছে।"
+   },
+   {
+    "h": "কেন কাজ করল",
+    "p": "ছোট batch-এ উৎপাদন মানে অবিক্রীত মজুতের ঝুঁকি কম, আর বেশি বিক্রি হওয়া ডিজাইন দ্রুত আবার বানানো যায়। দোকানের তথ্য সরাসরি ডিজাইন দলের কাছে যাওয়ায় অনুমানের বদলে চাহিদার ওপর ভিত্তি করে সিদ্ধান্ত হয়। নিজের নিয়ন্ত্রণে supply chain রাখায় গতি আর মান দুটোই ধরে রাখা সহজ হয়।"
+   },
+   {
+    "h": "ঝুঁকি আর সমালোচনা",
+    "p": "কাছাকাছি উৎপাদনে শ্রম খরচ বেশি হয়, তাই মুনাফার margin-এ চাপ থাকে। Fast fashion মডেলকে পরিবেশ আর বর্জ্যের কারণে সমালোচনা সইতে হয়েছে, আর সরবরাহকারী কারখানার শ্রমিকদের কাজের পরিবেশ নিয়েও অতীতে প্রশ্ন উঠেছে। অতিরিক্ত চাহিদার পূর্বাভাস ভুল হলে মজুত জমার ঝুঁকিও থেকে যায়।"
+   }
+  ],
+  "lesson": "গতি আর তথ্য প্রতিযোগিতার বড় অস্ত্র: গ্রাহকের চাহিদা দ্রুত জেনে দ্রুত সাড়া দিতে পারলে মজুতের ঝুঁকি কমে আর বিক্রি বাড়ে। তবে এর জন্য supply chain-এর ওপর নিয়ন্ত্রণ আর নৈতিক দায়িত্ব দুটোই সামলাতে হয়।",
+  "question": "তোমার পছন্দের কোনো ব্র্যান্ডের জন্য কি Zara-র মতো ছোট batch আর দ্রুত সাড়ার মডেল কাজ করবে? কোন পণ্যে করবে না, আর কেন?"
+ },
+ "en": {
+  "dateLabel": "Monday, 16 November 2026",
+  "news": [
+   {
+    "id": "n1",
+    "category": "Corporate",
+    "title": "Bessent wants an outside CEO for Nvidia; Kress faces her first earnings on Tuesday",
+    "summary": "US Treasury Secretary Scott Bessent said on Fox News on Sunday that after Jensen Huang's resignation, Nvidia's board should look outside the company for a new CEO and carry out a \"dramatic shake-up\". He said the board and outside counsel must answer questions about the company's export-control compliance culture within 10 days. Interim CEO Colette Kress will present results after the close on Tuesday, 17 November; the company's own guidance was about $108 billion revenue (±2%) and analysts expect about $109 billion. Reuters, citing the Financial Times, reported that the board has approached Arm CEO Rene Haas.",
+    "why": "This is a live test of corporate governance and succession planning: a sudden exit at the top moves the share price, regulators and investor trust all at once.",
+    "source": {
+     "name": "Fox Business",
+     "url": "https://www.foxbusiness.com/business-leaders/bessent-calls-nvidia-leadership-shake-up-amid-china-chip-scandal-urges-outside-ceo"
+    }
+   },
+   {
+    "id": "n2",
+    "category": "IPO",
+    "title": "Anthropic IPO: $70–$78 a share, demand reportedly about six times supply",
+    "summary": "Anthropic has started a roadshow to sell 82.5 million Class A shares on Nasdaq under \"ANT\" at $70–$78 each. Bloomberg reports orders have reached about six times the shares on offer. Press reports say pricing may come on 18 November and trading on 19 November (not confirmed by the company). At the top of the range the fully diluted valuation is about $1.4 trillion, below the $2 trillion once floated.",
+    "why": "It shows book building, oversubscription and valuation together. When demand is high, underwriters can usually price at the upper end of the range.",
+    "source": {
+     "name": "Fortune",
+     "url": "https://fortune.com/2026/11/10/anthropic-ipo-price-range-ai-stock-sell-off/"
+    }
+   },
+   {
+    "id": "n3",
+    "category": "Macro",
+    "title": "Japan's economy unexpectedly shrinks: Q3 GDP down 0.1% annualized",
+    "summary": "Japan's economy contracted at an annualized 0.1% in July–September, while economists in a Reuters poll had expected 0.3% growth; the previous quarter grew 1.4%. Higher energy import costs meant net exports cut 0.6 percentage point from growth. Household energy subsidies ended in September and private consumption fell 0.3%. Markets expect the Bank of Japan could raise rates once more in December.",
+    "why": "A good example of GDP components (consumption, investment, government spending, net exports): when energy prices rise, import costs climb and both net exports and consumption come under pressure.",
+    "source": {
+     "name": "CNBC",
+     "url": "https://www.cnbc.com/2026/11/16/japan-q3-gdp-energy-oil-prices.html"
+    }
+   },
+   {
+    "id": "n4",
+    "category": "Commodities",
+    "title": "Saudi site attacks and Hormuz disruption lift Brent over $3 to $95.82 (Thursday)",
+    "summary": "On Thursday 12 November Brent rose $3.06 (3.3%) to settle at $95.82 a barrel and WTI closed at $88.74. Houthi forces claimed strikes on a pumping station on the East-West pipeline, an oil facility in Yanbu and an Aramco building in Riyadh; the Saudi-led coalition said it destroyed two drones. Iran's military said four oil tankers were hit by explosions in the Strait of Hormuz. Even so, both benchmarks were down about 2.5% on the week.",
+    "why": "It shows how a supply shock makes prices jump. For an import-dependent country like India, higher oil means more inflation and a wider trade deficit.",
+    "source": {
+     "name": "AsiaOne (Reuters)",
+     "url": "https://www.asiaone.com/money/oil-settles-3-higher-attacks-saudi-energy-sites-strait-hormuz-disruptions"
+    }
+   },
+   {
+    "id": "n5",
+    "category": "India",
+    "title": "India retail inflation 6.09%, above RBI's limit; Sensex falls 319 points, rupee at 94.24",
+    "summary": "India's October CPI inflation rose to 6.09% from 5.54% in September, above the RBI's 6% upper tolerance limit. Rural inflation was 6.63% and urban 5.41%. The RBI raised the repo rate by 25 basis points to 5.50% in October, its first hike since February 2023. On Friday the Sensex fell 318.56 points (0.39%) to 81,592.45 and the Nifty fell 155.05 points to 25,144.30; the rupee weakened 21 paise to 94.24 per dollar.",
+    "why": "A direct case of inflation targeting and monetary policy: when inflation breaches the tolerance band, the central bank raises rates, affecting shares, loans and the currency.",
+    "source": {
+     "name": "The Tribune",
+     "url": "https://www.tribuneindia.com/news/6inflation/retail-inflation-hits-24-month-high-of-6-09-in-october-crosses-rbis-upper-tolerance-limit-ahead-of-december-mpc-meet"
+    }
+   },
+   {
+    "id": "n6",
+    "category": "Macro",
+    "title": "This week: US retail sales, Fed minutes and Walmart results",
+    "summary": "US October retail sales, due Tuesday, are forecast to be flat (0.0%) after a 0.8% rise in September. The minutes of the Fed's last meeting come out on Wednesday; at that meeting the Fed held rates at 3.75%–4.00% by a 10–2 vote, with Cook and Hammack wanting a hike. Walmart reports on Thursday, with expected earnings of $0.63 a share on revenue of $187.2 billion. Last week the S&P 500 rose about 2.5%, ending a four-week losing streak.",
+    "why": "Consumer spending is the biggest driver of the economy, and the Fed minutes show which way the central bank is thinking on future rates.",
+    "source": {
+     "name": "TradingView News",
+     "url": "https://www.tradingview.com/news/moodys:45cad514d6c8f:0-wall-street-week-ahead-nvidia-earnings-anthropic-ipo-federal-reserve-minutes-retail-sales-top-things-to-watch/"
+    }
+   },
+   {
+    "id": "n7",
+    "category": "M&A",
+    "title": "Tesla–SpaceX merger talk: Musk reportedly calls himself a \"conflicted party\"",
+    "summary": "A summary of Reuters reporting says Elon Musk's support for a possible Tesla–SpaceX merger has unsettled insiders. Musk reportedly called himself a \"conflicted party\" because of his large stakes in both companies, and two possible structures are said to be under review. This is speculation, not a formal offer.",
+    "why": "It shows why conflicts of interest and independent committees matter in M&A: a party with interests on both sides needs independent checks on the decision.",
+    "source": {
+     "name": "Admiral Markets (Reuters-based)",
+     "url": "https://admiralmarkets.com/analytics/traders-blog/spacex-tesla-merger-sp500"
+    }
+   }
+  ],
+  "market": {
+   "asOf": "Close of Friday, 13 November 2026",
+   "items": [
+    {
+     "name": "S&P 500",
+     "region": "US",
+     "value": "7,561.67",
+     "change": "-0.40%",
+     "dir": "down"
+    },
+    {
+     "name": "Dow Jones",
+     "region": "US",
+     "value": "52,347.55",
+     "change": "+0.10%",
+     "dir": "up"
+    },
+    {
+     "name": "Nasdaq",
+     "region": "US",
+     "value": "25,136.27",
+     "change": "-0.91%",
+     "dir": "down"
+    },
+    {
+     "name": "Sensex",
+     "region": "India",
+     "value": "81,592.45",
+     "change": "-0.39%",
+     "dir": "down"
+    },
+    {
+     "name": "Nifty 50",
+     "region": "India",
+     "value": "25,144.30",
+     "change": "-0.61%",
+     "dir": "down"
+    },
+    {
+     "name": "Brent Crude",
+     "region": "$ per barrel",
+     "value": "$95.84",
+     "change": "+0.02%",
+     "dir": "up"
+    },
+    {
+     "name": "Gold",
+     "region": "$ per ounce",
+     "value": "$3,884.69",
+     "change": "+0.18%",
+     "dir": "up"
+    },
+    {
+     "name": "USD/INR",
+     "region": "₹ per dollar",
+     "value": "94.24",
+     "change": "+21 paise",
+     "dir": "up"
+    }
+   ]
+  },
+  "term": {
+   "term": "Net Exports",
+   "bangla": "The gap between exports and imports",
+   "definition": "Net exports is the value of a country's exports minus the value of its imports over a period. When exports exceed imports it is positive and adds to GDP; when imports exceed exports it is negative and reduces GDP growth. It is the fourth component of GDP in the expenditure approach.",
+   "example": "In Q3, Japan's high energy import costs meant net exports cut 0.6 percentage point from growth, and the economy shrank at an annualized 0.1%.",
+   "formula": "Net Exports = Exports − Imports; GDP = C + I + G + (X − M)",
+   "tip": "In interviews, remember GDP = C + I + G + (X − M) and explain that imports are subtracted because imported goods are not domestic output."
+  },
+  "gd": {
+   "topic": "After a crisis, should a board hire a CEO from outside or promote from within?",
+   "context": "Since Jensen Huang's resignation Nvidia has been run by interim CEO Colette Kress. Bessent has urged an outside CEO, and the board has reportedly spoken to Arm's CEO.",
+   "for": [
+    "An outsider brings fresh thinking and can break the culture and compliance weaknesses of the past.",
+    "It sends regulators and investors a clear signal that real change is happening.",
+    "Decisions are easier to make independently because there are no personal ties to the former leadership."
+   ],
+   "against": [
+    "An insider knows the technology, customers and culture, so change can be faster.",
+    "An outsider needs time to learn, and in a crisis there is little time.",
+    "A board acting under political pressure raises questions about governance independence."
+   ]
+  },
+  "blog": {
+   "title": "Japan's contraction through the GDP formula: how net exports drag an economy down",
+   "topic": "GDP and Net Exports",
+   "readMin": 5,
+   "body": [
+    "## What GDP is and how it is measured",
+    "The most common way to measure the size and growth of an economy is Gross Domestic Product, or GDP. In simple words, it is the total market value of all final goods and services produced inside a country in a period, usually a quarter or a year. There are three ways to measure it: production, income and expenditure. BBA economics classes mostly use the expenditure approach, with the formula GDP = C + I + G + (X − M).",
+    "In this formula C is Consumption, the spending of households. I is Investment, meaning business spending on machinery, factories and software. G is Government spending. The last part (X − M) is net exports: exports minus imports. Imports are subtracted because imported goods are not produced domestically, yet they appear inside consumption or investment figures. Without the subtraction GDP would look too high.",
+    "## The Japan example: why GDP fell",
+    "Today's news shows that Japan's economy shrank at an annualized 0.1% in July–September, while economists had expected 0.3% growth. The previous quarter grew 1.4%, so the move from growth to contraction was a surprise. Looking for the cause, two parts of the formula stand out.",
+    "First, net exports. Japan imports a large share of its energy. With energy prices high this quarter, import costs rose, (X − M) shrank, and this alone cut 0.6 percentage point from growth. Second, consumption. Household energy subsidies ended in September, leaving families with less to spend, and private consumption fell 0.3%. One part of the formula helped: companies invested more in AI, so I gave some support. It was not enough.",
+    "## Oil prices and GDP",
+    "Put this next to the week's other news and the picture becomes clear. On Thursday, attacks on Saudi energy sites and disruption in the Strait of Hormuz pushed Brent up $3.06 to settle at $95.82. For an energy-importing country, a higher oil price means a bigger import bill. Pressure comes from two sides: net exports fall, and rising inflation cuts real income, so consumption falls too. India is in a similar position because it imports a large share of its crude oil. India's retail inflation rose to 6.09% in October, above the RBI's 6% limit, and the rupee weakened to 94.24 per dollar.",
+    "## The central bank's dilemma",
+    "This is where central banks face a hard choice. In Japan the economy is shrinking, yet markets expect the Bank of Japan to raise rates again in December. In the US the Fed is not cutting; talk is of a possible hike in December. So even when growth is weak, if inflation is high central banks lean towards higher rates. This situation carries the risk of stagflation, where growth slows while prices keep rising. Raising rates may bring inflation down, but costlier loans can reduce investment (I) and consumption (C) further.",
+    "## Why this matters for Indian students",
+    "In India, consumption (C) is the largest part of GDP, so when retail inflation stays above 6%, people's purchasing power falls and company sales feel it. Higher oil import costs also widen the trade deficit, weaken the rupee and make other imported goods costlier. This is why institutions like the RBI decide on interest rates carefully, balancing inflation against growth. From a company's point of view, firms that depend on imported raw materials can see costs and profit margins change quickly, while exporters may benefit from a weaker rupee.",
+    "## Practical lessons for BBA students",
+    "One: when you read a GDP headline, do not look only at the total; find which part of the formula changed. Two: when planning a business, think about how a change in fuel prices or interest rates will change your customers' spending and your own costs. Three: in interviews and group discussions, arrange a big news item within the C, I, G and (X − M) framework; it makes your answer structured and analytical. Four: remember that one piece of news rarely comes alone. Oil, currency, interest rates and growth are linked, and a good analyst can show the links."
+   ],
+   "takeaways": [
+    "GDP = C + I + G + (X − M); when imports rise, net exports fall and GDP growth comes under pressure.",
+    "When fuel prices rise, an importing country can see both net exports and consumption fall, as happened in Japan.",
+    "Weak growth with high inflation puts central banks in a stagflation dilemma."
+   ]
+  },
+  "quiz": [
+   {
+    "q": "By how much did Japan's Q3 GDP shrink, annualized?",
+    "options": [
+     "0.3%",
+     "0.1%",
+     "1.4%",
+     "0.6%"
+    ],
+    "answer": 1,
+    "explain": "GDP shrank at an annualized 0.1%; 0.3% was the forecast growth."
+   },
+   {
+    "q": "According to Bessent, what kind of CEO should Nvidia pick?",
+    "options": [
+     "One from outside the company",
+     "Bring back Jensen Huang",
+     "Definitely Colette Kress",
+     "A government official"
+    ],
+    "answer": 0,
+    "explain": "Bessent said the board should look outside the company."
+   },
+   {
+    "q": "What is the proposed price range for Anthropic's IPO shares?",
+    "options": [
+     "$60–$68",
+     "$74–$82",
+     "$80–$90",
+     "$70–$78"
+    ],
+    "answer": 3,
+    "explain": "The roadshow range is $70–$78 a share."
+   },
+   {
+    "q": "In the expenditure formula for GDP, what are net exports?",
+    "options": [
+     "X + M",
+     "X − M",
+     "C − I",
+     "G − X"
+    ],
+    "answer": 1,
+    "explain": "Net exports = exports (X) − imports (M)."
+   },
+   {
+    "q": "What was India's CPI inflation in October?",
+    "options": [
+     "5.54%",
+     "5.50%",
+     "6.09%",
+     "6.63%"
+    ],
+    "answer": 2,
+    "explain": "CPI was 6.09%, above the RBI's 6% limit; 5.54% was September."
+   }
+  ],
+  "caseStudy": {
+   "week": "2026-W47",
+   "weekLabel": "16 – 22 November 2026",
+   "company": "Zara (Inditex)",
+   "title": "How Zara gets a design from drawing board to store in just weeks",
+   "concept": "Vertical Integration and Supply Chain Responsiveness",
+   "intro": "In 1975 Amancio Ortega opened the first Zara store in A Coruña, Spain. It grew into the biggest brand of the Inditex group. While other fashion companies plan collections many months before a season, Zara watches what is selling and quickly makes new designs.",
+   "sections": [
+    {
+     "h": "What it did",
+     "p": "Zara keeps design, cutting and a large part of key production under its own control, much of it in Spain and nearby countries close to headquarters. Stores regularly send data on what is selling, and new items are made in small batches accordingly and shipped to stores. Zara spends relatively little on advertising and uses its prime store locations as its main advertisement."
+    },
+    {
+     "h": "The result",
+     "p": "New designs reach stores in a very short time, and because fresh items arrive often, shoppers come back again and again. Inditex became one of the world's largest fashion retailers."
+    },
+    {
+     "h": "Why it worked",
+     "p": "Small batches mean less unsold stock, and designs that sell well can be quickly made again. Store data goes straight to the design team, so decisions rest on demand rather than guesses. Owning the supply chain makes it easier to keep both speed and quality."
+    },
+    {
+     "h": "Risks and criticism",
+     "p": "Producing close to home costs more in labour, which presses on profit margins. The fast-fashion model has faced criticism over environmental impact and waste, and questions have been raised in the past about working conditions at supplier factories. If demand forecasts are wrong, unsold stock can still build up."
+    }
+   ],
+   "lesson": "Speed and information are powerful competitive weapons: learning customer demand quickly and responding fast lowers inventory risk and lifts sales. But it requires managing both control of the supply chain and ethical responsibility.",
+   "question": "Would Zara's small-batch, fast-response model work for a brand you like? For which products would it not work, and why?"
+  }
+ }
+}
