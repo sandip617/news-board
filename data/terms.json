@@ -1,6 +1,23 @@
 {
  "terms": [
   {
+   "date": "2026-11-17",
+   "term": "Crowding Out",
+   "bangla": "বড় ইস্যুর চাপে ছোটদের জায়গা হারানো",
+   "definition": "Crowding out হলো এমন পরিস্থিতি, যেখানে একটি বড় চাহিদা (যেমন সরকারের ঋণ বা বিশাল একটি IPO) বাজারের সীমিত মূলধন টেনে নেয়, ফলে অন্য ঋণগ্রহীতা বা কোম্পানি টাকা পেতে দেরি করে বা বেশি খরচে পেতে বাধ্য হয়। সরকার বেশি ঋণ নিলে সুদের হার বেড়ে বেসরকারি বিনিয়োগ কমে যায়, এটি ক্লাসিক অর্থে crowding out।",
+   "example": "Bank of America-র CEO বলেছেন, Anthropic-এর প্রত্যাশিত বিশাল IPO-র কারণে কিছু ছোট deal 2027-এ পিছিয়ে যাচ্ছে, অর্থাৎ বাজারের মূলধন ও মনোযোগ টেনে নেওয়ায় অন্যরা জায়গা পাচ্ছে না।",
+   "formula": "",
+   "tip": "Interview-তে দুই ধরনের উদাহরণ দাও: সরকারি ঋণে সুদের হার বেড়ে বেসরকারি বিনিয়োগ কমা (macro), আর বড় IPO-তে ছোট ইস্যু পিছিয়ে যাওয়া (capital market)।",
+   "en": {
+    "term": "Crowding Out",
+    "bangla": "When a big issuer squeezes out smaller ones",
+    "definition": "Crowding out is when one large demand for funds, such as government borrowing or a huge IPO, absorbs scarce capital, so other borrowers or companies must wait or pay more. In the classic macro sense, heavy government borrowing raises interest rates and reduces private investment.",
+    "example": "Bank of America's CEO said Anthropic's expected giant IPO is pushing some smaller deals into 2027, because it absorbs market capital and attention.",
+    "formula": "",
+    "tip": "Give two examples in an interview: government borrowing raising rates and cutting private investment (macro), and a giant IPO pushing smaller issues back (capital markets)."
+   }
+  },
+  {
    "date": "2026-11-16",
    "term": "Net Exports",
    "bangla": "রপ্তানি ও আমদানির পার্থক্য",

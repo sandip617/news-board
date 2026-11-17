@@ -1,0 +1,551 @@
+{
+ "date": "2026-11-17",
+ "dateLabel": "১৭ নভেম্বর ২০২৬, মঙ্গলবার",
+ "edition": 1,
+ "updatedAt": "2026-11-17T07:30:00+05:30",
+ "news": [
+  {
+   "id": "n1",
+   "category": "শেয়ারবাজার",
+   "title": "Nvidia-র ফলের আগে Wall Street-এ ধস: S&P 500 1.92% আর Nasdaq 2.49% নিচে",
+   "summary": "সোমবার S&P 500 1.92% কমে 7,416.59-এ, Nasdaq Composite 2.49% কমে 24,509.76-এ আর Dow 1.41% (739.38 পয়েন্ট) কমে 51,608.17-এ বন্ধ হয়েছে। Nasdaq এখন অক্টোবরের রেকর্ড ক্লোজিং থেকে 10%-এর বেশি নিচে, অর্থাৎ correction-এর এলাকায়। Nvidia-র শেয়ার $156.14-এ নেমে 1 জুলাই 2025-এর পর সর্বনিম্ন স্তরে পৌঁছেছে। S&P 500-এর মাত্র 145টি কোম্পানির শেয়ার বেড়েছে, 355টির কমেছে। Nvidia মঙ্গলবার বাজার বন্ধের পর ফল প্রকাশ করবে; বিশ্লেষকদের অনুমান রাজস্ব প্রায় $108–109 বিলিয়ন।",
+   "why": "Market correction আর market breadth বোঝার ভালো উদাহরণ: একটি বড় কোম্পানির নেতৃত্ব-সংকট পুরো সূচককে টেনে নামাতে পারে, আর বেশির ভাগ শেয়ার পড়লে পতন গভীর বলে ধরা হয়।",
+   "source": {
+    "name": "BNN Bloomberg",
+    "url": "https://www.bnnbloomberg.ca/markets/nasdaq/2026/11/16/stocks-decline-on-tech-sell-off-as-concerns-over-the-nvidia-fallout-persist/"
+   }
+  },
+  {
+   "id": "n2",
+   "category": "ম্যাক্রো",
+   "title": "চীনের অক্টোবরের তথ্যে মন্দার ছাপ: কারখানার উৎপাদন 4.8%, খুচরো বিক্রি মাত্র 0.4% বেড়েছে",
+   "summary": "চীনের শিল্প উৎপাদন অক্টোবরে বছরে 4.8% বেড়েছে, সেপ্টেম্বরে ছিল 5.5%, আর অর্থনীতিবিদদের অনুমান ছিল প্রায় 5.3%। খুচরো বিক্রি বেড়েছে মাত্র 0.4%, অনুমান ছিল 0.8%। জানুয়ারি–অক্টোবরে fixed-asset investment 8.1% কমেছে, অনুমান ছিল 7.0% পতন। এর মধ্যে property investment কমেছে 21.6%। তিনটি সূচকই অনুমানের নিচে থাকায় বেইজিংয়ের কাছে আরও stimulus-এর দাবি জোরালো হচ্ছে।",
+   "why": "Aggregate demand দুর্বল হলে অর্থনীতি কীভাবে ধীর হয় আর সরকার কেন fiscal stimulus-এর কথা ভাবে, তা এখানে দেখা যায়। চীনের চাহিদা কমলে ভারতসহ রপ্তানিকারক দেশও প্রভাবিত হয়।",
+   "source": {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/16/china-retail-sales-october-industrial-output-investment.html"
+   }
+  },
+  {
+   "id": "n3",
+   "category": "ভারত",
+   "title": "ভারতে পাইকারি মূল্যবৃদ্ধি (WPI) অক্টোবরে 12.29%, জ্বালানি-বিদ্যুতে 32.84%",
+   "summary": "বাণিজ্য মন্ত্রকের হিসাবে অক্টোবরে ভারতের WPI মূল্যবৃদ্ধি সেপ্টেম্বরের 11.39% থেকে বেড়ে 12.29% হয়েছে। জ্বালানি ও বিদ্যুতের দাম বেড়েছে 32.84% (সেপ্টেম্বরে 25.85%), প্রাথমিক পণ্যে 9.24% আর manufactured পণ্যে 9.54%। খাদ্য সূচকে মূল্যবৃদ্ধি 8.58%। এপ্রিল–অক্টোবরে গড় WPI মূল্যবৃদ্ধি 10.14%। আগের দিন প্রকাশিত খুচরো মূল্যবৃদ্ধি (CPI) ছিল 6.09%, যা RBI-র 6% সীমার ওপরে।",
+   "why": "WPI আর CPI-র পার্থক্য বোঝা জরুরি: পাইকারি দাম বাড়লে উৎপাদকের খরচ বাড়ে, আর তা ধীরে ধীরে ভোক্তার দামে পৌঁছায়। এটি cost-push inflation-এর বাস্তব উদাহরণ।",
+   "source": {
+    "name": "Business Standard",
+    "url": "https://www.business-standard.com/amp/economy/news/wpi-inflation-rises-to-12-29-in-october-as-fuel-power-prices-surge-126111600916_1.html"
+   }
+  },
+  {
+   "id": "n4",
+   "category": "কমোডিটি",
+   "title": "তেলের দাম পড়ল: Brent 3.6% কমে $92.44-এ, বাজারে supply surplus-এর আশঙ্কা",
+   "summary": "সোমবার Brent crude $3.40 (3.6%) কমে ব্যারেলপ্রতি $92.44-এ আর US WTI $2.84 (3.2%) কমে $85.72-এ বন্ধ হয়েছে। Middle East থেকে রপ্তানি আবার স্বাভাবিক হওয়ার ইঙ্গিতে বাজারে জোগান বেশি থাকার প্রত্যাশা জোরালো হয়েছে। IEA-র পূর্বাভাস অনুযায়ী চতুর্থ কোয়ার্টারে জোগান গড়ে দিনে 105 মিলিয়ন ব্যারেল, যা চাহিদার চেয়ে 1.7 মিলিয়ন বেশি। Hormuz প্রণালী নিয়ে বিভিন্ন সূত্রের তথ্যে অমিল আছে।",
+   "why": "Supply আর demand-এর টানাপোড়েনে দাম কীভাবে ওঠানামা করে তা এখানে স্পষ্ট। ভারত তেল আমদানিকারক, তাই তেল সস্তা হলে মূল্যবৃদ্ধি আর বাণিজ্য ঘাটতি দুটোই কমার সুযোগ তৈরি হয়।",
+   "source": {
+    "name": "Yahoo Finance (Reuters)",
+    "url": "https://finance.yahoo.com/energy/articles/oil-prices-fall-expectations-coming-020042042.html"
+   }
+  },
+  {
+   "id": "n5",
+   "category": "ব্যাংকিং",
+   "title": "Bank of America-র CEO: Anthropic IPO-র ভিড়ে কিছু deal পিছিয়ে 2027-এ",
+   "summary": "Bloomberg Television-এ Bank of America-র CEO Brian Moynihan বলেছেন, কিছু লেনদেন আগামী বছরের শুরুতে সরে যাচ্ছে। তাঁর ভাষায় বাজার \"very bumpy\", তবে pipeline এখনও ভরা আর বছরের শেষে capital-markets কার্যকলাপ বাড়বে। Bloomberg-এর সূত্রে বিনিয়োগকারীরা মনে করছেন Anthropic-এর প্রত্যাশিত বিশাল IPO ছোট কোম্পানিগুলোকে সরিয়ে দিচ্ছে। একটি প্রতিবেদন অনুযায়ী Anthropic-এর IPO থেকে সংগ্রহের লক্ষ্য সর্বোচ্চ $64.4 বিলিয়ন।",
+   "why": "Investment banking-এর ভূমিকা (underwriting, IPO pipeline) আর crowding out-এর ধারণা এখানে মেলে: একটি বিশাল ইস্যু বাজারের সীমিত মূলধন টেনে নিলে অন্যরা অপেক্ষা করতে বাধ্য হয়।",
+   "source": {
+    "name": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-16/bofa-s-moynihan-says-some-deals-are-getting-pushed-into-2027"
+   }
+  },
+  {
+   "id": "n6",
+   "category": "ভারত",
+   "title": "Sensex 512 পয়েন্ট বেড়ে 82,104.79-এ, রুপি শক্তিশালী হয়ে 93.92",
+   "summary": "সোমবার Sensex 512.34 পয়েন্ট (0.63%) বেড়ে 82,104.79-এ আর Nifty 50 146.80 পয়েন্ট (0.58%) বেড়ে 25,291.10-এ বন্ধ হয়েছে। FMCG আর ব্যাংক শেয়ার র‍্যালি টেনেছে। তেলের দাম কমা আর বিদেশি বিনিয়োগকারীদের চলমান ক্রয়ই বাজারকে সমর্থন দিয়েছে বলে প্রতিবেদনে বলা হয়েছে। ডলারের বিপরীতে রুপি প্রায় 27–32 পয়সা শক্তিশালী হয়ে প্রায় 93.92-এ বন্ধ হয়েছে; শুক্রবারের ক্লোজিং নিয়ে সূত্রভেদে সামান্য অমিল আছে।",
+   "why": "Foreign institutional investor (FII) প্রবাহ, তেলের দাম আর মুদ্রার মান যে একে অপরের সঙ্গে জড়িয়ে আছে, তা এই দিনের তথ্যে দেখা যায়।",
+   "source": {
+    "name": "NewsDrum (PTI)",
+    "url": "https://www.newsdrum.in/business/sensex-jumps-512-points-nifty-tops-25290-as-fmcg-banking-stocks-lead-rally-12814329"
+   }
+  },
+  {
+   "id": "n7",
+   "category": "মুদ্রানীতি",
+   "title": "US 10-year yield 5%-এর ওপরে, ডিসেম্বরে Fed-এর সুদ বাড়ানোর দাম ধরছে বাজার",
+   "summary": "সোমবার US 10-year Treasury yield সামান্য কমে 5.13%-এ নেমেছে (শুক্রবার 5.15%), তবু এ মাসের শুরুর 4.80%-এর নিচু স্তর থেকে অনেক ওপরে। প্রতিবেদন অনুযায়ী ট্রেডাররা ডিসেম্বরে সুদ বাড়ানোর সম্ভাবনা ধরে নিয়ে দাম ঠিক করছেন। Fed Chair Kevin Warsh-এর বরাতে বলা হয়েছে, Fed কর্মীরা এমন পরিস্থিতির মডেল করছেন যেখানে AI-তে বিপুল বিনিয়োগের ফল না এলে শেয়ারের দাম পড়বে। উঁচু yield শেয়ার, বিশেষ করে tech-এর, মূল্যায়নের ওপর চাপ বাড়ায়।",
+   "why": "Bond yield আর শেয়ারের valuation-এর বিপরীত সম্পর্ক (discount rate বাড়লে ভবিষ্যৎ আয়ের বর্তমান মূল্য কমে) বোঝার জন্য এটি জরুরি।",
+   "source": {
+    "name": "HNGN",
+    "url": "https://www.hngn.com/articles/273846/20261116/stocks-slide-10-year-yield-stays-above-5-before-nvidia.htm"
+   }
+  }
+ ],
+ "market": {
+  "asOf": "১৬ নভেম্বর ২০২৬, সোমবারের ক্লোজিং",
+  "items": [
+   {
+    "name": "S&P 500",
+    "region": "US",
+    "value": "7,416.59",
+    "change": "-1.92%",
+    "dir": "down"
+   },
+   {
+    "name": "Dow Jones",
+    "region": "US",
+    "value": "51,608.17",
+    "change": "-1.41%",
+    "dir": "down"
+   },
+   {
+    "name": "Nasdaq",
+    "region": "US",
+    "value": "24,509.76",
+    "change": "-2.49%",
+    "dir": "down"
+   },
+   {
+    "name": "Sensex",
+    "region": "ভারত",
+    "value": "82,104.79",
+    "change": "+0.63%",
+    "dir": "up"
+   },
+   {
+    "name": "Nifty 50",
+    "region": "ভারত",
+    "value": "25,291.10",
+    "change": "+0.58%",
+    "dir": "up"
+   },
+   {
+    "name": "Brent Crude",
+    "region": "$ প্রতি ব্যারেল",
+    "value": "$92.44",
+    "change": "-3.60%",
+    "dir": "down"
+   },
+   {
+    "name": "Gold",
+    "region": "$ প্রতি আউন্স",
+    "value": "$3,865.75",
+    "change": "-0.41%",
+    "dir": "down"
+   },
+   {
+    "name": "USD/INR",
+    "region": "₹ প্রতি ডলার",
+    "value": "93.92",
+    "change": "-27 পয়সা",
+    "dir": "down"
+   }
+  ]
+ },
+ "term": {
+  "term": "Crowding Out",
+  "bangla": "বড় ইস্যুর চাপে ছোটদের জায়গা হারানো",
+  "definition": "Crowding out হলো এমন পরিস্থিতি, যেখানে একটি বড় চাহিদা (যেমন সরকারের ঋণ বা বিশাল একটি IPO) বাজারের সীমিত মূলধন টেনে নেয়, ফলে অন্য ঋণগ্রহীতা বা কোম্পানি টাকা পেতে দেরি করে বা বেশি খরচে পেতে বাধ্য হয়। সরকার বেশি ঋণ নিলে সুদের হার বেড়ে বেসরকারি বিনিয়োগ কমে যায়, এটি ক্লাসিক অর্থে crowding out।",
+  "example": "Bank of America-র CEO বলেছেন, Anthropic-এর প্রত্যাশিত বিশাল IPO-র কারণে কিছু ছোট deal 2027-এ পিছিয়ে যাচ্ছে, অর্থাৎ বাজারের মূলধন ও মনোযোগ টেনে নেওয়ায় অন্যরা জায়গা পাচ্ছে না।",
+  "formula": "",
+  "tip": "Interview-তে দুই ধরনের উদাহরণ দাও: সরকারি ঋণে সুদের হার বেড়ে বেসরকারি বিনিয়োগ কমা (macro), আর বড় IPO-তে ছোট ইস্যু পিছিয়ে যাওয়া (capital market)।"
+ },
+ "gd": {
+  "topic": "বিশাল IPO কি সামগ্রিকভাবে বাজারের জন্য ভালো, নাকি ছোট কোম্পানির জন্য ক্ষতিকর?",
+  "context": "Bank of America-র CEO বলেছেন, Anthropic-এর প্রত্যাশিত IPO-র কারণে কিছু deal 2027-এ সরে যাচ্ছে। একই সময়ে Nasdaq correction-এ, আর US 10-year yield 5%-এর ওপরে।",
+  "for": [
+   "বড় সফল IPO বিনিয়োগকারীদের আস্থা বাড়ায় আর পরের ইস্যুগুলোর পথ সহজ করে।",
+   "গভীর পুঁজিবাজার তৈরি হয়, নতুন প্রযুক্তি-কোম্পানি তহবিল পায় আর বিনিয়োগকারী নতুন সুযোগ পান।",
+   "ব্যাংক ও আইনজীবী-সহ পুরো ecosystem-এ কাজ আর আয় বাড়ে।"
+  ],
+  "against": [
+   "সীমিত মূলধন একটি ইস্যুতে চলে গেলে ছোট কোম্পানিকে অপেক্ষা করতে বা বেশি খরচে টাকা তুলতে হয়।",
+   "বাজার দুর্বল থাকলে বড় ইস্যু ব্যর্থ হলে পুরো IPO বাজারের আস্থা নড়ে যেতে পারে।",
+   "উচ্চ valuation-এর ঝুঁকি বেশি, আর সাধারণ বিনিয়োগকারী চড়া দামে শেয়ার কিনে ক্ষতিতে পড়তে পারেন।"
+  ]
+ },
+ "blog": {
+  "title": "বড় IPO-র ভিড়ে ছোটরা কোথায় যায়: Crowding Out বোঝার সহজ পাঠ",
+  "topic": "Crowding Out আর IPO timing",
+  "readMin": 5,
+  "body": [
+   "## Crowding Out আসলে কী",
+   "আমরা সবাই জানি, টাকার জোগান সীমিত। বাজারে যত বিনিয়োগযোগ্য মূলধন আছে, তা যদি একটি বড় প্রয়োজনে চলে যায়, তাহলে বাকিদের জন্য কম থাকে। অর্থনীতিতে এই ঘটনাকেই বলে crowding out, বাংলায় বলা যায় \"বড়র চাপে ছোটর জায়গা হারানো\"। ধারণাটি প্রথমে ম্যাক্রোইকোনমিক্সে আসে, সরকারি ঋণের প্রসঙ্গে। সরকার যখন ঘাটতি মেটাতে বাজার থেকে প্রচুর ঋণ নেয়, তখন ঋণযোগ্য তহবিলের চাহিদা বাড়ে, সুদের হার চড়ে, আর বেসরকারি কোম্পানির ঋণ নেওয়া ও বিনিয়োগ করা ব্যয়বহুল হয়ে পড়ে। ফলে সরকারি ব্যয় যতটা GDP বাড়ায়, বেসরকারি বিনিয়োগ কমার কারণে তার একটি অংশ কেটে যায়।",
+   "## আজকের খবরে crowding out",
+   "গতকাল Bloomberg Television-এ Bank of America-র CEO Brian Moynihan বলেছেন, কিছু লেনদেন আগামী বছরের শুরুতে সরে যাচ্ছে। তিনি বাজারকে \"very bumpy\" বলেছেন, তবে pipeline ভরা আর বছরের শেষে কার্যকলাপ বাড়বে বলেও জানিয়েছেন। Bloomberg-এর সূত্রে বিনিয়োগকারীরা মনে করছেন, Anthropic-এর প্রত্যাশিত বিশাল IPO, যেখান থেকে একটি প্রতিবেদন অনুযায়ী সর্বোচ্চ $64.4 বিলিয়ন তোলার লক্ষ্য, ছোট কোম্পানিগুলোর ইস্যুকে পিছনে ঠেলে দিচ্ছে। এখানে মূল যুক্তিটা সহজ: ফান্ড ম্যানেজারদের হাতে নির্দিষ্ট পরিমাণ টাকা আর নির্দিষ্ট সময়, তাঁরা একসঙ্গে সব ইস্যুতে বিনিয়োগ করতে পারেন না। একটি বিশাল ইস্যু এলে তার জন্য টাকা সরিয়ে রাখতে হয়, আর অন্য ইস্যুতে বরাদ্দ কমে।",
+   "এর সঙ্গে আছে বন্ডবাজারের চাপ। US 10-year Treasury yield এখন প্রায় 5.13%, আর ট্রেডাররা ডিসেম্বরে সুদ বাড়ার সম্ভাবনা ধরে দাম ঠিক করছেন। উঁচু yield মানে নিরাপদ সরকারি বন্ডেই ভালো আয় পাওয়া যায়, তাই ঝুঁকিপূর্ণ শেয়ার বা নতুন IPO-র আকর্ষণ কমে। সোমবার Nasdaq 2.49% পড়ে correction-এ ঢুকেছে, আর Nvidia-র ফলের অপেক্ষায় বাজার আরও সতর্ক। অর্থাৎ বাজারে একই সময়ে তিনটি জিনিস ঘটছে: বিশাল ইস্যুর চাহিদা, উঁচু সুদ আর শেয়ারের দুর্বলতা।",
+   "## কেন এটি ব্যবসার সিদ্ধান্তে গুরুত্বপূর্ণ",
+   "ধরো তুমি একটি মাঝারি আকারের কোম্পানির CFO, আর শেয়ার ছেড়ে টাকা তোলার পরিকল্পনা করছ। বাজারে যদি অত্যন্ত বড় একটি IPO চলে, তাহলে তোমার সামনে তিনটি পথ থাকে। প্রথমত, তুমি অপেক্ষা করতে পারো, যেমন অনেকে এখন 2027-এর কথা ভাবছে। দ্বিতীয়ত, তুমি কম দামে শেয়ার ছাড়তে রাজি হতে পারো, ফলে বর্তমান শেয়ারহোল্ডারদের মালিকানা বেশি পাতলা (dilution) হয়। তৃতীয়ত, তুমি ব্যাংক ঋণ বা বন্ডের মতো অন্য উৎসে যেতে পারো, কিন্তু সুদের হার চড়া থাকলে সেটাও ব্যয়বহুল। কোনো পথই বিনা মূল্যে নয়, আর এখানেই opportunity cost-এর ধারণা কাজ করে।",
+   "ইনভেস্টমেন্ট ব্যাংকের দিক থেকেও ব্যাপারটি আকর্ষণীয়। ব্যাংক underwriter হিসেবে ইস্যু বিক্রির ঝুঁকি নেয় আর ফি পায়। বিশাল একটি ইস্যু ব্যাংকের জন্য বড় আয়ের উৎস, কিন্তু একই সময়ে অনেকগুলো ইস্যু সামলানো কঠিন। তাই ব্যাংকগুলোই ঠিক করে দেয় কোন ইস্যু আগে আসবে আর কোনটি পরে। এই সময় নির্বাচনকে বলে IPO timing, আর এটি ব্যবসায়িক সিদ্ধান্তের গুরুত্বপূর্ণ অংশ।",
+   "## একটি সতর্কতা: সব জায়গায় crowding out ঘটে না",
+   "অর্থনীতিবিদরা এ নিয়ে একমত নন। অর্থনীতি মন্দায় থাকলে বা ব্যাংকে অলস টাকা পড়ে থাকলে সরকারি ঋণ বেসরকারি বিনিয়োগকে সরায় না, বরং কখনো কখনো উৎসাহও দিতে পারে, একে বলে crowding in। একইভাবে একটি সফল বড় IPO অন্যদের জন্য পথ খুলে দিতে পারে, কারণ বিনিয়োগকারীরা নতুন সম্পদ শ্রেণিতে আস্থা পান। তাই ধারণাটি প্রয়োগ করার আগে দেখতে হবে বাজারে মূলধন সত্যিই সীমিত কি না, সুদের হার কেমন, আর বিনিয়োগকারীদের ঝুঁকি নেওয়ার মানসিকতা কেমন। আজকের পরিস্থিতিতে yield উঁচু আর শেয়ারবাজার দুর্বল, তাই crowding out-এর যুক্তি তুলনামূলক বেশি জোরালো।",
+   "## BBA শিক্ষার্থীর জন্য প্রয়োগ",
+   "পরীক্ষায় crowding out-এর প্রশ্ন এলে তিনটি ধাপে উত্তর সাজাও: কারণ (বড় চাহিদা সীমিত মূলধন টানে), প্রক্রিয়া (সুদের হার বা খরচ বাড়ে, অন্যরা পিছিয়ে যায়) আর ফল (বেসরকারি বিনিয়োগ বা ছোট ইস্যু কমে)। এরপর একটি বাস্তব উদাহরণ দাও, যেমন আজকের Anthropic IPO আর Bank of America-র মন্তব্য। শেষে ভারসাম্যের জন্য উল্লেখ করো, কোন পরিস্থিতিতে crowding out হয় না। আর ক্যারিয়ারের দিক থেকে মনে রেখো, ভালো ম্যানেজার শুধু নিজের প্রকল্প দেখে না, বাজারের পুরো মূলধন-প্রবাহ আর সময় বুঝে সিদ্ধান্ত নেয়। সঠিক সময়ে টাকা তোলা অনেক সময় কত টাকা তুলছ তার চেয়েও গুরুত্বপূর্ণ। তাই খবর পড়ার সময় শুধু \"কী ঘটল\" নয়, \"এর ফলে কার জন্য কী খরচ বা সুযোগ তৈরি হলো\" সেই প্রশ্নও করার অভ্যাস করো।"
+  ],
+  "takeaways": [
+   "Crowding out-এ একটি বড় চাহিদা সীমিত মূলধন টেনে নেয়, ফলে অন্যরা অপেক্ষা করে বা বেশি খরচে টাকা পায়।",
+   "উঁচু সুদ আর দুর্বল শেয়ারবাজারে এর প্রভাব বেশি পড়ে; মন্দায় বা অলস মূলধন থাকলে নাও পড়তে পারে (crowding in)।",
+   "IPO বা মূলধন তোলার সময় নির্বাচন (timing) আর বিকল্প খরচ (opportunity cost) দুই-ই হিসাবে রাখতে হয়।"
+  ]
+ },
+ "quiz": [
+  {
+   "q": "সোমবার Nasdaq Composite কত শতাংশ কমে বন্ধ হয়েছে?",
+   "options": [
+    "1.41%",
+    "1.92%",
+    "2.49%",
+    "3.60%"
+   ],
+   "answer": 2,
+   "explain": "Nasdaq 2.49% কমে 24,509.76-এ বন্ধ হয়েছে; S&P 500 কমেছে 1.92% আর Dow 1.41%।"
+  },
+  {
+   "q": "ভারতের অক্টোবরের WPI মূল্যবৃদ্ধি কত?",
+   "options": [
+    "6.09%",
+    "12.29%",
+    "11.39%",
+    "32.84%"
+   ],
+   "answer": 1,
+   "explain": "WPI মূল্যবৃদ্ধি 12.29%। 6.09% হলো CPI, 11.39% সেপ্টেম্বরের WPI আর 32.84% জ্বালানি-বিদ্যুতের মূল্যবৃদ্ধি।"
+  },
+  {
+   "q": "নিচের কোনটি crowding out-এর সঠিক উদাহরণ?",
+   "options": [
+    "বড় ইস্যু বাজারের মূলধন টেনে নিলে ছোট deal পিছিয়ে যায়",
+    "সুদের হার কমলে ঋণ বাড়ে",
+    "রপ্তানি বাড়লে GDP বাড়ে",
+    "শেয়ারের দাম বাড়লে সম্পদ বাড়ে"
+   ],
+   "answer": 0,
+   "explain": "Crowding out মানে একটি বড় চাহিদা সীমিত মূলধন টেনে নেওয়ায় অন্যরা সরে যেতে বাধ্য হওয়া।"
+  },
+  {
+   "q": "সোমবার Brent crude কত ডলারে বন্ধ হয়েছে?",
+   "options": [
+    "$95.82",
+    "$85.72",
+    "$94.88",
+    "$92.44"
+   ],
+   "answer": 3,
+   "explain": "Reuters-ভিত্তিক প্রতিবেদনে Brent $92.44 আর WTI $85.72-এ বন্ধ হয়েছে।"
+  },
+  {
+   "q": "চীনের জানুয়ারি–অক্টোবর সময়ে fixed-asset investment কত শতাংশ কমেছে?",
+   "options": [
+    "4.8%",
+    "0.4%",
+    "8.1%",
+    "21.6%"
+   ],
+   "answer": 2,
+   "explain": "Fixed-asset investment 8.1% কমেছে; 21.6% হলো property investment-এর পতন।"
+  }
+ ],
+ "caseStudy": {
+  "week": "2026-W47",
+  "weekLabel": "১৬–২২ নভেম্বর ২০২৬",
+  "company": "Zara (Inditex)",
+  "title": "Zara কীভাবে ডিজাইন থেকে দোকানে পৌঁছায় মাত্র কয়েক সপ্তাহে",
+  "concept": "Vertical Integration আর Supply Chain Responsiveness",
+  "intro": "1975 সালে Amancio Ortega স্পেনের A Coruña শহরে প্রথম Zara দোকান খোলেন। পরে এটি Inditex গোষ্ঠীর সবচেয়ে বড় ব্র্যান্ড হয়ে ওঠে। অন্য ফ্যাশন কোম্পানি যেখানে মৌসুমের আগে মাসের পর মাস আগে থেকে পরিকল্পনা করে, Zara সেখানে বাজারে কী চলছে তা দেখে দ্রুত নতুন ডিজাইন বানাতে পারে।",
+  "sections": [
+   {
+    "h": "কী করেছিল",
+    "p": "Zara নিজের ডিজাইন, কাটিং আর প্রধান উৎপাদনের একটি বড় অংশ নিজের নিয়ন্ত্রণে রাখে, যার বড় অংশ সদর দপ্তরের কাছে স্পেন ও আশেপাশের দেশে। দোকানগুলো কোন পোশাক বিক্রি হচ্ছে তার তথ্য নিয়মিত কেন্দ্রে পাঠায়, আর সেই অনুযায়ী ছোট ছোট batch-এ নতুন পোশাক বানিয়ে দোকানে পাঠানো হয়। Zara বিজ্ঞাপনে তুলনামূলকভাবে কম খরচ করে এবং দোকানের অবস্থানকেই প্রধান বিজ্ঞাপন হিসেবে ব্যবহার করে।"
+   },
+   {
+    "h": "ফলাফল",
+    "p": "নতুন ডিজাইন খুব অল্প সময়ে দোকানে পৌঁছায়, আর দোকানে নতুন পোশাক ঘনঘন আসে বলে ক্রেতারা বারবার ফিরে আসে। Inditex বিশ্বের সবচেয়ে বড় ফ্যাশন খুচরা কোম্পানিগুলোর একটি হয়েছে।"
+   },
+   {
+    "h": "কেন কাজ করল",
+    "p": "ছোট batch-এ উৎপাদন মানে অবিক্রীত মজুতের ঝুঁকি কম, আর বেশি বিক্রি হওয়া ডিজাইন দ্রুত আবার বানানো যায়। দোকানের তথ্য সরাসরি ডিজাইন দলের কাছে যাওয়ায় অনুমানের বদলে চাহিদার ওপর ভিত্তি করে সিদ্ধান্ত হয়। নিজের নিয়ন্ত্রণে supply chain রাখায় গতি আর মান দুটোই ধরে রাখা সহজ হয়।"
+   },
+   {
+    "h": "ঝুঁকি আর সমালোচনা",
+    "p": "কাছাকাছি উৎপাদনে শ্রম খরচ বেশি হয়, তাই মুনাফার margin-এ চাপ থাকে। Fast fashion মডেলকে পরিবেশ আর বর্জ্যের কারণে সমালোচনা সইতে হয়েছে, আর সরবরাহকারী কারখানার শ্রমিকদের কাজের পরিবেশ নিয়েও অতীতে প্রশ্ন উঠেছে। অতিরিক্ত চাহিদার পূর্বাভাস ভুল হলে মজুত জমার ঝুঁকিও থেকে যায়।"
+   }
+  ],
+  "lesson": "গতি আর তথ্য প্রতিযোগিতার বড় অস্ত্র: গ্রাহকের চাহিদা দ্রুত জেনে দ্রুত সাড়া দিতে পারলে মজুতের ঝুঁকি কমে আর বিক্রি বাড়ে। তবে এর জন্য supply chain-এর ওপর নিয়ন্ত্রণ আর নৈতিক দায়িত্ব দুটোই সামলাতে হয়।",
+  "question": "তোমার পছন্দের কোনো ব্র্যান্ডের জন্য কি Zara-র মতো ছোট batch আর দ্রুত সাড়ার মডেল কাজ করবে? কোন পণ্যে করবে না, আর কেন?"
+ },
+ "en": {
+  "dateLabel": "Tuesday, 17 November 2026",
+  "news": [
+   {
+    "id": "n1",
+    "category": "Stock market",
+    "title": "Wall Street slides before Nvidia results: S&P 500 down 1.92%, Nasdaq down 2.49%",
+    "summary": "On Monday the S&P 500 fell 1.92% to 7,416.59, the Nasdaq Composite fell 2.49% to 24,509.76 and the Dow fell 1.41% (739.38 points) to 51,608.17. The Nasdaq is now more than 10% below its October record close, which puts it in correction territory. Nvidia shares dropped to $156.14, the lowest since 1 July 2025. Only 145 S&P 500 stocks rose while 355 fell. Nvidia reports after the close on Tuesday; analysts expect revenue of about $108–109 billion.",
+    "why": "A clear example of a market correction and market breadth: one giant company's leadership crisis can drag a whole index, and a fall across most stocks signals a deeper decline.",
+    "source": {
+     "name": "BNN Bloomberg",
+     "url": "https://www.bnnbloomberg.ca/markets/nasdaq/2026/11/16/stocks-decline-on-tech-sell-off-as-concerns-over-the-nvidia-fallout-persist/"
+    }
+   },
+   {
+    "id": "n2",
+    "category": "Macro",
+    "title": "China's October data show a slowdown: factory output 4.8%, retail sales up just 0.4%",
+    "summary": "China's industrial output grew 4.8% year on year in October, down from 5.5% in September and below the roughly 5.3% forecast. Retail sales rose only 0.4% against a 0.8% forecast. Fixed-asset investment fell 8.1% in January–October, worse than the 7.0% decline expected, and property investment fell 21.6%. All three readings missed forecasts, strengthening calls for more stimulus from Beijing.",
+    "why": "It shows how weak aggregate demand slows an economy and why governments consider fiscal stimulus. Weaker Chinese demand also affects exporters such as India.",
+    "source": {
+     "name": "CNBC",
+     "url": "https://www.cnbc.com/2026/11/16/china-retail-sales-october-industrial-output-investment.html"
+    }
+   },
+   {
+    "id": "n3",
+    "category": "India",
+    "title": "India's wholesale inflation (WPI) hits 12.29% in October, fuel and power up 32.84%",
+    "summary": "According to the Commerce Ministry, India's WPI inflation rose to 12.29% in October from 11.39% in September. Fuel and power prices rose 32.84% (25.85% in September), primary articles 9.24% and manufactured products 9.54%. Food inflation was 8.58%. WPI inflation averaged 10.14% over April–October. Retail inflation (CPI) was 6.09%, above the RBI's 6% limit.",
+    "why": "Know the difference between WPI and CPI: higher wholesale prices raise producers' costs and slowly pass through to consumers. This is a live case of cost-push inflation.",
+    "source": {
+     "name": "Business Standard",
+     "url": "https://www.business-standard.com/amp/economy/news/wpi-inflation-rises-to-12-29-in-october-as-fuel-power-prices-surge-126111600916_1.html"
+    }
+   },
+   {
+    "id": "n4",
+    "category": "Commodities",
+    "title": "Oil falls: Brent down 3.6% to $92.44 as surplus fears grow",
+    "summary": "On Monday Brent crude fell $3.40 (3.6%) to $92.44 a barrel and US WTI fell $2.84 (3.2%) to $85.72. Signs that Middle East exports are recovering reinforced expectations of surplus supply. The IEA expects fourth-quarter supply to average 105 million barrels a day, 1.7 million above demand. Sources differ on the status of shipping through the Strait of Hormuz.",
+    "why": "Supply and demand drive prices. India imports oil, so cheaper crude can ease inflation and the trade deficit.",
+    "source": {
+     "name": "Yahoo Finance (Reuters)",
+     "url": "https://finance.yahoo.com/energy/articles/oil-prices-fall-expectations-coming-020042042.html"
+    }
+   },
+   {
+    "id": "n5",
+    "category": "Banking",
+    "title": "Bank of America CEO: Anthropic IPO is pushing some deals into 2027",
+    "summary": "Bank of America CEO Brian Moynihan told Bloomberg Television that some deals are moving to early next year. He called the market \"very bumpy\" but said the pipeline is still full and activity should pick up by year-end. Investors cited by Bloomberg think Anthropic's expected giant IPO is crowding out smaller companies. One report puts the IPO's target proceeds at up to $64.4 billion.",
+    "why": "It links investment banking (underwriting, IPO pipeline) with crowding out: when one huge issue absorbs scarce capital, others must wait.",
+    "source": {
+     "name": "Bloomberg",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-16/bofa-s-moynihan-says-some-deals-are-getting-pushed-into-2027"
+    }
+   },
+   {
+    "id": "n6",
+    "category": "India",
+    "title": "Sensex gains 512 points to 82,104.79; rupee firms to 93.92",
+    "summary": "On Monday the Sensex rose 512.34 points (0.63%) to 82,104.79 and the Nifty 50 rose 146.80 points (0.58%) to 25,291.10, led by FMCG and banking stocks. Reports credited easing oil prices and continued foreign inflows. The rupee gained about 27–32 paise to close near 93.92 per dollar; sources differ slightly on Friday's close.",
+    "why": "Foreign institutional investor flows, oil prices and the currency are closely linked, and this day's data shows how.",
+    "source": {
+     "name": "NewsDrum (PTI)",
+     "url": "https://www.newsdrum.in/business/sensex-jumps-512-points-nifty-tops-25290-as-fmcg-banking-stocks-lead-rally-12814329"
+    }
+   },
+   {
+    "id": "n7",
+    "category": "Monetary policy",
+    "title": "US 10-year yield stays above 5% as markets price a December Fed hike",
+    "summary": "The US 10-year Treasury yield eased to 5.13% on Monday from 5.15% on Friday, still well above the 4.80% low earlier this month. Traders are reportedly pricing in a December rate hike. Citing Fed Chair Kevin Warsh, reports said Fed staff are modelling a scenario in which heavy AI investment fails to pay off and share prices fall. Higher yields pressure equity valuations, especially tech.",
+    "why": "Understand the inverse link between bond yields and stock valuations: a higher discount rate lowers the present value of future earnings.",
+    "source": {
+     "name": "HNGN",
+     "url": "https://www.hngn.com/articles/273846/20261116/stocks-slide-10-year-yield-stays-above-5-before-nvidia.htm"
+    }
+   }
+  ],
+  "market": {
+   "asOf": "Close of Monday, 16 November 2026",
+   "items": [
+    {
+     "name": "S&P 500",
+     "region": "US",
+     "value": "7,416.59",
+     "change": "-1.92%",
+     "dir": "down"
+    },
+    {
+     "name": "Dow Jones",
+     "region": "US",
+     "value": "51,608.17",
+     "change": "-1.41%",
+     "dir": "down"
+    },
+    {
+     "name": "Nasdaq",
+     "region": "US",
+     "value": "24,509.76",
+     "change": "-2.49%",
+     "dir": "down"
+    },
+    {
+     "name": "Sensex",
+     "region": "India",
+     "value": "82,104.79",
+     "change": "+0.63%",
+     "dir": "up"
+    },
+    {
+     "name": "Nifty 50",
+     "region": "India",
+     "value": "25,291.10",
+     "change": "+0.58%",
+     "dir": "up"
+    },
+    {
+     "name": "Brent Crude",
+     "region": "$ per barrel",
+     "value": "$92.44",
+     "change": "-3.60%",
+     "dir": "down"
+    },
+    {
+     "name": "Gold",
+     "region": "$ per ounce",
+     "value": "$3,865.75",
+     "change": "-0.41%",
+     "dir": "down"
+    },
+    {
+     "name": "USD/INR",
+     "region": "₹ per dollar",
+     "value": "93.92",
+     "change": "-27 paise",
+     "dir": "down"
+    }
+   ]
+  },
+  "term": {
+   "term": "Crowding Out",
+   "bangla": "When a big issuer squeezes out smaller ones",
+   "definition": "Crowding out is when one large demand for funds, such as government borrowing or a huge IPO, absorbs scarce capital, so other borrowers or companies must wait or pay more. In the classic macro sense, heavy government borrowing raises interest rates and reduces private investment.",
+   "example": "Bank of America's CEO said Anthropic's expected giant IPO is pushing some smaller deals into 2027, because it absorbs market capital and attention.",
+   "formula": "",
+   "tip": "Give two examples in an interview: government borrowing raising rates and cutting private investment (macro), and a giant IPO pushing smaller issues back (capital markets)."
+  },
+  "gd": {
+   "topic": "Is a giant IPO good for the market overall, or harmful for smaller companies?",
+   "context": "Bank of America's CEO says Anthropic's expected IPO is pushing some deals into 2027. Meanwhile the Nasdaq is in correction and the US 10-year yield is above 5%.",
+   "for": [
+    "A large successful IPO builds investor confidence and eases the path for later issues.",
+    "It deepens capital markets, funding new tech firms and giving investors new opportunities.",
+    "It brings work and fees to the whole ecosystem of banks and lawyers."
+   ],
+   "against": [
+    "When scarce capital goes to one issue, smaller firms must wait or raise money at higher cost.",
+    "In a weak market, a failed giant issue can shake confidence in the whole IPO market.",
+    "High valuations are risky, and ordinary investors may lose money buying at inflated prices."
+   ]
+  },
+  "blog": {
+   "title": "Where Do Smaller Firms Go When a Giant IPO Arrives? A Simple Lesson in Crowding Out",
+   "topic": "Crowding Out and IPO timing",
+   "readMin": 5,
+   "body": [
+    "## What is crowding out?",
+    "Money available to invest is limited. If a large share of it flows to one big need, less is left for everyone else. Economics calls this crowding out. The idea first appeared in macroeconomics, in the context of government borrowing. When a government borrows heavily to fund its deficit, demand for loanable funds rises, interest rates go up, and private firms find borrowing and investing more expensive. So part of the boost from government spending is offset by lower private investment.",
+    "## Crowding out in today's news",
+    "Yesterday on Bloomberg Television, Bank of America CEO Brian Moynihan said some deals are moving into early next year. He called the market \"very bumpy\" but said the pipeline is full and activity should rise by year-end. Investors cited by Bloomberg believe Anthropic's expected giant IPO, with one report putting target proceeds at up to $64.4 billion, is pushing smaller companies' issues back. The logic is simple: fund managers have a fixed amount of cash and time. They cannot buy into every issue at once, so when a huge issue arrives they set money aside for it and allocate less elsewhere.",
+    "Bond markets add pressure. The US 10-year Treasury yield is about 5.13% and traders are pricing a possible December rate hike. A high yield means safe government bonds already pay well, so risky shares and new IPOs look less attractive. On Monday the Nasdaq fell 2.49% into correction territory, and markets are nervous ahead of Nvidia's results. Three things are happening together: demand for a giant issue, high interest rates, and weak equities.",
+    "## Why it matters for business decisions",
+    "Imagine you are the CFO of a mid-sized company planning to raise money by selling shares. If a very large IPO is in the market, you have three options. First, you can wait, as many are now doing until 2027. Second, you can sell shares at a lower price, which dilutes existing shareholders more. Third, you can turn to bank loans or bonds, but with interest rates high that is expensive too. None of the options is free, and that is where opportunity cost comes in.",
+    "Investment banks are affected as well. As underwriters they take on the risk of selling an issue and earn fees. A giant issue is a big source of income, but handling many issues at once is hard, so banks help decide which issue comes first and which later. This choice of timing, called IPO timing, is a core business decision.",
+    "## A caution: crowding out is not universal",
+    "Economists do not all agree. In a recession, or when banks hold idle cash, government borrowing may not displace private investment and can even encourage it, which is called crowding in. Likewise a successful giant IPO can open the door for others by restoring investor confidence in a new asset class. So before applying the idea, check whether capital is truly scarce, what interest rates are, and how willing investors are to take risk. Today yields are high and equities are weak, so the crowding-out argument is relatively strong.",
+    "## Applying it as a BBA student",
+    "If an exam asks about crowding out, structure your answer in three steps: cause (a big demand absorbs limited capital), mechanism (rates or costs rise, others fall back) and result (private investment or smaller issues shrink). Then give a real example, such as today's Anthropic IPO and the Bank of America comment. Finish with balance by noting when crowding out does not occur. For your career, remember that a good manager looks beyond their own project to the flow of capital in the whole market and the timing of decisions. Raising money at the right time is often more important than how much you raise."
+   ],
+   "takeaways": [
+    "In crowding out, one large demand absorbs scarce capital, so others wait or pay more.",
+    "The effect is strongest with high rates and weak markets; with a recession or idle capital it may not occur (crowding in).",
+    "When raising capital, weigh both timing and opportunity cost."
+   ]
+  },
+  "quiz": [
+   {
+    "q": "By what percentage did the Nasdaq Composite fall on Monday?",
+    "options": [
+     "1.41%",
+     "1.92%",
+     "2.49%",
+     "3.60%"
+    ],
+    "answer": 2,
+    "explain": "The Nasdaq fell 2.49% to 24,509.76; the S&P 500 fell 1.92% and the Dow 1.41%."
+   },
+   {
+    "q": "What was India's WPI inflation in October?",
+    "options": [
+     "6.09%",
+     "12.29%",
+     "11.39%",
+     "32.84%"
+    ],
+    "answer": 1,
+    "explain": "WPI inflation was 12.29%. 6.09% is CPI, 11.39% was September's WPI and 32.84% is fuel and power inflation."
+   },
+   {
+    "q": "Which is a correct example of crowding out?",
+    "options": [
+     "A giant issue absorbs market capital and smaller deals are delayed",
+     "Lower interest rates raise borrowing",
+     "Higher exports raise GDP",
+     "Higher share prices raise wealth"
+    ],
+    "answer": 0,
+    "explain": "Crowding out means one large demand absorbs limited capital and forces others to step back."
+   },
+   {
+    "q": "At what price did Brent crude close on Monday?",
+    "options": [
+     "$95.82",
+     "$85.72",
+     "$94.88",
+     "$92.44"
+    ],
+    "answer": 3,
+    "explain": "Reuters-based reports put Brent at $92.44 and WTI at $85.72."
+   },
+   {
+    "q": "By how much did China's fixed-asset investment fall in January–October?",
+    "options": [
+     "4.8%",
+     "0.4%",
+     "8.1%",
+     "21.6%"
+    ],
+    "answer": 2,
+    "explain": "Fixed-asset investment fell 8.1%; 21.6% is the fall in property investment."
+   }
+  ],
+  "caseStudy": {
+   "week": "2026-W47",
+   "weekLabel": "16 – 22 November 2026",
+   "company": "Zara (Inditex)",
+   "title": "How Zara gets a design from drawing board to store in just weeks",
+   "concept": "Vertical Integration and Supply Chain Responsiveness",
+   "intro": "In 1975 Amancio Ortega opened the first Zara store in A Coruña, Spain. It grew into the biggest brand of the Inditex group. While other fashion companies plan collections many months before a season, Zara watches what is selling and quickly makes new designs.",
+   "sections": [
+    {
+     "h": "What it did",
+     "p": "Zara keeps design, cutting and a large part of key production under its own control, much of it in Spain and nearby countries close to headquarters. Stores regularly send data on what is selling, and new items are made in small batches accordingly and shipped to stores. Zara spends relatively little on advertising and uses its prime store locations as its main advertisement."
+    },
+    {
+     "h": "The result",
+     "p": "New designs reach stores in a very short time, and because fresh items arrive often, shoppers come back again and again. Inditex became one of the world's largest fashion retailers."
+    },
+    {
+     "h": "Why it worked",
+     "p": "Small batches mean less unsold stock, and designs that sell well can be quickly made again. Store data goes straight to the design team, so decisions rest on demand rather than guesses. Owning the supply chain makes it easier to keep both speed and quality."
+    },
+    {
+     "h": "Risks and criticism",
+     "p": "Producing close to home costs more in labour, which presses on profit margins. The fast-fashion model has faced criticism over environmental impact and waste, and questions have been raised in the past about working conditions at supplier factories. If demand forecasts are wrong, unsold stock can still build up."
+    }
+   ],
+   "lesson": "Speed and information are powerful competitive weapons: learning customer demand quickly and responding fast lowers inventory risk and lifts sales. But it requires managing both control of the supply chain and ethical responsibility.",
+   "question": "Would Zara's small-batch, fast-response model work for a brand you like? For which products would it not work, and why?"
+  }
+ }
+}
