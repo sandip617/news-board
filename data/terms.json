@@ -1,6 +1,23 @@
 {
  "terms": [
   {
+   "date": "2026-11-18",
+   "term": "Gross Margin",
+   "bangla": "বিক্রির ওপর মোট মুনাফার হার",
+   "definition": "Gross margin হলো বিক্রির আয় থেকে পণ্য বা সেবা তৈরির সরাসরি খরচ (COGS) বাদ দেওয়ার পর যা থাকে, তা বিক্রির শতাংশ হিসেবে। এটি দেখায় কোম্পানি প্রতি 100 টাকার বিক্রিতে উৎপাদনের পর কত টাকা হাতে রাখে। Overhead, বিপণন আর সুদের খরচ এর আগে ধরা হয় না।",
+   "example": "Nvidia পরের কোয়ার্টারে রাজস্ব $130 বিলিয়ন আশা করলেও gross margin 71–72% থাকার পূর্বাভাস দিয়েছে। অর্থাৎ রাজস্ব বাড়লেও প্রতি ডলার বিক্রিতে হাতে থাকা অংশ আগের চেয়ে কম।",
+   "formula": "Gross Margin (%) = (Revenue − COGS) ÷ Revenue × 100",
+   "tip": "Interview-তে gross margin, operating margin আর net margin-এর পার্থক্য বলতে পারলে বিশ্লেষণক্ষমতা বোঝা যায়। মনে রেখো, উচ্চ gross margin মানেই উচ্চ নিট মুনাফা নয়।",
+   "en": {
+    "term": "Gross Margin",
+    "bangla": "Share of sales left after direct costs",
+    "definition": "Gross margin is what remains of sales revenue after subtracting the direct cost of producing goods or services (COGS), expressed as a percentage of revenue. It shows how much a company keeps from each 100 of sales before overheads, marketing and interest.",
+    "example": "Nvidia expects revenue of $130 billion next quarter but guided gross margin to 71–72%. So even as revenue grows, the share kept from each dollar of sales is lower than before.",
+    "formula": "Gross Margin (%) = (Revenue − COGS) ÷ Revenue × 100",
+    "tip": "In interviews, be ready to contrast gross, operating and net margin. A high gross margin does not automatically mean high net profit."
+   }
+  },
+  {
    "date": "2026-11-17",
    "term": "Crowding Out",
    "bangla": "বড় ইস্যুর চাপে ছোটদের জায়গা হারানো",

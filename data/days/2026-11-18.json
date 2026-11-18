@@ -1,0 +1,521 @@
+{
+ "date": "2026-11-18",
+ "dateLabel": "১৮ নভেম্বর ২০২৬, বুধবার",
+ "edition": 1,
+ "updatedAt": "2026-11-18T07:20:00+05:30",
+ "news": [
+  {
+   "id": "n1",
+   "category": "কোম্পানি",
+   "title": "Nvidia-র রাজস্ব 103% বেড়ে প্রায় $115.8 বিলিয়ন, পরের কোয়ার্টারের পূর্বাভাস $130 বিলিয়ন",
+   "summary": "CEO Jensen Huang-এর পদত্যাগের পর Nvidia-র প্রথম আর্থিক ফলে তৃতীয় কোয়ার্টারের রাজস্ব হয়েছে প্রায় $115.8 বিলিয়ন, যা এক বছর আগের চেয়ে 103% বেশি। কোম্পানির নিজের পূর্বাভাস ছিল $108 বিলিয়ন আর বিশ্লেষকদের অনুমান ছিল প্রায় $109 বিলিয়ন। Data center থেকে আয় প্রায় $108 বিলিয়ন। চতুর্থ কোয়ার্টারের জন্য Nvidia রাজস্ব $130 বিলিয়ন (±3%) আশা করছে, যা বিশ্লেষকদের প্রায় $125 বিলিয়নের অনুমানের ওপরে। তবে gross margin 71–72% থাকার পূর্বাভাস দেওয়া হয়েছে। বাজার বন্ধের পর Nvidia-র শেয়ার প্রায় 3–4% বেড়েছে।",
+   "why": "Revenue growth আর gross margin একসঙ্গে দেখা শেখার ভালো উদাহরণ: বিক্রি দ্রুত বাড়লেও margin চাপে থাকলে মুনাফার গল্প বদলে যেতে পারে। Earnings guidance কীভাবে শেয়ারদাম নাড়ায়, তাও এখানে স্পষ্ট।",
+   "source": {
+    "name": "CBS News",
+    "url": "https://www.cbsnews.com/news/nvidia-earnings-jensen-huang-colette-kress/"
+   }
+  },
+  {
+   "id": "n2",
+   "category": "শেয়ারবাজার",
+   "title": "Nvidia-র ফলের আগে Wall Street-এ টানা চতুর্থ দিন পতন: Dow 849 পয়েন্ট নিচে",
+   "summary": "মঙ্গলবার Dow 848.75 পয়েন্ট (1.64%) কমে 50,759.42-এ বন্ধ হয়েছে, দিনের মাঝে পতন ছিল 1,000 পয়েন্টের বেশি। S&P 500 1.03% কমে 7,340.53-এ, যা জুলাইয়ের শেষের পর সর্বনিম্ন ক্লোজিং। Nasdaq Composite প্রায় 0.74% কমে 24,328.38-এ বন্ধ হয়েছে। S&P 500 ও Nasdaq দুটিই টানা চতুর্থ দিন নেমেছে, সেপ্টেম্বরের পর এই প্রথম। AI-তে বিনিয়োগ থেকে মুনাফা আসবে কি না, সেই উদ্বেগে প্রযুক্তি শেয়ার চাপে ছিল।",
+   "why": "Market sentiment আর risk aversion বোঝার উদাহরণ: বড় ফলের আগে বিনিয়োগকারীরা ঝুঁকি কমান। টানা পতন কীভাবে বাজারকে correction-এর দিকে ঠেলে, তা এখানে দেখা যায়।",
+   "source": {
+    "name": "Honolulu Star-Advertiser",
+    "url": "https://www.staradvertiser.com/2026/11/17/breaking-news/dow-drops-849-points-as-wall-street-slides-ahead-of-nvidia-results/"
+   }
+  },
+  {
+   "id": "n3",
+   "category": "কোম্পানি",
+   "title": "Home Depot-র বিক্রি 4.9% বেড়ে $43.4 বিলিয়ন, কিন্তু বছরের comparable sales-এর পূর্বাভাস কমল",
+   "summary": "Home Depot-র তৃতীয় কোয়ার্টারে বিক্রি বছরে 4.9% বেড়ে $43.4 বিলিয়ন হয়েছে, আর US comparable sales বেড়েছে 2.2%। Adjusted EPS $3.86, এক বছর আগে ছিল $3.74। কোম্পানি পুরো বছরের comparable sales বৃদ্ধির পূর্বাভাস নামিয়ে প্রায় 1.4% করেছে, আগের পরিসর ছিল প্রায় শূন্য থেকে 2.0%। একই দিনে প্রকাশিত US অক্টোবরের খুচরো বিক্রির তথ্যে বৃদ্ধি ছিল 0.2%, যা অনুমানের সঙ্গে মিলেছে।",
+   "why": "Comparable (same-store) sales একটি খুচরো কোম্পানির আসল স্বাস্থ্য মাপে, কারণ নতুন দোকানের প্রভাব বাদ যায়। Guidance কমানো মানে ভোক্তা-চাহিদা নিয়ে ব্যবস্থাপনার সতর্কতা, যা consumer demand-এর পাঠে কাজে লাগে।",
+   "source": {
+    "name": "Home Depot (Investor Relations)",
+    "url": "https://ir.homedepot.com/news-releases/2026/11-17-2026-110221331"
+   }
+  },
+  {
+   "id": "n4",
+   "category": "IPO",
+   "title": "Anthropic IPO-র দাম সীমার ওপরের দিকে বা তার চেয়েও বেশি হতে পারে, চাহিদা প্রায় সাত গুণ",
+   "summary": "Bloomberg-এর প্রতিবেদন অনুযায়ী Anthropic বিনিয়োগকারীদের জানাচ্ছে, তারা IPO-র দাম সীমার সর্বোচ্চ প্রান্তে বা তার ওপরে ঠিক করতে চায়। মোট 825 মিলিয়ন শেয়ার শেয়ারপ্রতি $70–$78 দামে বিক্রির কথা, আর অর্ডার এসেছে প্রায় সাত গুণ। প্রতিবেদন অনুযায়ী বুধবার দাম ঠিক হবে এবং বৃহস্পতিবার Nasdaq-এ \"ANT\" ticker-এ লেনদেন শুরু হওয়ার কথা। শর্ত এখনও বদলাতে পারে।",
+   "why": "IPO book-building আর oversubscription বোঝার সরাসরি উদাহরণ: চাহিদা বেশি হলে underwriter দাম বাড়াতে পারে। এতে কোম্পানি বেশি মূলধন তোলে, কিন্তু প্রথম দিনের লাভ-ক্ষতির ঝুঁকিও থাকে।",
+   "source": {
+    "name": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-17/anthropic-is-said-to-guide-ipo-price-to-top-of-range-or-above"
+   }
+  },
+  {
+   "id": "n5",
+   "category": "ভারত",
+   "title": "Sensex 427 পয়েন্ট বেড়ে 82,532.19-এ, Nifty 25,387.40-এ; Bank Nifty-র নতুন রেকর্ড",
+   "summary": "মঙ্গলবার Sensex 427.40 পয়েন্ট (0.52%) বেড়ে 82,532.19-এ আর Nifty 50 96.30 পয়েন্ট (0.38%) বেড়ে 25,387.40-এ বন্ধ হয়েছে। ব্যাংক ও realty শেয়ার বাজারকে টেনেছে, Bank Nifty দিনের মাঝে 62,414.90-এর নতুন রেকর্ডে পৌঁছেছে। অন্যদিকে FMCG, consumer durables আর IT শেয়ার পিছিয়েছে। অপরিশোধিত তেলের দাম কমা আর বিদেশি বিনিয়োগকারীদের (FII) কেনা বাজারকে সাহায্য করেছে।",
+   "why": "তেলের দাম কমলে আমদানিনির্ভর ভারতের খরচ কমে, তাই শেয়ারবাজার ইতিবাচক সাড়া দেয়। Sector rotation (এক খাত থেকে অন্য খাতে টাকা সরা) বোঝারও ভালো উদাহরণ।",
+   "source": {
+    "name": "Business Standard",
+    "url": "https://www.business-standard.com/amp/markets/news/stock-market-live-november-17-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-bse-share-price-126111700071_1.html"
+   }
+  },
+  {
+   "id": "n6",
+   "category": "ভারত",
+   "title": "অক্টোবরে ভারতের পণ্য বাণিজ্য ঘাটতি এক বছরের সর্বোচ্চ $39.88 বিলিয়ন",
+   "summary": "বাণিজ্য মন্ত্রকের তথ্য অনুযায়ী অক্টোবরে ভারতের merchandise trade deficit হয়েছে $39.88 বিলিয়ন, যা রয়টার্সের জরিপের প্রায় $32.25 বিলিয়ন অনুমানের চেয়ে বেশি। পণ্য রপ্তানি রেকর্ড $49.47 বিলিয়ন, আমদানি $89.35 বিলিয়ন। সেপ্টেম্বরের তুলনায় সোনার আমদানি $1.8 বিলিয়ন থেকে বেড়ে $5.51 বিলিয়ন হয়েছে। তবে এক বছর আগের $42.58 বিলিয়নের চেয়ে ঘাটতি কম।",
+   "why": "Trade deficit, current account আর রুপির সম্পর্ক বোঝার জন্য এটি জরুরি। সোনা ও তেলের আমদানি বাড়লে ঘাটতি বাড়ে, আর তা মুদ্রার ওপর চাপ ফেলে।",
+   "source": {
+    "name": "Deccan Herald",
+    "url": "https://www.deccanherald.com/business/trade-deficit-jumps-to-one-year-high-of-3988-billion-in-october-4217774"
+   }
+  },
+  {
+   "id": "n7",
+   "category": "কেন্দ্রীয় ব্যাংক",
+   "title": "US 10-year yield প্রায় 5.11%, Fed কর্তারা আরও সুদ বাড়ানোর ইঙ্গিত দিচ্ছেন",
+   "summary": "CNBC-র প্রতিবেদনে মঙ্গলবার US 10-year Treasury yield ছিল প্রায় 5.11% আর 2-year yield প্রায় 4.81%। St. Louis Fed-এর প্রেসিডেন্ট Musalem বলেছেন, বসন্ত 2027-এর আগে আরও কয়েকবার সুদ বাড়ানো লাগতে পারে। খুচরো বিক্রির তথ্য আসার পর বন্ড বাজারে বিনিয়োগকারীরা Fed-এর পরবর্তী পদক্ষেপ নিয়ে সতর্ক ছিলেন। উচ্চ yield শেয়ারবাজারের ওপর চাপের একটি বড় কারণ।",
+   "why": "Monetary policy আর interest rate-এর প্রভাব বোঝার ভালো উদাহরণ: yield বাড়লে শেয়ারের valuation কমে, বিশেষ করে বেশি বৃদ্ধির প্রযুক্তি শেয়ারে।",
+   "source": {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/17/treasury-yields-bonds-inflation.html"
+   }
+  }
+ ],
+ "market": {
+  "asOf": "১৭ নভেম্বর ২০২৬, মঙ্গলবারের ক্লোজিং",
+  "items": [
+   {
+    "name": "S&P 500",
+    "region": "US",
+    "value": "7,340.53",
+    "change": "-1.03%",
+    "dir": "down"
+   },
+   {
+    "name": "Dow Jones",
+    "region": "US",
+    "value": "50,759.42",
+    "change": "-1.64%",
+    "dir": "down"
+   },
+   {
+    "name": "Nasdaq",
+    "region": "US",
+    "value": "24,328.38",
+    "change": "-0.74%",
+    "dir": "down"
+   },
+   {
+    "name": "Sensex",
+    "region": "ভারত",
+    "value": "82,532.19",
+    "change": "+0.52%",
+    "dir": "up"
+   },
+   {
+    "name": "Nifty 50",
+    "region": "ভারত",
+    "value": "25,387.40",
+    "change": "+0.38%",
+    "dir": "up"
+   }
+  ]
+ },
+ "term": {
+  "term": "Gross Margin",
+  "bangla": "বিক্রির ওপর মোট মুনাফার হার",
+  "definition": "Gross margin হলো বিক্রির আয় থেকে পণ্য বা সেবা তৈরির সরাসরি খরচ (COGS) বাদ দেওয়ার পর যা থাকে, তা বিক্রির শতাংশ হিসেবে। এটি দেখায় কোম্পানি প্রতি 100 টাকার বিক্রিতে উৎপাদনের পর কত টাকা হাতে রাখে। Overhead, বিপণন আর সুদের খরচ এর আগে ধরা হয় না।",
+  "example": "Nvidia পরের কোয়ার্টারে রাজস্ব $130 বিলিয়ন আশা করলেও gross margin 71–72% থাকার পূর্বাভাস দিয়েছে। অর্থাৎ রাজস্ব বাড়লেও প্রতি ডলার বিক্রিতে হাতে থাকা অংশ আগের চেয়ে কম।",
+  "formula": "Gross Margin (%) = (Revenue − COGS) ÷ Revenue × 100",
+  "tip": "Interview-তে gross margin, operating margin আর net margin-এর পার্থক্য বলতে পারলে বিশ্লেষণক্ষমতা বোঝা যায়। মনে রেখো, উচ্চ gross margin মানেই উচ্চ নিট মুনাফা নয়।"
+ },
+ "gd": {
+  "topic": "রাজস্ব দ্রুত বাড়লেও margin কমলে কি কোম্পানির শেয়ার কেনা নিরাপদ?",
+  "context": "Nvidia-র রাজস্ব 103% বেড়েছে আর পরের কোয়ার্টারের পূর্বাভাস $130 বিলিয়ন, কিন্তু gross margin 71–72% থাকার কথা বলা হয়েছে। একই সময়ে US 10-year yield প্রায় 5.11% আর Wall Street টানা চার দিন নেমেছে।",
+  "for": [
+   "রাজস্ব ও data center চাহিদা বিপুল বাড়ছে, তাই পরম মুনাফার অঙ্ক বড় হতে থাকে।",
+   "71–72% margin এখনও অধিকাংশ শিল্পের তুলনায় অনেক বেশি।",
+   "পূর্বাভাস বিশ্লেষকদের অনুমানের ওপরে, যা ব্যবস্থাপনার আত্মবিশ্বাস দেখায়।"
+  ],
+  "against": [
+   "Margin কমলে প্রতি ডলার বিক্রিতে মুনাফা কমে, দীর্ঘমেয়াদে valuation চাপে পড়ে।",
+   "সুদের হার ও yield বাড়ায় উচ্চ valuation-এর প্রযুক্তি শেয়ার ঝুঁকিতে।",
+   "AI বিনিয়োগ থেকে মুনাফা আসবে কি না, তা নিয়ে বাজারে প্রশ্ন আছে।"
+  ]
+ },
+ "blog": {
+  "title": "Revenue বাড়ছে, কিন্তু margin? Nvidia-র ফল থেকে gross margin শেখা",
+  "topic": "Gross Margin ও মুনাফা বিশ্লেষণ",
+  "readMin": 5,
+  "body": [
+   "## Gross margin আসলে কী?",
+   "কল্পনা করো তুমি ক্যাম্পাসে হাতে-বানানো কফি বিক্রি করো। এক কাপ কফি বিক্রি হয় 100 টাকায়, আর কফি, দুধ, কাপ ও চিনির সরাসরি খরচ 40 টাকা। তাহলে প্রতি কাপে তোমার হাতে থাকে 60 টাকা। এই 60 টাকাকে বিক্রির 100 টাকা দিয়ে ভাগ করলে পাই 60%, এটিই gross margin। সূত্রটা সহজ: Gross Margin = (Revenue − COGS) ÷ Revenue × 100। এখানে COGS মানে Cost of Goods Sold, অর্থাৎ পণ্য তৈরির সরাসরি খরচ।",
+   "মনে রাখতে হবে, gross margin এখনও কোম্পানির চূড়ান্ত মুনাফা নয়। এর পর থেকে বেতন, ভাড়া, বিপণন, গবেষণা আর সুদের মতো খরচ বাদ যায়। তাই gross margin দেখায় পণ্যটি নিজে কতটা লাভজনক, আর net margin দেখায় পুরো ব্যবসাটা কতটা।",
+   "## তিন ধরনের margin",
+   "Gross margin হলো প্রথম ধাপ। তার পরে আসে operating margin, যেখানে পরিচালনার খরচ বাদ যায়। সবশেষে net margin, যেখানে কর আর সুদও বাদ যায়। একটি কোম্পানির gross margin বেশি হলেও যদি গবেষণা বা বিপণনে অনেক খরচ হয়, তার net margin কম হতে পারে। তাই বিশ্লেষক তিনটি একসঙ্গে দেখেন।",
+   "শিল্পভেদে gross margin আলাদা হয়। সফটওয়্যার বা চিপ ডিজাইনের মতো ব্যবসায় margin সাধারণত বেশি, কারণ একবার তৈরি করা পণ্য বহু বার বিক্রি করা যায়। অন্যদিকে সুপারমার্কেট বা খুচরো ব্যবসায় margin কম, কিন্তু বিক্রির পরিমাণ বিশাল। তাই দুটি কোম্পানির margin তুলনা করতে হলে একই শিল্পের কোম্পানি বেছে নেওয়া উচিত, নইলে ভুল সিদ্ধান্তে পৌঁছানোর ঝুঁকি থাকে। একই কোম্পানির নিজের আগের কোয়ার্টারের সঙ্গে তুলনাও সমান জরুরি।",
+   "## আজকের খবরের সঙ্গে সংযোগ",
+   "Nvidia আজ তার তৃতীয় কোয়ার্টারের ফল দিয়েছে। রাজস্ব হয়েছে প্রায় $115.8 বিলিয়ন, এক বছরে 103% বেশি, আর পরের কোয়ার্টারের পূর্বাভাস $130 বিলিয়ন (±3%)। বিশ্লেষকদের অনুমানের তুলনায় এ সংখ্যা অনেক ওপরে। কিন্তু কোম্পানি একই সঙ্গে জানিয়েছে, তাদের gross margin 71–72% থাকবে বলে আশা করা হচ্ছে।",
+   "কেন এটি খবর? কারণ 71–72% মানে প্রতি 100 ডলারের বিক্রিতে প্রায় 71–72 ডলার সরাসরি খরচের পর হাতে থাকবে। এটি এখনও খুব উঁচু, কিন্তু কিছু প্রতিবেদনে আগের কোয়ার্টারগুলোর চেয়ে কম বলা হয়েছে। বিনিয়োগকারীরা তাই শুধু রাজস্ব না, margin-এর দিকেও নজর রাখছেন। শেয়ার বাজার বন্ধের পর 3–4% বেড়েছে, অর্থাৎ বাজার মনে করছে রাজস্ব বৃদ্ধির সুখবর margin-এর চিন্তার চেয়ে বড়।",
+   "## Margin কেন কমতে পারে?",
+   "Gross margin কমার কয়েকটি সাধারণ কারণ আছে। প্রথমত, কাঁচামাল বা যন্ত্রাংশের দাম বাড়া, যেমন মেমরি চিপের দাম। দ্বিতীয়ত, প্রতিযোগিতার চাপে দাম কমাতে বাধ্য হওয়া। তৃতীয়ত, নতুন, জটিল পণ্য চালুর শুরুর দিকে উৎপাদন-খরচ বেশি থাকা। চতুর্থত, পণ্যের মিশ্রণ বদলানো, অর্থাৎ কম margin-এর পণ্য বেশি বিক্রি হওয়া।",
+   "## একটি ছোট হিসাব (কাল্পনিক সংখ্যা)",
+   "ধরো কোম্পানি A-র বিক্রি 1,000 কোটি টাকা আর COGS 300 কোটি, তাহলে gross profit 700 কোটি আর gross margin 70%। পরের বছর বিক্রি বেড়ে 1,300 কোটি হলো, কিন্তু COGS হলো 390 কোটি। এখন gross profit 910 কোটি, margin এখনও 70%। কিন্তু COGS যদি 455 কোটি হতো, gross profit হতো 845 কোটি আর margin 65%। বিক্রি 30% বাড়লেও মুনাফা বেড়েছে 20.7%, কম। এই কারণেই শুধু বিক্রির বৃদ্ধি দেখে সিদ্ধান্ত নেওয়া ঠিক নয়।",
+   "## বিনিয়োগ ও ব্যবস্থাপনার শিক্ষা",
+   "বিনিয়োগকারীর দৃষ্টিতে, উঁচু margin মানে মূল্য নির্ধারণের ক্ষমতা (pricing power) আর সুরক্ষিত বাজার অবস্থান। ব্যবস্থাপকের দৃষ্টিতে, margin ধরে রাখতে হলে খরচ নিয়ন্ত্রণ, সরবরাহকারীর সঙ্গে দরকষাকষি আর পণ্যের মিশ্রণে নজর দিতে হয়।",
+   "আজ আরও একটি উদাহরণ আছে: Home Depot-র বিক্রি 4.9% বেড়েছে, তবু কোম্পানি comparable sales-এর পূর্বাভাস কমিয়েছে। অর্থাৎ বিক্রি বাড়া আর ব্যবসার ভালো থাকা সবসময় এক জিনিস নয়। গুণগত মান বোঝার জন্য রাজস্বের সঙ্গে margin, guidance আর চাহিদার পরিবেশ মিলিয়ে দেখতে হয়।",
+   "## BBA ছাত্রের জন্য ব্যবহারিক পরামর্শ",
+   "পরের বার কোনো কোম্পানির ফল পড়লে এই ক্রমে দেখো: ১) রাজস্ব কত বাড়ল, ২) gross margin কত, ৩) operating ও net margin কত, ৪) ব্যবস্থাপনা পরের কোয়ার্টারের জন্য কী বলছে। Interview বা case competition-এ এই চার ধাপে উত্তর দিলে তোমার বিশ্লেষণ অনেক গোছানো দেখাবে।"
+  ],
+  "takeaways": [
+   "Gross margin = (Revenue − COGS) ÷ Revenue × 100, অর্থাৎ বিক্রির ওপর সরাসরি খরচের পর থাকা অংশ।",
+   "রাজস্ব বাড়লেও margin কমলে মুনাফা কম বাড়ে, তাই দুটো একসঙ্গে দেখতে হয়।",
+   "ফল বিশ্লেষণের ক্রম: রাজস্ব, gross margin, operating/net margin, তারপর management guidance।"
+  ]
+ },
+ "quiz": [
+  {
+   "q": "Nvidia পরের কোয়ার্টারের জন্য কত রাজস্ব আশা করছে (±3%)?",
+   "options": [
+    "$108 বিলিয়ন",
+    "$115.8 বিলিয়ন",
+    "$125 বিলিয়ন",
+    "$130 বিলিয়ন"
+   ],
+   "answer": 3,
+   "explain": "Nvidia চতুর্থ কোয়ার্টারের জন্য $130 বিলিয়ন (±3%) আশা করছে। $108 বিলিয়ন ছিল আগের পূর্বাভাস আর $115.8 বিলিয়ন তৃতীয় কোয়ার্টারের ফল।"
+  },
+  {
+   "q": "মঙ্গলবার S&P 500 কত শতাংশ কমে বন্ধ হয়েছে?",
+   "options": [
+    "0.74%",
+    "1.03%",
+    "1.64%",
+    "1.92%"
+   ],
+   "answer": 1,
+   "explain": "S&P 500 1.03% কমে 7,340.53-এ বন্ধ হয়েছে। Nasdaq কমেছে প্রায় 0.74% আর Dow 1.64%।"
+  },
+  {
+   "q": "Gross margin-এর সঠিক সূত্র কোনটি?",
+   "options": [
+    "(Revenue − Net Profit) ÷ Revenue",
+    "(Revenue × COGS) ÷ 100",
+    "(Revenue − COGS) ÷ Revenue × 100",
+    "COGS ÷ Revenue × 100"
+   ],
+   "answer": 2,
+   "explain": "Gross margin = (Revenue − COGS) ÷ Revenue × 100। অর্থাৎ বিক্রি থেকে সরাসরি খরচ বাদ দিয়ে বিক্রি দিয়ে ভাগ।"
+  },
+  {
+   "q": "অক্টোবরে ভারতের পণ্য বাণিজ্য ঘাটতি কত ছিল?",
+   "options": [
+    "$39.88 বিলিয়ন",
+    "$30.21 বিলিয়ন",
+    "$49.47 বিলিয়ন",
+    "$89.35 বিলিয়ন"
+   ],
+   "answer": 0,
+   "explain": "ঘাটতি $39.88 বিলিয়ন। $49.47 বিলিয়ন রপ্তানি আর $89.35 বিলিয়ন আমদানি; $30.21 বিলিয়ন ছিল সেপ্টেম্বরের ঘাটতি।"
+  },
+  {
+   "q": "Anthropic-এর IPO-তে শেয়ার কোন exchange-এ কোন ticker-এ লেনদেন হওয়ার কথা?",
+   "options": [
+    "NYSE: CLD",
+    "NYSE: ANT",
+    "Nasdaq: CLD",
+    "Nasdaq: ANT"
+   ],
+   "answer": 3,
+   "explain": "প্রতিবেদন অনুযায়ী Nasdaq-এ \"ANT\" ticker-এ লেনদেন শুরু হবে। শেয়ারপ্রতি সীমা $70–$78।"
+  }
+ ],
+ "caseStudy": {
+  "week": "2026-W47",
+  "weekLabel": "১৬–২২ নভেম্বর ২০২৬",
+  "company": "Zara (Inditex)",
+  "title": "Zara কীভাবে ডিজাইন থেকে দোকানে পৌঁছায় মাত্র কয়েক সপ্তাহে",
+  "concept": "Vertical Integration আর Supply Chain Responsiveness",
+  "intro": "1975 সালে Amancio Ortega স্পেনের A Coruña শহরে প্রথম Zara দোকান খোলেন। পরে এটি Inditex গোষ্ঠীর সবচেয়ে বড় ব্র্যান্ড হয়ে ওঠে। অন্য ফ্যাশন কোম্পানি যেখানে মৌসুমের আগে মাসের পর মাস আগে থেকে পরিকল্পনা করে, Zara সেখানে বাজারে কী চলছে তা দেখে দ্রুত নতুন ডিজাইন বানাতে পারে।",
+  "sections": [
+   {
+    "h": "কী করেছিল",
+    "p": "Zara নিজের ডিজাইন, কাটিং আর প্রধান উৎপাদনের একটি বড় অংশ নিজের নিয়ন্ত্রণে রাখে, যার বড় অংশ সদর দপ্তরের কাছে স্পেন ও আশেপাশের দেশে। দোকানগুলো কোন পোশাক বিক্রি হচ্ছে তার তথ্য নিয়মিত কেন্দ্রে পাঠায়, আর সেই অনুযায়ী ছোট ছোট batch-এ নতুন পোশাক বানিয়ে দোকানে পাঠানো হয়। Zara বিজ্ঞাপনে তুলনামূলকভাবে কম খরচ করে এবং দোকানের অবস্থানকেই প্রধান বিজ্ঞাপন হিসেবে ব্যবহার করে।"
+   },
+   {
+    "h": "ফলাফল",
+    "p": "নতুন ডিজাইন খুব অল্প সময়ে দোকানে পৌঁছায়, আর দোকানে নতুন পোশাক ঘনঘন আসে বলে ক্রেতারা বারবার ফিরে আসে। Inditex বিশ্বের সবচেয়ে বড় ফ্যাশন খুচরা কোম্পানিগুলোর একটি হয়েছে।"
+   },
+   {
+    "h": "কেন কাজ করল",
+    "p": "ছোট batch-এ উৎপাদন মানে অবিক্রীত মজুতের ঝুঁকি কম, আর বেশি বিক্রি হওয়া ডিজাইন দ্রুত আবার বানানো যায়। দোকানের তথ্য সরাসরি ডিজাইন দলের কাছে যাওয়ায় অনুমানের বদলে চাহিদার ওপর ভিত্তি করে সিদ্ধান্ত হয়। নিজের নিয়ন্ত্রণে supply chain রাখায় গতি আর মান দুটোই ধরে রাখা সহজ হয়।"
+   },
+   {
+    "h": "ঝুঁকি আর সমালোচনা",
+    "p": "কাছাকাছি উৎপাদনে শ্রম খরচ বেশি হয়, তাই মুনাফার margin-এ চাপ থাকে। Fast fashion মডেলকে পরিবেশ আর বর্জ্যের কারণে সমালোচনা সইতে হয়েছে, আর সরবরাহকারী কারখানার শ্রমিকদের কাজের পরিবেশ নিয়েও অতীতে প্রশ্ন উঠেছে। অতিরিক্ত চাহিদার পূর্বাভাস ভুল হলে মজুত জমার ঝুঁকিও থেকে যায়।"
+   }
+  ],
+  "lesson": "গতি আর তথ্য প্রতিযোগিতার বড় অস্ত্র: গ্রাহকের চাহিদা দ্রুত জেনে দ্রুত সাড়া দিতে পারলে মজুতের ঝুঁকি কমে আর বিক্রি বাড়ে। তবে এর জন্য supply chain-এর ওপর নিয়ন্ত্রণ আর নৈতিক দায়িত্ব দুটোই সামলাতে হয়।",
+  "question": "তোমার পছন্দের কোনো ব্র্যান্ডের জন্য কি Zara-র মতো ছোট batch আর দ্রুত সাড়ার মডেল কাজ করবে? কোন পণ্যে করবে না, আর কেন?"
+ },
+ "en": {
+  "dateLabel": "Wednesday, 18 November 2026",
+  "news": [
+   {
+    "id": "n1",
+    "category": "Company",
+    "title": "Nvidia revenue jumps 103% to about $115.8 billion; guides to $130 billion next quarter",
+    "summary": "In its first results since CEO Jensen Huang's resignation, Nvidia reported third-quarter revenue of about $115.8 billion, up 103% from a year earlier. The company's own forecast was $108 billion and analysts expected about $109 billion. Data center revenue was about $108 billion. For the fourth quarter, Nvidia expects revenue of $130 billion (±3%), above the roughly $125 billion analysts had expected, but it guided gross margin to 71–72%. Shares rose about 3–4% after the close.",
+    "why": "A good case for reading revenue growth and gross margin together: fast sales growth with margin pressure can change the profit story. It also shows how earnings guidance moves share prices.",
+    "source": {
+     "name": "CBS News",
+     "url": "https://www.cbsnews.com/news/nvidia-earnings-jensen-huang-colette-kress/"
+    }
+   },
+   {
+    "id": "n2",
+    "category": "Markets",
+    "title": "Wall Street falls for a fourth straight day ahead of Nvidia results; Dow down 849 points",
+    "summary": "On Tuesday the Dow fell 848.75 points (1.64%) to 50,759.42, after dropping more than 1,000 points intraday. The S&P 500 lost 1.03% to 7,340.53, its lowest close since late July. The Nasdaq Composite fell about 0.74% to 24,328.38. The S&P 500 and Nasdaq both logged a fourth straight decline, their first such streak since September. Worries about whether AI spending will pay off weighed on tech stocks.",
+    "why": "This shows market sentiment and risk aversion: investors cut risk before big results, and a losing streak can push markets toward a correction.",
+    "source": {
+     "name": "Honolulu Star-Advertiser",
+     "url": "https://www.staradvertiser.com/2026/11/17/breaking-news/dow-drops-849-points-as-wall-street-slides-ahead-of-nvidia-results/"
+    }
+   },
+   {
+    "id": "n3",
+    "category": "Company",
+    "title": "Home Depot sales rise 4.9% to $43.4 billion, but full-year comparable-sales outlook is cut",
+    "summary": "Home Depot's third-quarter sales grew 4.9% year on year to $43.4 billion, and US comparable sales rose 2.2%. Adjusted EPS was $3.86 against $3.74 a year earlier. The company lowered its full-year comparable-sales growth outlook to about 1.4%, from a prior range of roughly flat to 2.0%. US October retail sales, released the same day, rose 0.2%, in line with forecasts.",
+    "why": "Comparable (same-store) sales show a retailer's real health because new stores are excluded. A guidance cut signals management caution about consumer demand.",
+    "source": {
+     "name": "Home Depot (Investor Relations)",
+     "url": "https://ir.homedepot.com/news-releases/2026/11-17-2026-110221331"
+    }
+   },
+   {
+    "id": "n4",
+    "category": "IPO",
+    "title": "Anthropic IPO likely to price at the top of its range or above, with demand near 7x",
+    "summary": "Bloomberg reports Anthropic is telling investors it expects to price its IPO at the high end of its range or above. About 825 million shares are on offer at $70–$78 each, and orders are reportedly close to seven times the shares available. Pricing is expected Wednesday, with trading on Nasdaq under the ticker \"ANT\" on Thursday. Terms could still change.",
+    "why": "A direct example of IPO book-building and oversubscription: strong demand lets underwriters raise the price. The company raises more capital, but first-day gains and losses remain a risk.",
+    "source": {
+     "name": "Bloomberg",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-17/anthropic-is-said-to-guide-ipo-price-to-top-of-range-or-above"
+    }
+   },
+   {
+    "id": "n5",
+    "category": "India",
+    "title": "Sensex gains 427 points to 82,532.19, Nifty ends at 25,387.40; Bank Nifty hits a record",
+    "summary": "On Tuesday the Sensex rose 427.40 points (0.52%) to 82,532.19 and the Nifty 50 gained 96.30 points (0.38%) to 25,387.40. Banking and realty stocks led, and Bank Nifty touched a fresh intraday record of 62,414.90. FMCG, consumer durables and IT stocks lagged. Lower crude prices and buying by foreign institutional investors (FII) supported the market.",
+    "why": "Cheaper oil lowers costs for import-dependent India, so equities respond positively. It is also a good example of sector rotation, where money moves from one sector to another.",
+    "source": {
+     "name": "Business Standard",
+     "url": "https://www.business-standard.com/amp/markets/news/stock-market-live-november-17-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-bse-share-price-126111700071_1.html"
+    }
+   },
+   {
+    "id": "n6",
+    "category": "India",
+    "title": "India's October merchandise trade deficit hits a one-year high of $39.88 billion",
+    "summary": "Commerce Ministry data show India's October merchandise trade deficit at $39.88 billion, above the roughly $32.25 billion forecast in a Reuters poll. Goods exports hit a record $49.47 billion and imports were $89.35 billion. Gold imports rose from $1.8 billion in September to $5.51 billion. The deficit is still lower than the $42.58 billion of a year earlier.",
+    "why": "Essential for understanding the trade deficit, the current account and the rupee. Higher gold and oil imports widen the deficit and put pressure on the currency.",
+    "source": {
+     "name": "Deccan Herald",
+     "url": "https://www.deccanherald.com/business/trade-deficit-jumps-to-one-year-high-of-3988-billion-in-october-4217774"
+    }
+   },
+   {
+    "id": "n7",
+    "category": "Central banks",
+    "title": "US 10-year yield near 5.11% as Fed officials hint at more rate hikes",
+    "summary": "CNBC reported the US 10-year Treasury yield at about 5.11% and the 2-year at about 4.81% on Tuesday. St. Louis Fed President Musalem said several more rate increases may be needed before spring 2027. Bond investors stayed cautious about the Fed's next move after the retail sales data. High yields are a major source of pressure on equities.",
+    "why": "A good example of monetary policy and interest rates: when yields rise, share valuations fall, especially for high-growth tech stocks.",
+    "source": {
+     "name": "CNBC",
+     "url": "https://www.cnbc.com/2026/11/17/treasury-yields-bonds-inflation.html"
+    }
+   }
+  ],
+  "market": {
+   "asOf": "Close of Tuesday, 17 November 2026",
+   "items": [
+    {
+     "name": "S&P 500",
+     "region": "US",
+     "value": "7,340.53",
+     "change": "-1.03%",
+     "dir": "down"
+    },
+    {
+     "name": "Dow Jones",
+     "region": "US",
+     "value": "50,759.42",
+     "change": "-1.64%",
+     "dir": "down"
+    },
+    {
+     "name": "Nasdaq",
+     "region": "US",
+     "value": "24,328.38",
+     "change": "-0.74%",
+     "dir": "down"
+    },
+    {
+     "name": "Sensex",
+     "region": "India",
+     "value": "82,532.19",
+     "change": "+0.52%",
+     "dir": "up"
+    },
+    {
+     "name": "Nifty 50",
+     "region": "India",
+     "value": "25,387.40",
+     "change": "+0.38%",
+     "dir": "up"
+    }
+   ]
+  },
+  "term": {
+   "term": "Gross Margin",
+   "bangla": "Share of sales left after direct costs",
+   "definition": "Gross margin is what remains of sales revenue after subtracting the direct cost of producing goods or services (COGS), expressed as a percentage of revenue. It shows how much a company keeps from each 100 of sales before overheads, marketing and interest.",
+   "example": "Nvidia expects revenue of $130 billion next quarter but guided gross margin to 71–72%. So even as revenue grows, the share kept from each dollar of sales is lower than before.",
+   "formula": "Gross Margin (%) = (Revenue − COGS) ÷ Revenue × 100",
+   "tip": "In interviews, be ready to contrast gross, operating and net margin. A high gross margin does not automatically mean high net profit."
+  },
+  "gd": {
+   "topic": "Is a fast-growing company still a safe buy if its margins are falling?",
+   "context": "Nvidia's revenue rose 103% and next quarter is guided at $130 billion, but gross margin is guided to 71–72%. Meanwhile the US 10-year yield is near 5.11% and Wall Street has fallen four days in a row.",
+   "for": [
+    "Revenue and data center demand are surging, so absolute profit keeps growing.",
+    "A 71–72% margin is still far above most industries.",
+    "Guidance above analyst estimates shows management confidence."
+   ],
+   "against": [
+    "Falling margins mean less profit per dollar of sales and pressure valuations over time.",
+    "Rising rates and yields put richly valued tech stocks at risk.",
+    "The market still questions whether AI spending will pay off."
+   ]
+  },
+  "blog": {
+   "title": "Revenue is growing, but what about margin? Learning gross margin from Nvidia's results",
+   "topic": "Gross Margin and profit analysis",
+   "readMin": 5,
+   "body": [
+    "## What is gross margin?",
+    "Imagine you sell hand-made coffee on campus. A cup sells for 100 rupees and the direct cost of coffee, milk, cup and sugar is 40 rupees. You keep 60 rupees per cup. Dividing 60 by the 100 rupees of sales gives 60%, which is the gross margin. The formula is simple: Gross Margin = (Revenue − COGS) ÷ Revenue × 100, where COGS means Cost of Goods Sold, the direct cost of making the product.",
+    "Remember, gross margin is not final profit. Salaries, rent, marketing, research and interest are deducted after this. So gross margin shows how profitable the product itself is, while net margin shows how profitable the whole business is.",
+    "## Three kinds of margin",
+    "Gross margin is the first step. Next comes operating margin, which deducts running costs. Last is net margin, which also deducts tax and interest. A company can have a high gross margin yet a low net margin if it spends heavily on research or marketing, so analysts look at all three together.",
+    "Gross margin differs by industry. Software or chip-design businesses usually have high margins because a product built once can be sold many times. Supermarkets and retailers run on thin margins but huge volumes. So when comparing two companies, pick firms from the same industry, otherwise you risk a wrong conclusion. Comparing a company with its own earlier quarters is just as important.",
+    "## Connecting to today's news",
+    "Nvidia reported its third-quarter results today. Revenue was about $115.8 billion, up 103% in a year, and it guided next quarter to $130 billion (±3%), well above analyst estimates. But it also said it expects gross margin of 71–72%.",
+    "Why is that news? Because 71–72% means that for every 100 dollars of sales, about 71–72 dollars remain after direct costs. That is still very high, but some reports say it is lower than earlier quarters. Investors are therefore watching margin, not just revenue. The shares rose 3–4% after the close, which suggests the market thinks the revenue growth outweighs the margin worry.",
+    "## Why can margin fall?",
+    "There are a few common reasons. First, higher input costs, such as memory chip prices. Second, competition forcing price cuts. Third, high production costs early in the life of a new, complex product. Fourth, a shift in product mix, with more low-margin products being sold.",
+    "## A small calculation (illustrative numbers)",
+    "Say Company A has sales of 1,000 crore and COGS of 300 crore, so gross profit is 700 crore and gross margin is 70%. Next year sales rise to 1,300 crore and COGS is 390 crore, so margin is still 70% and gross profit is 910 crore. But if COGS were 455 crore, gross profit would be 845 crore and margin 65%. Sales grew 30%, yet gross profit grew only 20.7%. This is why sales growth alone is not enough for a decision.",
+    "## Lessons for investors and managers",
+    "For an investor, a high margin signals pricing power and a protected market position. For a manager, defending margin means controlling costs, negotiating with suppliers and watching the product mix.",
+    "Today has another example: Home Depot's sales rose 4.9%, yet it cut its comparable-sales outlook. Growing sales and a healthy business are not always the same thing. To judge quality, read revenue together with margin, guidance and the demand environment.",
+    "## Practical advice for BBA students",
+    "Next time you read a company result, go in this order: 1) how much did revenue grow, 2) what is the gross margin, 3) what are operating and net margins, 4) what does management say about next quarter. Answering in these four steps in an interview or case competition will make your analysis look well organised."
+   ],
+   "takeaways": [
+    "Gross margin = (Revenue − COGS) ÷ Revenue × 100: the share of sales left after direct costs.",
+    "If revenue grows but margin falls, profit grows less, so read both together.",
+    "Result-analysis order: revenue, gross margin, operating/net margin, then management guidance."
+   ]
+  },
+  "quiz": [
+   {
+    "q": "How much revenue does Nvidia expect next quarter (±3%)?",
+    "options": [
+     "$108 billion",
+     "$115.8 billion",
+     "$125 billion",
+     "$130 billion"
+    ],
+    "answer": 3,
+    "explain": "Nvidia guided fourth-quarter revenue to $130 billion (±3%). $108 billion was its earlier forecast and $115.8 billion was third-quarter revenue."
+   },
+   {
+    "q": "By what percentage did the S&P 500 fall on Tuesday?",
+    "options": [
+     "0.74%",
+     "1.03%",
+     "1.64%",
+     "1.92%"
+    ],
+    "answer": 1,
+    "explain": "The S&P 500 fell 1.03% to 7,340.53. The Nasdaq fell about 0.74% and the Dow 1.64%."
+   },
+   {
+    "q": "Which is the correct formula for gross margin?",
+    "options": [
+     "(Revenue − Net Profit) ÷ Revenue",
+     "(Revenue × COGS) ÷ 100",
+     "(Revenue − COGS) ÷ Revenue × 100",
+     "COGS ÷ Revenue × 100"
+    ],
+    "answer": 2,
+    "explain": "Gross margin = (Revenue − COGS) ÷ Revenue × 100: sales minus direct cost, divided by sales."
+   },
+   {
+    "q": "What was India's merchandise trade deficit in October?",
+    "options": [
+     "$39.88 billion",
+     "$30.21 billion",
+     "$49.47 billion",
+     "$89.35 billion"
+    ],
+    "answer": 0,
+    "explain": "The deficit was $39.88 billion. $49.47 billion was exports and $89.35 billion imports; $30.21 billion was September's deficit."
+   },
+   {
+    "q": "On which exchange and under which ticker is Anthropic expected to trade after its IPO?",
+    "options": [
+     "NYSE: CLD",
+     "NYSE: ANT",
+     "Nasdaq: CLD",
+     "Nasdaq: ANT"
+    ],
+    "answer": 3,
+    "explain": "It is expected to trade on Nasdaq under \"ANT\". The price range is $70–$78 per share."
+   }
+  ],
+  "caseStudy": {
+   "week": "2026-W47",
+   "weekLabel": "16 – 22 November 2026",
+   "company": "Zara (Inditex)",
+   "title": "How Zara gets a design from drawing board to store in just weeks",
+   "concept": "Vertical Integration and Supply Chain Responsiveness",
+   "intro": "In 1975 Amancio Ortega opened the first Zara store in A Coruña, Spain. It grew into the biggest brand of the Inditex group. While other fashion companies plan collections many months before a season, Zara watches what is selling and quickly makes new designs.",
+   "sections": [
+    {
+     "h": "What it did",
+     "p": "Zara keeps design, cutting and a large part of key production under its own control, much of it in Spain and nearby countries close to headquarters. Stores regularly send data on what is selling, and new items are made in small batches accordingly and shipped to stores. Zara spends relatively little on advertising and uses its prime store locations as its main advertisement."
+    },
+    {
+     "h": "The result",
+     "p": "New designs reach stores in a very short time, and because fresh items arrive often, shoppers come back again and again. Inditex became one of the world's largest fashion retailers."
+    },
+    {
+     "h": "Why it worked",
+     "p": "Small batches mean less unsold stock, and designs that sell well can be quickly made again. Store data goes straight to the design team, so decisions rest on demand rather than guesses. Owning the supply chain makes it easier to keep both speed and quality."
+    },
+    {
+     "h": "Risks and criticism",
+     "p": "Producing close to home costs more in labour, which presses on profit margins. The fast-fashion model has faced criticism over environmental impact and waste, and questions have been raised in the past about working conditions at supplier factories. If demand forecasts are wrong, unsold stock can still build up."
+    }
+   ],
+   "lesson": "Speed and information are powerful competitive weapons: learning customer demand quickly and responding fast lowers inventory risk and lifts sales. But it requires managing both control of the supply chain and ethical responsibility.",
+   "question": "Would Zara's small-batch, fast-response model work for a brand you like? For which products would it not work, and why?"
+  }
+ }
+}
