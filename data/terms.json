@@ -1,6 +1,23 @@
 {
  "terms": [
   {
+   "date": "2026-11-19",
+   "term": "Monetary Tightening",
+   "bangla": "কড়া মুদ্রানীতি: সুদ বাড়িয়ে টাকার জোগান আর চাহিদা কমানো",
+   "definition": "Monetary tightening হল কেন্দ্রীয় ব্যাংকের এমন নীতি, যাতে সুদের হার বাড়িয়ে (বা টাকার জোগান কমিয়ে) ঋণ ব্যয়বহুল করা হয়। লক্ষ্য খরচ ও বিনিয়োগ ঠান্ডা করে মূল্যবৃদ্ধি (inflation) নিয়ন্ত্রণে আনা।",
+   "example": "Fed-এর মিনিটসে প্রায় সব কর্মকর্তা আরও সুদ বাড়ানোর পক্ষে। Goldman Sachs মনে করে RBI-ও mid-2027-এর মধ্যে repo rate 6.25%-এ নিয়ে যাবে। সুদ বাড়ার প্রত্যাশায় ডলার শক্ত, সোনা এক বছরের সর্বনিম্নে।",
+   "formula": "",
+   "tip": "ইন্টারভিউতে বলতে পারো: tightening-এর লক্ষ্য inflation কমানো, কিন্তু দামটা হতে পারে ধীর প্রবৃদ্ধি আর বেশি বেকারত্ব। Easing-এর সঙ্গে তুলনা করে বোঝাও।",
+   "en": {
+    "term": "Monetary Tightening",
+    "bangla": "Raising rates to cool money supply and demand",
+    "definition": "Monetary tightening is a central bank policy of raising interest rates (or reducing the money supply) to make credit more expensive. The aim is to cool spending and investment and bring inflation under control.",
+    "example": "In the Fed minutes almost all officials favour more rate hikes, and Goldman Sachs expects the RBI to lift the repo rate to 6.25% by mid-2027. Expectations of higher rates have strengthened the dollar and pushed gold to a one-year low.",
+    "formula": "",
+    "tip": "In interviews, say tightening aims to cut inflation but can cost growth and jobs. Contrast it with easing."
+   }
+  },
+  {
    "date": "2026-11-18",
    "term": "Gross Margin",
    "bangla": "বিক্রির ওপর মোট মুনাফার হার",

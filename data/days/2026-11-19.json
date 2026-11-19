@@ -1,0 +1,567 @@
+{
+ "date": "2026-11-19",
+ "dateLabel": "১৯ নভেম্বর ২০২৬, বৃহস্পতিবার",
+ "edition": 1,
+ "updatedAt": "2026-11-19T07:03:27+05:30",
+ "news": [
+  {
+   "id": "n1",
+   "category": "মুদ্রানীতি",
+   "title": "Fed-এর মিনিটস: প্রায় সব কর্মকর্তাই আরও সুদ বাড়ানোর পক্ষে, ডিসেম্বরে 50 bps-ও আলোচনায়",
+   "summary": "অক্টোবরের নীতি-বৈঠকে Fed 10-2 ভোটে সুদের হার 3.75%–4%-এ অপরিবর্তিত রেখেছিল। Cook ও Hammack 25 bps বাড়ানোর পক্ষে ভোট দেন। বুধবার প্রকাশিত মিনিটসে দেখা গেছে প্রায় সব কর্মকর্তা আরও সুদ বাড়ানোকে উপযুক্ত মনে করছেন, আর কয়েকজন বলেছেন ডিসেম্বরে 25 bps-এর বেশি বাড়ালেও যুক্তিসংগত হবে। Governor Waller CNBC-কে বলেছেন ডিসেম্বরে অর্ধ শতাংশ-বিন্দু বাড়ানোর কথা ভাবা উচিত। মিনিটসে AI-সংক্রান্ত পণ্যের চাহিদা থেকে দাম বাড়ার ঝুঁকি আর financial stability-র ঝুঁকিও উল্লেখ করা হয়েছে। এই hawkish সুরে ডলার 19 মাসের সর্বোচ্চে উঠেছে।",
+   "why": "Monetary tightening বা কড়া মুদ্রানীতি কীভাবে কাজ করে আর বাজারে সুদের প্রত্যাশা কীভাবে দাম বদলায়, এটা তার সরাসরি উদাহরণ।",
+   "source": {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/18/fed-minutes-october-2026.html"
+   }
+  },
+  {
+   "id": "n2",
+   "category": "IPO",
+   "title": "Anthropic-এর IPO দাম ঠিক হল $83, $81.3 বিলিয়ন তুলে রেকর্ড; আজ Nasdaq-এ লেনদেন শুরু",
+   "summary": "Anthropic তাদের IPO-র দাম ঠিক করেছে শেয়ার প্রতি $83, যা আগের $70–$78 পরিসরের ওপরে। কোম্পানি প্রায় 98 কোটি শেয়ার বিক্রি করে $81.3 বিলিয়ন তুলেছে, আর মূল্যায়ন (valuation) প্রায় $1.5 ট্রিলিয়ন। চাহিদা ছিল জোগানের প্রায় সাত গুণ। CNBC একে রেকর্ড IPO বলেছে, তবে সবচেয়ে বড় IPO-র দাবির অঙ্ক সূত্রভেদে আলাদা। শেয়ার আজ বৃহস্পতিবার \"ANT\" ticker-এ Nasdaq Global Select Market-এ লেনদেন শুরু করবে।",
+   "why": "IPO-র দাম range-এর ওপরে ঠিক হওয়া মানে চাহিদা বেশি। Oversubscription, valuation আর primary market-এর ধারণা এখানে একসঙ্গে দেখা যায়।",
+   "source": {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html"
+   }
+  },
+  {
+   "id": "n3",
+   "category": "শেয়ারবাজার",
+   "title": "Wall Street: S&P 500 টানা পঞ্চম দিন নামল, 200-day moving average-এর নিচে; Dow 1.11% পড়ল, Nasdaq 0.42% বাড়ল",
+   "summary": "বুধবার S&P 500 প্রায় 0.23% কমে 7,323.63-এ বন্ধ হয়েছে। এটা টানা পঞ্চম দিনের পতন আর জুনের পর সবচেয়ে লম্বা পতনের ধারা। সূচক তার বহু-নজরে-থাকা 200-day moving average-এর নিচে নেমেছে। Dow 561.25 পয়েন্ট (1.11%) হারিয়ে 50,198.17-এ থেমেছে, UnitedHealth সবচেয়ে বেশি টেনে নামিয়েছে। Nasdaq Composite 0.42% বেড়ে 24,429.89-এ উঠেছে। সেক্টরের মধ্যে Consumer Discretionary সবচেয়ে ভালো (+1.79%), Energy সবচেয়ে খারাপ (-3.27%)।",
+   "why": "Technical level (যেমন moving average) আর বাজারের breadth বোঝা শেখার জন্য ভালো উদাহরণ: একই দিনে বিভিন্ন সূচক উল্টো দিকে যেতে পারে।",
+   "source": {
+    "name": "The Motley Fool",
+    "url": "https://www.fool.com/coverage/stock-market-today/2026/11/18/stock-market-today-nov-18-s-and-p-500-breaks-key-support-as-fed-minutes-signal-more-rate-hikes-ahead/"
+   }
+  },
+  {
+   "id": "n4",
+   "category": "কোম্পানি",
+   "title": "Nvidia-র শেয়ারে ফলের পর পাওয়া লাভ উধাও: বোর্ড বলছে Huang-কে ফেরানো হবে না, CEO খুঁজবে Heidrick & Struggles",
+   "summary": "Nvidia-র তৃতীয় কোয়ার্টারের রাজস্ব $115.8 বিলিয়ন (এক বছরে 103% বেশি), বিশ্লেষকদের অনুমান ছিল প্রায় $109 বিলিয়ন, আর adjusted EPS $2.68 (অনুমান $2.47)। ফলের পর শেয়ার প্রায় 5.5% বাড়লেও বুধবার নিয়মিত লেনদেনে সেই লাভ মুছে গেছে। কারণ হিসেবে বলা হচ্ছে নেতৃত্বের অনিশ্চয়তা। CFO Colette Kress অন্তর্বর্তী CEO। বোর্ড স্থায়ী CEO খুঁজতে executive search firm Heidrick & Struggles-কে নিয়োগ করেছে এবং Jensen Huang-কে ফেরানোর কথা ভাবছে না। বোর্ড চেয়ার Harvey Jones বলেছেন তাড়াহুড়ো না করে \"ঠিক মানুষটিকে\" খোঁজা হবে।",
+   "why": "Strong earnings থাকলেও leadership বা succession-এর অনিশ্চয়তা শেয়ারের দাম কীভাবে টানে, সেটা corporate governance-এর বাস্তব পাঠ।",
+   "source": {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/18/nvidia-stock-earnings.html"
+   }
+  },
+  {
+   "id": "n5",
+   "category": "কমোডিটি",
+   "title": "সোনা $3,800-র নিচে, এক বছরের সর্বনিম্ন; জানুয়ারির রেকর্ড থেকে প্রায় 31% কমেছে",
+   "summary": "Spot gold মঙ্গলবার (17 নভেম্বর) 3.2% কমে $3,724.91 প্রতি আউন্সে বন্ধ হয়েছে। সেপ্টেম্বর 2025-এর পর এই প্রথম $3,800-র নিচে নামল। Reuters জানিয়েছে সোমবারই সোনা $3,830.74-এ ছুঁয়েছিল অক্টোবর 2025-এর পর সর্বনিম্ন, যা জানুয়ারির রেকর্ড $5,594.82 থেকে 31.5% কম। কারণ ভূ-রাজনীতি নয়, সুদ আর মুদ্রা: Treasury yield 5%-এর ওপরে, ডলার প্রায় এপ্রিল 2025-এর পর সর্বোচ্চে, আর ডিসেম্বরে Fed-এর সুদ বাড়ানোর প্রত্যাশা। Goldman Sachs বছর-শেষের লক্ষ্য কমিয়ে $4,150 করেছে।",
+   "why": "সোনা কোনো সুদ বা লভ্যাংশ দেয় না, তাই সুদ বাড়লে এর opportunity cost বাড়ে। Interest rate আর asset price-এর সম্পর্ক বোঝার ভালো উদাহরণ।",
+   "source": {
+    "name": "Investing.com",
+    "url": "https://investing.com/news/commodities-news/gold-falls-toward-3800-as-fed-hawks-reinforce-ratehike-outlook-5034463"
+   }
+  },
+  {
+   "id": "n6",
+   "category": "ভারত",
+   "title": "Goldman Sachs: RBI মধ্য-2027-এর মধ্যে রেপো রেট আরও 75 bps বাড়িয়ে 6.25% করতে পারে; অক্টোবরে খুচরো মূল্যবৃদ্ধি 6.09%",
+   "summary": "Goldman Sachs মনে করছে RBI আরও 75 basis points সুদ বাড়িয়ে mid-2027-এর মধ্যে repo rate 6.25%-এ নিয়ে যাবে। অক্টোবরে ভারতে খুচরো মূল্যবৃদ্ধি 5.54% (সেপ্টেম্বর) থেকে বেড়ে 6.09% হয়েছে, যা RBI-র সহনসীমার ওপরে। Goldman-এর পূর্বাভাসে ভারতের GDP বৃদ্ধি 2026-এর 7.9% থেকে 2027-এ 7.2%-এ নামবে। নভেম্বরে এখন পর্যন্ত (17 তারিখ) বিদেশি পোর্টফোলিও বিনিয়োগকারীরা প্রায় ₹94,963 কোটি ঢেলেছেন, আর টাকা প্রতি ডলারে প্রায় 93.45-এ ফিরেছে। এগুলো Goldman-এর পূর্বাভাস, সরকারি তথ্য নয়।",
+   "why": "Inflation targeting আর repo rate-এর সম্পর্ক এখানে স্পষ্ট: মূল্যবৃদ্ধি সীমা ছাড়ালে কেন্দ্রীয় ব্যাংক সুদ বাড়ায়, তার প্রভাব পড়ে লোন, বিনিয়োগ আর মুদ্রায়।",
+   "source": {
+    "name": "Business Standard",
+    "url": "https://www.business-standard.com/amp/economy/news/goldman-sachs-sees-rbi-repo-rate-rising-by-75-bps-to-6-25-by-mid-2027-126111801292_1.html"
+   }
+  },
+  {
+   "id": "n7",
+   "category": "M&A",
+   "title": "Palo Alto Networks-এর রাজস্ব 39% বেড়ে $3.44 বিলিয়ন; $4.5 বিলিয়নের all-stock চুক্তিতে কিনছে Applied Compute",
+   "summary": "Palo Alto Networks-এর প্রথম আর্থিক কোয়ার্টারে রাজস্ব $3.44 বিলিয়ন (39% বেশি) আর adjusted EPS $1.05, অনুমান ছিল 97 সেন্ট ও $3.31 বিলিয়ন। কোম্পানি পুরো বছরের adjusted EPS পূর্বাভাস বাড়িয়ে $4.26–$4.30 করেছে। একই সঙ্গে AI-কেন্দ্রিক Applied Compute অধিগ্রহণের কথা জানিয়েছে: চুক্তিটি $4.5 বিলিয়নের all-stock deal, নিয়ন্ত্রক ছাড়পত্র সাপেক্ষে এবং কোম্পানির আর্থিক বছরের তৃতীয় কোয়ার্টারে (2027) শেষ হওয়ার কথা। ফলের পর শেয়ার প্রায় 10% বেড়েছে।",
+   "why": "All-stock acquisition মানে নগদের বদলে শেয়ার দিয়ে কেনা: এতে cash বাঁচে, কিন্তু বিদ্যমান শেয়ারহোল্ডারদের হিস্যা পাতলা (dilution) হয়।",
+   "source": {
+    "name": "Investing.com",
+    "url": "https://investing.com/news/earnings/palo-alto-networks-to-buy-applied-compute-for-45-billion-in-ai-push-5037031"
+   }
+  },
+  {
+   "id": "n8",
+   "category": "খুচরা",
+   "title": "Target-এর তৃতীয় কোয়ার্টারে বিক্রি 7.1% বেড়েছে, বছরের আয়ের পূর্বাভাস বাড়াল",
+   "summary": "CNBC-র বাজার-আপডেট অনুযায়ী Target তৃতীয় কোয়ার্টারে net sales 7.1% বাড়ার কথা জানিয়েছে। বিভিন্ন প্রতিবেদন অনুযায়ী adjusted EPS $2.65, যার মধ্যে $0.50 একবারের tariff refund লাভ আছে, same-store sales বেড়েছে 5.6%, আর পুরো বছরের EPS পূর্বাভাস $10.65–$11.40। একবারের লাভ বাদ দিলে অনুমানের (প্রায় $2.07) সঙ্গে তুলনা সোজা নয়। শেয়ারের প্রতিক্রিয়া নিয়ে সূত্রগুলো একমত নয়, তাই সেটা এখানে বলা হল না।",
+   "why": "One-time item (যেমন tariff refund) বাদ দিয়ে আসল operating performance দেখা financial analysis-এর মূল দক্ষতা।",
+   "source": {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/18/stocks-moving-the-most-today-live-updates.html"
+   }
+  }
+ ],
+ "market": {
+  "asOf": "১৮ নভেম্বর ২০২৬, বুধবারের ক্লোজিং (Brent ও USD/INR দিনের শেষের দর)",
+  "items": [
+   {
+    "name": "S&P 500",
+    "region": "US",
+    "value": "7,323.63",
+    "change": "-0.23%",
+    "dir": "down"
+   },
+   {
+    "name": "Dow Jones",
+    "region": "US",
+    "value": "50,198.17",
+    "change": "-1.11%",
+    "dir": "down"
+   },
+   {
+    "name": "Nasdaq",
+    "region": "US",
+    "value": "24,429.89",
+    "change": "+0.42%",
+    "dir": "up"
+   },
+   {
+    "name": "Sensex",
+    "region": "ভারত",
+    "value": "82,030.21",
+    "change": "-0.61%",
+    "dir": "down"
+   },
+   {
+    "name": "Nifty 50",
+    "region": "ভারত",
+    "value": "25,228",
+    "change": "-0.66%",
+    "dir": "down"
+   },
+   {
+    "name": "Brent Crude",
+    "region": "$ প্রতি ব্যারেল",
+    "value": "$92.25",
+    "change": "-0.96%",
+    "dir": "down"
+   },
+   {
+    "name": "USD/INR",
+    "region": "ফরেক্স",
+    "value": "93.44",
+    "change": "",
+    "dir": "flat"
+   }
+  ]
+ },
+ "term": {
+  "term": "Monetary Tightening",
+  "bangla": "কড়া মুদ্রানীতি: সুদ বাড়িয়ে টাকার জোগান আর চাহিদা কমানো",
+  "definition": "Monetary tightening হল কেন্দ্রীয় ব্যাংকের এমন নীতি, যাতে সুদের হার বাড়িয়ে (বা টাকার জোগান কমিয়ে) ঋণ ব্যয়বহুল করা হয়। লক্ষ্য খরচ ও বিনিয়োগ ঠান্ডা করে মূল্যবৃদ্ধি (inflation) নিয়ন্ত্রণে আনা।",
+  "example": "Fed-এর মিনিটসে প্রায় সব কর্মকর্তা আরও সুদ বাড়ানোর পক্ষে। Goldman Sachs মনে করে RBI-ও mid-2027-এর মধ্যে repo rate 6.25%-এ নিয়ে যাবে। সুদ বাড়ার প্রত্যাশায় ডলার শক্ত, সোনা এক বছরের সর্বনিম্নে।",
+  "formula": "",
+  "tip": "ইন্টারভিউতে বলতে পারো: tightening-এর লক্ষ্য inflation কমানো, কিন্তু দামটা হতে পারে ধীর প্রবৃদ্ধি আর বেশি বেকারত্ব। Easing-এর সঙ্গে তুলনা করে বোঝাও।"
+ },
+ "gd": {
+  "topic": "মূল্যবৃদ্ধি ঠেকাতে সুদ বাড়ানো কি সঠিক পথ, যখন প্রবৃদ্ধিও ধীর হচ্ছে?",
+  "context": "Fed-এর মিনিটসে আরও সুদ বাড়ার ইঙ্গিত, ভারতে অক্টোবরে মূল্যবৃদ্ধি 6.09%, আর Goldman-এর মতে RBI আরও 75 bps বাড়াতে পারে, যদিও GDP বৃদ্ধি 7.9% থেকে 7.2%-এ নামার পূর্বাভাস।",
+  "for": [
+   "মূল্যবৃদ্ধি সীমার ওপরে থাকলে সাধারণ মানুষের ক্রয়ক্ষমতা কমে, তাই দাম নিয়ন্ত্রণ আগে।",
+   "সুদ বাড়ালে টাকা বিদেশে চলে যাওয়ার চাপ কমে, মুদ্রা স্থির থাকে।",
+   "আগেভাগে ব্যবস্থা না নিলে মূল্যবৃদ্ধির প্রত্যাশা স্থায়ী হয়ে পরে আরও কড়া ওষুধ লাগে।"
+  ],
+  "against": [
+   "লোনের খরচ বাড়লে কোম্পানি ও ক্ষুদ্র ব্যবসার বিনিয়োগ আর নিয়োগ কমে।",
+   "সব মূল্যবৃদ্ধি চাহিদা থেকে আসে না, জোগানের সমস্যা সুদ বাড়িয়ে ঠিক হয় না।",
+   "শেয়ার ও সোনার মতো সম্পদের দাম পড়ে, ঋণগ্রস্ত পরিবারের চাপ বাড়ে।"
+  ]
+ },
+ "blog": {
+  "title": "সুদ বাড়ালে কী হয়: Monetary Tightening সহজ ভাষায়",
+  "topic": "মুদ্রানীতি",
+  "readMin": 5,
+  "body": [
+   "## সুদ বাড়ালে কী হয়? Monetary Tightening সহজ ভাষায়",
+   "ধরো একটা ক্লাসে সবাই হঠাৎ অনেক বেশি খরচ করছে, কিন্তু দোকানে মাল সীমিত। দোকানদাররা দাম বাড়াবেই। অর্থনীতিতেও ঠিক এটাই ঘটে যখন টাকার চাহিদা জোগানের চেয়ে বেশি হয়ে যায়: মূল্যবৃদ্ধি (inflation) বাড়ে। এই চাপ কমাতে কেন্দ্রীয় ব্যাংকের সবচেয়ে পরিচিত হাতিয়ার হল সুদের হার বাড়ানো। একে বলে monetary tightening বা কড়া মুদ্রানীতি।",
+   "## কীভাবে কাজ করে",
+   "কেন্দ্রীয় ব্যাংক (আমেরিকায় Fed, ভারতে RBI) একটা নীতি-সুদ ঠিক করে। ভারতে এটা repo rate, অর্থাৎ যে হারে RBI বাণিজ্যিক ব্যাংকগুলোকে ধার দেয়। এই হার বাড়লে ব্যাংকের নিজের খরচ বাড়ে, তাই তারা গৃহঋণ, গাড়ির ঋণ আর ব্যবসায়িক ঋণের সুদ বাড়ায়। ঋণ ব্যয়বহুল হলে মানুষ আর কোম্পানি ধার নিয়ে খরচ বা বিনিয়োগ কম করে। চাহিদা কমলে দামের ওপর চাপ কমে। সঞ্চয়ের সুদও বাড়ে, তাই মানুষ খরচের বদলে জমাতে উৎসাহী হয়।",
+   "## আজকের খবরে এর ছাপ",
+   "আজকের খবরে এই গল্পের তিনটা অংশ দেখা যাচ্ছে। প্রথমত, Fed-এর অক্টোবরের মিনিটস বলছে প্রায় সব কর্মকর্তা আরও সুদ বাড়ানোকে উপযুক্ত মনে করছেন, কেউ কেউ ডিসেম্বরে 25 bps-এর বেশি বাড়ানোর কথাও বলছেন। দ্বিতীয়ত, সুদ বাড়ার প্রত্যাশায় ডলার 19 মাসের সর্বোচ্চে, আর সোনা $3,800-র নিচে নেমে এক বছরের সর্বনিম্নে। সোনা কোনো সুদ দেয় না, তাই সুদের হার যত বাড়ে, সোনা ধরে রাখার opportunity cost তত বাড়ে। তৃতীয়ত, ভারতে অক্টোবরে খুচরো মূল্যবৃদ্ধি 6.09%, আর Goldman Sachs মনে করছে RBI আরও 75 bps বাড়িয়ে repo rate 6.25%-এ নিয়ে যেতে পারে। এটা Goldman-এর পূর্বাভাস, RBI-র ঘোষণা নয়।",
+   "## বাজারে কী প্রভাব পড়ে",
+   "সুদ বাড়লে শেয়ারবাজারে সাধারণত চাপ আসে। কারণ কোম্পানির ভবিষ্যৎ আয়ের বর্তমান মূল্য (present value) হিসাবে ব্যবহৃত discount rate বাড়ে, ফলে valuation কমে, বিশেষ করে যেসব কোম্পানির আয় আসবে অনেক দূর ভবিষ্যতে। Bond-এর ক্ষেত্রে নতুন bond বেশি yield দেয়, তাই পুরনো bond-এর দাম পড়ে। মুদ্রার ক্ষেত্রে বেশি সুদ বিদেশি বিনিয়োগ টানে, তাই সেই দেশের মুদ্রা শক্ত হতে পারে, যেমন এখন ডলারের ক্ষেত্রে দেখা যাচ্ছে।",
+   "## একটা সহজ হিসাব: EMI-তে প্রভাব",
+   "ধরো তুমি ₹50 লক্ষ গৃহঋণ নিয়েছ ফ্লোটিং সুদে। RBI repo rate বাড়ালে ব্যাংক সাধারণত তোমার ঋণের সুদও বাড়ায়, ফলে হয় মাসিক EMI বাড়ে নয়তো ঋণের মেয়াদ লম্বা হয়। একই কাজ একসঙ্গে লাখ লাখ পরিবার আর কোম্পানির ক্ষেত্রে হলে মোট খরচের পরিমাণ কমে। উল্টো দিকটাকে বলে easing: সুদ কমিয়ে ঋণ সস্তা করা, যাতে মন্দার সময় খরচ ও বিনিয়োগ বাড়ে। কেন্দ্রীয় ব্যাংক এই দুইয়ের মধ্যে অর্থনীতির পরিস্থিতি দেখে বেছে নেয়।",
+   "## ফরোয়ার্ড গাইডেন্স আর প্রত্যাশার ভূমিকা",
+   "কেন্দ্রীয় ব্যাংক শুধু সুদ বদলায় না, আগে থেকে সংকেতও দেয়। একে forward guidance বলে। মিনিটস প্রকাশের পরেই ডলার শক্ত হওয়া আর সোনার দাম পড়া দেখায় যে বাজার সিদ্ধান্তের আগেই প্রত্যাশা অনুযায়ী নড়ে ওঠে। তাই ব্যবসায়ী ও বিনিয়োগকারীদের জন্য শুধু বর্তমান সুদ নয়, ভবিষ্যতের সুদের পথ বোঝাটাও সমান জরুরি। প্রত্যাশা ভুল হলে, অর্থাৎ ব্যাংক অনুমানের চেয়ে কম বা বেশি কড়া হলে, বাজারে হঠাৎ বড় ওঠানামা হতে পারে।",
+   "## মূল্য কী?",
+   "Tightening বিনা খরচে হয় না। ঋণ ব্যয়বহুল হলে কোম্পানি নতুন কারখানা বা নিয়োগ পিছিয়ে দিতে পারে, ফলে প্রবৃদ্ধি ধীর হয়, বেকারত্ব বাড়তে পারে। আবার সব মূল্যবৃদ্ধি চাহিদা থেকে আসে না। যদি দাম বাড়ে জোগানের সমস্যা বা তেলের দামের কারণে, সুদ বাড়িয়ে তা পুরো সামলানো যায় না। তাই কেন্দ্রীয় ব্যাংকের কঠিন কাজ হল সঠিক মাত্রা ও সময় বেছে নেওয়া: বেশি কম হলে মূল্যবৃদ্ধি থেকে যায়, বেশি কড়া হলে অর্থনীতি মন্দায় যেতে পারে। এই কারণেই Goldman-এর পূর্বাভাসে ভারতের বৃদ্ধি 7.9% থেকে 7.2%-এ নামার কথা আছে।",
+   "## BBA ছাত্রছাত্রীর জন্য ব্যবহারিক শিক্ষা",
+   "প্রথমত, কেন্দ্রীয় ব্যাংকের বৈঠকের মিনিটস আর বক্তব্য পড়ার অভ্যাস করো, কারণ বাজার ঘটনার আগেই প্রত্যাশা অনুযায়ী দাম বদলে ফেলে। দ্বিতীয়ত, কোনো কোম্পানি বা সম্পদ বিশ্লেষণ করার সময় সুদের হারের প্রভাব আলাদা করে ভাবো: কার ঋণ বেশি, কার আয় দূর ভবিষ্যতে, কে মুদ্রার ওঠানামায় ক্ষতিগ্রস্ত হবে। তৃতীয়ত, কেস বা ইন্টারভিউয়ে বললে tightening-এর সুবিধা আর খরচ দুটোই বলো। মনে রেখো, এটা শিক্ষার জন্য ব্যাখ্যা, বিনিয়োগের পরামর্শ নয়।"
+  ],
+  "takeaways": [
+   "Monetary tightening মানে সুদ বাড়িয়ে ঋণ ব্যয়বহুল করে চাহিদা ও মূল্যবৃদ্ধি কমানো।",
+   "সুদ বাড়লে সোনার মতো সুদহীন সম্পদের opportunity cost বাড়ে আর ডলারের মতো মুদ্রা শক্ত হতে পারে।",
+   "Tightening-এর খরচ হল ধীর প্রবৃদ্ধি আর সম্ভাব্য বেকারত্ব, তাই মাত্রা ও সময় ঠিক হওয়া জরুরি।"
+  ]
+ },
+ "quiz": [
+  {
+   "q": "Fed-এর অক্টোবরের বৈঠকে সুদের হারের সিদ্ধান্ত কী ছিল?",
+   "options": [
+    "25 bps কমানো",
+    "3.75%–4%-এ অপরিবর্তিত রাখা (10-2 ভোটে)",
+    "25 bps বাড়ানো",
+    "50 bps বাড়ানো"
+   ],
+   "answer": 1,
+   "explain": "Fed 10-2 ভোটে হার 3.75%–4%-এ রেখেছিল; Cook ও Hammack 25 bps বাড়ানোর পক্ষে ছিলেন।"
+  },
+  {
+   "q": "Anthropic-এর IPO-র দাম শেয়ার প্রতি কত ঠিক হয়েছে?",
+   "options": [
+    "$70",
+    "$76",
+    "$78",
+    "$83"
+   ],
+   "answer": 3,
+   "explain": "দাম ঠিক হয়েছে $83, যা আগের $70–$78 পরিসরের ওপরে।"
+  },
+  {
+   "q": "সুদের হার বাড়লে সোনার ওপর সাধারণত কী প্রভাব পড়ে?",
+   "options": [
+    "সোনা ধরে রাখার opportunity cost বাড়ে, চাপ আসে",
+    "সোনা সুদ দেয় বলে আরও আকর্ষণীয় হয়",
+    "কোনো প্রভাব পড়ে না",
+    "সোনার ওপর কর বাড়ে"
+   ],
+   "answer": 0,
+   "explain": "সোনা কোনো সুদ দেয় না, তাই সুদ বাড়লে এর আকর্ষণ কমে। আজকের খবরে সোনা এক বছরের সর্বনিম্নে।"
+  },
+  {
+   "q": "অক্টোবরে ভারতে খুচরো মূল্যবৃদ্ধি কত ছিল?",
+   "options": [
+    "5.54%",
+    "6.25%",
+    "6.09%",
+    "7.9%"
+   ],
+   "answer": 2,
+   "explain": "অক্টোবরে মূল্যবৃদ্ধি 6.09%, সেপ্টেম্বরে ছিল 5.54%। 6.25% হল Goldman-এর পূর্বাভাসের repo rate।"
+  },
+  {
+   "q": "Palo Alto Networks Applied Compute কীভাবে কিনছে?",
+   "options": [
+    "পুরো নগদে",
+    "শুধু শেয়ার দিয়ে (all-stock)",
+    "ব্যাংক ঋণে",
+    "bond বিক্রি করে"
+   ],
+   "answer": 1,
+   "explain": "$4.5 বিলিয়নের চুক্তিটি all-stock, তাই নগদ বাঁচে কিন্তু শেয়ারহোল্ডারদের হিস্যা পাতলা (dilution) হতে পারে।"
+  }
+ ],
+ "caseStudy": {
+  "week": "2026-W47",
+  "weekLabel": "১৬–২২ নভেম্বর ২০২৬",
+  "company": "Zara (Inditex)",
+  "title": "Zara কীভাবে ডিজাইন থেকে দোকানে পৌঁছায় মাত্র কয়েক সপ্তাহে",
+  "concept": "Vertical Integration আর Supply Chain Responsiveness",
+  "intro": "1975 সালে Amancio Ortega স্পেনের A Coruña শহরে প্রথম Zara দোকান খোলেন। পরে এটি Inditex গোষ্ঠীর সবচেয়ে বড় ব্র্যান্ড হয়ে ওঠে। অন্য ফ্যাশন কোম্পানি যেখানে মৌসুমের আগে মাসের পর মাস আগে থেকে পরিকল্পনা করে, Zara সেখানে বাজারে কী চলছে তা দেখে দ্রুত নতুন ডিজাইন বানাতে পারে।",
+  "sections": [
+   {
+    "h": "কী করেছিল",
+    "p": "Zara নিজের ডিজাইন, কাটিং আর প্রধান উৎপাদনের একটি বড় অংশ নিজের নিয়ন্ত্রণে রাখে, যার বড় অংশ সদর দপ্তরের কাছে স্পেন ও আশেপাশের দেশে। দোকানগুলো কোন পোশাক বিক্রি হচ্ছে তার তথ্য নিয়মিত কেন্দ্রে পাঠায়, আর সেই অনুযায়ী ছোট ছোট batch-এ নতুন পোশাক বানিয়ে দোকানে পাঠানো হয়। Zara বিজ্ঞাপনে তুলনামূলকভাবে কম খরচ করে এবং দোকানের অবস্থানকেই প্রধান বিজ্ঞাপন হিসেবে ব্যবহার করে।"
+   },
+   {
+    "h": "ফলাফল",
+    "p": "নতুন ডিজাইন খুব অল্প সময়ে দোকানে পৌঁছায়, আর দোকানে নতুন পোশাক ঘনঘন আসে বলে ক্রেতারা বারবার ফিরে আসে। Inditex বিশ্বের সবচেয়ে বড় ফ্যাশন খুচরা কোম্পানিগুলোর একটি হয়েছে।"
+   },
+   {
+    "h": "কেন কাজ করল",
+    "p": "ছোট batch-এ উৎপাদন মানে অবিক্রীত মজুতের ঝুঁকি কম, আর বেশি বিক্রি হওয়া ডিজাইন দ্রুত আবার বানানো যায়। দোকানের তথ্য সরাসরি ডিজাইন দলের কাছে যাওয়ায় অনুমানের বদলে চাহিদার ওপর ভিত্তি করে সিদ্ধান্ত হয়। নিজের নিয়ন্ত্রণে supply chain রাখায় গতি আর মান দুটোই ধরে রাখা সহজ হয়।"
+   },
+   {
+    "h": "ঝুঁকি আর সমালোচনা",
+    "p": "কাছাকাছি উৎপাদনে শ্রম খরচ বেশি হয়, তাই মুনাফার margin-এ চাপ থাকে। Fast fashion মডেলকে পরিবেশ আর বর্জ্যের কারণে সমালোচনা সইতে হয়েছে, আর সরবরাহকারী কারখানার শ্রমিকদের কাজের পরিবেশ নিয়েও অতীতে প্রশ্ন উঠেছে। অতিরিক্ত চাহিদার পূর্বাভাস ভুল হলে মজুত জমার ঝুঁকিও থেকে যায়।"
+   }
+  ],
+  "lesson": "গতি আর তথ্য প্রতিযোগিতার বড় অস্ত্র: গ্রাহকের চাহিদা দ্রুত জেনে দ্রুত সাড়া দিতে পারলে মজুতের ঝুঁকি কমে আর বিক্রি বাড়ে। তবে এর জন্য supply chain-এর ওপর নিয়ন্ত্রণ আর নৈতিক দায়িত্ব দুটোই সামলাতে হয়।",
+  "question": "তোমার পছন্দের কোনো ব্র্যান্ডের জন্য কি Zara-র মতো ছোট batch আর দ্রুত সাড়ার মডেল কাজ করবে? কোন পণ্যে করবে না, আর কেন?"
+ },
+ "en": {
+  "dateLabel": "Thursday, 19 November 2026",
+  "news": [
+   {
+    "id": "n1",
+    "category": "Monetary policy",
+    "title": "Fed minutes: almost all officials back more rate hikes, a 50 bp December move is on the table",
+    "summary": "At its October meeting the Fed held rates at 3.75%–4% by a 10-2 vote; Cook and Hammack wanted a 25 bp hike. The minutes, released Wednesday, show almost all officials see further hikes as appropriate, and some said a move of more than 25 bp in December would also be reasonable. Governor Waller told CNBC the Fed should consider a half-point rise in December. The minutes also flag the risk of AI-related demand pushing up prices and AI as a financial stability risk. The hawkish tone helped lift the US dollar to a 19-month high.",
+    "why": "A direct example of monetary tightening and of how expectations about interest rates move markets.",
+    "source": {
+     "name": "CNBC",
+     "url": "https://www.cnbc.com/2026/11/18/fed-minutes-october-2026.html"
+    }
+   },
+   {
+    "id": "n2",
+    "category": "IPO",
+    "title": "Anthropic prices IPO at $83, raising $81.3 billion in a record offering; trading starts today on Nasdaq",
+    "summary": "Anthropic priced its IPO at $83 a share, above the earlier $70–$78 range. It sold about 980 million shares to raise $81.3 billion at a valuation of roughly $1.5 trillion. Demand was nearly seven times the shares on offer. CNBC calls it a record IPO, though figures for the largest-ever offering vary by source. Shares begin trading today, Thursday, on the Nasdaq Global Select Market under the ticker \"ANT\".",
+    "why": "Pricing above the range signals strong demand. Oversubscription, valuation and the primary market all show up in one story.",
+    "source": {
+     "name": "CNBC",
+     "url": "https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html"
+    }
+   },
+   {
+    "id": "n3",
+    "category": "Stock market",
+    "title": "Wall Street: S&P 500 falls a fifth day and slips below its 200-day average; Dow down 1.11%, Nasdaq up 0.42%",
+    "summary": "The S&P 500 fell about 0.23% to 7,323.63 on Wednesday, its fifth straight loss and longest losing streak since June. It dropped below its closely watched 200-day moving average. The Dow lost 561.25 points (1.11%) to 50,198.17, with UnitedHealth the biggest drag. The Nasdaq Composite rose 0.42% to 24,429.89. Consumer Discretionary led sectors (+1.79%) and Energy lagged (-3.27%).",
+    "why": "A good example of technical levels such as moving averages, and of how indexes can move in opposite directions on the same day.",
+    "source": {
+     "name": "The Motley Fool",
+     "url": "https://www.fool.com/coverage/stock-market-today/2026/11/18/stock-market-today-nov-18-s-and-p-500-breaks-key-support-as-fed-minutes-signal-more-rate-hikes-ahead/"
+    }
+   },
+   {
+    "id": "n4",
+    "category": "Company",
+    "title": "Nvidia gives back post-earnings gains: board rules out Huang's return, Heidrick & Struggles to find a CEO",
+    "summary": "Nvidia's third-quarter revenue was $115.8 billion (up 103% in a year) against expectations of about $109 billion, and adjusted EPS was $2.68 versus $2.47 expected. The stock jumped about 5.5% after the results but the gain faded in regular trading on Wednesday, with commentary pointing to leadership uncertainty. CFO Colette Kress is interim CEO. The board hired executive search firm Heidrick & Struggles to find a permanent CEO and is not considering bringing back Jensen Huang. Board chair Harvey Jones said the board will not rush and wants \"exactly the right person\".",
+    "why": "Even strong earnings can be overshadowed by leadership and succession uncertainty, a real lesson in corporate governance.",
+    "source": {
+     "name": "CNBC",
+     "url": "https://www.cnbc.com/2026/11/18/nvidia-stock-earnings.html"
+    }
+   },
+   {
+    "id": "n5",
+    "category": "Commodities",
+    "title": "Gold falls below $3,800 to a one-year low, down about 31% from January's record",
+    "summary": "Spot gold fell 3.2% on Tuesday (17 November) to settle at $3,724.91 an ounce, the first close below $3,800 since September 2025. Reuters reported gold had already touched $3,830.74 on Monday, the lowest since October 2025 and 31.5% below January's record of $5,594.82. The drivers were rates and currency, not geopolitics: Treasury yields above 5%, a dollar near its strongest since April 2025, and expectations of a December Fed hike. Goldman Sachs cut its end-2026 target to $4,150.",
+    "why": "Gold pays no interest or dividends, so higher rates raise its opportunity cost. A clear case of how interest rates affect asset prices.",
+    "source": {
+     "name": "Investing.com",
+     "url": "https://investing.com/news/commodities-news/gold-falls-toward-3800-as-fed-hawks-reinforce-ratehike-outlook-5034463"
+    }
+   },
+   {
+    "id": "n6",
+    "category": "India",
+    "title": "Goldman Sachs sees RBI repo rate rising 75 bps to 6.25% by mid-2027; India's October retail inflation at 6.09%",
+    "summary": "Goldman Sachs expects the RBI to raise rates by a further 75 basis points, taking the repo rate to 6.25% by mid-2027. India's retail inflation rose to 6.09% in October from 5.54% in September, above the RBI's upper tolerance level. Goldman forecasts India's GDP growth easing from 7.9% in 2026 to 7.2% in 2027. Foreign portfolio investors have put in about Rs 94,963 crore in November so far (to the 17th), and the rupee recovered to about 93.45 per dollar. These are Goldman's forecasts, not official data.",
+    "why": "The link between inflation targeting and the repo rate is clear: when inflation breaches the limit, the central bank raises rates, affecting loans, investment and the currency.",
+    "source": {
+     "name": "Business Standard",
+     "url": "https://www.business-standard.com/amp/economy/news/goldman-sachs-sees-rbi-repo-rate-rising-by-75-bps-to-6-25-by-mid-2027-126111801292_1.html"
+    }
+   },
+   {
+    "id": "n7",
+    "category": "M&A",
+    "title": "Palo Alto Networks revenue up 39% to $3.44 billion; buying Applied Compute in a $4.5 billion all-stock deal",
+    "summary": "Palo Alto Networks reported first-quarter revenue of $3.44 billion (up 39%) and adjusted EPS of $1.05, against expectations of 97 cents and $3.31 billion. It raised full-year adjusted EPS guidance to $4.26–$4.30. It also announced the acquisition of AI-focused Applied Compute: a $4.5 billion all-stock deal, subject to regulatory clearance and expected to close in the company's fiscal third quarter of 2027. The stock rose about 10% after the results.",
+    "why": "An all-stock acquisition uses shares instead of cash: it preserves cash but dilutes existing shareholders.",
+    "source": {
+     "name": "Investing.com",
+     "url": "https://investing.com/news/earnings/palo-alto-networks-to-buy-applied-compute-for-45-billion-in-ai-push-5037031"
+    }
+   },
+   {
+    "id": "n8",
+    "category": "Retail",
+    "title": "Target's third-quarter sales rise 7.1%, company lifts full-year earnings outlook",
+    "summary": "According to CNBC's market update, Target reported third-quarter net sales growth of 7.1%. Other reports put adjusted EPS at $2.65, including a one-time $0.50 tariff refund gain, with same-store sales up 5.6% and full-year EPS guidance of $10.65–$11.40. Excluding the one-time gain, comparison with the roughly $2.07 consensus is not straightforward. Sources disagree on the share price reaction, so it is left out here.",
+    "why": "Stripping out one-time items to see true operating performance is a core financial analysis skill.",
+    "source": {
+     "name": "CNBC",
+     "url": "https://www.cnbc.com/2026/11/18/stocks-moving-the-most-today-live-updates.html"
+    }
+   }
+  ],
+  "market": {
+   "asOf": "Close of Wednesday, 18 November 2026 (Brent and USD/INR are end-of-day quotes)",
+   "items": [
+    {
+     "name": "S&P 500",
+     "region": "US",
+     "value": "7,323.63",
+     "change": "-0.23%",
+     "dir": "down"
+    },
+    {
+     "name": "Dow Jones",
+     "region": "US",
+     "value": "50,198.17",
+     "change": "-1.11%",
+     "dir": "down"
+    },
+    {
+     "name": "Nasdaq",
+     "region": "US",
+     "value": "24,429.89",
+     "change": "+0.42%",
+     "dir": "up"
+    },
+    {
+     "name": "Sensex",
+     "region": "India",
+     "value": "82,030.21",
+     "change": "-0.61%",
+     "dir": "down"
+    },
+    {
+     "name": "Nifty 50",
+     "region": "India",
+     "value": "25,228",
+     "change": "-0.66%",
+     "dir": "down"
+    },
+    {
+     "name": "Brent Crude",
+     "region": "$ per barrel",
+     "value": "$92.25",
+     "change": "-0.96%",
+     "dir": "down"
+    },
+    {
+     "name": "USD/INR",
+     "region": "Forex",
+     "value": "93.44",
+     "change": "",
+     "dir": "flat"
+    }
+   ]
+  },
+  "term": {
+   "term": "Monetary Tightening",
+   "bangla": "Raising rates to cool money supply and demand",
+   "definition": "Monetary tightening is a central bank policy of raising interest rates (or reducing the money supply) to make credit more expensive. The aim is to cool spending and investment and bring inflation under control.",
+   "example": "In the Fed minutes almost all officials favour more rate hikes, and Goldman Sachs expects the RBI to lift the repo rate to 6.25% by mid-2027. Expectations of higher rates have strengthened the dollar and pushed gold to a one-year low.",
+   "formula": "",
+   "tip": "In interviews, say tightening aims to cut inflation but can cost growth and jobs. Contrast it with easing."
+  },
+  "gd": {
+   "topic": "Is raising interest rates the right way to fight inflation when growth is also slowing?",
+   "context": "The Fed minutes point to more hikes, India's October inflation is 6.09%, and Goldman says the RBI could add 75 bps even as it forecasts GDP growth easing from 7.9% to 7.2%.",
+   "for": [
+    "When inflation stays above the limit, purchasing power erodes, so price control comes first.",
+    "Higher rates ease pressure for capital to leave and help keep the currency stable.",
+    "Acting early stops inflation expectations from hardening and needing harsher medicine later."
+   ],
+   "against": [
+    "Costlier loans reduce investment and hiring by firms and small businesses.",
+    "Not all inflation comes from demand; supply problems are not fixed by higher rates.",
+    "Asset prices such as shares and gold fall, and indebted households feel more strain."
+   ]
+  },
+  "blog": {
+   "title": "What happens when rates rise: monetary tightening explained",
+   "topic": "Monetary policy",
+   "readMin": 5,
+   "body": [
+    "## What happens when interest rates rise? Monetary tightening in plain English",
+    "Imagine a class where everyone suddenly spends much more, but the shop has limited stock. Shopkeepers will raise prices. The same happens in an economy when demand for goods outruns supply: inflation rises. The best-known tool a central bank uses to cool this is raising interest rates. This is called monetary tightening.",
+    "## How it works",
+    "A central bank (the Fed in the US, the RBI in India) sets a policy rate. In India this is the repo rate, the rate at which the RBI lends to commercial banks. When it rises, banks' own funding costs rise, so they lift rates on home, car and business loans. When credit is costlier, people and companies borrow and spend less. Lower demand eases pressure on prices. Savings rates also rise, so people are more tempted to save than spend.",
+    "## Where it shows up in today's news",
+    "Three parts of this story appear in today's news. First, the Fed's October minutes say almost all officials see further hikes as appropriate, and some even talk of more than 25 bps in December. Second, expectations of higher rates have pushed the dollar to a 19-month high while gold fell below $3,800 to a one-year low. Gold pays no interest, so the higher rates go, the higher the opportunity cost of holding it. Third, India's retail inflation was 6.09% in October, and Goldman Sachs thinks the RBI could add 75 bps and take the repo rate to 6.25%. That is Goldman's forecast, not an RBI announcement.",
+    "## The effect on markets",
+    "Higher rates usually pressure equities. The discount rate used to value future earnings rises, so valuations fall, especially for companies whose profits lie far in the future. For bonds, new bonds pay higher yields so older bonds lose value. For currencies, higher rates attract foreign capital, so the currency can strengthen, as the dollar is doing now.",
+    "## A simple example: the effect on your EMI",
+    "Say you took a Rs 50 lakh home loan at a floating rate. When the RBI raises the repo rate, banks usually raise your loan rate too, so either your monthly EMI goes up or the loan tenure gets longer. When this happens across millions of households and companies, total spending falls. The opposite is called easing: cutting rates to make credit cheaper so spending and investment rise in a downturn. A central bank chooses between the two based on the state of the economy.",
+    "## Forward guidance and the role of expectations",
+    "Central banks do not only change rates; they also signal ahead of time. This is called forward guidance. The dollar strengthening and gold falling right after the minutes show that markets move on expectations before decisions arrive. So for businesses and investors, understanding the future path of rates matters as much as today's rate. If expectations turn out wrong, meaning the bank is tighter or looser than assumed, markets can swing sharply.",
+    "## The price of tightening",
+    "Tightening is not free. Costlier credit can make firms delay new plants and hiring, slowing growth and possibly raising unemployment. Also, not all inflation comes from demand. If prices rise because of supply problems or oil, rate hikes cannot fully fix it. The central bank's hard job is choosing the right size and timing: too little leaves inflation in place, too much can tip the economy into recession. That is why Goldman's forecast has India's growth easing from 7.9% to 7.2%.",
+    "## A practical lesson for BBA students",
+    "First, make a habit of reading central bank minutes and statements, because markets reprice on expectations before events happen. Second, when analysing a company or asset, consider interest-rate effects separately: who carries more debt, whose earnings lie far in the future, who is hurt by currency swings. Third, in a case or interview, give both the benefits and the costs of tightening. This is an educational explainer, not investment advice."
+   ],
+   "takeaways": [
+    "Monetary tightening means raising rates to make credit costlier and cool demand and inflation.",
+    "Higher rates raise the opportunity cost of non-yielding assets like gold and can strengthen currencies like the dollar.",
+    "The cost of tightening is slower growth and possible unemployment, so size and timing matter."
+   ]
+  },
+  "quiz": [
+   {
+    "q": "What was the Fed's interest-rate decision at its October meeting?",
+    "options": [
+     "Cut by 25 bps",
+     "Held at 3.75%–4% (10-2 vote)",
+     "Raised by 25 bps",
+     "Raised by 50 bps"
+    ],
+    "answer": 1,
+    "explain": "The Fed held at 3.75%–4% by 10-2; Cook and Hammack wanted a 25 bp hike."
+   },
+   {
+    "q": "At what price per share was Anthropic's IPO priced?",
+    "options": [
+     "$70",
+     "$76",
+     "$78",
+     "$83"
+    ],
+    "answer": 3,
+    "explain": "It priced at $83, above the earlier $70–$78 range."
+   },
+   {
+    "q": "What is the usual effect of higher interest rates on gold?",
+    "options": [
+     "Raises the opportunity cost of holding it, adding pressure",
+     "Makes gold more attractive because it pays interest",
+     "No effect",
+     "Gold is taxed more"
+    ],
+    "answer": 0,
+    "explain": "Gold pays no interest, so higher rates reduce its appeal. Today's news shows gold at a one-year low."
+   },
+   {
+    "q": "What was India's retail inflation in October?",
+    "options": [
+     "5.54%",
+     "6.25%",
+     "6.09%",
+     "7.9%"
+    ],
+    "answer": 2,
+    "explain": "October inflation was 6.09% versus 5.54% in September. 6.25% is Goldman's forecast repo rate."
+   },
+   {
+    "q": "How is Palo Alto Networks buying Applied Compute?",
+    "options": [
+     "All cash",
+     "All-stock",
+     "Bank loan",
+     "Bond issue"
+    ],
+    "answer": 1,
+    "explain": "The $4.5 billion deal is all-stock, preserving cash but potentially diluting shareholders."
+   }
+  ],
+  "caseStudy": {
+   "week": "2026-W47",
+   "weekLabel": "16 – 22 November 2026",
+   "company": "Zara (Inditex)",
+   "title": "How Zara gets a design from drawing board to store in just weeks",
+   "concept": "Vertical Integration and Supply Chain Responsiveness",
+   "intro": "In 1975 Amancio Ortega opened the first Zara store in A Coruña, Spain. It grew into the biggest brand of the Inditex group. While other fashion companies plan collections many months before a season, Zara watches what is selling and quickly makes new designs.",
+   "sections": [
+    {
+     "h": "What it did",
+     "p": "Zara keeps design, cutting and a large part of key production under its own control, much of it in Spain and nearby countries close to headquarters. Stores regularly send data on what is selling, and new items are made in small batches accordingly and shipped to stores. Zara spends relatively little on advertising and uses its prime store locations as its main advertisement."
+    },
+    {
+     "h": "The result",
+     "p": "New designs reach stores in a very short time, and because fresh items arrive often, shoppers come back again and again. Inditex became one of the world's largest fashion retailers."
+    },
+    {
+     "h": "Why it worked",
+     "p": "Small batches mean less unsold stock, and designs that sell well can be quickly made again. Store data goes straight to the design team, so decisions rest on demand rather than guesses. Owning the supply chain makes it easier to keep both speed and quality."
+    },
+    {
+     "h": "Risks and criticism",
+     "p": "Producing close to home costs more in labour, which presses on profit margins. The fast-fashion model has faced criticism over environmental impact and waste, and questions have been raised in the past about working conditions at supplier factories. If demand forecasts are wrong, unsold stock can still build up."
+    }
+   ],
+   "lesson": "Speed and information are powerful competitive weapons: learning customer demand quickly and responding fast lowers inventory risk and lifts sales. But it requires managing both control of the supply chain and ethical responsibility.",
+   "question": "Would Zara's small-batch, fast-response model work for a brand you like? For which products would it not work, and why?"
+  }
+ }
+}

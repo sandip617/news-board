@@ -1,6 +1,13 @@
 {
- "latest": "2026-11-18",
+ "latest": "2026-11-19",
  "days": [
+  {
+   "date": "2026-11-19",
+   "label": "১৯ নভেম্বর ২০২৬, বৃহস্পতিবার",
+   "labelEn": "Thursday, 19 November 2026",
+   "headline": "Fed-এর মিনিটসে আরও সুদ বাড়ানোর ইঙ্গিত, Anthropic-এর $83 দামে $81.3 বিলিয়নের IPO",
+   "headlineEn": "Fed minutes signal more rate hikes; Anthropic prices $81.3 billion IPO at $83"
+  },
   {
    "date": "2026-11-18",
    "label": "১৮ নভেম্বর ২০২৬, বুধবার",
