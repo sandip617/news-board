@@ -1,0 +1,585 @@
+{
+ "date": "2026-11-20",
+ "dateLabel": "২০ নভেম্বর ২০২৬, শুক্রবার",
+ "edition": 1,
+ "updatedAt": "2026-11-20T07:05:00+05:30",
+ "news": [
+  {
+   "id": "n1",
+   "category": "বাজার",
+   "title": "Wall Street-এ ধস: Dow 1,100 পয়েন্টের বেশি পড়ে 50,000-এর নিচে, S&P 500-এর টানা ষষ্ঠ দিন লোকসান",
+   "summary": "বৃহস্পতিবার S&P 500 147.80 পয়েন্ট (2%) পড়ে 7,175.83-এ বন্ধ হয়েছে। এটি টানা ষষ্ঠ লোকসানের দিন, যা 2024-এর পর সবচেয়ে লম্বা ধারা। Dow প্রায় 1,101 পয়েন্ট পড়ে 49,097-এ নেমে 50,000-এর নিচে গেছে, আর Nasdaq কমেছে প্রায় 2.3%। শুরুতে ফিউচার্স 1%-এর বেশি বাড়লেও দিনভর বিক্রির চাপে সূচক দিনের সর্বনিম্নে বন্ধ হয়। S&P 500-এর 90%-এর বেশি শেয়ার কমেছে, আর রেকর্ড স্তর থেকে সূচক এখন 8.2% নিচে।",
+   "why": "টানা লোকসান আর বিস্তৃত বিক্রি বাজারের মেজাজ (market sentiment) আর সম্ভাব্য correction-এর ধারণা বোঝায়।",
+   "source": {
+    "name": "Yahoo Finance (AP)",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nov-19-221002368.html"
+   }
+  },
+  {
+   "id": "n2",
+   "category": "IPO",
+   "title": "Anthropic-এর Nasdaq অভিষেক: প্রথম দিনেই IPO দামের চেয়ে 17% ওপরে বন্ধ, $97.17-তে",
+   "summary": "ইতিহাসের সবচেয়ে বড় IPO-তে $81.3 বিলিয়ন তুলে Anthropic বৃহস্পতিবার ANT টিকারে Nasdaq-এ লেনদেন শুরু করেছে। IPO দাম ছিল $83, যা কোম্পানির ঘোষিত $70–$78 পরিসরের ওপরে। শেয়ার $111.50-এ খুলে দিনের শেষে $97.17-তে বন্ধ হয়, অর্থাৎ IPO দামের চেয়ে 17%-এর বেশি ওপরে। বাজার জুড়ে বিক্রির মধ্যেও এই অভিষেক প্রযুক্তি খাতকে সাময়িক স্বস্তি দিয়েছে।",
+   "why": "IPO pricing, প্রথম দিনের লাভ (listing gain) আর চাহিদা-জোগানের সম্পর্ক বোঝার জীবন্ত উদাহরণ।",
+   "source": {
+    "name": "CBC News",
+    "url": "https://www.cbc.ca/news/business/anthropic-first-day-trading-9.7428367"
+   }
+  },
+  {
+   "id": "n3",
+   "category": "কোম্পানি",
+   "title": "Walmart-এর আয় প্রত্যাশার সামান্য ওপরে, পুরো বছরের পূর্বাভাস বাড়াল",
+   "summary": "Walmart তৃতীয় ত্রৈমাসিকে adjusted EPS 65 cents জানিয়েছে, যা আগস্টে দেওয়া 62–64 cents পূর্বাভাসের ওপরে। বিশ্বব্যাপী e-commerce বিক্রি 17% এবং বিজ্ঞাপন ব্যবসা 25% বেড়েছে। কোম্পানি FY27-এর adjusted EPS পূর্বাভাস $2.80–$2.87 থেকে বাড়িয়ে $2.84–$2.89 করেছে। নিট বিক্রি বৃদ্ধির পূর্বাভাস এখন 4.9%–5.2%। CEO বলেছেন ডিজেলের দাম বাড়লেও দাম কম রাখার চেষ্টা চলছে।",
+   "why": "Earnings guidance আর ভোক্তা-চাহিদা পড়ার সূচক হিসেবে বড় retailer-এর ফল কেন গুরুত্বপূর্ণ, তা বোঝা যায়।",
+   "source": {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/19/walmart-wmt-q3-2026-earnings.html"
+   }
+  },
+  {
+   "id": "n4",
+   "category": "বাণিজ্য নীতি",
+   "title": "নতুন মার্কিন রপ্তানি নিয়মে TSMC-র চীনা চিপ ডিজাইনারদের ওপর কড়াকড়ি",
+   "summary": "Reuters-এর সূত্রে জানা গেছে, মার্কিন Commerce Department-এর নতুন নিয়ম বৃহস্পতিবার কার্যকর হওয়ার পর TSMC চীনা চিপ ডিজাইনারদের জন্য নিয়ম কড়া করেছে। আগে TSMC ডিজাইনের প্রযুক্তিগত বৈশিষ্ট্য যাচাই করে রপ্তানি-নিয়ন্ত্রণের বাইরে থাকা ডিজাইনের কাজ করতে পারত, সেই পথ বন্ধ হয়েছে। 16 ন্যানোমিটার বা তার ছোট প্রযুক্তির অর্ডার US export licence ছাড়া থামাতে হচ্ছে, আর Samsung-ও কিছু চালান স্থগিত করেছে।",
+   "why": "Export controls ও সরবরাহ শৃঙ্খলের (supply chain) ঝুঁকি, আর বাণিজ্য নীতি কীভাবে কোম্পানির ব্যবসা বদলায়, তা এখানে স্পষ্ট।",
+   "source": {
+    "name": "Reuters (via WHBL)",
+    "url": "https://whbl.com/2026/11/19/tsmc-tightens-china-ai-chip-curbs-as-new-us-rules-close-manufacturing-loophole-sources-say/"
+   }
+  },
+  {
+   "id": "n5",
+   "category": "ভারত",
+   "title": "Sensex প্রায় 990 পয়েন্ট লাফিয়ে 83,021-এ, Nifty 25,514-এ; রুপি টানা চতুর্থ দিন শক্ত",
+   "summary": "BSE Sensex 989.94 পয়েন্ট (1.21%) বেড়ে 83,021.75-এ আর NSE Nifty 50 286.35 পয়েন্ট (1.14%) বেড়ে 25,514.30-এ বন্ধ হয়েছে। Nifty Auto সূচক 4%-এর বেশি বেড়ে র‍্যালির নেতৃত্ব দিয়েছে, আর Nifty IT 1.11% কমেছে। Nifty Bank দিনে 63,063-এর নতুন উচ্চতা ছুঁয়েছে। বিদেশি পুঁজি ফেরায় রুপি 5 পয়সা বেড়ে 93.36 প্রতি ডলারে (প্রাথমিক ক্লোজিং) দাঁড়িয়েছে।",
+   "why": "Foreign portfolio inflow কীভাবে শেয়ারবাজার আর বিনিময় হারকে একসঙ্গে প্রভাবিত করে, তা দেখার মতো উদাহরণ।",
+   "source": {
+    "name": "Business Standard",
+    "url": "https://www.business-standard.com/amp/markets/news/stock-market-live-november-19-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-mahanadi-coalfields-ipo-today-126111900101_1.html"
+   }
+  },
+  {
+   "id": "n6",
+   "category": "কেন্দ্রীয় ব্যাংক",
+   "title": "Bank of Japan গভর্নর Ueda: সুদ বাড়ানো চলবে, দুর্বল ইয়েন নিয়ে উদ্বেগ",
+   "summary": "বৃহস্পতিবার সংসদে গভর্নর Kazuo Ueda বলেছেন BOJ সুদ বাড়ানো চালিয়ে যাবে এবং সাম্প্রতিক দুর্বল ভোগ-তথ্যকে সাময়িক বলে ছোট করে দেখিয়েছেন। Reuters-এর জরিপে 71 জন অর্থনীতিবিদের 61 জন (86%) ডিসেম্বর 17–18 বৈঠকে 25 bps বাড়িয়ে 1.50% হওয়ার আশা করছেন। ইয়েন আবার ডলার প্রতি 160-র কাছাকাছি, যদিও কর্তৃপক্ষ প্রায় $100 বিলিয়ন ডলার বিক্রি করে ঠেকানোর চেষ্টা করেছে। জাপানের Q3 GDP থমকে গেছে।",
+   "why": "Monetary policy divergence (Fed বনাম BOJ) কীভাবে মুদ্রার দাম ঠিক করে, তা এখানে দেখা যায়।",
+   "source": {
+    "name": "Yahoo Finance",
+    "url": "https://finance.yahoo.com/economy/policy/articles/boj-governor-ueda-says-financial-013529504.html"
+   }
+  },
+  {
+   "id": "n7",
+   "category": "কমোডিটি",
+   "title": "Brent $91.98-এ প্রায় অপরিবর্তিত; Hormuz-এ ট্যাংকার বিঘ্ন বনাম বাড়তি জোগানের আশঙ্কা",
+   "summary": "Reuters অনুযায়ী Brent বৃহস্পতিবার 3 cents বেড়ে $91.98 প্রতি ব্যারেলে সেটল করেছে, আর WTI 5 cents কমে $83.21-এ, যা 26 আগস্টের পর সর্বনিম্ন। Strait of Hormuz-এ ট্যাংকার বিঘ্ন দাম ধরে রেখেছে, কিন্তু মার্কিন crude জোগান বাড়ায় চাপও আছে। Bloomberg-এর শিরোনাম অনুযায়ী তেল টানা তৃতীয় সাপ্তাহিক পতনের পথে।",
+   "why": "Supply shock বনাম surplus দুই দিকের টানাটানিতে দাম কীভাবে ঠিক হয়, সেটা চাহিদা-জোগানের ক্লাসিক প্রয়োগ।",
+   "source": {
+    "name": "Reuters (via Investing.com)",
+    "url": "https://au.investing.com/news/commodities-news/oil-prices-steady-as-supply-surplus-softens-sentiment-though-gulf-war-supports-4782046"
+   }
+  },
+  {
+   "id": "n8",
+   "category": "কমোডিটি",
+   "title": "সোনা 14 মাসের সর্বনিম্নের কাছে: Fed মিনিটস hawkish হওয়ায় ডলার শক্ত",
+   "summary": "বুধবার সোনা প্রায় 2.6% পড়ে $3,753.42-তে শেষ করেছে, আর বৃহস্পতিবার এশীয় লেনদেনে এক সময় $3,693-এ নামে, যা সেপ্টেম্বর 2025-এর পর সর্বনিম্ন। দিনের মাঝামাঝি দাম ছিল প্রায় $3,721। সুদ বাড়ার আশঙ্কা আর শক্ত ডলার সোনার ওপর চাপ ফেলেছে, কারণ সোনা কোনো সুদ দেয় না।",
+   "why": "Opportunity cost আর safe-haven asset-এর আচরণ বোঝার জন্য সোনা ও সুদের সম্পর্ক জরুরি।",
+   "source": {
+    "name": "Yahoo Finance",
+    "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-thursday-november-19-2026-gold-price-opened-at-the-lowest-level-in-14-months-122258391.html"
+   }
+  }
+ ],
+ "market": {
+  "asOf": "১৯ নভেম্বর ২০২৬, বৃহস্পতিবারের ক্লোজিং (সোনা: দিনের মাঝামাঝি দর; USD/INR প্রাথমিক ক্লোজিং)",
+  "items": [
+   {
+    "name": "S&P 500",
+    "region": "US",
+    "value": "7,175.83",
+    "change": "-2.02%",
+    "dir": "down"
+   },
+   {
+    "name": "Dow Jones",
+    "region": "US",
+    "value": "49,097.06",
+    "change": "-2.19%",
+    "dir": "down"
+   },
+   {
+    "name": "Nasdaq",
+    "region": "US",
+    "value": "23,879.20",
+    "change": "-2.25%",
+    "dir": "down"
+   },
+   {
+    "name": "Sensex",
+    "region": "ভারত",
+    "value": "83,021.75",
+    "change": "+1.21%",
+    "dir": "up"
+   },
+   {
+    "name": "Nifty 50",
+    "region": "ভারত",
+    "value": "25,514.30",
+    "change": "+1.14%",
+    "dir": "up"
+   },
+   {
+    "name": "Brent Crude",
+    "region": "$ প্রতি ব্যারেল",
+    "value": "$91.98",
+    "change": "+0.03%",
+    "dir": "flat"
+   },
+   {
+    "name": "Gold",
+    "region": "$ প্রতি আউন্স",
+    "value": "~$3,721 (দিনের মাঝামাঝি)",
+    "change": "",
+    "dir": "flat"
+   },
+   {
+    "name": "USD/INR",
+    "region": "ফরেক্স",
+    "value": "93.36",
+    "change": "-0.05%",
+    "dir": "down"
+   }
+  ]
+ },
+ "term": {
+  "term": "Export Controls",
+  "bangla": "রপ্তানি নিয়ন্ত্রণ: সংবেদনশীল পণ্য ও প্রযুক্তির বিদেশে বিক্রিতে সরকারি বিধিনিষেধ",
+  "definition": "Export controls হল সরকারের এমন নিয়ম, যা কিছু পণ্য, সফটওয়্যার বা প্রযুক্তি কোন দেশে, কাকে বিক্রি করা যাবে তা সীমিত করে (প্রায়ই licence বাধ্যতামূলক করে)। উদ্দেশ্য জাতীয় নিরাপত্তা রক্ষা বা কৌশলগত প্রতিযোগীর হাতে উন্নত প্রযুক্তি যাওয়া ঠেকানো। এতে কোম্পানির বাজার, সরবরাহ শৃঙ্খল আর আয়ের ওপর সরাসরি প্রভাব পড়ে।",
+  "example": "নতুন মার্কিন নিয়ম কার্যকর হওয়ার পর TSMC 16 ন্যানোমিটার বা ছোট প্রযুক্তিতে চীনা চিপ ডিজাইনারদের অর্ডার US licence ছাড়া থামাচ্ছে, আর Samsung-ও কিছু চালান স্থগিত করেছে।",
+  "formula": "",
+  "tip": "ইন্টারভিউতে বলো export controls একই সঙ্গে নিরাপত্তার হাতিয়ার আর কোম্পানির জন্য regulatory risk। Tariff (শুল্ক) থেকে এর পার্থক্য: tariff দাম বাড়ায়, export control পরিমাণ ও প্রবেশাধিকার সীমিত করে।"
+ },
+ "gd": {
+  "topic": "চিপ প্রযুক্তির রপ্তানিতে নিষেধাজ্ঞা কি নিরাপত্তার জন্য ন্যায্য, নাকি মুক্ত বাণিজ্যের ক্ষতি?",
+  "context": "নতুন মার্কিন নিয়মে TSMC ও Samsung চীনা গ্রাহকদের কিছু চালান থামিয়েছে। এর মধ্যে Nvidia ও AI খাতের বিশাল বিনিয়োগ আর বাজারের টানা পতন চলছে।",
+  "for": [
+   "উন্নত চিপ সামরিক ও নজরদারির কাজে লাগতে পারে, তাই জাতীয় নিরাপত্তা আগে।",
+   "কৌশলগত প্রতিযোগীর প্রযুক্তিগত সুবিধা ধীর করা যায়।",
+   "Licence ব্যবস্থায় সরকার ব্যবহার ট্র্যাক করতে পারে।"
+  ],
+  "against": [
+   "চীনের মতো বড় বাজার হারালে কোম্পানির আয় ও R&D বিনিয়োগ কমে।",
+   "নিষেধাজ্ঞা প্রতিপক্ষকে নিজস্ব চিপ শিল্প গড়তে উৎসাহ দেয়।",
+   "সরবরাহ শৃঙ্খল ভেঙে গ্রাহক ও সহযোগী দেশেরও দাম বাড়ে।"
+  ]
+ },
+ "blog": {
+  "title": "Export Controls: রপ্তানিতে নিষেধাজ্ঞা ব্যবসাকে কীভাবে বদলায়",
+  "topic": "আন্তর্জাতিক বাণিজ্য",
+  "readMin": 4,
+  "body": [
+   "## Export Controls: রপ্তানিতে নিষেধাজ্ঞা ব্যবসাকে কীভাবে বদলায়",
+   "ধরো তুমি এমন একটা কারখানা চালাও যেটা সারা বিশ্বের গ্রাহকের জন্য জটিল যন্ত্রাংশ বানায়। একদিন সরকার বলল, কিছু দেশের কাছে এই যন্ত্রাংশ বিক্রি করতে হলে আলাদা অনুমতি (licence) লাগবে, আর অনেক ক্ষেত্রে সেই অনুমতি মিলবে না। তোমার বিক্রি, কারখানার পরিকল্পনা আর বিনিয়োগ, সবই এক দিনে বদলে যাবে। এটাই export controls বা রপ্তানি নিয়ন্ত্রণ।",
+   "## Export controls আসলে কী",
+   "Export controls হল সরকারের এমন নিয়ম, যা নির্দিষ্ট পণ্য, সফটওয়্যার বা প্রযুক্তি কোন দেশে বা কোন ক্রেতার কাছে যেতে পারবে তা সীমিত করে। সাধারণত যুক্তি দুটি: জাতীয় নিরাপত্তা, আর কৌশলগত প্রতিযোগীর হাতে উন্নত প্রযুক্তি যাওয়া ঠেকানো। এটা tariff বা আমদানি শুল্ক থেকে আলাদা। Tariff দাম বাড়ায়, কিন্তু বিক্রি চলতে থাকে। Export control অনেক সময় বিক্রিটাই বন্ধ করে দেয়, বা licence লাগিয়ে প্রবেশাধিকার সীমিত করে।",
+   "## আজকের খবরে এর উদাহরণ",
+   "Reuters-এর খবর অনুযায়ী, মার্কিন Commerce Department-এর নতুন নিয়ম বৃহস্পতিবার কার্যকর হয়েছে। আগে TSMC কিছু চীনা চিপ ডিজাইনের কম্পিউটিং ক্ষমতা ও প্রযুক্তিগত বৈশিষ্ট্য যাচাই করে দেখত সেটা export control-এর আওতার বাইরে কি না, এবং তার ভিত্তিতে ম্যানুফ্যাকচারিং সেবা দিত। নতুন নিয়মে সেই পথ বন্ধ হয়েছে। এখন 16 ন্যানোমিটার বা তার ছোট প্রযুক্তির অর্ডার US export licence ছাড়া থামাতে হচ্ছে। TSMC কিছু আগে-অনুমোদিত অর্ডারও স্থগিত করেছে, আর Samsung-ও কিছু চালান আটকেছে। এটাকে বলা হচ্ছে একটা manufacturing loophole বন্ধ করা।",
+   "## ব্যবসার ওপর প্রভাব",
+   "প্রথমত, আয়ের ঝুঁকি। যে কোম্পানির বড় অংশের গ্রাহক নিষিদ্ধ তালিকার দেশে, তার বিক্রি হঠাৎ কমতে পারে। দ্বিতীয়ত, সরবরাহ শৃঙ্খল (supply chain) ঝুঁকি। উন্নত চিপ বানানোর ক্ষমতা অল্প কয়েকটি কোম্পানির হাতে, তাই একটি নিয়মে পুরো শৃঙ্খল প্রভাবিত হয়। তৃতীয়ত, compliance খরচ। কাকে বিক্রি হচ্ছে, কোথায় যাচ্ছে, সেটা নজরে রাখতে আলাদা দল, প্রযুক্তি আর আইনি ব্যয় লাগে। চতুর্থত, দীর্ঘমেয়াদি পাল্টা প্রভাব: নিষেধাজ্ঞা প্রতিপক্ষ দেশকে নিজস্ব শিল্প গড়ার দিকে ঠেলে দিতে পারে, যা পরে মূল কোম্পানিদের জন্য নতুন প্রতিযোগিতা তৈরি করে।",
+   "## দুই দিকের যুক্তি",
+   "সমর্থকরা বলেন, উন্নত চিপ সামরিক ও নজরদারি ব্যবস্থায় ব্যবহার হতে পারে, তাই নিরাপত্তা অর্থনৈতিক লাভের চেয়ে বড়। সমালোচকরা বলেন, এতে কোম্পানি একটা বিশাল বাজার হারায়, গবেষণায় বিনিয়োগের টাকা কমে, আর বাণিজ্য-সম্পর্ক তিক্ত হয়। অর্থনীতির ভাষায় এখানে একদিকে national security (এক ধরনের externality), অন্যদিকে efficiency আর free trade-এর সুবিধা। কোন দিক বেশি ভারী, তা নিয়েই নীতি-বিতর্ক।",
+   "## আগের ঘটনা থেকে শিক্ষা",
+   "প্রযুক্তি খাতে এমন নিয়ম নতুন নয়। বছরের পর বছর ধরে সরকারগুলো সেমিকন্ডাক্টর, টেলিকম যন্ত্রপাতি আর উন্নত সফটওয়্যারের ওপর নানা বিধিনিষেধ বদলেছে। প্রতিবার একই ছক দেখা যায়: নিয়ম আসে, কোম্পানি বিকল্প পথ খোঁজে (যেমন কম উন্নত প্রযুক্তির পণ্য বানানো), সরকার সেই ফাঁক বন্ধ করে নতুন নিয়ম আনে। আজকের খবরে TSMC-র অবস্থা এই চক্রেরই অংশ। কোম্পানিকে তাই শুধু বর্তমান নিয়ম নয়, নিয়ম বদলের সম্ভাবনাও ব্যবসার পরিকল্পনায় ধরতে হয়।",
+   "## কোম্পানি কীভাবে সামলায়",
+   "বুদ্ধিমান ম্যানেজমেন্ট কয়েকটি কৌশল নেয়। এক, গ্রাহক ও বাজার ছড়িয়ে রাখা, যাতে একটি দেশের ওপর নির্ভরতা কম থাকে। দুই, আইনি ও compliance দল শক্তিশালী করা, যাতে নিয়ম বদলালে দ্রুত সাড়া দেওয়া যায়। তিন, scenario planning: সবচেয়ে খারাপ পরিস্থিতিতে আয় কত কমবে, তার হিসাব আগে থেকে করে রাখা। চার, বিকল্প সরবরাহকারী ও উৎপাদন-স্থান খোঁজা। এই প্রতিটি কৌশল খরচ বাড়ায়, কিন্তু হঠাৎ ধাক্কার ক্ষতি কমায়। এটাই ঝুঁকি-ব্যবস্থাপনার মূল কথা: কিছু নিশ্চিত খরচ দিয়ে বড় অনিশ্চিত ক্ষতি এড়ানো।",
+   "## বাজারের সঙ্গে সম্পর্ক",
+   "আজকের বাজার-খবরও মিলিয়ে দেখো। বৃহস্পতিবার S&P 500 টানা ষষ্ঠ দিন পড়েছে, Dow 1,100 পয়েন্টের বেশি কমেছে। একই সময় Anthropic-এর রেকর্ড IPO-তে AI খাতে বিপুল অর্থ ঢুকছে। AI-র মূল চালিকাশক্তি উন্নত চিপ, আর সেই চিপের জোগান ও বাজার export controls-এর মতো নীতির ওপর নির্ভর করে। তাই বিনিয়োগকারীরা শুধু কোম্পানির আয় নয়, রাজনৈতিক ও নিয়ন্ত্রক ঝুঁকিও দামের অংশ হিসেবে ধরেন।",
+   "## BBA ছাত্রছাত্রীদের জন্য ব্যবহারিক শিক্ষা",
+   "যেকোনো কোম্পানি বিশ্লেষণ করার সময় তিনটি প্রশ্ন করো: এর আয়ের কত অংশ কোন দেশ থেকে আসে? সরবরাহ শৃঙ্খলে কোথায় একক-নির্ভরতা (single point of failure) আছে? আর সরকারি নিয়ম বদলালে কোন অংশ সবচেয়ে ঝুঁকিতে? ইন্টারভিউ বা case discussion-এ এই কাঠামো ব্যবহার করলে তোমার উত্তর শুধু খবর-নির্ভর না হয়ে বিশ্লেষণধর্মী হবে। আর মনে রেখো, নীতি-ঝুঁকি (policy risk) আর বিবিধ ঝুঁকি কমাতে diversification, অর্থাৎ বাজার ও সরবরাহকারী ছড়িয়ে রাখাই সবচেয়ে সরল কৌশল।"
+  ],
+  "takeaways": [
+   "Export controls পণ্য বা প্রযুক্তি কাকে বিক্রি করা যাবে তা সীমিত করে; tariff-এর মতো শুধু দাম নয়, প্রবেশাধিকারও বদলায়।",
+   "এতে কোম্পানির আয়, সরবরাহ শৃঙ্খল আর compliance খরচে ঝুঁকি তৈরি হয়।",
+   "কোম্পানি বিশ্লেষণে আয়ের ভৌগোলিক অংশ, একক-নির্ভরতা আর নীতি-ঝুঁকি দেখো; diversification ঝুঁকি কমায়।"
+  ]
+ },
+ "quiz": [
+  {
+   "q": "বৃহস্পতিবার S&P 500 কত পয়েন্ট (কত শতাংশ) পড়েছে?",
+   "options": [
+    "প্রায় 148 পয়েন্ট (2%)",
+    "প্রায় 50 পয়েন্ট (0.5%)",
+    "প্রায় 400 পয়েন্ট (5%)",
+    "বেড়েছে"
+   ],
+   "answer": 0,
+   "explain": "S&P 500 147.80 পয়েন্ট (2%) পড়ে 7,175.83-এ বন্ধ হয়, টানা ষষ্ঠ লোকসান।"
+  },
+  {
+   "q": "Anthropic-এর IPO দাম কত ছিল, আর প্রথম দিনের ক্লোজিং কত?",
+   "options": [
+    "$70; $60",
+    "$78; $80",
+    "$83; $97.17",
+    "$111.50; $83"
+   ],
+   "answer": 2,
+   "explain": "IPO দাম $83, প্রথম দিন $97.17-তে বন্ধ (প্রায় 17% ওপরে); $111.50 ছিল খোলার দাম।"
+  },
+  {
+   "q": "Export controls ও tariff-এর মূল পার্থক্য কী?",
+   "options": [
+    "Tariff প্রবেশাধিকার সীমিত করে, export control শুধু দাম বাড়ায়",
+    "দুটো একই",
+    "Export control পণ্য বা প্রযুক্তি কাকে বিক্রি হবে তা সীমিত করে, tariff দাম বাড়ায়",
+    "দুটোই শুধু ভোক্তার কর"
+   ],
+   "answer": 2,
+   "explain": "Export control বিক্রির অনুমতি/পরিমাণ সীমিত করে, tariff আমদানির ওপর কর বসিয়ে দাম বাড়ায়।"
+  },
+  {
+   "q": "Walmart FY27-এর adjusted EPS পূর্বাভাস কত করেছে?",
+   "options": [
+    "$2.80–$2.87",
+    "$2.84–$2.89",
+    "$3.00–$3.10",
+    "$2.70–$2.80"
+   ],
+   "answer": 1,
+   "explain": "আগের $2.80–$2.87 থেকে বাড়িয়ে $2.84–$2.89।"
+  },
+  {
+   "q": "সুদ বাড়ার আশঙ্কায় সোনার দাম চাপে পড়ে কেন?",
+   "options": [
+    "সোনা সুদ দেয় বলে",
+    "সোনা কোনো সুদ দেয় না, তাই সুদ বাড়লে opportunity cost বাড়ে",
+    "সোনার জোগান বেড়ে যায় বলে",
+    "সোনা শেয়ারের মতো লভ্যাংশ দেয়"
+   ],
+   "answer": 1,
+   "explain": "সোনা সুদ দেয় না; সুদ বাড়লে এটি ধরে রাখার opportunity cost বাড়ে, তাই দাম চাপে পড়ে।"
+  }
+ ],
+ "caseStudy": {
+  "week": "2026-W47",
+  "weekLabel": "১৬–২২ নভেম্বর ২০২৬",
+  "company": "Zara (Inditex)",
+  "title": "Zara কীভাবে ডিজাইন থেকে দোকানে পৌঁছায় মাত্র কয়েক সপ্তাহে",
+  "concept": "Vertical Integration আর Supply Chain Responsiveness",
+  "intro": "1975 সালে Amancio Ortega স্পেনের A Coruña শহরে প্রথম Zara দোকান খোলেন। পরে এটি Inditex গোষ্ঠীর সবচেয়ে বড় ব্র্যান্ড হয়ে ওঠে। অন্য ফ্যাশন কোম্পানি যেখানে মৌসুমের আগে মাসের পর মাস আগে থেকে পরিকল্পনা করে, Zara সেখানে বাজারে কী চলছে তা দেখে দ্রুত নতুন ডিজাইন বানাতে পারে।",
+  "sections": [
+   {
+    "h": "কী করেছিল",
+    "p": "Zara নিজের ডিজাইন, কাটিং আর প্রধান উৎপাদনের একটি বড় অংশ নিজের নিয়ন্ত্রণে রাখে, যার বড় অংশ সদর দপ্তরের কাছে স্পেন ও আশেপাশের দেশে। দোকানগুলো কোন পোশাক বিক্রি হচ্ছে তার তথ্য নিয়মিত কেন্দ্রে পাঠায়, আর সেই অনুযায়ী ছোট ছোট batch-এ নতুন পোশাক বানিয়ে দোকানে পাঠানো হয়। Zara বিজ্ঞাপনে তুলনামূলকভাবে কম খরচ করে এবং দোকানের অবস্থানকেই প্রধান বিজ্ঞাপন হিসেবে ব্যবহার করে।"
+   },
+   {
+    "h": "ফলাফল",
+    "p": "নতুন ডিজাইন খুব অল্প সময়ে দোকানে পৌঁছায়, আর দোকানে নতুন পোশাক ঘনঘন আসে বলে ক্রেতারা বারবার ফিরে আসে। Inditex বিশ্বের সবচেয়ে বড় ফ্যাশন খুচরা কোম্পানিগুলোর একটি হয়েছে।"
+   },
+   {
+    "h": "কেন কাজ করল",
+    "p": "ছোট batch-এ উৎপাদন মানে অবিক্রীত মজুতের ঝুঁকি কম, আর বেশি বিক্রি হওয়া ডিজাইন দ্রুত আবার বানানো যায়। দোকানের তথ্য সরাসরি ডিজাইন দলের কাছে যাওয়ায় অনুমানের বদলে চাহিদার ওপর ভিত্তি করে সিদ্ধান্ত হয়। নিজের নিয়ন্ত্রণে supply chain রাখায় গতি আর মান দুটোই ধরে রাখা সহজ হয়।"
+   },
+   {
+    "h": "ঝুঁকি আর সমালোচনা",
+    "p": "কাছাকাছি উৎপাদনে শ্রম খরচ বেশি হয়, তাই মুনাফার margin-এ চাপ থাকে। Fast fashion মডেলকে পরিবেশ আর বর্জ্যের কারণে সমালোচনা সইতে হয়েছে, আর সরবরাহকারী কারখানার শ্রমিকদের কাজের পরিবেশ নিয়েও অতীতে প্রশ্ন উঠেছে। অতিরিক্ত চাহিদার পূর্বাভাস ভুল হলে মজুত জমার ঝুঁকিও থেকে যায়।"
+   }
+  ],
+  "lesson": "গতি আর তথ্য প্রতিযোগিতার বড় অস্ত্র: গ্রাহকের চাহিদা দ্রুত জেনে দ্রুত সাড়া দিতে পারলে মজুতের ঝুঁকি কমে আর বিক্রি বাড়ে। তবে এর জন্য supply chain-এর ওপর নিয়ন্ত্রণ আর নৈতিক দায়িত্ব দুটোই সামলাতে হয়।",
+  "question": "তোমার পছন্দের কোনো ব্র্যান্ডের জন্য কি Zara-র মতো ছোট batch আর দ্রুত সাড়ার মডেল কাজ করবে? কোন পণ্যে করবে না, আর কেন?"
+ },
+ "en": {
+  "dateLabel": "Friday, 20 November 2026",
+  "news": [
+   {
+    "id": "n1",
+    "category": "Markets",
+    "title": "Wall Street slumps: Dow sheds over 1,100 points to fall below 50,000, S&P 500 loses for a sixth straight day",
+    "summary": "On Thursday the S&P 500 fell 147.80 points (2%) to close at 7,175.83, its sixth straight loss and the longest streak since 2024. The Dow dropped about 1,101 points to 49,097, slipping below 50,000, and the Nasdaq fell about 2.3%. Futures were up more than 1% before the bell, but selling built through the day and indexes closed at the lows. More than 90% of S&P 500 stocks fell, and the index is now 8.2% below its record.",
+    "why": "A long losing streak and broad selling show how market sentiment works and how a correction can build.",
+    "source": {
+     "name": "Yahoo Finance (AP)",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nov-19-221002368.html"
+    }
+   },
+   {
+    "id": "n2",
+    "category": "IPO",
+    "title": "Anthropic debuts on Nasdaq: closes first day at $97.17, over 17% above its IPO price",
+    "summary": "After raising $81.3 billion in the largest IPO in history, Anthropic began trading on Nasdaq on Thursday under the ticker ANT. The IPO price was $83, above the company's stated $70–$78 range. Shares opened at $111.50 and closed at $97.17, more than 17% above the IPO price. Even with the broad market sell-off, the debut gave the tech sector a short-term lift.",
+    "why": "A live example of IPO pricing, the first-day listing gain and how demand and supply set prices.",
+    "source": {
+     "name": "CBC News",
+     "url": "https://www.cbc.ca/news/business/anthropic-first-day-trading-9.7428367"
+    }
+   },
+   {
+    "id": "n3",
+    "category": "Companies",
+    "title": "Walmart beats estimates slightly and raises its full-year outlook",
+    "summary": "Walmart reported third-quarter adjusted EPS of 65 cents, above the 62–64 cents it guided in August. Global e-commerce sales rose 17% and the advertising business grew 25%. It raised its FY27 adjusted EPS outlook from $2.80–$2.87 to $2.84–$2.89, and net sales growth is now expected at 4.9%–5.2%. The CEO said Walmart is working to keep prices low despite higher diesel costs.",
+    "why": "Shows why earnings guidance matters, and why a giant retailer's results are a read on consumer demand.",
+    "source": {
+     "name": "CNBC",
+     "url": "https://www.cnbc.com/2026/11/19/walmart-wmt-q3-2026-earnings.html"
+    }
+   },
+   {
+    "id": "n4",
+    "category": "Trade policy",
+    "title": "New US export rules push TSMC to tighten limits on Chinese chip designers",
+    "summary": "According to Reuters, TSMC has tightened controls on Chinese chip designers after new US Commerce Department rules took effect on Thursday. TSMC used to check chip designs' technical features to see whether they fell outside export controls, and that route is now closed. Orders on 16-nanometre or smaller processes must be halted without US export licences, and Samsung has also suspended some shipments.",
+    "why": "A clear case of export controls, supply-chain risk and how trade policy reshapes business.",
+    "source": {
+     "name": "Reuters (via WHBL)",
+     "url": "https://whbl.com/2026/11/19/tsmc-tightens-china-ai-chip-curbs-as-new-us-rules-close-manufacturing-loophole-sources-say/"
+    }
+   },
+   {
+    "id": "n5",
+    "category": "India",
+    "title": "Sensex jumps nearly 990 points to 83,021, Nifty ends at 25,514; rupee firms for a fourth session",
+    "summary": "The BSE Sensex rose 989.94 points (1.21%) to 83,021.75, and the NSE Nifty 50 gained 286.35 points (1.14%) to 25,514.30. The Nifty Auto index led with a gain of more than 4%, while Nifty IT fell 1.11%. Nifty Bank hit a fresh high of 63,063 in the session. On foreign inflows the rupee gained 5 paise to 93.36 per dollar (provisional close).",
+    "why": "A good illustration of how foreign portfolio inflows move both the stock market and the exchange rate.",
+    "source": {
+     "name": "Business Standard",
+     "url": "https://www.business-standard.com/amp/markets/news/stock-market-live-november-19-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-mahanadi-coalfields-ipo-today-126111900101_1.html"
+    }
+   },
+   {
+    "id": "n6",
+    "category": "Central banks",
+    "title": "Bank of Japan's Ueda says rate hikes will continue, flags worry over weak yen",
+    "summary": "Governor Kazuo Ueda told parliament on Thursday that the BOJ will keep raising rates and played down recent soft consumption data as temporary. In a Reuters poll, 61 of 71 economists (86%) expect a 25 bps hike to 1.50% at the December 17–18 meeting. The yen is back near 160 per dollar even after authorities spent nearly $100 billion of reserves defending it. Japan's Q3 GDP stalled.",
+    "why": "Shows how monetary policy divergence (Fed vs BOJ) drives currency values.",
+    "source": {
+     "name": "Yahoo Finance",
+     "url": "https://finance.yahoo.com/economy/policy/articles/boj-governor-ueda-says-financial-013529504.html"
+    }
+   },
+   {
+    "id": "n7",
+    "category": "Commodities",
+    "title": "Brent steady at $91.98 as Hormuz tanker disruptions offset surplus fears",
+    "summary": "Per Reuters, Brent settled up 3 cents at $91.98 a barrel on Thursday, while WTI slipped 5 cents to $83.21, its lowest since 26 August. Tanker disruptions in the Strait of Hormuz are holding prices up, but rising US crude supply weighs on them. Bloomberg's headline says oil is set for a third straight weekly drop.",
+    "why": "A classic supply-and-demand case: a supply shock pulling one way, a surplus pulling the other.",
+    "source": {
+     "name": "Reuters (via Investing.com)",
+     "url": "https://au.investing.com/news/commodities-news/oil-prices-steady-as-supply-surplus-softens-sentiment-though-gulf-war-supports-4782046"
+    }
+   },
+   {
+    "id": "n8",
+    "category": "Commodities",
+    "title": "Gold near a 14-month low as hawkish Fed minutes lift the dollar",
+    "summary": "Gold ended Wednesday down about 2.6% at $3,753.42 and on Thursday dipped to about $3,693 in Asian trade, its lowest since September 2025. Midday it traded near $3,721. Rate-hike expectations and a stronger dollar weigh on gold because it pays no interest.",
+    "why": "To understand opportunity cost and how a safe-haven asset behaves, link gold to interest rates.",
+    "source": {
+     "name": "Yahoo Finance",
+     "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-thursday-november-19-2026-gold-price-opened-at-the-lowest-level-in-14-months-122258391.html"
+    }
+   }
+  ],
+  "market": {
+   "asOf": "Close of Thursday, 19 November 2026 (gold: midday level; USD/INR provisional close)",
+   "items": [
+    {
+     "name": "S&P 500",
+     "region": "US",
+     "value": "7,175.83",
+     "change": "-2.02%",
+     "dir": "down"
+    },
+    {
+     "name": "Dow Jones",
+     "region": "US",
+     "value": "49,097.06",
+     "change": "-2.19%",
+     "dir": "down"
+    },
+    {
+     "name": "Nasdaq",
+     "region": "US",
+     "value": "23,879.20",
+     "change": "-2.25%",
+     "dir": "down"
+    },
+    {
+     "name": "Sensex",
+     "region": "India",
+     "value": "83,021.75",
+     "change": "+1.21%",
+     "dir": "up"
+    },
+    {
+     "name": "Nifty 50",
+     "region": "India",
+     "value": "25,514.30",
+     "change": "+1.14%",
+     "dir": "up"
+    },
+    {
+     "name": "Brent Crude",
+     "region": "$ per barrel",
+     "value": "$91.98",
+     "change": "+0.03%",
+     "dir": "flat"
+    },
+    {
+     "name": "Gold",
+     "region": "$ per ounce",
+     "value": "~$3,721 (midday)",
+     "change": "",
+     "dir": "flat"
+    },
+    {
+     "name": "USD/INR",
+     "region": "Forex",
+     "value": "93.36",
+     "change": "-0.05%",
+     "dir": "down"
+    }
+   ]
+  },
+  "term": {
+   "term": "Export Controls",
+   "bangla": "Government limits on selling sensitive goods and technology abroad",
+   "definition": "Export controls are government rules that limit which goods, software or technology can be sold to which countries or buyers, often by requiring a licence. The aim is to protect national security or keep advanced technology away from strategic rivals. They directly affect a company's markets, supply chain and revenue.",
+   "example": "After the new US rules took effect, TSMC is halting orders from Chinese chip designers on 16 nm or smaller processes without US licences, and Samsung has suspended some shipments too.",
+   "formula": "",
+   "tip": "In interviews, say export controls are both a security tool and a regulatory risk for firms. Contrast with tariffs: a tariff raises prices, an export control limits quantity and access."
+  },
+  "gd": {
+   "topic": "Are chip export bans justified for security, or do they harm free trade?",
+   "context": "Under the new US rules TSMC and Samsung have halted some shipments to Chinese customers, while markets keep sliding and AI investment is huge.",
+   "for": [
+    "Advanced chips can serve military and surveillance uses, so national security comes first.",
+    "They slow a strategic rival's technology progress.",
+    "A licence system lets the government track usage."
+   ],
+   "against": [
+    "Losing a huge market like China cuts company revenue and R&D funding.",
+    "Bans push rivals to build their own chip industry.",
+    "Broken supply chains raise costs for customers and partner countries too."
+   ]
+  },
+  "blog": {
+   "title": "Export Controls: How Trade Bans Reshape Business",
+   "topic": "International trade",
+   "readMin": 4,
+   "body": [
+    "## Export Controls: How Trade Bans Reshape Business",
+    "Imagine you run a factory that makes complex parts for customers around the world. One day the government says selling to certain countries now needs a licence, and often the licence won't be granted. Your sales, plans and investments change overnight. That is what export controls do.",
+    "## What export controls are",
+    "Export controls are government rules that limit which goods, software or technology can go to which countries or buyers. The usual reasons are national security and keeping advanced technology away from strategic rivals. They differ from tariffs. A tariff raises prices but sales continue. An export control can stop the sale or limit access through licences.",
+    "## The example in today's news",
+    "According to Reuters, new US Commerce Department rules took effect on Thursday. Previously TSMC checked the computing power and technical features of certain Chinese chip designs to see whether they fell outside export controls, and provided manufacturing on that basis. The new rules close that route. Orders on 16 nm or smaller processes now have to stop without US export licences. TSMC has also suspended some previously approved orders, and Samsung has halted some shipments. Reports describe it as closing a manufacturing loophole.",
+    "## Effects on business",
+    "First, revenue risk: a company with many customers in restricted countries can see sales fall suddenly. Second, supply-chain risk: advanced chip manufacturing sits with a handful of firms, so one rule can hit the whole chain. Third, compliance cost: tracking who buys and where goods go needs teams, technology and legal spend. Fourth, long-term backlash: restrictions can push the rival country to build its own industry, creating new competition later.",
+    "## Both sides of the argument",
+    "Supporters say advanced chips can power military and surveillance systems, so security outweighs economic gain. Critics say companies lose a huge market, have less money for research, and trade relations sour. In economic terms, national security is a kind of externality set against the efficiency and gains of free trade. The policy debate is about which side weighs more.",
+    "## Lessons from earlier episodes",
+    "Rules like this are not new in technology. For years governments have changed restrictions on semiconductors, telecom equipment and advanced software. The pattern repeats: a rule arrives, companies look for alternatives (for example, building less advanced products), and the government closes the gap with a new rule. TSMC's position in today's news is part of that cycle. Firms therefore have to plan not only for current rules but for the chance that rules change.",
+    "## How companies cope",
+    "Smart management uses a few tactics. One, spread customers and markets so no single country dominates. Two, strengthen legal and compliance teams so the firm can react quickly when rules change. Three, scenario planning: work out in advance how much revenue falls in the worst case. Four, find alternative suppliers and production sites. Each tactic adds cost but reduces the damage of a sudden shock. That is the core of risk management: pay some certain costs to avoid a large uncertain loss.",
+    "## Link to the markets",
+    "Look at today's market news too. The S&P 500 fell for a sixth straight day and the Dow dropped more than 1,100 points. At the same time Anthropic's record IPO shows huge money flowing into AI. AI runs on advanced chips, and the supply and market for those chips depend on policies like export controls. So investors price in political and regulatory risk alongside earnings.",
+    "## A practical lesson for BBA students",
+    "When analysing any company, ask three questions: what share of revenue comes from which country? Where is the single point of failure in the supply chain? And if rules change, which part is most exposed? Using this framework in interviews or case discussions makes your answer analytical rather than just a news summary. And remember that diversification, spreading markets and suppliers, is the simplest way to reduce policy risk."
+   ],
+   "takeaways": [
+    "Export controls limit who can buy goods or technology; unlike a tariff they change access, not just price.",
+    "They create risk to revenue, supply chains and compliance costs.",
+    "When analysing a firm, check revenue by country, single-point dependencies and policy risk; diversification reduces it."
+   ]
+  },
+  "quiz": [
+   {
+    "q": "How much did the S&P 500 fall on Thursday?",
+    "options": [
+     "About 148 points (2%)",
+     "About 50 points (0.5%)",
+     "About 400 points (5%)",
+     "It rose"
+    ],
+    "answer": 0,
+    "explain": "The S&P 500 fell 147.80 points (2%) to 7,175.83, its sixth straight loss."
+   },
+   {
+    "q": "What was Anthropic's IPO price and its first-day close?",
+    "options": [
+     "$70; $60",
+     "$78; $80",
+     "$83; $97.17",
+     "$111.50; $83"
+    ],
+    "answer": 2,
+    "explain": "IPO price $83, first-day close $97.17 (about 17% higher); $111.50 was the opening price."
+   },
+   {
+    "q": "What is the main difference between export controls and tariffs?",
+    "options": [
+     "Tariffs limit access, export controls only raise prices",
+     "They are the same",
+     "Export controls limit who can buy goods/technology; tariffs raise prices",
+     "Both are only consumer taxes"
+    ],
+    "answer": 2,
+    "explain": "Export controls restrict permission or quantity of sales, while a tariff taxes imports and raises prices."
+   },
+   {
+    "q": "What is Walmart's new FY27 adjusted EPS outlook?",
+    "options": [
+     "$2.80–$2.87",
+     "$2.84–$2.89",
+     "$3.00–$3.10",
+     "$2.70–$2.80"
+    ],
+    "answer": 1,
+    "explain": "Raised from $2.80–$2.87 to $2.84–$2.89."
+   },
+   {
+    "q": "Why does gold come under pressure when rate hikes are expected?",
+    "options": [
+     "Because gold pays interest",
+     "Gold pays no interest, so higher rates raise its opportunity cost",
+     "Gold supply increases",
+     "Gold pays dividends like shares"
+    ],
+    "answer": 1,
+    "explain": "Gold pays no interest; higher rates raise the opportunity cost of holding it, so its price comes under pressure."
+   }
+  ],
+  "caseStudy": {
+   "week": "2026-W47",
+   "weekLabel": "16 – 22 November 2026",
+   "company": "Zara (Inditex)",
+   "title": "How Zara gets a design from drawing board to store in just weeks",
+   "concept": "Vertical Integration and Supply Chain Responsiveness",
+   "intro": "In 1975 Amancio Ortega opened the first Zara store in A Coruña, Spain. It grew into the biggest brand of the Inditex group. While other fashion companies plan collections many months before a season, Zara watches what is selling and quickly makes new designs.",
+   "sections": [
+    {
+     "h": "What it did",
+     "p": "Zara keeps design, cutting and a large part of key production under its own control, much of it in Spain and nearby countries close to headquarters. Stores regularly send data on what is selling, and new items are made in small batches accordingly and shipped to stores. Zara spends relatively little on advertising and uses its prime store locations as its main advertisement."
+    },
+    {
+     "h": "The result",
+     "p": "New designs reach stores in a very short time, and because fresh items arrive often, shoppers come back again and again. Inditex became one of the world's largest fashion retailers."
+    },
+    {
+     "h": "Why it worked",
+     "p": "Small batches mean less unsold stock, and designs that sell well can be quickly made again. Store data goes straight to the design team, so decisions rest on demand rather than guesses. Owning the supply chain makes it easier to keep both speed and quality."
+    },
+    {
+     "h": "Risks and criticism",
+     "p": "Producing close to home costs more in labour, which presses on profit margins. The fast-fashion model has faced criticism over environmental impact and waste, and questions have been raised in the past about working conditions at supplier factories. If demand forecasts are wrong, unsold stock can still build up."
+    }
+   ],
+   "lesson": "Speed and information are powerful competitive weapons: learning customer demand quickly and responding fast lowers inventory risk and lifts sales. But it requires managing both control of the supply chain and ethical responsibility.",
+   "question": "Would Zara's small-batch, fast-response model work for a brand you like? For which products would it not work, and why?"
+  }
+ }
+}

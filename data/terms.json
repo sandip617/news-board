@@ -1,6 +1,23 @@
 {
  "terms": [
   {
+   "date": "2026-11-20",
+   "term": "Export Controls",
+   "bangla": "রপ্তানি নিয়ন্ত্রণ: সংবেদনশীল পণ্য ও প্রযুক্তির বিদেশে বিক্রিতে সরকারি বিধিনিষেধ",
+   "definition": "Export controls হল সরকারের এমন নিয়ম, যা কিছু পণ্য, সফটওয়্যার বা প্রযুক্তি কোন দেশে, কাকে বিক্রি করা যাবে তা সীমিত করে (প্রায়ই licence বাধ্যতামূলক করে)। উদ্দেশ্য জাতীয় নিরাপত্তা রক্ষা বা কৌশলগত প্রতিযোগীর হাতে উন্নত প্রযুক্তি যাওয়া ঠেকানো। এতে কোম্পানির বাজার, সরবরাহ শৃঙ্খল আর আয়ের ওপর সরাসরি প্রভাব পড়ে।",
+   "example": "নতুন মার্কিন নিয়ম কার্যকর হওয়ার পর TSMC 16 ন্যানোমিটার বা ছোট প্রযুক্তিতে চীনা চিপ ডিজাইনারদের অর্ডার US licence ছাড়া থামাচ্ছে, আর Samsung-ও কিছু চালান স্থগিত করেছে।",
+   "formula": "",
+   "tip": "ইন্টারভিউতে বলো export controls একই সঙ্গে নিরাপত্তার হাতিয়ার আর কোম্পানির জন্য regulatory risk। Tariff (শুল্ক) থেকে এর পার্থক্য: tariff দাম বাড়ায়, export control পরিমাণ ও প্রবেশাধিকার সীমিত করে।",
+   "en": {
+    "term": "Export Controls",
+    "bangla": "Government limits on selling sensitive goods and technology abroad",
+    "definition": "Export controls are government rules that limit which goods, software or technology can be sold to which countries or buyers, often by requiring a licence. The aim is to protect national security or keep advanced technology away from strategic rivals. They directly affect a company's markets, supply chain and revenue.",
+    "example": "After the new US rules took effect, TSMC is halting orders from Chinese chip designers on 16 nm or smaller processes without US licences, and Samsung has suspended some shipments too.",
+    "formula": "",
+    "tip": "In interviews, say export controls are both a security tool and a regulatory risk for firms. Contrast with tariffs: a tariff raises prices, an export control limits quantity and access."
+   }
+  },
+  {
    "date": "2026-11-19",
    "term": "Monetary Tightening",
    "bangla": "কড়া মুদ্রানীতি: সুদ বাড়িয়ে টাকার জোগান আর চাহিদা কমানো",

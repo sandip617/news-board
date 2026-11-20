@@ -1,6 +1,13 @@
 {
- "latest": "2026-11-19",
+ "latest": "2026-11-20",
  "days": [
+  {
+   "date": "2026-11-20",
+   "label": "২০ নভেম্বর ২০২৬, শুক্রবার",
+   "labelEn": "Friday, 20 November 2026",
+   "headline": "Wall Street-এ ধস: Dow 1,100 পয়েন্ট নিচে; Anthropic-এর অভিষেকে IPO দামের 17% ওপরে বন্ধ",
+   "headlineEn": "Wall Street slumps, Dow down over 1,100 points; Anthropic closes 17% above IPO price on debut"
+  },
   {
    "date": "2026-11-19",
    "label": "১৯ নভেম্বর ২০২৬, বৃহস্পতিবার",
