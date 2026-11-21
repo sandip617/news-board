@@ -1,0 +1,524 @@
+{
+ "date": "2026-11-21",
+ "dateLabel": "২১ নভেম্বর ২০২৬, শনিবার",
+ "edition": 1,
+ "updatedAt": "2026-11-21T07:05:00+05:30",
+ "news": [
+  {
+   "id": "n1",
+   "category": "বাজার",
+   "title": "Wall Street-এ ধস: S&P 500 3.70% নিচে, Dow ও S&P correction-এ, Nasdaq-এর বছরের লাভ মুছে গেল",
+   "summary": "শুক্রবার S&P 500 3.70% (265.44 পয়েন্ট) পড়ে 6,910.39-এ বন্ধ হয়েছে। এটি টানা সপ্তম লোকসানের দিন, আর সপ্তাহে পতন 8.6%, যা এপ্রিল 2025-এর পর সবচেয়ে খারাপ সপ্তাহ। Dow 949.73 পয়েন্ট (1.93%) পড়ে 48,147.33-এ নেমেছে, রেকর্ড স্তর থেকে প্রায় 10% নিচে। Nasdaq Composite 5.28% পড়ে 22,617.73-এ গিয়ে 2026 সালের সব লাভ মুছে ফেলেছে। S&P 500-এ পতনশীল শেয়ার ছিল 376টি, বাড়ল মাত্র 123টি।",
+   "why": "একই সপ্তাহে ধারাবাহিক পতন আর বিস্তৃত বিক্রি দেখায় বাজারের মেজাজ (market sentiment) কত দ্রুত বদলায়। Correction (রেকর্ড থেকে 10% পতন) ধারণাটা এখানে সরাসরি দেখা যাচ্ছে।",
+   "source": {
+    "name": "UPI",
+    "url": "https://www.upi.com/Top_News/US/2026/11/20/stocks-dow-jones-nasdaq-correction-territory/1061795214998/"
+   }
+  },
+  {
+   "id": "n2",
+   "category": "প্রযুক্তি",
+   "title": "Nvidia 14% পড়ল, AMD ও Broadcom 13%-এর বেশি; Nvidia-কে নিয়ে SEC তদন্তের খবর",
+   "summary": "AI আর চিপ শেয়ার শুক্রবারের পতনে নেতৃত্ব দিয়েছে। Nvidia প্রায় 14% পড়েছে, আর AMD ও Broadcom প্রতিটি 13%-এর বেশি কমেছে। Axios-এর মতে কারণ হল AI নিয়ে আত্মবিশ্বাস কমা, ঋণ কঠিন হয়ে আসা, আর বিশ্বের সবচেয়ে গুরুত্বপূর্ণ চিপ কোম্পানির ঘিরে বিতর্ক। রিপোর্ট অনুযায়ী মার্কিন SEC নাকি Nvidia-র তথ্য প্রকাশ (disclosure) নিয়ে তদন্ত করছে, তবে SEC বা Nvidia এটি নিশ্চিত করেনি। CEO Jensen Huang-এর পদত্যাগের পর কোম্পানিটি এমনিতেই চাপে ছিল।",
+   "why": "কোনো একটি কোম্পানির ওপর নির্ভরতা আর নিয়ন্ত্রকের তদন্ত (regulatory risk) কীভাবে শেয়ারের দাম ও পুরো খাতকে নাড়া দেয়, তা বোঝার ভালো উদাহরণ।",
+   "source": {
+    "name": "Axios",
+    "url": "https://www.axios.com/2026/11/20/anthropic-ipo-nvidia-ai-tech-selloff"
+   }
+  },
+  {
+   "id": "n3",
+   "category": "IPO",
+   "title": "IPO-র পর প্রথম পূর্ণ দিনে Anthropic প্রায় 8.5% নেমে $88.91-এ, IPO দাম $83-এর সামান্য ওপরে",
+   "summary": "Anthropic-এর শেয়ার তালিকাভুক্তির পর প্রথম পূর্ণ লেনদেনের দিনে প্রায় 8.5% পড়ে $88.91-এ বন্ধ হয়েছে। অভিষেকের দিনের ক্লোজিং ছিল $97.17, যা $83 IPO দামের 17% ওপরে। অর্থাৎ শেয়ার এখনও IPO দামের ওপরে, কিন্তু অভিষেকের উত্তেজনা অনেকটা কমেছে। বাজারজুড়ে AI বিক্রির চাপ থামাতে এই IPO পারেনি।",
+   "why": "IPO দামের ওপরে বন্ধ হওয়া মানেই দীর্ঘমেয়াদি সাফল্য নয়। প্রথম দিনের লাভ (listing gain) আর বাজারের সামগ্রিক মেজাজের সম্পর্ক এখান থেকে বোঝা যায়।",
+   "source": {
+    "name": "Quartz",
+    "url": "https://qz.com/anthropic-stock-slips-record-ipo-ai-selloff-nvidia-amd-112026"
+   }
+  },
+  {
+   "id": "n4",
+   "category": "ভারতের বাজার",
+   "title": "Sensex 898 পয়েন্ট বেড়ে 83,919.71-এ, Nifty 25,800 ছাড়াল; ব্যাংক ও IT শেয়ারে জোর",
+   "summary": "শুক্রবার Sensex 897.96 পয়েন্ট (1.08%) বেড়ে 83,919.71-এ আর Nifty 50 286.30 পয়েন্ট (1.12%) বেড়ে 25,800.60-এ বন্ধ হয়েছে। দিনের শুরুতে Sensex 463 পয়েন্টের বেশি পড়েছিল, পরে ব্যাংক ও IT শেয়ারের কেনাকাটায় ঘুরে দাঁড়ায়। Nifty Bank 2.49% আর Nifty IT 1.30% বেড়েছে। একটি রিপোর্ট অনুযায়ী নভেম্বরে এ পর্যন্ত বিদেশি পোর্টফোলিও বিনিয়োগকারীরা (FPI) রেকর্ড $12.21 বিলিয়ন ভারতীয় শেয়ারে ঢেলেছেন।",
+   "why": "যখন আমেরিকার বাজার পড়ছে, তখন ভারত কেন বিদেশি টাকা টানছে, তা মূলধন প্রবাহ (capital flows) আর FPI-এর ধারণা দিয়ে বোঝা যায়।",
+   "source": {
+    "name": "Kotak Neo",
+    "url": "https://www.kotakneo.com/news/market-news/closing-bell-20-november-2026-sensex-nifty-rally-on-banking-it-stocks-and-fii-buying/"
+   }
+  },
+  {
+   "id": "n5",
+   "category": "কেন্দ্রীয় ব্যাংক",
+   "title": "Fed-এর Goolsbee: AI data centre-এর বিনিয়োগ 'পুরনো ধাঁচের overheating'-এর মতো, 25 bps বৃদ্ধি যথেষ্ট না-ও হতে পারে",
+   "summary": "Chicago Fed-এর প্রেসিডেন্ট Austan Goolsbee এ মাসের শুরুতে বলেছেন, AI data centre-এর বিনিয়োগের ঢেউ 'পুরনো ধাঁচের চাহিদার overheating'-এর মতো দেখাচ্ছে। তিনি সতর্ক করেছেন, চাহিদা বেশি গরম থাকলে 25 basis point সুদ বৃদ্ধি 'সম্ভবত যথেষ্ট হবে না'। Fed-এর পরবর্তী সিদ্ধান্ত 9 ডিসেম্বর। 10 নভেম্বরের একটি রিপোর্টে ডিসেম্বরে সুদ বাড়ানোর সম্ভাবনা ছিল 84%। Goolsbee 2026-এ ভোটাধিকারী সদস্য নন।",
+   "why": "মুদ্রানীতি (monetary policy) আর চাহিদা-জনিত মূল্যবৃদ্ধি (demand-pull inflation) কীভাবে শেয়ারবাজারের সঙ্গে জড়িয়ে যায়, এটা তার চমৎকার উদাহরণ।",
+   "source": {
+    "name": "24/7 Wall St.",
+    "url": "https://247wallst.com/investing/2026/11/10/feds-goolsbee-says-ai-data-centers-look-like-old-fashioned-overheating/"
+   }
+  },
+  {
+   "id": "n6",
+   "category": "জ্বালানি",
+   "title": "নভেম্বরে Brent প্রায় 20% পড়েছে; শুক্রবার দাম প্রায় $89–$93-এর মধ্যে, Iran নিয়ে নতুন ঝুঁকি",
+   "summary": "Trading Economics জানাচ্ছে, নভেম্বরে এ পর্যন্ত Brent crude প্রায় 20% পড়েছে, কারণ বিশ্ব সরবরাহ ফের স্বাভাবিক হওয়ার ইঙ্গিত মিলছে। শুক্রবার বিভিন্ন সূত্রে দাম ছিল প্রায় $89 থেকে $93 প্রতি ব্যারেলের মধ্যে, সময় ও ডেটা-ফিডের পার্থক্যের কারণে। একই সঙ্গে প্রেসিডেন্ট Trump Iran-এর বিরুদ্ধে আরও সামরিক হামলার কথা ভাবছেন বলে খবর, যা ভূ-রাজনৈতিক ঝুঁকি বাড়িয়েছে।",
+   "why": "তেলের দাম সরবরাহ (supply) আর ভূ-রাজনৈতিক ঝুঁকি, দুটোতেই চলে। ভারতের মতো আমদানিকারক দেশের মুদ্রাস্ফীতি আর চলতি খাতের ঘাটতিতে এর সরাসরি প্রভাব পড়ে।",
+   "source": {
+    "name": "Trading Economics",
+    "url": "https://tradingeconomics.com/commodity/brent-crude-oil"
+   }
+  },
+  {
+   "id": "n7",
+   "category": "মুদ্রা",
+   "title": "রুপি নভেম্বরে এশিয়ার সেরা মুদ্রা, 18 নভেম্বর 93.44-এ বন্ধ",
+   "summary": "18 নভেম্বর রুপি 7 পয়সা বেড়ে ডলারের বিপরীতে 93.44-এ বন্ধ হয়েছে। তেলের দাম কমা রুপিকে সমর্থন দিয়েছে, আর শক্তিশালী ডলার, ভূ-রাজনৈতিক উত্তেজনা আর দেশীয় শেয়ারবাজারের দুর্বলতা লাভ সীমিত রেখেছে। আগের দিন রুপি 43 পয়সা বেড়ে সাত মাসের সর্বোচ্চ 93.51-এ পৌঁছেছিল। চলতি নভেম্বরে রুপি এশিয়ার সবচেয়ে ভালো-পারফর্ম করা মুদ্রা, প্রায় 2% শক্তিশালী হয়েছে। (এটি 18 নভেম্বরের ক্লোজিং, কারণ 20 নভেম্বরের দর যাচাই করা যায়নি।)",
+   "why": "বিনিময় হার (exchange rate) বিদেশি বিনিয়োগ আর তেলের দামের সঙ্গে কীভাবে জড়িয়ে থাকে, এই খবরে তা দেখা যায়।",
+   "source": {
+    "name": "HDFC Sky",
+    "url": "https://hdfcsky.com/news/rupee-rises-7-paise-to-close-at-93-44-against-us-dollar"
+   }
+  }
+ ],
+ "market": {
+  "asOf": "২০ নভেম্বর ২০২৬, শুক্রবারের ক্লোজিং (Brent, সোনা ও USD/INR-এর দর যাচাই করা যায়নি, তাই বাদ)",
+  "items": [
+   {
+    "name": "S&P 500",
+    "region": "US",
+    "value": "6,910.39",
+    "change": "-3.70%",
+    "dir": "down"
+   },
+   {
+    "name": "Dow Jones",
+    "region": "US",
+    "value": "48,147.33",
+    "change": "-1.93%",
+    "dir": "down"
+   },
+   {
+    "name": "Nasdaq",
+    "region": "US",
+    "value": "22,617.73",
+    "change": "-5.28%",
+    "dir": "down"
+   },
+   {
+    "name": "Sensex",
+    "region": "ভারত",
+    "value": "83,919.71",
+    "change": "+1.08%",
+    "dir": "up"
+   },
+   {
+    "name": "Nifty 50",
+    "region": "ভারত",
+    "value": "25,800.60",
+    "change": "+1.12%",
+    "dir": "up"
+   }
+  ]
+ },
+ "term": {
+  "term": "Foreign Portfolio Investment (FPI)",
+  "bangla": "বিদেশি পোর্টফোলিও বিনিয়োগ: বিদেশি বিনিয়োগকারীর শেয়ার-বন্ডে বিনিয়োগ, কোম্পানির নিয়ন্ত্রণ ছাড়া",
+  "definition": "FPI হল কোনো দেশের বাইরের বিনিয়োগকারীর সে দেশের শেয়ার, বন্ড বা অন্য আর্থিক সম্পদ কেনা। এতে সাধারণত কোম্পানির ওপর ব্যবস্থাপনার নিয়ন্ত্রণ থাকে না এবং বিনিয়োগ সহজে বিক্রি করে বেরিয়ে যাওয়া যায়। তাই একে প্রায়ই 'গরম টাকা' (hot money) বলা হয়, যা দ্রুত আসে আবার দ্রুত চলেও যায়। FDI-এর মতো কারখানা বা দীর্ঘমেয়াদি মালিকানা এতে থাকে না।",
+  "example": "একটি রিপোর্ট অনুযায়ী নভেম্বরে এ পর্যন্ত বিদেশি পোর্টফোলিও বিনিয়োগকারীরা রেকর্ড $12.21 বিলিয়ন ভারতীয় শেয়ারে ঢেলেছেন, আর শুক্রবার Sensex 898 পয়েন্ট বেড়েছে।",
+  "formula": "",
+  "tip": "ইন্টারভিউতে FPI আর FDI-এর পার্থক্য বলো: FPI স্বল্পমেয়াদি, তরল ও নিয়ন্ত্রণহীন; FDI দীর্ঘমেয়াদি ও নিয়ন্ত্রণসহ। FPI হঠাৎ বেরিয়ে গেলে রুপি আর শেয়ারবাজারে ঝাঁকুনি লাগে।"
+ },
+ "gd": {
+  "topic": "বিদেশি পোর্টফোলিও বিনিয়োগ (FPI) কি ভারতের জন্য আশীর্বাদ, নাকি 'গরম টাকা'-র ঝুঁকি?",
+  "context": "আমেরিকায় AI শেয়ারের ধস চলছে, আর একই সময়ে ভারতের শেয়ারবাজারে বিদেশি টাকা ঢুকছে। একটি রিপোর্টে নভেম্বরে FPI প্রবাহ রেকর্ড $12.21 বিলিয়ন।",
+  "for": [
+   "FPI বাজারে তারল্য (liquidity) বাড়ায় আর শেয়ারের মূল্য নির্ধারণ আরও ভালো করে।",
+   "বিদেশি টাকা রুপিকে শক্তি দেয়; নভেম্বরে রুপি এশিয়ার সেরা মুদ্রা।",
+   "কোম্পানিগুলো সহজে মূলধন তুলতে পারে।"
+  ],
+  "against": [
+   "বিশ্ব পরিস্থিতি বদলালে টাকা হঠাৎ বেরিয়ে গিয়ে বাজার ও রুপিকে ধাক্কা দিতে পারে।",
+   "এটি কারখানা বা কর্মসংস্থান তৈরি করে না, FDI যা করে।",
+   "বিদেশি প্রবাহের ওপর বেশি নির্ভরতা বাজারকে বাইরের ঘটনার কাছে দুর্বল করে।"
+  ]
+ },
+ "blog": {
+  "title": "FPI: বিদেশি 'গরম টাকা' শেয়ারবাজারকে কীভাবে নাড়ায়",
+  "topic": "আন্তর্জাতিক অর্থায়ন",
+  "readMin": 4,
+  "body": [
+   "শুক্রবার আমেরিকায় Nasdaq 5.28% পড়ে গেছে, আর একই দিনে ভারতের Sensex 898 পয়েন্ট বেড়েছে। একটি রিপোর্ট বলছে নভেম্বরে এ পর্যন্ত বিদেশি বিনিয়োগকারীরা রেকর্ড $12.21 বিলিয়ন ভারতীয় শেয়ারে ঢেলেছেন। এই টাকাকে বলা হয় বিদেশি পোর্টফোলিও বিনিয়োগ, সংক্ষেপে FPI। আজ আমরা শূন্য থেকে বুঝব FPI কী, কেন আসে, কেন যায়, আর এর সঙ্গে আমাদের জীবনের সম্পর্ক কী।",
+   "## FPI আসলে কী?",
+   "ধরো, সিঙ্গাপুরের একটি ফান্ড ভারতের Infosys বা HDFC Bank-এর কিছু শেয়ার কিনল। সে কোম্পানির পরিচালনায় অংশ নিচ্ছে না, শুধু শেয়ারের দাম বাড়লে লাভ করতে চায়। এটাই FPI। শেয়ার, বন্ড বা মিউচুয়াল ফান্ডের মতো আর্থিক সম্পদে বিদেশি টাকার বিনিয়োগকে FPI বলে। এতে কোম্পানির ওপর সাধারণত কোনো নিয়ন্ত্রণ থাকে না।",
+   "## FDI থেকে আলাদা কোথায়?",
+   "FDI (Foreign Direct Investment) হল যখন কোনো বিদেশি কোম্পানি ভারতে কারখানা বানায় বা কোনো কোম্পানির বড় অংশের মালিক হয়ে ব্যবস্থাপনায় ভূমিকা রাখে। এটা দীর্ঘমেয়াদি, সহজে তোলা যায় না, আর কর্মসংস্থান তৈরি করে। FPI তার উল্টো: স্বল্পমেয়াদি, কয়েক মিনিটে বিক্রি করা যায়, আর নিয়ন্ত্রণ নেই। এই কারণেই FPI-কে 'গরম টাকা' (hot money) বলা হয়।",
+   "## বিদেশি টাকা কেন ভারতে আসে?",
+   "প্রধানত তিনটি কারণ। এক, প্রত্যাশিত রিটার্ন: যেখানে বিনিয়োগকারী ভালো লাভের সম্ভাবনা দেখেন, সেখানে টাকা যায়। দুই, ঝুঁকির তুলনা: আমেরিকার AI শেয়ার ধসে পড়লে কিছু বিনিয়োগকারী বিকল্প বাজার খোঁজেন, ভারত তাদের একটি গন্তব্য হতে পারে। তিন, মুদ্রার গতি: রুপি শক্তিশালী হলে বিদেশি বিনিয়োগকারীর ডলার-হিসেবে লাভ বাড়ে। নভেম্বরে রুপি এশিয়ার সেরা মুদ্রা, প্রায় 2% শক্তিশালী হয়েছে।",
+   "## আজকের খবরের সঙ্গে সম্পর্ক",
+   "আজকের খবরে দেখা যাচ্ছে Wall Street-এ S&P 500 টানা সপ্তম দিন পড়েছে, আর Nasdaq 2026-এর সব লাভ হারিয়েছে। একই সময়ে Sensex 83,919.71 আর Nifty 25,800.60-এ বন্ধ হয়েছে। অর্থাৎ বিশ্বে ঝুঁকি বাড়লে টাকা সবসময় এক দিকে যায় না, কখনও কখনও এক বাজার থেকে অন্য বাজারে সরে যায়। তবে এটা স্থায়ী নয়।",
+   "## FPI-র ঝুঁকি কোথায়?",
+   "FPI বাজারে তারল্য আনে, কোম্পানিকে মূলধন তুলতে সাহায্য করে এবং দাম নির্ধারণ ভালো করে। কিন্তু একই টাকা হঠাৎ বেরিয়ে গেলে শেয়ারবাজার পড়ে, রুপি দুর্বল হয়, আর আমদানি ব্যয় বাড়ে। Fed-এর সুদ বাড়ানোর সম্ভাবনা (ডিসেম্বরে সিদ্ধান্ত 9 তারিখ) এখানে বড় ভূমিকা রাখে, কারণ আমেরিকায় সুদ বাড়লে সেখানে বিনিয়োগ আকর্ষণীয় হয় আর উদীয়মান বাজার থেকে টাকা ফিরে যেতে পারে।",
+   "## নিজে কীভাবে বিশ্লেষণ করবে?",
+   "কোনো বাজারের খবর পড়লে তিনটি প্রশ্ন করো। প্রথমত, বিদেশি বিনিয়োগকারীরা নিট ক্রেতা না বিক্রেতা? দ্বিতীয়ত, প্রবাহ স্বল্পমেয়াদি গতির (momentum) ওপর দাঁড়িয়ে, না মৌলিক শক্তির ওপর? তৃতীয়ত, দেশের নিজস্ব বিনিয়োগকারী (যেমন SIP-এর মাধ্যমে মিউচুয়াল ফান্ড) কতটা বাজারকে ধরে রাখছে? এই তিনটি উত্তর মিলিয়ে দেখলে ঝুঁকির একটা ধারণা পাবে।",
+   "## একটি সহজ হিসাব",
+   "ধরো, একজন বিদেশি বিনিয়োগকারী 100 ডলার দিয়ে ভারতীয় শেয়ার কিনলেন, যখন 1 ডলার সমান 94 টাকা। তিনি পেলেন 9,400 টাকার শেয়ার। এক মাস পরে শেয়ার 5% বাড়ল, ফলে মূল্য হল 9,870 টাকা। এখন রুপি যদি 93-এ শক্তিশালী হয়, তাহলে 9,870 টাকার ডলার-মূল্য হয় প্রায় 106 ডলার, অর্থাৎ শেয়ারের লাভের সঙ্গে মুদ্রার লাভও যোগ হল। উল্টোটা ঘটলে, রুপি দুর্বল হলে, শেয়ারের লাভ ডলারে কমে যায়। এজন্য FPI-র সিদ্ধান্তে শেয়ারের দাম আর মুদ্রার গতি দুটোই গুরুত্বপূর্ণ।",
+   "## ভারত সরকার ও RBI কী করে?",
+   "যখন বিদেশি টাকা খুব দ্রুত ঢোকে, তখন রুপি হঠাৎ শক্তিশালী হয়ে রপ্তানিকারকদের ক্ষতি করতে পারে। আবার যখন টাকা বেরিয়ে যায়, তখন রুপি দুর্বল হয়। এই ওঠানামা সামলাতে কেন্দ্রীয় ব্যাংক (RBI) বিদেশি মুদ্রার বাজারে হস্তক্ষেপ করতে পারে এবং বিদেশি মুদ্রার রিজার্ভ (forex reserves) ব্যবহার করে। এ কারণেই একটি দেশের রিজার্ভ যত শক্তিশালী, FPI-র হঠাৎ প্রস্থান সামলানোর ক্ষমতাও তত বেশি।",
+   "আরেকটি বিষয় মনে রাখার মতো: FPI শুধু শেয়ারে নয়, সরকারি ও কর্পোরেট বন্ডেও আসে। বন্ডে আসা টাকা সুদের হারের পার্থক্যের ওপর বেশি নির্ভর করে, আর শেয়ারে আসা টাকা কোম্পানির আয়ের প্রত্যাশার ওপর। তাই একই দিনে দুই ধরনের প্রবাহ দুই দিকেও যেতে পারে, আর শুধু একটি সংখ্যা দেখে সিদ্ধান্ত নেওয়া ঠিক নয়।",
+   "## বাস্তব শিক্ষা",
+   "BBA পরীক্ষা বা ইন্টারভিউতে শুধু 'FPI মানে বিদেশি বিনিয়োগ' বললে হবে না। FDI-এর সঙ্গে পার্থক্য, 'গরম টাকা'-র ঝুঁকি আর রুপি-শেয়ারবাজারের সম্পর্ক, এই তিনটি যোগ করে বলো। আর মনে রাখবে, কোনো একটি রিপোর্টের রেকর্ড সংখ্যা নিয়ে বাড়াবাড়ি উত্তেজিত হওয়ার দরকার নেই; একাধিক সূত্রে যাচাই করে তবেই সিদ্ধান্তে এসো।"
+  ],
+  "takeaways": [
+   "FPI হল শেয়ার-বন্ডে বিদেশি বিনিয়োগ, কোম্পানির নিয়ন্ত্রণ ছাড়া; FDI দীর্ঘমেয়াদি ও নিয়ন্ত্রণসহ।",
+   "FPI বাজারে তারল্য আনে, কিন্তু হঠাৎ বেরিয়ে গেলে শেয়ারবাজার ও রুপিতে ঝাঁকুনি লাগে।",
+   "বিদেশি প্রবাহের খবর একাধিক সূত্রে যাচাই করো, আর দেশীয় বিনিয়োগকারীর ভূমিকাও দেখো।"
+  ]
+ },
+ "quiz": [
+  {
+   "q": "শুক্রবার S&P 500 কত শতাংশ পড়ে 6,910.39-এ বন্ধ হয়েছে?",
+   "options": [
+    "1.93%",
+    "3.70%",
+    "5.28%",
+    "8.6%"
+   ],
+   "answer": 1,
+   "explain": "S&P 500 3.70% (265.44 পয়েন্ট) পড়েছে। 1.93% হল Dow-এর পতন, 5.28% Nasdaq-এর, আর 8.6% পুরো সপ্তাহের পতন।"
+  },
+  {
+   "q": "শুক্রবার কোন সূচক 5.28% পড়ে 2026-এর সব লাভ মুছে ফেলেছে?",
+   "options": [
+    "Dow Jones",
+    "S&P 500",
+    "Nasdaq Composite",
+    "Sensex"
+   ],
+   "answer": 2,
+   "explain": "Nasdaq Composite 5.28% পড়ে 22,617.73-এ নেমেছে এবং বছরের লাভ হারিয়েছে।"
+  },
+  {
+   "q": "Foreign Portfolio Investment (FPI) বলতে কোনটি বোঝায়?",
+   "options": [
+    "শেয়ার-বন্ডে বিদেশি বিনিয়োগ, সাধারণত কোম্পানির নিয়ন্ত্রণ ছাড়া",
+    "বিদেশে কারখানা বানিয়ে সরাসরি মালিকানা",
+    "সরকারের বিদেশি ঋণ নেওয়া",
+    "বিদেশে পণ্য রপ্তানি করা"
+   ],
+   "answer": 0,
+   "explain": "FPI হল আর্থিক সম্পদে বিনিয়োগ, নিয়ন্ত্রণ ছাড়া। কারখানা বানিয়ে মালিকানা নেওয়া FDI।"
+  },
+  {
+   "q": "শুক্রবার Sensex প্রায় কত পয়েন্ট বেড়ে 83,919.71-এ বন্ধ হয়েছে?",
+   "options": [
+    "446",
+    "512",
+    "286",
+    "898"
+   ],
+   "answer": 3,
+   "explain": "Sensex 897.96 পয়েন্ট (1.08%) বেড়েছে। 286.30 পয়েন্ট হল Nifty-র বৃদ্ধি।"
+  },
+  {
+   "q": "Fed-এর Goolsbee AI data centre-এর বিনিয়োগকে কীসের মতো বলেছেন?",
+   "options": [
+    "মন্দার লক্ষণ",
+    "পুরনো ধাঁচের চাহিদার overheating",
+    "সুদ কমানোর কারণ",
+    "মুদ্রাস্ফীতির সমাধান"
+   ],
+   "answer": 1,
+   "explain": "তিনি বলেছেন এটি 'old-fashioned demand overheating'-এর মতো, আর 25 bps বৃদ্ধি যথেষ্ট না-ও হতে পারে।"
+  }
+ ],
+ "caseStudy": {
+  "week": "2026-W47",
+  "weekLabel": "১৬–২২ নভেম্বর ২০২৬",
+  "company": "Zara (Inditex)",
+  "title": "Zara কীভাবে ডিজাইন থেকে দোকানে পৌঁছায় মাত্র কয়েক সপ্তাহে",
+  "concept": "Vertical Integration আর Supply Chain Responsiveness",
+  "intro": "1975 সালে Amancio Ortega স্পেনের A Coruña শহরে প্রথম Zara দোকান খোলেন। পরে এটি Inditex গোষ্ঠীর সবচেয়ে বড় ব্র্যান্ড হয়ে ওঠে। অন্য ফ্যাশন কোম্পানি যেখানে মৌসুমের আগে মাসের পর মাস আগে থেকে পরিকল্পনা করে, Zara সেখানে বাজারে কী চলছে তা দেখে দ্রুত নতুন ডিজাইন বানাতে পারে।",
+  "sections": [
+   {
+    "h": "কী করেছিল",
+    "p": "Zara নিজের ডিজাইন, কাটিং আর প্রধান উৎপাদনের একটি বড় অংশ নিজের নিয়ন্ত্রণে রাখে, যার বড় অংশ সদর দপ্তরের কাছে স্পেন ও আশেপাশের দেশে। দোকানগুলো কোন পোশাক বিক্রি হচ্ছে তার তথ্য নিয়মিত কেন্দ্রে পাঠায়, আর সেই অনুযায়ী ছোট ছোট batch-এ নতুন পোশাক বানিয়ে দোকানে পাঠানো হয়। Zara বিজ্ঞাপনে তুলনামূলকভাবে কম খরচ করে এবং দোকানের অবস্থানকেই প্রধান বিজ্ঞাপন হিসেবে ব্যবহার করে।"
+   },
+   {
+    "h": "ফলাফল",
+    "p": "নতুন ডিজাইন খুব অল্প সময়ে দোকানে পৌঁছায়, আর দোকানে নতুন পোশাক ঘনঘন আসে বলে ক্রেতারা বারবার ফিরে আসে। Inditex বিশ্বের সবচেয়ে বড় ফ্যাশন খুচরা কোম্পানিগুলোর একটি হয়েছে।"
+   },
+   {
+    "h": "কেন কাজ করল",
+    "p": "ছোট batch-এ উৎপাদন মানে অবিক্রীত মজুতের ঝুঁকি কম, আর বেশি বিক্রি হওয়া ডিজাইন দ্রুত আবার বানানো যায়। দোকানের তথ্য সরাসরি ডিজাইন দলের কাছে যাওয়ায় অনুমানের বদলে চাহিদার ওপর ভিত্তি করে সিদ্ধান্ত হয়। নিজের নিয়ন্ত্রণে supply chain রাখায় গতি আর মান দুটোই ধরে রাখা সহজ হয়।"
+   },
+   {
+    "h": "ঝুঁকি আর সমালোচনা",
+    "p": "কাছাকাছি উৎপাদনে শ্রম খরচ বেশি হয়, তাই মুনাফার margin-এ চাপ থাকে। Fast fashion মডেলকে পরিবেশ আর বর্জ্যের কারণে সমালোচনা সইতে হয়েছে, আর সরবরাহকারী কারখানার শ্রমিকদের কাজের পরিবেশ নিয়েও অতীতে প্রশ্ন উঠেছে। অতিরিক্ত চাহিদার পূর্বাভাস ভুল হলে মজুত জমার ঝুঁকিও থেকে যায়।"
+   }
+  ],
+  "lesson": "গতি আর তথ্য প্রতিযোগিতার বড় অস্ত্র: গ্রাহকের চাহিদা দ্রুত জেনে দ্রুত সাড়া দিতে পারলে মজুতের ঝুঁকি কমে আর বিক্রি বাড়ে। তবে এর জন্য supply chain-এর ওপর নিয়ন্ত্রণ আর নৈতিক দায়িত্ব দুটোই সামলাতে হয়।",
+  "question": "তোমার পছন্দের কোনো ব্র্যান্ডের জন্য কি Zara-র মতো ছোট batch আর দ্রুত সাড়ার মডেল কাজ করবে? কোন পণ্যে করবে না, আর কেন?"
+ },
+ "en": {
+  "dateLabel": "Saturday, 21 November 2026",
+  "news": [
+   {
+    "id": "n1",
+    "category": "Markets",
+    "title": "Wall Street slumps: S&P 500 down 3.70%, Dow and S&P in correction, Nasdaq erases its 2026 gain",
+    "summary": "The S&P 500 fell 3.70% (265.44 points) to close at 6,910.39 on Friday. It was the seventh straight losing day, and the weekly drop of 8.6% was the worst week since April 2025. The Dow lost 949.73 points (1.93%) to 48,147.33, about 10% below its record. The Nasdaq Composite dropped 5.28% to 22,617.73, wiping out all of its 2026 gains. In the S&P 500, 376 stocks fell and only 123 rose.",
+    "why": "A steady run of losses and broad selling shows how quickly market sentiment can turn. A correction (a 10% fall from a record) is visible here in real time.",
+    "source": {
+     "name": "UPI",
+     "url": "https://www.upi.com/Top_News/US/2026/11/20/stocks-dow-jones-nasdaq-correction-territory/1061795214998/"
+    }
+   },
+   {
+    "id": "n2",
+    "category": "Technology",
+    "title": "Nvidia falls 14%, AMD and Broadcom over 13%; reports of an SEC probe into Nvidia",
+    "summary": "AI and chip stocks led Friday's fall. Nvidia dropped about 14%, while AMD and Broadcom each lost more than 13%. Axios points to fading confidence in AI, tightening credit and controversy around the world's most important chipmaker. Reports say the US SEC is looking into Nvidia's disclosures, though neither the SEC nor Nvidia has confirmed it. Nvidia was already under pressure after CEO Jensen Huang's resignation.",
+    "why": "A good example of how single-company dependence and regulatory risk can move a share price and an entire sector.",
+    "source": {
+     "name": "Axios",
+     "url": "https://www.axios.com/2026/11/20/anthropic-ipo-nvidia-ai-tech-selloff"
+    }
+   },
+   {
+    "id": "n3",
+    "category": "IPO",
+    "title": "Anthropic slips about 8.5% to $88.91 on its first full trading day, still above the $83 IPO price",
+    "summary": "Anthropic's shares fell about 8.5% to close at $88.91 on their first full day of trading. The debut-day close was $97.17, 17% above the $83 IPO price. So the stock is still above its offer price, but much of the debut excitement has faded. The IPO could not stop the AI sell-off across the market.",
+    "why": "Closing above the IPO price is not long-term success. This shows how the listing gain relates to overall market mood.",
+    "source": {
+     "name": "Quartz",
+     "url": "https://qz.com/anthropic-stock-slips-record-ipo-ai-selloff-nvidia-amd-112026"
+    }
+   },
+   {
+    "id": "n4",
+    "category": "India Markets",
+    "title": "Sensex up 898 points to 83,919.71, Nifty above 25,800; banks and IT lead",
+    "summary": "On Friday the Sensex rose 897.96 points (1.08%) to 83,919.71 and the Nifty 50 gained 286.30 points (1.12%) to 25,800.60. The Sensex had fallen more than 463 points early in the day before buying in banking and IT stocks turned it around. Nifty Bank rose 2.49% and Nifty IT 1.30%. One report says foreign portfolio investors (FPIs) have put a record $12.21 billion into Indian equities so far in November.",
+    "why": "While US markets fall, why is foreign money flowing into India? Capital flows and FPI explain it.",
+    "source": {
+     "name": "Kotak Neo",
+     "url": "https://www.kotakneo.com/news/market-news/closing-bell-20-november-2026-sensex-nifty-rally-on-banking-it-stocks-and-fii-buying/"
+    }
+   },
+   {
+    "id": "n5",
+    "category": "Central Banks",
+    "title": "Fed's Goolsbee: AI data-centre boom looks like 'old-fashioned overheating'; a 25 bp hike may not be enough",
+    "summary": "Chicago Fed President Austan Goolsbee said earlier this month that the AI data-centre investment wave looks like 'old-fashioned demand overheating'. He warned a 25 basis point hike 'likely would not be enough' if demand stays overheated. The Fed's next decision is on 9 December. One report on 10 November put the odds of a December hike at 84%. Goolsbee is not a voting member in 2026.",
+    "why": "A neat example of how monetary policy and demand-pull inflation get tied to the stock market.",
+    "source": {
+     "name": "24/7 Wall St.",
+     "url": "https://247wallst.com/investing/2026/11/10/feds-goolsbee-says-ai-data-centers-look-like-old-fashioned-overheating/"
+    }
+   },
+   {
+    "id": "n6",
+    "category": "Energy",
+    "title": "Brent down nearly 20% in November; about $89–$93 on Friday, with fresh Iran risk",
+    "summary": "Trading Economics says Brent crude has fallen nearly 20% so far in November on signs that global supply is recovering. On Friday, prices ranged from about $89 to $93 a barrel depending on the source and the time of the reading. Reports also say President Trump is considering more military strikes on Iran, adding geopolitical risk.",
+    "why": "Oil moves on supply and on geopolitical risk. For an importer like India it feeds directly into inflation and the current account deficit.",
+    "source": {
+     "name": "Trading Economics",
+     "url": "https://tradingeconomics.com/commodity/brent-crude-oil"
+    }
+   },
+   {
+    "id": "n7",
+    "category": "Currency",
+    "title": "Rupee is Asia's best performer in November; closed at 93.44 on 18 November",
+    "summary": "On 18 November the rupee gained 7 paise to close at 93.44 against the dollar. Lower oil prices supported it, while a strong dollar, geopolitical tension and weak domestic equities limited the gain. The day before, it rose 43 paise to a seven-month high of 93.51. In November the rupee is Asia's best-performing currency, up about 2%. (This is the 18 November close, as the 20 November rate could not be verified.)",
+    "why": "Shows how the exchange rate is linked to foreign investment and oil prices.",
+    "source": {
+     "name": "HDFC Sky",
+     "url": "https://hdfcsky.com/news/rupee-rises-7-paise-to-close-at-93-44-against-us-dollar"
+    }
+   }
+  ],
+  "market": {
+   "asOf": "Closing on Friday, 20 November 2026 (Brent, gold and USD/INR dropped because they could not be verified)",
+   "items": [
+    {
+     "name": "S&P 500",
+     "region": "US",
+     "value": "6,910.39",
+     "change": "-3.70%",
+     "dir": "down"
+    },
+    {
+     "name": "Dow Jones",
+     "region": "US",
+     "value": "48,147.33",
+     "change": "-1.93%",
+     "dir": "down"
+    },
+    {
+     "name": "Nasdaq",
+     "region": "US",
+     "value": "22,617.73",
+     "change": "-5.28%",
+     "dir": "down"
+    },
+    {
+     "name": "Sensex",
+     "region": "India",
+     "value": "83,919.71",
+     "change": "+1.08%",
+     "dir": "up"
+    },
+    {
+     "name": "Nifty 50",
+     "region": "India",
+     "value": "25,800.60",
+     "change": "+1.12%",
+     "dir": "up"
+    }
+   ]
+  },
+  "term": {
+   "term": "Foreign Portfolio Investment (FPI)",
+   "bangla": "Foreign investors buying shares and bonds without controlling the company",
+   "definition": "FPI means investors from outside a country buying that country's shares, bonds or other financial assets. It usually gives no management control and can be sold quickly, so it is often called 'hot money': it comes in fast and can leave fast. Unlike FDI, it does not involve building factories or long-term ownership.",
+   "example": "One report says foreign portfolio investors have put a record $12.21 billion into Indian equities so far in November, and the Sensex rose 898 points on Friday.",
+   "formula": "",
+   "tip": "In interviews, contrast FPI with FDI: FPI is short-term, liquid and without control; FDI is long-term and with control. A sudden FPI exit shakes the rupee and the stock market."
+  },
+  "gd": {
+   "topic": "Is foreign portfolio investment (FPI) a blessing for India, or the risk of 'hot money'?",
+   "context": "AI stocks are crashing in the US while foreign money flows into Indian equities. One report puts November FPI inflows at a record $12.21 billion.",
+   "for": [
+    "FPI adds liquidity and improves price discovery in the market.",
+    "Foreign money strengthens the rupee; it is Asia's best currency in November.",
+    "Companies can raise capital more easily."
+   ],
+   "against": [
+    "If global conditions change, money can leave suddenly and shock the market and the rupee.",
+    "It does not build factories or jobs, which FDI does.",
+    "Heavy reliance on foreign flows makes the market vulnerable to outside events."
+   ]
+  },
+  "blog": {
+   "title": "FPI: How Foreign 'Hot Money' Moves the Stock Market",
+   "topic": "International finance",
+   "readMin": 4,
+   "body": [
+    "On Friday the Nasdaq fell 5.28% in the US, while India's Sensex rose 898 points. One report says foreign investors have poured a record $12.21 billion into Indian equities so far in November. This money is called foreign portfolio investment, or FPI. Today we start from zero: what FPI is, why it comes, why it leaves, and how it touches our lives.",
+    "## What exactly is FPI?",
+    "Suppose a Singapore fund buys some shares of Infosys or HDFC Bank. It takes no part in running the company; it only wants to profit if the price rises. That is FPI: foreign money invested in financial assets such as shares, bonds or mutual funds, usually without any control over the company.",
+    "## How is it different from FDI?",
+    "FDI (Foreign Direct Investment) is when a foreign company builds a factory in India or owns a large stake and plays a role in management. It is long-term, hard to withdraw and creates jobs. FPI is the opposite: short-term, sellable in minutes, and without control. That is why FPI is called 'hot money'.",
+    "## Why does foreign money come to India?",
+    "Mainly three reasons. One, expected returns: money goes where investors see good profit. Two, comparing risk: when US AI stocks crash, some investors look for other markets, and India can be one destination. Three, currency: a stronger rupee raises a foreign investor's gains in dollar terms. In November the rupee is Asia's best performer, up about 2%.",
+    "## Link to today's news",
+    "Today's news shows the S&P 500 falling for a seventh straight day and the Nasdaq losing all its 2026 gains. At the same time the Sensex closed at 83,919.71 and the Nifty at 25,800.60. So when global risk rises, money does not always move one way; sometimes it shifts from one market to another. But this is not permanent.",
+    "## Where is the risk in FPI?",
+    "FPI brings liquidity, helps companies raise capital and improves price discovery. But if the same money leaves suddenly, shares fall, the rupee weakens and import bills rise. The possibility of a Fed rate hike (decision on 9 December) matters a lot here, because higher US rates make investing there attractive and can pull money back from emerging markets.",
+    "## How to analyse it yourself",
+    "When you read market news, ask three questions. First, are foreign investors net buyers or sellers? Second, is the flow based on short-term momentum or on fundamentals? Third, how much are domestic investors (for example through SIP mutual funds) holding the market up? Combining these three answers gives you a feel for the risk.",
+    "## A simple calculation",
+    "Suppose a foreign investor puts in $100 to buy Indian shares when $1 equals Rs 94. They get shares worth Rs 9,400. A month later the shares rise 5%, so the value is Rs 9,870. If the rupee strengthens to 93, Rs 9,870 is worth about $106, so the share gain is topped up by a currency gain. If the rupee weakens instead, the dollar value of the share gain shrinks. That is why both share prices and currency movement matter for an FPI decision.",
+    "## What do the government and RBI do?",
+    "When foreign money flows in too fast, the rupee can strengthen suddenly and hurt exporters. When money leaves, the rupee weakens. To manage these swings the central bank (RBI) can intervene in the foreign exchange market using its forex reserves. That is why the stronger a country's reserves, the better it can handle a sudden FPI exit.",
+    "## A practical lesson",
+    "In a BBA exam or interview, don't stop at 'FPI means foreign investment'. Add the difference from FDI, the risk of hot money, and the link between the rupee and the stock market. And don't get over-excited by one report's record figure; check several sources before drawing a conclusion."
+   ],
+   "takeaways": [
+    "FPI is foreign investment in shares and bonds without control; FDI is long-term and with control.",
+    "FPI brings liquidity, but a sudden exit shocks the stock market and the rupee.",
+    "Verify foreign-flow news across several sources and also look at the role of domestic investors."
+   ]
+  },
+  "quiz": [
+   {
+    "q": "By what percent did the S&P 500 fall to close at 6,910.39 on Friday?",
+    "options": [
+     "1.93%",
+     "3.70%",
+     "5.28%",
+     "8.6%"
+    ],
+    "answer": 1,
+    "explain": "The S&P 500 fell 3.70% (265.44 points). 1.93% was the Dow's fall, 5.28% the Nasdaq's and 8.6% the whole week's drop."
+   },
+   {
+    "q": "Which index fell 5.28% and erased all its 2026 gains on Friday?",
+    "options": [
+     "Dow Jones",
+     "S&P 500",
+     "Nasdaq Composite",
+     "Sensex"
+    ],
+    "answer": 2,
+    "explain": "The Nasdaq Composite fell 5.28% to 22,617.73 and lost its gain for the year."
+   },
+   {
+    "q": "What does Foreign Portfolio Investment (FPI) mean?",
+    "options": [
+     "Foreign investment in shares and bonds, usually without control of the company",
+     "Building a factory abroad for direct ownership",
+     "A government borrowing from abroad",
+     "Exporting goods abroad"
+    ],
+    "answer": 0,
+    "explain": "FPI is investment in financial assets without control. Building a factory and owning it is FDI."
+   },
+   {
+    "q": "About how many points did the Sensex gain to close at 83,919.71 on Friday?",
+    "options": [
+     "446",
+     "512",
+     "286",
+     "898"
+    ],
+    "answer": 3,
+    "explain": "The Sensex rose 897.96 points (1.08%). 286.30 points was the Nifty's gain."
+   },
+   {
+    "q": "How did the Fed's Goolsbee describe the AI data-centre investment boom?",
+    "options": [
+     "A sign of recession",
+     "Old-fashioned demand overheating",
+     "A reason to cut rates",
+     "A cure for inflation"
+    ],
+    "answer": 1,
+    "explain": "He said it looks like old-fashioned demand overheating and that a 25 bp hike may not be enough."
+   }
+  ],
+  "caseStudy": {
+   "week": "2026-W47",
+   "weekLabel": "16 – 22 November 2026",
+   "company": "Zara (Inditex)",
+   "title": "How Zara gets a design from drawing board to store in just weeks",
+   "concept": "Vertical Integration and Supply Chain Responsiveness",
+   "intro": "In 1975 Amancio Ortega opened the first Zara store in A Coruña, Spain. It grew into the biggest brand of the Inditex group. While other fashion companies plan collections many months before a season, Zara watches what is selling and quickly makes new designs.",
+   "sections": [
+    {
+     "h": "What it did",
+     "p": "Zara keeps design, cutting and a large part of key production under its own control, much of it in Spain and nearby countries close to headquarters. Stores regularly send data on what is selling, and new items are made in small batches accordingly and shipped to stores. Zara spends relatively little on advertising and uses its prime store locations as its main advertisement."
+    },
+    {
+     "h": "The result",
+     "p": "New designs reach stores in a very short time, and because fresh items arrive often, shoppers come back again and again. Inditex became one of the world's largest fashion retailers."
+    },
+    {
+     "h": "Why it worked",
+     "p": "Small batches mean less unsold stock, and designs that sell well can be quickly made again. Store data goes straight to the design team, so decisions rest on demand rather than guesses. Owning the supply chain makes it easier to keep both speed and quality."
+    },
+    {
+     "h": "Risks and criticism",
+     "p": "Producing close to home costs more in labour, which presses on profit margins. The fast-fashion model has faced criticism over environmental impact and waste, and questions have been raised in the past about working conditions at supplier factories. If demand forecasts are wrong, unsold stock can still build up."
+    }
+   ],
+   "lesson": "Speed and information are powerful competitive weapons: learning customer demand quickly and responding fast lowers inventory risk and lifts sales. But it requires managing both control of the supply chain and ethical responsibility.",
+   "question": "Would Zara's small-batch, fast-response model work for a brand you like? For which products would it not work, and why?"
+  }
+ }
+}

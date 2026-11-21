@@ -1,6 +1,23 @@
 {
  "terms": [
   {
+   "date": "2026-11-21",
+   "term": "Foreign Portfolio Investment (FPI)",
+   "bangla": "বিদেশি পোর্টফোলিও বিনিয়োগ: বিদেশি বিনিয়োগকারীর শেয়ার-বন্ডে বিনিয়োগ, কোম্পানির নিয়ন্ত্রণ ছাড়া",
+   "definition": "FPI হল কোনো দেশের বাইরের বিনিয়োগকারীর সে দেশের শেয়ার, বন্ড বা অন্য আর্থিক সম্পদ কেনা। এতে সাধারণত কোম্পানির ওপর ব্যবস্থাপনার নিয়ন্ত্রণ থাকে না এবং বিনিয়োগ সহজে বিক্রি করে বেরিয়ে যাওয়া যায়। তাই একে প্রায়ই 'গরম টাকা' (hot money) বলা হয়, যা দ্রুত আসে আবার দ্রুত চলেও যায়। FDI-এর মতো কারখানা বা দীর্ঘমেয়াদি মালিকানা এতে থাকে না।",
+   "example": "একটি রিপোর্ট অনুযায়ী নভেম্বরে এ পর্যন্ত বিদেশি পোর্টফোলিও বিনিয়োগকারীরা রেকর্ড $12.21 বিলিয়ন ভারতীয় শেয়ারে ঢেলেছেন, আর শুক্রবার Sensex 898 পয়েন্ট বেড়েছে।",
+   "formula": "",
+   "tip": "ইন্টারভিউতে FPI আর FDI-এর পার্থক্য বলো: FPI স্বল্পমেয়াদি, তরল ও নিয়ন্ত্রণহীন; FDI দীর্ঘমেয়াদি ও নিয়ন্ত্রণসহ। FPI হঠাৎ বেরিয়ে গেলে রুপি আর শেয়ারবাজারে ঝাঁকুনি লাগে।",
+   "en": {
+    "term": "Foreign Portfolio Investment (FPI)",
+    "bangla": "Foreign investors buying shares and bonds without controlling the company",
+    "definition": "FPI means investors from outside a country buying that country's shares, bonds or other financial assets. It usually gives no management control and can be sold quickly, so it is often called 'hot money': it comes in fast and can leave fast. Unlike FDI, it does not involve building factories or long-term ownership.",
+    "example": "One report says foreign portfolio investors have put a record $12.21 billion into Indian equities so far in November, and the Sensex rose 898 points on Friday.",
+    "formula": "",
+    "tip": "In interviews, contrast FPI with FDI: FPI is short-term, liquid and without control; FDI is long-term and with control. A sudden FPI exit shakes the rupee and the stock market."
+   }
+  },
+  {
    "date": "2026-11-20",
    "term": "Export Controls",
    "bangla": "রপ্তানি নিয়ন্ত্রণ: সংবেদনশীল পণ্য ও প্রযুক্তির বিদেশে বিক্রিতে সরকারি বিধিনিষেধ",
