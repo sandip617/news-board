@@ -1,0 +1,819 @@
+{
+ "date": "2026-11-22",
+ "dateLabel": "২২ নভেম্বর ২০২৬, রবিবার",
+ "edition": 1,
+ "updatedAt": "2026-11-22T07:10:00+05:30",
+ "news": [
+  {
+   "id": "n1",
+   "category": "বাজার",
+   "title": "Thanksgiving-এর ছোট সপ্তাহে Wall Street: AI-র ধসের পর correction-এ Dow ও S&P 500",
+   "summary": "শুক্রবারের পতনের পর Dow আর S&P 500 দুটোই correction-এ ঢুকেছে, আর Nasdaq Composite 2026 সালের সব লাভ হারিয়েছে। Schwab-এর হিসাবে chip শেয়ারের সূচক SOX সাম্প্রতিক শিখর থেকে প্রায় 30% নিচে। Anthropic-এর IPO বা Nvidia-র ফল, কোনোটাই AI শেয়ারে ফেরানোর মতো উৎসাহ দিতে পারেনি। পরের সপ্তাহ Thanksgiving-এর কারণে ছোট, আর শুক্রবার 27 নভেম্বর বাজার দুপুর 1টায় বন্ধ হবে। বিশ্লেষকরা দুই ভাগ: কেউ তলানি দেখছেন, কেউ আরও অস্থিরতার সতর্কতা দিচ্ছেন।",
+   "why": "Correction (রেকর্ড স্তর থেকে 10% পতন) আর market sentiment-এর ধারণা এখানে সরাসরি মিলছে। ছুটির সপ্তাহে লেনদেন কম থাকে, তাই দাম বেশি নড়তে পারে, এটাই liquidity-র পাঠ।",
+   "source": {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/20/stock-market-next-week-outlook-for-nov-23-27-2026.html"
+   }
+  },
+  {
+   "id": "n2",
+   "category": "কেন্দ্রীয় ব্যাংক",
+   "title": "Fed-এর Waller: ডিসেম্বরে আধ শতাংশ বিন্দু সুদ বাড়ানোর কথাও ভাবা দরকার",
+   "summary": "Reuters-এর সূত্রে খবর, Fed Governor Christopher Waller ইঙ্গিত দিয়েছেন মূল্যবৃদ্ধির বিরুদ্ধে Fed-কে আরও আগ্রাসী হতে হবে। তাঁর মতে হয় ডিসেম্বরে আধ শতাংশ বিন্দু (50 bps) বাড়ানো দরকার, নয়তো 2027-এ দ্রুত হারে বাড়ানোর সংকেত দিতে হবে। CME FedWatch-এর বিভিন্ন হিসাবে ডিসেম্বর 8–9 বৈঠকে অন্তত 25 bps বাড়ার সম্ভাবনা প্রায় 90% থেকে 97%। সর্বশেষ প্রকাশিত PCE মূল্যবৃদ্ধি সেপ্টেম্বরে ছিল 3.7%, core 3.1%।",
+   "why": "Monetary tightening, সুদের হার আর inflation-এর সম্পর্ক পরীক্ষায় সবচেয়ে বেশি আসে। কেন্দ্রীয় ব্যাংকের কর্তাদের কথায় বাজার কীভাবে আগাম দাম ধরে, সেটা forward guidance-এর উদাহরণ।",
+   "source": {
+    "name": "BusinessDay (Reuters)",
+    "url": "https://www.businessday.co.za/world/americas/2026-11-18-waller-hints-at-more-aggressive-fed-response-over-inflation/"
+   }
+  },
+  {
+   "id": "n3",
+   "category": "টেক",
+   "title": "Chip শেয়ারে বিক্রির ঝড়: SOX এক দিনে 10.7% পড়ল, Nvidia 14% নিচে",
+   "summary": "Houston Chronicle-এর রিপোর্ট অনুযায়ী শুক্রবার Philadelphia Semiconductor Index (SOX) 10.7% পড়েছে। Nvidia গত 10 দিনের 9 দিনই নেমেছে এবং শুক্রবার 14% কমে বন্ধ হয়েছে। বিনিয়োগকারীরা সেদিন risk-off মেজাজে ছিলেন, অর্থাৎ ঝুঁকিপূর্ণ সম্পদ ছেড়ে নিরাপদ জায়গায় যাচ্ছিলেন। AI খাতের উঁচু valuation নিয়ে প্রশ্ন এখন বাজারের মূল আলোচনা।",
+   "why": "Valuation আর concentration risk (অল্প কয়েকটি শেয়ারের ওপর বাজারের নির্ভরতা) এখানে চোখের সামনে দেখা যাচ্ছে। Portfolio diversification কেন জরুরি, এটা তারই উদাহরণ।",
+   "source": {
+    "name": "Houston Chronicle (AP)",
+    "url": "https://www.houstonchronicle.com/news/world/article/asia-shares-drop-on-ai-worries-echoing-wall-22540883.php"
+   }
+  },
+  {
+   "id": "n4",
+   "category": "IPO",
+   "title": "IPO-র দ্বিতীয় দিনে Anthropic প্রায় 8.5% নেমে $88.91-এ; underwriter-দের greenshoe option-এ আরও $12.2 বিলিয়ন",
+   "summary": "Anthropic-এর শেয়ার তালিকাভুক্তির পর দ্বিতীয় দিনে প্রায় 8.5% পড়ে $88.91-এ বন্ধ হয়েছে (Bloomberg-এর সূত্রে; অন্য সূত্রে $88.30)। অভিষেকের দিনের ক্লোজিং ছিল $97.17, আর IPO দাম $83। 980 মিলিয়ন শেয়ারে $81.3 বিলিয়ন তোলার পর underwriter-দের হাতে আরও প্রায় 147 মিলিয়ন শেয়ার কেনার 30 দিনের option আছে, যার মূল্য প্রায় $12.2 বিলিয়ন। পুরোটা কাজে লাগলে মোট তোলা অর্থ দাঁড়াবে প্রায় $93.5 বিলিয়ন। পুরো option কাজে লাগানো হয়েছে কি না, সে বিষয়ে প্রতিবেদনগুলো একমত নয়।",
+   "why": "IPO pricing, underwriter-এর ভূমিকা আর greenshoe option, তিনটিই corporate finance-এর মূল বিষয়। আজকের শব্দ আর ব্লগ এর ওপরেই।",
+   "source": {
+    "name": "Dealroom",
+    "url": "https://dealroom.co/news/174680-anthropic-shares-slide-toward-83-ipo-price-as-ai-trade-wobbles/"
+   }
+  },
+  {
+   "id": "n5",
+   "category": "কমোডিটি",
+   "title": "সোনা একদিনে 4.62% পড়ে $3,515-এ, Fed-এর সুদ বাড়ানোর আশঙ্কায়",
+   "summary": "Yahoo Finance-এর হিসাবে শুক্রবার Comex সোনা (GC=F) 170.10 কমে (4.62%) $3,515.40-এ বন্ধ হয়েছে। কারণ হিসেবে বলা হচ্ছে Fed-এর সুদ বাড়ার প্রত্যাশা পাকা হয়ে আসা। অন্য সূত্রে (CFD) সোনার পতন 2.51%, তাই দর সূত্রভেদে আলাদা। একই দিনে Brent crude প্রায় 0.6% বেড়ে $92.57-এ স্থির হয়েছে।",
+   "why": "সুদের হার বাড়লে সুদ-না-দেওয়া সম্পদ সোনা কম আকর্ষণীয় হয়, এটাই opportunity cost-এর ধারণা। সোনা আর ডলারের বিপরীত সম্পর্কও এখানে পরিষ্কার।",
+   "source": {
+    "name": "Yahoo Finance",
+    "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-friday-november-20-2026-gold-prices-continue-to-fall-as-rate-hike-expectations-crystallize-121116915.html"
+   }
+  },
+  {
+   "id": "n6",
+   "category": "ভারত",
+   "title": "Sensex 898 পয়েন্ট বেড়ে 83,919.71-এ, নয় মাসের সর্বোচ্চে; রুপি 92.67-এ, সাত মাসের সেরা",
+   "summary": "শুক্রবার Sensex 897.96 পয়েন্ট (1.08%) বেড়ে 83,919.71-এ আর Nifty 50 286.30 পয়েন্ট (1.12%) বেড়ে 25,800.60-এ বন্ধ হয়েছে। সপ্তাহে Sensex বেড়েছে 2.85% (2,327.26 পয়েন্ট)। রুপি টানা পঞ্চম দিন শক্ত হয়ে 62 পয়সা বেড়ে ডলারপ্রতি 92.67-এ বন্ধ হয়েছে, যা সাত মাসের সর্বোচ্চ। হেডলাইন অনুযায়ী নভেম্বরে বিদেশি প্রতিষ্ঠানগুলো ভারতীয় শেয়ারে রেকর্ড টাকা ঢেলেছে, তবে অঙ্কটি আমরা মূল সূত্রে যাচাই করিনি।",
+   "why": "আমেরিকার AI শেয়ার ছেড়ে বিদেশি টাকা ভারতে আসছে, এটা capital flow আর exchange rate-এর সম্পর্ক বোঝায়। কালকের FPI শব্দটির সঙ্গে সরাসরি মেলে।",
+   "source": {
+    "name": "HDFC Sky",
+    "url": "https://hdfcsky.com/news/market-close-report-today-november-20-2026-nifty-sensex-scale-nine-month-highs-as-investors-dump-global-ai-for-india"
+   }
+  },
+  {
+   "id": "n7",
+   "category": "কেন্দ্রীয় ব্যাংক",
+   "title": "ECB-র সতর্কতা: AI-র valuation হঠাৎ ধাক্কা খেলে ইউরো অঞ্চলের আর্থিক স্থিতিশীলতায় ঝুঁকি",
+   "summary": "18 নভেম্বর প্রকাশিত ECB-র Financial Stability Review-তে AI valuation, রাজস্ব ভারসাম্যহীনতা (fiscal imbalances) আর ভূ-রাজনৈতিক উত্তেজনাকে তিন প্রধান ঝুঁকি বলা হয়েছে। ECB বলছে AI কোম্পানির আয় নিয়ে উচ্চাকাঙ্ক্ষী প্রত্যাশার ওপর valuation দাঁড়িয়ে, তাই দাম হঠাৎ নামার (repricing) আশঙ্কা আছে। তবে AI-তে ব্যাংকের সরাসরি ঋণ সীমিত বলে ECB জানিয়েছে। ব্যাংকগুলোকে স্থিতিশীল বলা হয়েছে। পরের review 26 মে 2027-এ।",
+   "why": "Financial stability, systemic risk আর macroprudential policy-র ধারণা এখানে বাস্তবে মিলছে। কেন্দ্রীয় ব্যাংক শুধু সুদ ঠিক করে না, বাজারের ঝুঁকিও নজরে রাখে।",
+   "source": {
+    "name": "ECB",
+    "url": "https://ecb.europa.eu/press/financial-stability-publications/fsr/html/ecb.fsr202611~e03b919d36.en.html"
+   }
+  },
+  {
+   "id": "n8",
+   "category": "M&A",
+   "title": "ARGAN-এর শেয়ারহোল্ডাররা WDP-র সঙ্গে merger অনুমোদন করলেন, ইউরোপে বড় logistics REIT তৈরির পথে",
+   "summary": "20 নভেম্বরের সাধারণ সভায় ফরাসি logistics REIT ARGAN-এর শেয়ারহোল্ডাররা WDP-র সঙ্গে merger অনুমোদন করেছেন। চুক্তির শর্ত অনুযায়ী প্রতিটি ARGAN শেয়ারের বদলে 3টি নতুন WDP শেয়ার আর প্রস্তাবিত €11 বিশেষ বণ্টন মিলবে, যা মিলিয়ে প্রতি শেয়ারে প্রায় €79.22 মূল্য দাঁড়ায়। সম্মিলিত গোষ্ঠী আট দেশে প্রায় 13 মিলিয়ন বর্গমিটার logistics জায়গা নিয়ন্ত্রণ করবে। শর্তপূরণ সাপেক্ষে merger 2027-এর প্রথম কোয়ার্টারে শেষ হওয়ার কথা।",
+   "why": "All-stock merger, share exchange ratio আর REIT (real estate investment trust)-এর গঠন একসঙ্গে শেখার ভালো উদাহরণ। নগদ নয়, শেয়ার দিয়ে কেনার সুবিধা-অসুবিধাও ভাবার মতো।",
+   "source": {
+    "name": "GlobeNewswire (ARGAN)",
+    "url": "https://globenewswire.com/news-release/2026/11/20/3407706/0/en/combined-general-meeting-of-november-20-2026-argan-shareholders-approve-the-merger-with-wdp.html"
+   }
+  }
+ ],
+ "market": {
+  "asOf": "২০ নভেম্বর ২০২৬, শুক্রবারের ক্লোজিং (শনিবার-রবিবার বাজার বন্ধ)",
+  "items": [
+   {
+    "name": "S&P 500",
+    "region": "US",
+    "value": "6,910.39",
+    "change": "-3.70%",
+    "dir": "down"
+   },
+   {
+    "name": "Dow Jones",
+    "region": "US",
+    "value": "48,147.33",
+    "change": "-1.93%",
+    "dir": "down"
+   },
+   {
+    "name": "Nasdaq",
+    "region": "US",
+    "value": "22,617.73",
+    "change": "-5.28%",
+    "dir": "down"
+   },
+   {
+    "name": "Sensex",
+    "region": "ভারত",
+    "value": "83,919.71",
+    "change": "+1.08%",
+    "dir": "up"
+   },
+   {
+    "name": "Nifty 50",
+    "region": "ভারত",
+    "value": "25,800.60",
+    "change": "+1.12%",
+    "dir": "up"
+   },
+   {
+    "name": "Brent Crude",
+    "region": "$/ব্যারেল",
+    "value": "92.57",
+    "change": "+0.6%",
+    "dir": "up"
+   },
+   {
+    "name": "Gold",
+    "region": "$/আউন্স",
+    "value": "3,515.40",
+    "change": "-4.62%",
+    "dir": "down"
+   },
+   {
+    "name": "USD/INR",
+    "region": "ভারত",
+    "value": "92.67",
+    "change": "-0.62",
+    "dir": "down"
+   }
+  ]
+ },
+ "term": {
+  "term": "Greenshoe Option",
+  "bangla": "গ্রিনশু অপশন: IPO-র দাম স্থির রাখতে underwriter-দের বাড়তি শেয়ার বেচার অধিকার",
+  "definition": "Greenshoe option হল IPO-র চুক্তিতে underwriter-দের একটি অধিকার: নির্ধারিত আকারের চেয়ে সাধারণত 15% পর্যন্ত বেশি শেয়ার বিক্রি করা আর পরের 30 দিনের মধ্যে কোম্পানির কাছ থেকে সেই বাড়তি শেয়ার IPO দামে কেনার সুযোগ। শেয়ারের দাম পড়লে underwriter বাজার থেকে শেয়ার কিনে দাম ধরে রাখে, আর দাম বাড়লে option কাজে লাগিয়ে কোম্পানির কাছ থেকে শেয়ার নেয়। এতে কোম্পানি বাড়তি টাকা তোলে আর লিস্টিংয়ের পর দামের ওঠানামা কমে।",
+  "example": "Anthropic 980 মিলিয়ন শেয়ারে $81.3 বিলিয়ন তুলেছে। Underwriter-দের হাতে আরও প্রায় 147 মিলিয়ন শেয়ারের option আছে, যার মূল্য প্রায় $12.2 বিলিয়ন। পুরোটা কাজে লাগলে মোট $93.5 বিলিয়ন হবে, অথচ দ্বিতীয় দিনে শেয়ার প্রায় 8.5% পড়ে $88.91-এ নেমেছে।",
+  "formula": "Greenshoe শেয়ার ≈ মূল offering × 15%  (এখানে 980 মিলিয়ন × 15% = 147 মিলিয়ন)",
+  "tip": "Interview-এ বলো: greenshoe একটি price stabilization উপায়। Underwriter অতিরিক্ত 15% শেয়ার আগে বেচে short থাকে; দাম পড়লে বাজার থেকে কিনে সেই short পূরণ করে, দাম বাড়লে option ব্যবহার করে।"
+ },
+ "gd": {
+  "topic": "AI শেয়ারের এই ধস কি সুস্থ correction, নাকি বুদবুদ ফাটার শুরু?",
+  "context": "Dow আর S&P 500 correction-এ, Nasdaq-এর বছরের লাভ মুছে গেছে, আর ECB তাদের Financial Stability Review-তে AI valuation-কে প্রধান ঝুঁকি বলেছে। একই সময়ে Fed আরও সুদ বাড়ানোর কথা ভাবছে।",
+  "for": [
+   "আয়ের তুলনায় valuation অনেক উঁচু ছিল, তাই দাম নেমে আসা বাজারের স্বাভাবিক সংশোধন।",
+   "AI কোম্পানিগুলোর রাজস্ব এখনও দ্রুত বাড়ছে, যেমন Nvidia-র রাজস্ব 103% বেড়েছে, তাই ব্যবসা ভেঙে পড়েনি।",
+   "ECB বলছে ব্যাংকের AI-তে সরাসরি ঋণ সীমিত, তাই আর্থিক ব্যবস্থায় ছড়িয়ে পড়ার ঝুঁকি কম।"
+  ],
+  "against": [
+   "ECB নিজেই AI valuation-কে হঠাৎ repricing-এর ঝুঁকি বলেছে, ঋণ আর circular financing-এর আশঙ্কাও আছে।",
+   "সুদ বাড়ার সময় উঁচু valuation ধরে রাখা কঠিন, কারণ ভবিষ্যৎ আয়ের বর্তমান মূল্য কমে যায়।",
+   "বিশ্ব বাজার অল্প কয়েকটি AI শেয়ারের ওপর নির্ভরশীল, তাই ধাক্কা অনেক বড় হতে পারে।"
+  ]
+ },
+ "blog": {
+  "title": "Greenshoe Option: বড় IPO-র দাম ধরে রাখার গোপন নিরাপত্তা-জাল",
+  "topic": "কর্পোরেট ফাইন্যান্স",
+  "readMin": 4,
+  "body": [
+   "কল্পনা করো একটা বড় কোম্পানি প্রথমবার বাজারে শেয়ার ছাড়ছে। এই প্রক্রিয়াকে বলে IPO (Initial Public Offering)। কত দামে শেয়ার বিক্রি হবে, কাকে কত শেয়ার দেওয়া হবে, এসব ঠিক করে দেয় কয়েকটি বড় ব্যাংক, যাদের বলা হয় underwriter। লিস্টিংয়ের প্রথম কয়েক দিন শেয়ারের দাম খুব নড়াচড়া করে। এই নড়াচড়া সামলাতেই আছে greenshoe option, যা নিয়ে আজকের খবরে আলোচনা হচ্ছে। খুচরো বিনিয়োগকারী থেকে বড় ফান্ড, সবাই চায় নতুন শেয়ার লিস্টিংয়ের পর অন্তত কিছুটা স্থির থাকুক, আর এই দায়িত্ব অনেকটাই পড়ে underwriter-দের কাঁধে।",
+   "## Greenshoe আসলে কী",
+   "Greenshoe option হল IPO চুক্তির একটি অংশ। এতে underwriter-রা নির্ধারিত শেয়ারের চেয়ে সাধারণত 15% পর্যন্ত বেশি শেয়ার বিক্রি করতে পারে। পরের 30 দিনের মধ্যে সেই বাড়তি শেয়ার IPO দামে কোম্পানির কাছ থেকে কেনার অধিকারও তাদের থাকে। নামটা এসেছে Green Shoe Manufacturing কোম্পানির IPO থেকে, যেখানে এই ব্যবস্থা প্রথম ব্যবহার হয়েছিল বলে বলা হয়।",
+   "## কাজ করে কীভাবে",
+   "ধরো মূল offering 100 শেয়ারের। Underwriter ক্রেতাদের কাছে 115 শেয়ার বিক্রি করল। মানে তারা 15 শেয়ার আগে বেচে ফেলেছে, যা তাদের হাতে নেই। একে বলে short position। এবার দুটো পরিস্থিতি হতে পারে। প্রথমত, শেয়ারের দাম IPO দামের নিচে নেমে গেলে underwriter বাজার থেকে সস্তায় শেয়ার কিনে নিজের short পূরণ করে। এই কেনাকাটা বাজারে চাহিদা তৈরি করে, ফলে দাম আর বেশি পড়তে পারে না। দ্বিতীয়ত, দাম IPO দামের ওপরে থাকলে underwriter option কাজে লাগিয়ে কোম্পানির কাছ থেকে IPO দামেই 15 শেয়ার নেয়, আর কোম্পানি বাড়তি টাকা পায়।",
+   "## আজকের খবরের সঙ্গে মিলিয়ে দেখো",
+   "Anthropic 980 মিলিয়ন শেয়ার বিক্রি করে $81.3 বিলিয়ন তুলেছে, দাম ছিল শেয়ারপ্রতি $83। Underwriter-দের হাতে আরও প্রায় 147 মিলিয়ন শেয়ারের option আছে। 980 মিলিয়নের 15% হিসাব করলে ঠিক 147 মিলিয়নই আসে। এই option-এর মূল্য প্রায় $12.2 বিলিয়ন, আর পুরোটা কাজে লাগলে মোট তোলা অর্থ প্রায় $93.5 বিলিয়ন হবে।",
+   "এখন দামের দিকটা দেখো। অভিষেকের দিন শেয়ার বন্ধ হয়েছিল $97.17-তে, অর্থাৎ IPO দামের 17% ওপরে। দ্বিতীয় দিনে তা প্রায় 8.5% পড়ে $88.91-এ নেমেছে। একই দিন পুরো AI খাতেই বিক্রির ঝড় চলছিল। দাম যখন IPO দাম $83-এর দিকে নামে, তখনই greenshoe-র stabilization ভূমিকা সবচেয়ে বেশি কাজে লাগে। তবে পুরো option আসলে কাজে লাগানো হয়েছে কি না, সে বিষয়ে বিভিন্ন প্রতিবেদন একমত নয়। তাই এ নিয়ে নিশ্চিত করে কিছু বলা যাচ্ছে না।",
+   "## কোম্পানি আর বিনিয়োগকারীর লাভ-ক্ষতি",
+   "কোম্পানির জন্য সুবিধা হল, চাহিদা ভালো থাকলে বাড়তি শেয়ার বেচে আরও টাকা তোলা যায়। বিনিয়োগকারীর জন্য সুবিধা হল, লিস্টিংয়ের পর দাম হুট করে খুব নিচে নামার সম্ভাবনা কমে। তবে এটা কোনো গ্যারান্টি নয়। বাজারে প্রবল বিক্রির চাপ থাকলে underwriter-এর কেনাকাটাও দাম ধরে রাখতে পারে না। ধরো পুরো খাত ঝড়ের মধ্যে আছে, তখন একটি শেয়ারকে আলাদা করে বাঁচানো প্রায় অসম্ভব। আরেকটি দিক হল dilution। Option কাজে লাগলে নতুন শেয়ার ইস্যু হয়, ফলে পুরোনো শেয়ারহোল্ডারদের মালিকানার অংশ কিছুটা কমে।",
+   "## একটি ছোট হিসাবের উদাহরণ",
+   "ধরো IPO দাম $100 আর মূল offering 100 শেয়ারের। Underwriter 115 শেয়ার বিক্রি করল, তাই ক্রেতাদের কাছ থেকে $11,500 এল আর কোম্পানিকে এখনও $10,000 দিয়ে 100 শেয়ারের হিসাব মেটাতে হবে। দাম নেমে $90 হলে underwriter বাজার থেকে 15 শেয়ার $1,350-এ কিনে short পূরণ করে। সে নিজের হাতে লাভ করে ($100 − $90) × 15 = $150, আর বাজারে কেনার চাপে দাম আরও পড়া ঠেকে। দাম $110 হলে বাজারে কেনা ব্যয়বহুল, তাই সে option কাজে লাগিয়ে কোম্পানির কাছ থেকে $100 দামে 15 শেয়ার নেয়। ফলে underwriter-দের কাজটা সবসময় বাজারের দিকের ওপর নির্ভর করে, আর এই ব্যবস্থায় তাদের আর কোম্পানির স্বার্থ অনেকটা এক হয়ে যায়।",
+   "## BBA ছাত্রের জন্য ব্যবহারিক শিক্ষা",
+   "প্রথমত, IPO-র খবর পড়লে শুধু দাম আর তোলা টাকা দেখো না, offering-এর গঠনও দেখো: কত শেয়ার, greenshoe কত, কে বিক্রি করছে। দ্বিতীয়ত, greenshoe-র হিসাবটা মনে রাখো: মূল offering × 15%। পরীক্ষায় এই সূত্রে সরাসরি অঙ্ক আসতে পারে। তৃতীয়ত, stabilization মানে দামের ওপর নিয়ন্ত্রণ নয়, বরং ঝাঁকুনি কমানোর চেষ্টা। বাজার ঘুরে গেলে কোনো ব্যবস্থাই দাম ধরে রাখতে পারে না। সবশেষে, আজকের মতো ধসের সময় একটি IPO-র আচরণ দেখলে বোঝা যায়, ভালো কোম্পানিও কেন বাজারের মেজাজের কাছে অসহায় হয়ে পড়ে।"
+  ],
+  "takeaways": [
+   "Greenshoe option underwriter-দের মূল offering-এর সাধারণত 15% পর্যন্ত বাড়তি শেয়ার বেচার ও 30 দিনের মধ্যে IPO দামে কেনার অধিকার দেয়।",
+   "দাম পড়লে underwriter বাজার থেকে কিনে দাম ধরে রাখে, দাম বাড়লে option কাজে লাগিয়ে কোম্পানিকে বাড়তি টাকা এনে দেয়।",
+   "Anthropic-এর ক্ষেত্রে 980 মিলিয়ন শেয়ারের 15% মানে 147 মিলিয়ন শেয়ার, মূল্য প্রায় $12.2 বিলিয়ন, কিন্তু বাজার-জুড়ে ধস থাকলে stabilization-ও সীমিত।"
+  ]
+ },
+ "quiz": [
+  {
+   "q": "Greenshoe option-এ underwriter-রা সাধারণত মূল offering-এর কত শতাংশ পর্যন্ত বাড়তি শেয়ার বেচতে পারে?",
+   "options": [
+    "5%",
+    "10%",
+    "15%",
+    "50%"
+   ],
+   "answer": 2,
+   "explain": "সাধারণ নিয়মে এটি 15% পর্যন্ত। Anthropic-এর 980 মিলিয়ন শেয়ারের 15% ঠিক 147 মিলিয়ন।"
+  },
+  {
+   "q": "Fed Governor Waller ডিসেম্বরের জন্য কোন বড় বৃদ্ধির কথা ভাবতে বলেছেন?",
+   "options": [
+    "50 bps (আধ শতাংশ বিন্দু)",
+    "10 bps",
+    "100 bps",
+    "কোনো বৃদ্ধি নয়, সুদ কমানো"
+   ],
+   "answer": 0,
+   "explain": "Reuters-এর সূত্রে Waller আধ শতাংশ বিন্দু, অর্থাৎ 50 bps বাড়ানোর কথা ইঙ্গিত করেছেন, নয়তো 2027-এ দ্রুত হারের সংকেত দিতে বলেছেন।"
+  },
+  {
+   "q": "ECB-র সর্বশেষ Financial Stability Review অনুযায়ী ব্যাংকের AI-তে সরাসরি ঋণ সম্পর্কে কী বলা হয়েছে?",
+   "options": [
+    "ঋণ খুব বেশি আর বিপজ্জনক",
+    "ঋণের কোনো তথ্য নেই",
+    "ঋণ বাড়ছে অনিয়ন্ত্রিতভাবে",
+    "ঋণ সীমিত"
+   ],
+   "answer": 3,
+   "explain": "ECB বলেছে ব্যাংকের AI-তে সরাসরি ঋণ সীমিত, যদিও AI valuation হঠাৎ repricing-এর ঝুঁকি তৈরি করছে।"
+  },
+  {
+   "q": "শুক্রবার Comex সোনা কত শতাংশ পড়ে $3,515.40-এ বন্ধ হয়েছে (Yahoo Finance অনুযায়ী)?",
+   "options": [
+    "1.08%",
+    "4.62%",
+    "2.51%",
+    "14%"
+   ],
+   "answer": 1,
+   "explain": "Yahoo Finance-এর হিসাবে 4.62%। 2.51% অন্য এক CFD সূত্রের হিসাব, 1.08% Sensex-এর বৃদ্ধি, আর 14% Nvidia-র পতন।"
+  },
+  {
+   "q": "ARGAN-WDP merger-এ প্রতিটি ARGAN শেয়ারের বদলে কতগুলি নতুন WDP শেয়ার মিলবে?",
+   "options": [
+    "1টি",
+    "2টি",
+    "5টি",
+    "3টি"
+   ],
+   "answer": 3,
+   "explain": "শর্ত অনুযায়ী প্রতিটি ARGAN শেয়ারের বদলে 3টি নতুন WDP শেয়ার আর €11 বিশেষ বণ্টন, মিলিয়ে প্রায় €79.22।"
+  }
+ ],
+ "caseStudy": {
+  "week": "2026-W47",
+  "weekLabel": "১৬–২২ নভেম্বর ২০২৬",
+  "company": "Zara (Inditex)",
+  "title": "Zara কীভাবে ডিজাইন থেকে দোকানে পৌঁছায় মাত্র কয়েক সপ্তাহে",
+  "concept": "Vertical Integration আর Supply Chain Responsiveness",
+  "intro": "1975 সালে Amancio Ortega স্পেনের A Coruña শহরে প্রথম Zara দোকান খোলেন। পরে এটি Inditex গোষ্ঠীর সবচেয়ে বড় ব্র্যান্ড হয়ে ওঠে। অন্য ফ্যাশন কোম্পানি যেখানে মৌসুমের আগে মাসের পর মাস আগে থেকে পরিকল্পনা করে, Zara সেখানে বাজারে কী চলছে তা দেখে দ্রুত নতুন ডিজাইন বানাতে পারে।",
+  "sections": [
+   {
+    "h": "কী করেছিল",
+    "p": "Zara নিজের ডিজাইন, কাটিং আর প্রধান উৎপাদনের একটি বড় অংশ নিজের নিয়ন্ত্রণে রাখে, যার বড় অংশ সদর দপ্তরের কাছে স্পেন ও আশেপাশের দেশে। দোকানগুলো কোন পোশাক বিক্রি হচ্ছে তার তথ্য নিয়মিত কেন্দ্রে পাঠায়, আর সেই অনুযায়ী ছোট ছোট batch-এ নতুন পোশাক বানিয়ে দোকানে পাঠানো হয়। Zara বিজ্ঞাপনে তুলনামূলকভাবে কম খরচ করে এবং দোকানের অবস্থানকেই প্রধান বিজ্ঞাপন হিসেবে ব্যবহার করে।"
+   },
+   {
+    "h": "ফলাফল",
+    "p": "নতুন ডিজাইন খুব অল্প সময়ে দোকানে পৌঁছায়, আর দোকানে নতুন পোশাক ঘনঘন আসে বলে ক্রেতারা বারবার ফিরে আসে। Inditex বিশ্বের সবচেয়ে বড় ফ্যাশন খুচরা কোম্পানিগুলোর একটি হয়েছে।"
+   },
+   {
+    "h": "কেন কাজ করল",
+    "p": "ছোট batch-এ উৎপাদন মানে অবিক্রীত মজুতের ঝুঁকি কম, আর বেশি বিক্রি হওয়া ডিজাইন দ্রুত আবার বানানো যায়। দোকানের তথ্য সরাসরি ডিজাইন দলের কাছে যাওয়ায় অনুমানের বদলে চাহিদার ওপর ভিত্তি করে সিদ্ধান্ত হয়। নিজের নিয়ন্ত্রণে supply chain রাখায় গতি আর মান দুটোই ধরে রাখা সহজ হয়।"
+   },
+   {
+    "h": "ঝুঁকি আর সমালোচনা",
+    "p": "কাছাকাছি উৎপাদনে শ্রম খরচ বেশি হয়, তাই মুনাফার margin-এ চাপ থাকে। Fast fashion মডেলকে পরিবেশ আর বর্জ্যের কারণে সমালোচনা সইতে হয়েছে, আর সরবরাহকারী কারখানার শ্রমিকদের কাজের পরিবেশ নিয়েও অতীতে প্রশ্ন উঠেছে। অতিরিক্ত চাহিদার পূর্বাভাস ভুল হলে মজুত জমার ঝুঁকিও থেকে যায়।"
+   }
+  ],
+  "lesson": "গতি আর তথ্য প্রতিযোগিতার বড় অস্ত্র: গ্রাহকের চাহিদা দ্রুত জেনে দ্রুত সাড়া দিতে পারলে মজুতের ঝুঁকি কমে আর বিক্রি বাড়ে। তবে এর জন্য supply chain-এর ওপর নিয়ন্ত্রণ আর নৈতিক দায়িত্ব দুটোই সামলাতে হয়।",
+  "question": "তোমার পছন্দের কোনো ব্র্যান্ডের জন্য কি Zara-র মতো ছোট batch আর দ্রুত সাড়ার মডেল কাজ করবে? কোন পণ্যে করবে না, আর কেন?"
+ },
+ "weekly": {
+  "title": "সপ্তাহের রিভিশন: AI-র উত্থান থেকে ধস, Fed-এর সুদ আর বাজারের শিক্ষা",
+  "summary": [
+   "Japan-এর GDP সংকুচিত হয়েছে (net exports আর উঁচু আমদানি খরচ), আর ভারতে WPI 12.29%-এ পৌঁছেছে, জ্বালানি-বিদ্যুতে 32.84%।",
+   "Nvidia-র রাজস্ব 103% বেড়ে প্রায় $115.8 বিলিয়ন হলেও পরে শেয়ার প্রায় 14% পড়েছে। ভালো ফলও উঁচু valuation বাঁচায় না।",
+   "Anthropic $83 দামে $81.3 বিলিয়ন তুলে রেকর্ড IPO করেছে, কিন্তু বাজার-ধসে দ্বিতীয় দিনেই শেয়ার $88.91-এ নেমেছে। Crowding out আর greenshoe এখানে প্রাসঙ্গিক।",
+   "Fed আরও সুদ বাড়ানোর পথে (monetary tightening), ডিসেম্বরে 25 বা 50 bps-এর আলোচনা চলছে। এতে সোনা আর AI শেয়ার চাপে পড়েছে।",
+   "S&P 500 সপ্তাহে 8.6% পড়েছে, Dow আর S&P correction-এ, আর বিদেশি FPI টাকা আমেরিকা ছেড়ে ভারতে আসায় Sensex নয় মাসের সর্বোচ্চে।"
+  ],
+  "quiz": [
+   {
+    "q": "Japan-এর GDP কোন কোয়ার্টারে annualized কত শতাংশ সংকুচিত হয়েছিল, যেখানে অর্থনীতিবিদরা বৃদ্ধি আশা করেছিলেন?",
+    "options": [
+     "0.1%",
+     "0.3%",
+     "1.4%",
+     "4.8%"
+    ],
+    "answer": 0,
+    "explain": "Japan-এর GDP জুলাই–সেপ্টেম্বর কোয়ার্টারে annualized 0.1% কমেছে, অথচ 0.3% বৃদ্ধি আশা ছিল। 1.4% ছিল আগের কোয়ার্টারের বৃদ্ধি।"
+   },
+   {
+    "q": "ভারতে অক্টোবরে WPI মূল্যবৃদ্ধি কত ছিল?",
+    "options": [
+     "6.09%",
+     "11.39%",
+     "32.84%",
+     "12.29%"
+    ],
+    "answer": 3,
+    "explain": "WPI সেপ্টেম্বরের 11.39% থেকে বেড়ে অক্টোবরে 12.29% হয়েছে। 32.84% ছিল শুধু জ্বালানি-বিদ্যুতের মূল্যবৃদ্ধি।"
+   },
+   {
+    "q": "Net exports-এর সূত্র কোনটি?",
+    "options": [
+     "রপ্তানি − আমদানি",
+     "আমদানি − রপ্তানি",
+     "রপ্তানি + আমদানি",
+     "রপ্তানি ÷ আমদানি"
+    ],
+    "answer": 0,
+    "explain": "Net exports = রপ্তানি − আমদানি। এটি GDP-র একটি উপাদান, তাই আমদানি খরচ বাড়লে GDP-র ওপর চাপ পড়ে।"
+   },
+   {
+    "q": "Nvidia-র তৃতীয় কোয়ার্টারের রাজস্ব এক বছর আগের চেয়ে কত শতাংশ বেড়েছিল?",
+    "options": [
+     "45%",
+     "39%",
+     "103%",
+     "17%"
+    ],
+    "answer": 2,
+    "explain": "রাজস্ব প্রায় $115.8 বিলিয়ন, যা এক বছরের হিসাবে 103% বেশি।"
+   },
+   {
+    "q": "Crowding out ধারণাটি সবচেয়ে ভালো বলতে কী বোঝায়?",
+    "options": [
+     "বড় বিনিয়োগ-চাহিদা অন্যদের তহবিল বা মনোযোগ সরিয়ে নেয়",
+     "সুদের হার কমা",
+     "রপ্তানি নিষিদ্ধ হওয়া",
+     "শেয়ার বাইব্যাক"
+    ],
+    "answer": 0,
+    "explain": "বড় একটি চাহিদা, যেমন সরকারি ঋণ বা বিশাল IPO, বাজারের তহবিল টেনে নিলে অন্যদের জন্য কম থাকে, একেই crowding out বলে।"
+   },
+   {
+    "q": "Anthropic-এর IPO দাম কত ঠিক হয়েছিল আর কত তুলেছিল?",
+    "options": [
+     "$78, $70 বিলিয়ন",
+     "$83, $81.3 বিলিয়ন",
+     "$97.17, $93.5 বিলিয়ন",
+     "$70, $50 বিলিয়ন"
+    ],
+    "answer": 1,
+    "explain": "IPO দাম ছিল শেয়ারপ্রতি $83, আর তুলেছে $81.3 বিলিয়ন। $97.17 ছিল অভিষেকের দিনের ক্লোজিং।"
+   },
+   {
+    "q": "অক্টোবরের নীতি-বৈঠকে Fed সুদের হার কত রেখেছিল (10-2 ভোটে)?",
+    "options": [
+     "2.5%–2.75%",
+     "4.25%–4.5%",
+     "5%–5.25%",
+     "3.75%–4%"
+    ],
+    "answer": 3,
+    "explain": "Fed 10-2 ভোটে হার 3.75%–4%-এ অপরিবর্তিত রেখেছিল; Cook ও Hammack 25 bps বাড়ানোর পক্ষে ভোট দেন।"
+   },
+   {
+    "q": "নতুন মার্কিন export controls-এর ফলে কোন প্রতিষ্ঠানের চীনা chip designer-দের ওপর কড়াকড়ির খবর এসেছে?",
+    "options": [
+     "Intel",
+     "Samsung",
+     "ASML",
+     "TSMC"
+    ],
+    "answer": 3,
+    "explain": "নতুন মার্কিন রপ্তানি নিয়মে TSMC-র চীনা chip designer-দের ওপর কড়াকড়ির খবর এসেছে।"
+   },
+   {
+    "q": "শুক্রবার সপ্তাহে S&P 500-এর পতন কত ছিল, যা এপ্রিল 2025-এর পর সবচেয়ে খারাপ সপ্তাহ?",
+    "options": [
+     "3.70%",
+     "8.6%",
+     "1.93%",
+     "5.28%"
+    ],
+    "answer": 1,
+    "explain": "সপ্তাহে S&P 500 8.6% পড়েছে। 3.70% ছিল শুধু শুক্রবারের পতন।"
+   },
+   {
+    "q": "FPI-কে প্রায়ই 'গরম টাকা' বলা হয় কেন?",
+    "options": [
+     "কারণ এটি কারখানা গড়ে",
+     "কারণ এটি দ্রুত আসে আর দ্রুত বেরিয়ে যেতে পারে",
+     "কারণ এটি সরকারি ঋণ",
+     "কারণ এতে কোম্পানির নিয়ন্ত্রণ মেলে"
+    ],
+    "answer": 1,
+    "explain": "FPI সহজে বিক্রি করে বেরিয়ে যাওয়া যায়, তাই দ্রুত আসে আর যায়। কারখানা বা নিয়ন্ত্রণ মেলে FDI-তে।"
+   }
+  ]
+ },
+ "en": {
+  "dateLabel": "Sunday, 22 November 2026",
+  "news": [
+   {
+    "id": "n1",
+    "category": "Markets",
+    "title": "Wall Street heads into a short Thanksgiving week after the AI rout, with the Dow and S&P 500 in correction",
+    "summary": "After Friday's slide, both the Dow and the S&P 500 are in correction territory, and the Nasdaq Composite has erased all of its 2026 gains. Schwab says the chip index (SOX) is almost 30% below its recent peaks. Neither Anthropic's IPO nor Nvidia's results gave the AI trade the lift investors hoped for. Next week is shortened by Thanksgiving, and on Friday 27 November stocks close at 1 p.m. Analysts are split: some see a possible bottom, others warn of more volatility.",
+    "why": "Correction (a 10% fall from a record) and market sentiment show up directly here. Thin holiday trading also shows how liquidity can make prices swing more.",
+    "source": {
+     "name": "CNBC",
+     "url": "https://www.cnbc.com/2026/11/20/stock-market-next-week-outlook-for-nov-23-27-2026.html"
+    }
+   },
+   {
+    "id": "n2",
+    "category": "Central banks",
+    "title": "Fed's Waller: a half-point hike in December should be on the table",
+    "summary": "According to Reuters, Fed Governor Christopher Waller has signalled that the Fed must respond more aggressively to inflation. In his view it should either approve a half-point (50 bps) hike in December or signal a faster pace of hikes in 2027. Different CME FedWatch snapshots put the odds of at least a 25 bps hike at the 8-9 December meeting at roughly 90% to 97%. The latest PCE inflation reading, for September, was 3.7% overall and 3.1% core.",
+    "why": "Monetary tightening and the link between interest rates and inflation are exam favourites. Markets pricing in a move before the Fed acts is a classic case of forward guidance.",
+    "source": {
+     "name": "BusinessDay (Reuters)",
+     "url": "https://www.businessday.co.za/world/americas/2026-11-18-waller-hints-at-more-aggressive-fed-response-over-inflation/"
+    }
+   },
+   {
+    "id": "n3",
+    "category": "Tech",
+    "title": "Chip stocks hit by a sell-off: SOX falls 10.7% in a day, Nvidia down 14%",
+    "summary": "The Houston Chronicle reports that the Philadelphia Semiconductor Index (SOX) fell 10.7% on Friday. Nvidia has fallen on 9 of the last 10 days and closed 14% lower on Friday. Investors were in risk-off mode that day, moving out of risky assets into safer ones. Doubts about high AI valuations are now the market's main talking point.",
+    "why": "Valuation and concentration risk (the market depending on a few stocks) are on full display. It is a live lesson in why portfolio diversification matters.",
+    "source": {
+     "name": "Houston Chronicle (AP)",
+     "url": "https://www.houstonchronicle.com/news/world/article/asia-shares-drop-on-ai-worries-echoing-wall-22540883.php"
+    }
+   },
+   {
+    "id": "n4",
+    "category": "IPO",
+    "title": "Anthropic falls about 8.5% to $88.91 on day two; underwriters' greenshoe could add $12.2 billion",
+    "summary": "Anthropic shares closed about 8.5% lower at $88.91 on their second day of trading (per Bloomberg; another source says $88.30). The debut-day close was $97.17 against the $83 IPO price. After raising $81.3 billion on 980 million shares, underwriters hold a 30-day option on about 147 million more shares, worth roughly $12.2 billion. If fully used, the total raised would be about $93.5 billion. Reports differ on whether the full option has been exercised.",
+    "why": "IPO pricing, the underwriter's role and the greenshoe option are core corporate finance topics. Today's term and blog build on this.",
+    "source": {
+     "name": "Dealroom",
+     "url": "https://dealroom.co/news/174680-anthropic-shares-slide-toward-83-ipo-price-as-ai-trade-wobbles/"
+    }
+   },
+   {
+    "id": "n5",
+    "category": "Commodities",
+    "title": "Gold falls 4.62% to $3,515 as Fed rate-hike fears build",
+    "summary": "Yahoo Finance reports Comex gold (GC=F) closed down $170.10 (4.62%) at $3,515.40 on Friday. It attributes the fall to rate-hike expectations crystallising. Another source (a CFD) shows a 2.51% fall, so figures differ by source. On the same day Brent crude rose about 0.6% to settle at $92.57.",
+    "why": "When interest rates rise, gold, which pays no interest, looks less attractive. That is the idea of opportunity cost, and it also shows the inverse link between gold and the dollar.",
+    "source": {
+     "name": "Yahoo Finance",
+     "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-friday-november-20-2026-gold-prices-continue-to-fall-as-rate-hike-expectations-crystallize-121116915.html"
+    }
+   },
+   {
+    "id": "n6",
+    "category": "India",
+    "title": "Sensex gains 898 points to 83,919.71, a nine-month high; rupee at 92.67, a seven-month best",
+    "summary": "On Friday the Sensex rose 897.96 points (1.08%) to 83,919.71 and the Nifty 50 gained 286.30 points (1.12%) to 25,800.60. For the week the Sensex rose 2.85% (2,327.26 points). The rupee strengthened for a fifth straight session, gaining 62 paise to close at 92.67 per dollar, a seven-month high. A headline says foreign institutions put record money into Indian equities in November, though we have not verified that figure at a primary source.",
+    "why": "Money leaving US AI stocks and heading to India shows how capital flows relate to exchange rates. It links directly to yesterday's FPI term.",
+    "source": {
+     "name": "HDFC Sky",
+     "url": "https://hdfcsky.com/news/market-close-report-today-november-20-2026-nifty-sensex-scale-nine-month-highs-as-investors-dump-global-ai-for-india"
+    }
+   },
+   {
+    "id": "n7",
+    "category": "Central banks",
+    "title": "ECB warns a sudden AI-valuation shock could threaten euro-area financial stability",
+    "summary": "The ECB's Financial Stability Review, published on 18 November, names AI valuations, fiscal imbalances and geoeconomic tensions as the three main risks. It says AI valuations rest on ambitious earnings expectations, so prices could be repriced suddenly. It adds that banks' direct lending to AI is limited, and describes banks as resilient. The next review is due on 26 May 2027.",
+    "why": "This shows financial stability, systemic risk and macroprudential policy in practice. Central banks do not only set interest rates; they also watch market risks.",
+    "source": {
+     "name": "ECB",
+     "url": "https://ecb.europa.eu/press/financial-stability-publications/fsr/html/ecb.fsr202611~e03b919d36.en.html"
+    }
+   },
+   {
+    "id": "n8",
+    "category": "M&A",
+    "title": "ARGAN shareholders approve merger with WDP, paving the way for a large European logistics REIT",
+    "summary": "At the 20 November general meeting, shareholders of the French logistics REIT ARGAN approved the merger with WDP. Under the terms, each ARGAN share gets 3 newly issued WDP shares plus a proposed €11 exceptional distribution, implying about €79.22 per share. The combined group would span eight countries with about 13 million square metres of logistics space. Subject to conditions, completion is expected in the first quarter of 2027.",
+    "why": "An all-stock merger, the share exchange ratio and how a REIT is structured are all taught in one case. Think too about the pros and cons of paying in shares instead of cash.",
+    "source": {
+     "name": "GlobeNewswire (ARGAN)",
+     "url": "https://globenewswire.com/news-release/2026/11/20/3407706/0/en/combined-general-meeting-of-november-20-2026-argan-shareholders-approve-the-merger-with-wdp.html"
+    }
+   }
+  ],
+  "market": {
+   "asOf": "Closing on Friday, 20 November 2026 (markets closed at the weekend)",
+   "items": [
+    {
+     "name": "S&P 500",
+     "region": "US",
+     "value": "6,910.39",
+     "change": "-3.70%",
+     "dir": "down"
+    },
+    {
+     "name": "Dow Jones",
+     "region": "US",
+     "value": "48,147.33",
+     "change": "-1.93%",
+     "dir": "down"
+    },
+    {
+     "name": "Nasdaq",
+     "region": "US",
+     "value": "22,617.73",
+     "change": "-5.28%",
+     "dir": "down"
+    },
+    {
+     "name": "Sensex",
+     "region": "India",
+     "value": "83,919.71",
+     "change": "+1.08%",
+     "dir": "up"
+    },
+    {
+     "name": "Nifty 50",
+     "region": "India",
+     "value": "25,800.60",
+     "change": "+1.12%",
+     "dir": "up"
+    },
+    {
+     "name": "Brent Crude",
+     "region": "$ per barrel",
+     "value": "92.57",
+     "change": "+0.6%",
+     "dir": "up"
+    },
+    {
+     "name": "Gold",
+     "region": "$ per ounce",
+     "value": "3,515.40",
+     "change": "-4.62%",
+     "dir": "down"
+    },
+    {
+     "name": "USD/INR",
+     "region": "India",
+     "value": "92.67",
+     "change": "-0.62",
+     "dir": "down"
+    }
+   ]
+  },
+  "term": {
+   "term": "Greenshoe Option",
+   "bangla": "The underwriters' right to sell extra shares to steady an IPO's price",
+   "definition": "A greenshoe option is a right written into an IPO contract that lets underwriters sell up to about 15% more shares than the base offering and buy those extra shares from the company at the IPO price within 30 days. If the price falls, the underwriter buys shares in the market to support it; if the price rises, it exercises the option and takes shares from the company. The company raises extra money and post-listing price swings are reduced.",
+   "example": "Anthropic raised $81.3 billion on 980 million shares. Underwriters hold an option on about 147 million more shares, worth roughly $12.2 billion. If used in full, the total would be $93.5 billion, yet on day two the shares fell about 8.5% to $88.91.",
+   "formula": "Greenshoe shares ≈ base offering × 15%  (here 980 million × 15% = 147 million)",
+   "tip": "In an interview, say: a greenshoe is a price stabilisation tool. The underwriter sells an extra 15% up front and stays short; if the price falls it buys back in the market to cover, and if the price rises it uses the option."
+  },
+  "gd": {
+   "topic": "Is this AI stock sell-off a healthy correction or the start of a bubble bursting?",
+   "context": "The Dow and S&P 500 are in correction, the Nasdaq has erased its 2026 gains, and the ECB's Financial Stability Review names AI valuations as a key risk. At the same time the Fed is weighing more rate hikes.",
+   "for": [
+    "Valuations were far above earnings, so a fall is a normal market adjustment.",
+    "AI companies' revenue is still growing fast (Nvidia's rose 103%), so the business has not collapsed.",
+    "The ECB says banks' direct lending to AI is limited, so the risk of spreading through the financial system is lower."
+   ],
+   "against": [
+    "The ECB itself flags AI valuations as a risk of sudden repricing, and worries about debt and circular financing.",
+    "High valuations are hard to sustain as rates rise, because the present value of future earnings falls.",
+    "Global markets depend on a handful of AI stocks, so a shock could be very large."
+   ]
+  },
+  "blog": {
+   "title": "Greenshoe Option: the hidden safety net that steadies a big IPO",
+   "topic": "Corporate finance",
+   "readMin": 4,
+   "body": [
+    "Imagine a large company selling shares to the public for the first time. This is called an IPO (Initial Public Offering). A few big banks, called underwriters, decide the price, who gets how many shares and more. In the first days after listing, the share price can swing wildly. The greenshoe option exists to calm those swings, and it is in today's news.",
+    "## What a greenshoe actually is",
+    "A greenshoe option is a clause in the IPO contract. It lets underwriters sell up to about 15% more shares than the base offering. For the next 30 days they also have the right to buy those extra shares from the company at the IPO price. The name comes from the Green Shoe Manufacturing company, whose IPO is said to have been the first to use it.",
+    "## How it works",
+    "Say the base offering is 100 shares. The underwriter sells 115 shares to buyers. That means it has sold 15 shares it does not own yet, a short position. Two things can then happen. First, if the share price falls below the IPO price, the underwriter buys shares in the market at the lower price to cover its short. That buying creates demand, so the price cannot fall as far. Second, if the price stays above the IPO price, the underwriter exercises the option, takes the 15 shares from the company at the IPO price, and the company receives extra money.",
+    "## Match it to today's news",
+    "Anthropic sold 980 million shares at $83 each and raised $81.3 billion. Underwriters hold an option on about 147 million more shares. Take 15% of 980 million and you get exactly 147 million. That option is worth about $12.2 billion, and if used in full, the total raised would be about $93.5 billion.",
+    "Now look at the price. On debut day the stock closed at $97.17, 17% above the IPO price. On day two it fell about 8.5% to $88.91, in the middle of a sell-off across the whole AI sector. When the price slides toward the $83 IPO price, the stabilising role of a greenshoe matters most. But reports differ on whether the full option has actually been exercised, so we cannot say for certain.",
+    "## Gains and losses for the company and investors",
+    "For the company, the benefit is that when demand is strong it can sell extra shares and raise more money. For investors, the benefit is a lower chance of the price collapsing right after listing. It is not a guarantee, though. If selling pressure in the market is heavy, even the underwriter's buying cannot hold the price. When a whole sector is under pressure, saving one stock on its own is close to impossible. There is also dilution: if the option is used, new shares are issued and existing shareholders' ownership share shrinks a little.",
+    "## A practical lesson for BBA students",
+    "First, when you read IPO news, do not stop at the price and the money raised. Look at the structure of the offering: how many shares, how big the greenshoe is, who is selling. Second, remember the arithmetic: base offering × 15%. A direct numerical question can come from this formula. Third, stabilisation does not mean controlling the price; it means trying to reduce the shocks. If the market turns, no mechanism can hold a price. Finally, watching how an IPO behaves in a sell-off like today's shows why even a good company can be helpless against market mood."
+   ],
+   "takeaways": [
+    "A greenshoe option lets underwriters sell up to about 15% extra shares and buy them from the company at the IPO price within 30 days.",
+    "If the price falls the underwriter buys in the market to support it; if it rises the option is used and the company raises extra money.",
+    "For Anthropic, 15% of 980 million shares is 147 million, worth about $12.2 billion, but stabilisation has limits when the whole market is falling."
+   ]
+  },
+  "quiz": [
+   {
+    "q": "Up to what percentage of the base offering can underwriters typically sell as extra shares under a greenshoe option?",
+    "options": [
+     "5%",
+     "10%",
+     "15%",
+     "50%"
+    ],
+    "answer": 2,
+    "explain": "By the usual rule it is up to 15%. Fifteen percent of Anthropic's 980 million shares is exactly 147 million."
+   },
+   {
+    "q": "Which bigger move did Fed Governor Waller say should be considered for December?",
+    "options": [
+     "50 bps (half a point)",
+     "10 bps",
+     "100 bps",
+     "No hike, a cut"
+    ],
+    "answer": 0,
+    "explain": "According to Reuters, Waller signalled a half-point (50 bps) hike, or otherwise a signal of a faster pace in 2027."
+   },
+   {
+    "q": "What did the ECB's Financial Stability Review say about banks' direct lending to AI?",
+    "options": [
+     "It is very large and dangerous",
+     "There is no data",
+     "It is growing without control",
+     "It is limited"
+    ],
+    "answer": 3,
+    "explain": "The ECB said banks' direct lending to AI is limited, even though AI valuations create a risk of sudden repricing."
+   },
+   {
+    "q": "By what percentage did Comex gold fall to close at $3,515.40 on Friday (per Yahoo Finance)?",
+    "options": [
+     "1.08%",
+     "4.62%",
+     "2.51%",
+     "14%"
+    ],
+    "answer": 1,
+    "explain": "Yahoo Finance puts it at 4.62%. The 2.51% figure is from another source (a CFD), 1.08% is the Sensex gain and 14% is Nvidia's fall."
+   },
+   {
+    "q": "In the ARGAN-WDP merger, how many new WDP shares does each ARGAN share receive?",
+    "options": [
+     "1",
+     "2",
+     "5",
+     "3"
+    ],
+    "answer": 3,
+    "explain": "Under the terms each ARGAN share gets 3 newly issued WDP shares plus a €11 exceptional distribution, about €79.22 in total."
+   }
+  ],
+  "caseStudy": {
+   "week": "2026-W47",
+   "weekLabel": "16 – 22 November 2026",
+   "company": "Zara (Inditex)",
+   "title": "How Zara gets a design from drawing board to store in just weeks",
+   "concept": "Vertical Integration and Supply Chain Responsiveness",
+   "intro": "In 1975 Amancio Ortega opened the first Zara store in A Coruña, Spain. It grew into the biggest brand of the Inditex group. While other fashion companies plan collections many months before a season, Zara watches what is selling and quickly makes new designs.",
+   "sections": [
+    {
+     "h": "What it did",
+     "p": "Zara keeps design, cutting and a large part of key production under its own control, much of it in Spain and nearby countries close to headquarters. Stores regularly send data on what is selling, and new items are made in small batches accordingly and shipped to stores. Zara spends relatively little on advertising and uses its prime store locations as its main advertisement."
+    },
+    {
+     "h": "The result",
+     "p": "New designs reach stores in a very short time, and because fresh items arrive often, shoppers come back again and again. Inditex became one of the world's largest fashion retailers."
+    },
+    {
+     "h": "Why it worked",
+     "p": "Small batches mean less unsold stock, and designs that sell well can be quickly made again. Store data goes straight to the design team, so decisions rest on demand rather than guesses. Owning the supply chain makes it easier to keep both speed and quality."
+    },
+    {
+     "h": "Risks and criticism",
+     "p": "Producing close to home costs more in labour, which presses on profit margins. The fast-fashion model has faced criticism over environmental impact and waste, and questions have been raised in the past about working conditions at supplier factories. If demand forecasts are wrong, unsold stock can still build up."
+    }
+   ],
+   "lesson": "Speed and information are powerful competitive weapons: learning customer demand quickly and responding fast lowers inventory risk and lifts sales. But it requires managing both control of the supply chain and ethical responsibility.",
+   "question": "Would Zara's small-batch, fast-response model work for a brand you like? For which products would it not work, and why?"
+  },
+  "weekly": {
+   "title": "Weekly revision: from the AI boom to the rout, Fed hikes and market lessons",
+   "summary": [
+    "Japan's GDP shrank (net exports and a higher import bill), and India's WPI hit 12.29%, with fuel and power at 32.84%.",
+    "Nvidia's revenue rose 103% to about $115.8 billion, yet the shares later fell about 14%. Good results do not save a high valuation.",
+    "Anthropic raised a record $81.3 billion at $83, but in the market sell-off the shares fell to $88.91 by day two. Crowding out and the greenshoe are relevant here.",
+    "The Fed is on a tightening path, with 25 or 50 bps debated for December. Gold and AI shares have come under pressure.",
+    "The S&P 500 fell 8.6% on the week, the Dow and S&P are in correction, and as foreign FPI money left the US for India the Sensex hit a nine-month high."
+   ],
+   "quiz": [
+    {
+     "q": "In which quarter did Japan's GDP shrink, and by how much annualized, when economists expected growth?",
+     "options": [
+      "0.1%",
+      "0.3%",
+      "1.4%",
+      "4.8%"
+     ],
+     "answer": 0,
+     "explain": "Japan's GDP fell 0.1% annualized in July-September against an expected 0.3% rise. 1.4% was the previous quarter's growth."
+    },
+    {
+     "q": "What was India's WPI inflation in October?",
+     "options": [
+      "6.09%",
+      "11.39%",
+      "32.84%",
+      "12.29%"
+     ],
+     "answer": 3,
+     "explain": "WPI rose from 11.39% in September to 12.29% in October. 32.84% was inflation in fuel and power alone."
+    },
+    {
+     "q": "What is the formula for net exports?",
+     "options": [
+      "Exports − Imports",
+      "Imports − Exports",
+      "Exports + Imports",
+      "Exports ÷ Imports"
+     ],
+     "answer": 0,
+     "explain": "Net exports = exports − imports. It is a component of GDP, so a higher import bill pulls GDP down."
+    },
+    {
+     "q": "By what percentage did Nvidia's third-quarter revenue rise from a year earlier?",
+     "options": [
+      "45%",
+      "39%",
+      "103%",
+      "17%"
+     ],
+     "answer": 2,
+     "explain": "Revenue was about $115.8 billion, up 103% year on year."
+    },
+    {
+     "q": "Which best describes crowding out?",
+     "options": [
+      "A large demand for funds pulls money or attention away from others",
+      "A fall in interest rates",
+      "A ban on exports",
+      "A share buyback"
+     ],
+     "answer": 0,
+     "explain": "When one big demand, such as government borrowing or a giant IPO, absorbs market funds, less is left for others. That is crowding out."
+    },
+    {
+     "q": "What was Anthropic's IPO price and how much did it raise?",
+     "options": [
+      "$78, $70 billion",
+      "$83, $81.3 billion",
+      "$97.17, $93.5 billion",
+      "$70, $50 billion"
+     ],
+     "answer": 1,
+     "explain": "The IPO price was $83 a share and it raised $81.3 billion. $97.17 was the debut-day close."
+    },
+    {
+     "q": "Where did the Fed hold rates at its October meeting (10-2 vote)?",
+     "options": [
+      "2.5%-2.75%",
+      "4.25%-4.5%",
+      "5%-5.25%",
+      "3.75%-4%"
+     ],
+     "answer": 3,
+     "explain": "The Fed held at 3.75%-4% on a 10-2 vote; Cook and Hammack voted for a 25 bps hike."
+    },
+    {
+     "q": "New US export controls brought reports of tighter rules on Chinese chip designers for which company?",
+     "options": [
+      "Intel",
+      "Samsung",
+      "ASML",
+      "TSMC"
+     ],
+     "answer": 3,
+     "explain": "Reports said new US export rules tightened curbs on TSMC's Chinese chip-design customers."
+    },
+    {
+     "q": "By how much did the S&P 500 fall over the week, its worst since April 2025?",
+     "options": [
+      "3.70%",
+      "8.6%",
+      "1.93%",
+      "5.28%"
+     ],
+     "answer": 1,
+     "explain": "The S&P 500 fell 8.6% on the week. 3.70% was Friday's fall alone."
+    },
+    {
+     "q": "Why is FPI often called 'hot money'?",
+     "options": [
+      "Because it builds factories",
+      "Because it comes quickly and can leave quickly",
+      "Because it is government debt",
+      "Because it gives control of the company"
+     ],
+     "answer": 1,
+     "explain": "FPI can be sold easily, so it comes and goes fast. Factories and control come with FDI."
+    }
+   ]
+  }
+ }
+}

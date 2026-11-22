@@ -1,6 +1,23 @@
 {
  "terms": [
   {
+   "date": "2026-11-22",
+   "term": "Greenshoe Option",
+   "bangla": "গ্রিনশু অপশন: IPO-র দাম স্থির রাখতে underwriter-দের বাড়তি শেয়ার বেচার অধিকার",
+   "definition": "Greenshoe option হল IPO-র চুক্তিতে underwriter-দের একটি অধিকার: নির্ধারিত আকারের চেয়ে সাধারণত 15% পর্যন্ত বেশি শেয়ার বিক্রি করা আর পরের 30 দিনের মধ্যে কোম্পানির কাছ থেকে সেই বাড়তি শেয়ার IPO দামে কেনার সুযোগ। শেয়ারের দাম পড়লে underwriter বাজার থেকে শেয়ার কিনে দাম ধরে রাখে, আর দাম বাড়লে option কাজে লাগিয়ে কোম্পানির কাছ থেকে শেয়ার নেয়। এতে কোম্পানি বাড়তি টাকা তোলে আর লিস্টিংয়ের পর দামের ওঠানামা কমে।",
+   "example": "Anthropic 980 মিলিয়ন শেয়ারে $81.3 বিলিয়ন তুলেছে। Underwriter-দের হাতে আরও প্রায় 147 মিলিয়ন শেয়ারের option আছে, যার মূল্য প্রায় $12.2 বিলিয়ন। পুরোটা কাজে লাগলে মোট $93.5 বিলিয়ন হবে, অথচ দ্বিতীয় দিনে শেয়ার প্রায় 8.5% পড়ে $88.91-এ নেমেছে।",
+   "formula": "Greenshoe শেয়ার ≈ মূল offering × 15%  (এখানে 980 মিলিয়ন × 15% = 147 মিলিয়ন)",
+   "tip": "Interview-এ বলো: greenshoe একটি price stabilization উপায়। Underwriter অতিরিক্ত 15% শেয়ার আগে বেচে short থাকে; দাম পড়লে বাজার থেকে কিনে সেই short পূরণ করে, দাম বাড়লে option ব্যবহার করে।",
+   "en": {
+    "term": "Greenshoe Option",
+    "bangla": "The underwriters' right to sell extra shares to steady an IPO's price",
+    "definition": "A greenshoe option is a right written into an IPO contract that lets underwriters sell up to about 15% more shares than the base offering and buy those extra shares from the company at the IPO price within 30 days. If the price falls, the underwriter buys shares in the market to support it; if the price rises, it exercises the option and takes shares from the company. The company raises extra money and post-listing price swings are reduced.",
+    "example": "Anthropic raised $81.3 billion on 980 million shares. Underwriters hold an option on about 147 million more shares, worth roughly $12.2 billion. If used in full, the total would be $93.5 billion, yet on day two the shares fell about 8.5% to $88.91.",
+    "formula": "Greenshoe shares ≈ base offering × 15%  (here 980 million × 15% = 147 million)",
+    "tip": "In an interview, say: a greenshoe is a price stabilisation tool. The underwriter sells an extra 15% up front and stays short; if the price falls it buys back in the market to cover, and if the price rises it uses the option."
+   }
+  },
+  {
    "date": "2026-11-21",
    "term": "Foreign Portfolio Investment (FPI)",
    "bangla": "বিদেশি পোর্টফোলিও বিনিয়োগ: বিদেশি বিনিয়োগকারীর শেয়ার-বন্ডে বিনিয়োগ, কোম্পানির নিয়ন্ত্রণ ছাড়া",
