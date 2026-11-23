@@ -1,6 +1,23 @@
 {
  "terms": [
   {
+   "date": "2026-11-23",
+   "term": "Revenue Recognition",
+   "bangla": "রাজস্ব স্বীকৃতি: কখন আয়কে কোম্পানির খাতায় আয় হিসেবে ধরা হবে, তার নিয়ম",
+   "definition": "Revenue recognition হল accounting-এর সেই নিয়ম, যা ঠিক করে কোনো বিক্রি বা পরিষেবা থেকে আয় কখন আর কতটা কোম্পানির আয়-বিবরণীতে দেখানো যাবে। সাধারণ নীতি হল, পণ্য বা পরিষেবার নিয়ন্ত্রণ গ্রাহকের হাতে গেলে আয় ধরা হয়, টাকা হাতে আসার সময় নয়। নিয়ম বাঁকিয়ে আগেভাগে আয় দেখালে মুনাফা ফুলিয়ে দেখানো হয়, তাই regulator-রা এ বিষয়ে কড়া নজর রাখে।",
+   "example": "Nvidia-র শেয়ার 14% পড়েছে Reuters-এর এই খবরে যে SEC কোম্পানির সম্ভাব্য accounting সমস্যা খতিয়ে দেখছে। কোন বিষয় দেখা হচ্ছে তা নিশ্চিত নয় এবং তদন্ত মানেই অনিয়ম নয়, তবু বিনিয়োগকারীরা প্রতিটি রিপোর্টেড আয়ের ওপর আস্থা রাখেন বলেই দাম এত দ্রুত পড়েছে।",
+   "formula": "",
+   "tip": "Interview-এ বলো: revenue recognition-এর মূল প্রশ্ন হল 'আয় কখন অর্জিত হল?', টাকা কখন এল তা নয় (accrual basis)। সঙ্গে উল্লেখ কোরো যে নিয়ম বাঁকালে earnings quality কমে যায়।",
+   "en": {
+    "term": "Revenue Recognition",
+    "bangla": "When a sale counts as earned revenue",
+    "definition": "Revenue recognition is the accounting rule that decides when, and how much, income from a sale or service can be shown in a company's income statement. The basic principle is that revenue is recorded when control of the goods or service passes to the customer, not when cash arrives. Recording revenue early inflates profit, so regulators watch this area closely.",
+    "example": "Nvidia's stock fell 14% on a Reuters report that the SEC is examining possible accounting issues. What is being examined is not confirmed and a probe is not proof of wrongdoing, yet investors depend on the trustworthiness of reported revenue, which is why the price fell so fast.",
+    "formula": "",
+    "tip": "In interviews say: the key question in revenue recognition is 'when was the revenue earned?', not 'when did the cash arrive?' (accrual basis). Add that bending the rules lowers earnings quality."
+   }
+  },
+  {
    "date": "2026-11-22",
    "term": "Greenshoe Option",
    "bangla": "গ্রিনশু অপশন: IPO-র দাম স্থির রাখতে underwriter-দের বাড়তি শেয়ার বেচার অধিকার",

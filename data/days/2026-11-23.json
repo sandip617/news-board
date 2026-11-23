@@ -1,0 +1,579 @@
+{
+ "date": "2026-11-23",
+ "dateLabel": "২৩ নভেম্বর ২০২৬, সোমবার",
+ "edition": 1,
+ "updatedAt": "2026-11-23T07:10:00+05:30",
+ "news": [
+  {
+   "id": "n1",
+   "category": "কোম্পানি",
+   "title": "Nvidia-র শেয়ার 14% পড়ল: SEC নাকি কোম্পানির accounting খতিয়ে দেখছে",
+   "summary": "Reuters-এর প্রতিবেদন অনুযায়ী, দুজন ওয়াকিবহাল ব্যক্তির সূত্রে জানা গেছে, মার্কিন নিয়ন্ত্রক সংস্থা SEC-র enforcement কর্মীরা Nvidia-র সম্ভাব্য accounting সমস্যা খতিয়ে দেখছেন। শুক্রবার শেয়ার 14.01% পড়ে $125.53-এ বন্ধ হয়েছে, আর সপ্তাহে পতন প্রায় 23%, যা 2008 সালের পর সবচেয়ে খারাপ সাপ্তাহিক পতন। SEC মন্তব্য করেনি, Nvidia-ও সাড়া দেয়নি। কোন বিষয় খতিয়ে দেখা হচ্ছে বা কবে শুরু হয়েছে, তা নিশ্চিত নয়। তদন্ত মানেই অনিয়মের প্রমাণ নয়, অনেক তদন্ত কোনো শাস্তি ছাড়াই শেষ হয়।",
+   "why": "Revenue recognition আর corporate governance-এর ধারণা এখানে সরাসরি মিলছে। বিনিয়োগকারীরা accounting-এর স্বচ্ছতার ওপর ভরসা করেন, তাই শুধু তদন্তের খবরেই শেয়ারের দাম ধসে যেতে পারে।",
+   "source": {
+    "name": "The Next Web",
+    "url": "https://thenextweb.com/news/sec-examines-nvidias-accounting-as-its-stock-suffers-worst-run-since-2008"
+   }
+  },
+  {
+   "id": "n2",
+   "category": "বাজার",
+   "title": "Correction-এ Wall Street, তবু সোমবারের আগে futures প্রায় 2% চড়া",
+   "summary": "শুক্রবার S&P 500 3.70% পড়ে 6,910.39, Dow 1.93% পড়ে 48,147.33 আর Nasdaq 5.28% পড়ে 22,617.73-এ বন্ধ হয়েছে। তিনটি সূচকই রেকর্ড স্তর থেকে 10%-এর বেশি নিচে, অর্থাৎ correction-এ। Nasdaq আর Dow-র জন্য এটি ছয় বছরের বেশি সময়ের সবচেয়ে খারাপ সপ্তাহ। রবিবার সন্ধ্যায় লেনদেন শুরু হতেই S&P 500 futures প্রায় 2% বেড়েছে, Nasdaq-100 futures-এর বৃদ্ধি আরও বেশি। তবে futures-এর ইঙ্গিত সোমবারের আসল ক্লোজিংয়ের নিশ্চয়তা নয়।",
+   "why": "Correction আর futures দুটোই syllabus-এর বিষয়। Futures দিয়ে বাজার খোলার আগেই প্রত্যাশা বোঝা যায়, কিন্তু অস্থির বাজারে সেই প্রত্যাশা দ্রুত উল্টে যেতে পারে, এটাই volatility-র পাঠ।",
+   "source": {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/22/stock-market-today-live-updates.html"
+   }
+  },
+  {
+   "id": "n3",
+   "category": "অর্থনীতি",
+   "title": "Thanksgiving-এর ছোট সপ্তাহ: বুধবার PCE inflation, GDP আর Beige Book",
+   "summary": "এই সপ্তাহে মার্কিন বাজার বৃহস্পতিবার Thanksgiving-এর জন্য বন্ধ থাকবে। বুধবার একসঙ্গে আসবে অক্টোবরের PCE inflation (Fed-এর পছন্দের মূল্যবৃদ্ধির মাপকাঠি), personal income ও spending, তৃতীয় প্রান্তিকের GDP-র দ্বিতীয় অনুমান, durable goods এবং Fed-এর Beige Book। একটি জরিপে GDP-র পূর্বাভাস 3.6%, আর core PCE মাসে 0.3% ও বছরে 3.2% বাড়ার আশা করা হয়েছে। মঙ্গলবার Dell ফল দেবে। AI শেয়ারের ধসের পর এই তথ্য Fed-এর ডিসেম্বরের সিদ্ধান্তের দিশা দেবে।",
+   "why": "PCE আর GDP-র মতো macroeconomic indicator কীভাবে monetary policy-তে প্রভাব ফেলে, এটাই এখানে শেখার বিষয়। উচ্চ inflation মানে Fed-এর সুদ বাড়ানোর চাপ।",
+   "source": {
+    "name": "FXEmpire",
+    "url": "https://www.fxempire.com/forecasts/article/the-week-ahead-pce-in-focus-after-ai-sell-off-in-holiday-shortened-week-1646337"
+   }
+  },
+  {
+   "id": "n4",
+   "category": "বিশ্ব অর্থনীতি",
+   "title": "Goldman-এর 2027 পূর্বাভাস: বিশ্ব GDP 2.8%, AI investment $1.8 ট্রিলিয়ন, Brent $78",
+   "summary": "Goldman Sachs-এর 2027 outlook অনুযায়ী বিশ্ব GDP বৃদ্ধি 2026-এর 2.7% থেকে সামান্য বেড়ে 2.8% হবে। তাদের মতে AI-তে বিশ্বব্যাপী বিনিয়োগ $1.1 ট্রিলিয়ন থেকে বেড়ে $1.8 ট্রিলিয়ন হবে, যা বিশ্ব GDP-তে প্রায় 0.4 শতাংশ পয়েন্ট যোগ করবে। Brent তেলের দাম 2027-এর শেষ নাগাদ $78-এ নামবে বলে তারা ধরছে, যদিও এই অনুমান ধরে নিয়েছে যে ইরান যুদ্ধে কোনো নিষ্পত্তি হবে না। আরও সুদ বাড়ার সম্ভাবনাও তাদের বিশ্লেষণে আছে, তবে প্রতিবেদনগুলোতে কত বার, তা নিয়ে মতভেদ আছে।",
+   "why": "Forecasting আর macro outlook কীভাবে তৈরি হয়, তা এখানে দেখা যাচ্ছে। AI capex এখন বৃদ্ধির মূল চালিকাশক্তি, তাই AI শেয়ারের পতন বাস্তব অর্থনীতির জন্যও ঝুঁকি।",
+   "source": {
+    "name": "BusinessToday",
+    "url": "https://www.businesstoday.in/markets/story/goldman-sachs-sees-brent-easing-to-78-by-late-2027-despite-ongoing-west-asia-tensions-heres-why-568921-2026-11-22"
+   }
+  },
+  {
+   "id": "n5",
+   "category": "পণ্য",
+   "title": "তেল টানা তৃতীয় সপ্তাহে সস্তা: Brent $92.57, 29 নভেম্বর OPEC+ বৈঠক",
+   "summary": "পশ্চিম এশিয়া থেকে তেল রপ্তানির প্রবাহ ভালো থাকায় Brent টানা তৃতীয় সপ্তাহে পড়েছে। জানুয়ারির চুক্তির Brent শুক্রবার $92.57-এ settle করেছে, দিনে 0.64% বেশি, কিন্তু সপ্তাহে 3.41% কম। রবিবার 29 নভেম্বর OPEC+ বৈঠকে 2027-এর উৎপাদন quota নিয়ে সিদ্ধান্তের কথা, তার আগে সদস্যদের উৎপাদন ক্ষমতার পর্যালোচনা শেষ করতে হবে। বাজার বিশ্লেষকদের পরের সপ্তাহের অনুমিত পরিসর মোটামুটি $88-$96।",
+   "why": "Supply, demand আর cartel-এর ধারণা এখানে মিলছে। OPEC+ উৎপাদন বাড়ালে supply বাড়ে ও দাম কমে, আর তেলের দাম কমলে ভারতের মতো আমদানিকারক দেশের inflation আর current account-এ স্বস্তি আসে।",
+   "source": {
+    "name": "Business Standard",
+    "url": "https://www.business-standard.com/amp/markets/news/oil-prices-set-for-3rd-straight-week-of-decline-on-west-asia-export-flows-126112001415_1.html"
+   }
+  },
+  {
+   "id": "n6",
+   "category": "ভারত",
+   "title": "রুপি সপ্তাহে প্রায় 1.75% শক্ত, FPI inflow প্রায় $13 বিলিয়ন; অক্টোবরে CPI 6.09%",
+   "summary": "রুপি শুক্রবার সপ্তাহে প্রায় 157 paise বেড়ে 92.67 প্রতি ডলারে পৌঁছেছে, যা 2026 সালের সেরা সাপ্তাহিক লাভ। Kotak Neo-র এক বিশ্লেষকের মতে নভেম্বরে বিদেশি পোর্টফোলিও বিনিয়োগ প্রায় $13 বিলিয়নে পৌঁছেছে, যা মাসিক রেকর্ড হতে পারে। তেলের দাম কমাও রুপিকে সাহায্য করেছে। অন্যদিকে অক্টোবরে ভারতের CPI inflation 6.09%, যা RBI-এর 6% উপরের সীমার ওপরে, তাই ডিসেম্বরে সুদ বাড়ার আশঙ্কা জোরালো বলে এক ব্রোকারেজ মনে করছে।",
+   "why": "Exchange rate, FPI আর inflation targeting-এর সম্পর্ক এখানে স্পষ্ট। বিদেশি মূলধন ঢুকলে রুপি শক্ত হয়, কিন্তু inflation সীমা ছাড়ালে RBI-কে সুদ বাড়াতে হতে পারে।",
+   "source": {
+    "name": "ANI",
+    "url": "https://aninews.in/news/business/rupee-poised-to-appreciate-towards-91821192-on-record-fpi-inflows-crude-enters-888211100-comfort-zone-kotak-neo20261120141130/"
+   }
+  },
+  {
+   "id": "n7",
+   "category": "কেন্দ্রীয় ব্যাংক",
+   "title": "BoE এ বছরের প্রথম সুদ বাড়াল 25 bps, ডলার এপ্রিল 2025-এর পর সর্বোচ্চের কাছে",
+   "summary": "Reuters-এর এক প্রতিবেদন অনুযায়ী Bank of England এই মাসের শুরুতে সুদের হার 25 basis point বাড়িয়েছে, যা এ বছরের প্রথম বৃদ্ধি। একই প্রতিবেদনে বলা হয়েছে ডলার এপ্রিল 2025-এর পর তার সর্বোচ্চ স্তরের কাছাকাছি আছে। Fed, BoE আর RBI, বিভিন্ন কেন্দ্রীয় ব্যাংক এখন inflation ঠেকাতে কড়া নীতির দিকে ঝুঁকছে। উচ্চ সুদের হার সাধারণত ডলারকে শক্ত করে।",
+   "why": "Monetary tightening আর interest rate differential মুদ্রার দামে কীভাবে প্রভাব ফেলে, এটাই এখানে জানার বিষয়। বিভিন্ন দেশের কেন্দ্রীয় ব্যাংক একই দিকে চললে তার প্রভাব বিশ্ববাজারে ছড়ায়।",
+   "source": {
+    "name": "Business Recorder",
+    "url": "https://www.brecorder.com/news/40450274/sterling-edges-up-against-the-dollar"
+   }
+  },
+  {
+   "id": "n8",
+   "category": "IPO",
+   "title": "Anthropic-এর শেয়ার IPO দামের ওপরে, কিন্তু দ্বিতীয় দিনে 9-12% পর্যন্ত নেমেছে",
+   "summary": "Anthropic প্রতি শেয়ার $83 দামে প্রায় 980 মিলিয়ন শেয়ার বিক্রি করে $81.3 বিলিয়ন তুলেছে। অভিষেকের দিন শেয়ার $111.50-তে খুলে $97.17-এ বন্ধ হয়েছে, অর্থাৎ IPO দামের চেয়ে 17.07% ওপরে। শুক্রবার AI শেয়ারে ধসের মধ্যে প্রথম দিকের লেনদেনে প্রায় 9% পড়ে, পরে 12% পর্যন্ত নেমেছে, তবে IPO দামের ওপরেই থেকেছে। বাজার মূল্য নিয়ে সূত্রগুলোর হিসাব আলাদা, কারণ share count-এর ধরন ভিন্ন।",
+   "why": "IPO pricing আর after-market performance-এর পাঠ এখানে আছে। অভিষেকের উত্থান মানেই দীর্ঘমেয়াদি লাভ নয়, বাজার খারাপ হলে নতুন শেয়ারও দ্রুত পড়তে পারে।",
+   "source": {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html"
+   }
+  }
+ ],
+ "market": {
+  "asOf": "২০ নভেম্বর ২০২৬, শুক্রবারের ক্লোজিং (সোমবারের মার্কিন ক্লোজিং এখনও আসেনি; সোনা: রবিবার সন্ধ্যার Kitco দাম)",
+  "items": [
+   {
+    "name": "S&P 500",
+    "region": "US",
+    "value": "6,910.39",
+    "change": "-3.70%",
+    "dir": "down"
+   },
+   {
+    "name": "Dow Jones",
+    "region": "US",
+    "value": "48,147.33",
+    "change": "-1.93%",
+    "dir": "down"
+   },
+   {
+    "name": "Nasdaq",
+    "region": "US",
+    "value": "22,617.73",
+    "change": "-5.28%",
+    "dir": "down"
+   },
+   {
+    "name": "Sensex",
+    "region": "ভারত",
+    "value": "83,919.71",
+    "change": "+1.08%",
+    "dir": "up"
+   },
+   {
+    "name": "Nifty 50",
+    "region": "ভারত",
+    "value": "25,800.60",
+    "change": "+1.12%",
+    "dir": "up"
+   },
+   {
+    "name": "Brent Crude",
+    "region": "$/ব্যারেল",
+    "value": "92.57",
+    "change": "+0.64%",
+    "dir": "up"
+   },
+   {
+    "name": "Gold",
+    "region": "$/আউন্স (Kitco, রবি সন্ধ্যা)",
+    "value": "3,568.60",
+    "change": "",
+    "dir": "flat"
+   },
+   {
+    "name": "USD/INR",
+    "region": "ভারত",
+    "value": "92.67",
+    "change": "-1.57 (সপ্তাহে)",
+    "dir": "down"
+   }
+  ]
+ },
+ "term": {
+  "term": "Revenue Recognition",
+  "bangla": "রাজস্ব স্বীকৃতি: কখন আয়কে কোম্পানির খাতায় আয় হিসেবে ধরা হবে, তার নিয়ম",
+  "definition": "Revenue recognition হল accounting-এর সেই নিয়ম, যা ঠিক করে কোনো বিক্রি বা পরিষেবা থেকে আয় কখন আর কতটা কোম্পানির আয়-বিবরণীতে দেখানো যাবে। সাধারণ নীতি হল, পণ্য বা পরিষেবার নিয়ন্ত্রণ গ্রাহকের হাতে গেলে আয় ধরা হয়, টাকা হাতে আসার সময় নয়। নিয়ম বাঁকিয়ে আগেভাগে আয় দেখালে মুনাফা ফুলিয়ে দেখানো হয়, তাই regulator-রা এ বিষয়ে কড়া নজর রাখে।",
+  "example": "Nvidia-র শেয়ার 14% পড়েছে Reuters-এর এই খবরে যে SEC কোম্পানির সম্ভাব্য accounting সমস্যা খতিয়ে দেখছে। কোন বিষয় দেখা হচ্ছে তা নিশ্চিত নয় এবং তদন্ত মানেই অনিয়ম নয়, তবু বিনিয়োগকারীরা প্রতিটি রিপোর্টেড আয়ের ওপর আস্থা রাখেন বলেই দাম এত দ্রুত পড়েছে।",
+  "formula": "",
+  "tip": "Interview-এ বলো: revenue recognition-এর মূল প্রশ্ন হল 'আয় কখন অর্জিত হল?', টাকা কখন এল তা নয় (accrual basis)। সঙ্গে উল্লেখ কোরো যে নিয়ম বাঁকালে earnings quality কমে যায়।"
+ },
+ "gd": {
+  "topic": "AI শেয়ারের ধসের মধ্যেও কি কেন্দ্রীয় ব্যাংকগুলোর সুদ বাড়ানো চালিয়ে যাওয়া উচিত?",
+  "context": "Wall Street correction-এ, Nvidia-র শেয়ার সপ্তাহে প্রায় 23% পড়েছে, অথচ BoE সুদ বাড়িয়েছে আর ভারতের CPI 6.09% হয়ে RBI-এর সীমার ওপরে। বাজারের পতন আর inflation লড়াই এক সঙ্গে চলছে।",
+  "for": [
+   "Inflation সীমা ছাড়ালে সুদ না বাড়ালে মূল্যবৃদ্ধি অভ্যাসে পরিণত হতে পারে, তাই কেন্দ্রীয় ব্যাংকের কাজ দামস্থিতি রক্ষা করা।",
+   "কেন্দ্রীয় ব্যাংকের কাজ শেয়ারবাজারকে বাঁচানো নয়, তাই শেয়ারের দাম পড়লেই নীতি বদলানো ঠিক নয়।",
+   "উঁচু সুদ ডলার ও রুপির মতো মুদ্রার দাম ও মূলধন প্রবাহে স্থিতি আনতে সাহায্য করতে পারে।"
+  ],
+  "against": [
+   "উঁচু সুদে ঋণ ব্যয়বহুল হয়, ফলে AI-র মতো বিনিয়োগ-নির্ভর খাতের বৃদ্ধি কমে যেতে পারে।",
+   "শেয়ারের ধস থেকে সম্পদ কমলে মানুষের ব্যয় কমে, তখন সুদ বাড়ালে মন্দার ঝুঁকি বাড়ে।",
+   "তেলের দাম কমছে, তাই কিছু inflation নিজে থেকেই কমতে পারে, অপেক্ষা করা যুক্তিসঙ্গত হতে পারে।"
+  ]
+ },
+ "blog": {
+  "title": "Revenue Recognition: কেন accounting-এর একটা খবরে শেয়ার 14% পড়ে যায়",
+  "topic": "Accounting ও Corporate Governance",
+  "readMin": 5,
+  "body": [
+   "কল্পনা করো তুমি একটা কোম্পানির শেয়ার কিনেছ, কারণ তার রাজস্ব প্রতি বছর দ্বিগুণ হচ্ছে। হঠাৎ খবর এল, নিয়ন্ত্রক সংস্থা তার accounting খতিয়ে দেখছে। শেয়ারের দাম এক দিনেই 14% পড়ে গেল। গত শুক্রবার Nvidia-র সঙ্গে ঠিক এটাই হয়েছে। আজ আমরা বুঝব, এই ধাক্কার পেছনের ধারণাটা কী: revenue recognition (রাজস্ব স্বীকৃতি)।",
+   "## Revenue recognition আসলে কী?",
+   "ধরো তুমি একটা কোম্পানির মালিক। অক্টোবরে একজন গ্রাহকের সঙ্গে চুক্তি করলে, যিনি পণ্য নেবেন ডিসেম্বরে আর টাকা দেবেন জানুয়ারিতে। প্রশ্ন হল, এই আয় কোন মাসের খাতায় উঠবে? Accounting বলে, আয় ধরতে হবে তখন, যখন তুমি পণ্য বা পরিষেবার নিয়ন্ত্রণ গ্রাহককে দিয়ে দিলে, টাকা হাতে আসার তারিখ দেখে নয়। একে বলে accrual basis। এই নিয়ম একই রাখা জরুরি, কারণ না হলে যে কেউ নিজের সুবিধামতো আয় আগে বা পরে দেখাতে পারত।",
+   "## নিয়ম বাঁকালে কী হয়?",
+   "কোম্পানির ওপর প্রতি প্রান্তিকে চাপ থাকে: analyst-দের আশা পূরণ করতে হবে। এই চাপে কিছু কোম্পানি আয়কে আগেভাগে খাতায় তুলে ফেলার লোভে পড়ে। এতে মুনাফা সাময়িকভাবে ফুলে ওঠে, কিন্তু পরে সেই আয় আর আসে না, আর বিনিয়োগকারীরা ঠকে যান। এজন্যই আমেরিকায় SEC আর ভারতে SEBI-র মতো regulator-রা আয়-ব্যয়ের হিসাবে কড়া নজর রাখে। কোম্পানির accounting-এর মান যত ভালো, তার earnings quality তত ভালো, আর বিনিয়োগকারীদের আস্থাও তত বেশি।",
+   "## আজকের খবরের সঙ্গে সংযোগ",
+   "Reuters-এর প্রতিবেদন অনুযায়ী, দুজন ওয়াকিবহাল ব্যক্তি জানিয়েছেন, SEC-র enforcement কর্মীরা Nvidia-র সম্ভাব্য accounting সমস্যা খতিয়ে দেখছেন। শুক্রবার শেয়ার 14.01% পড়ে $125.53-এ বন্ধ হয়েছে, আর সপ্তাহে পতন প্রায় 23%, যা 2008 সালের পর সবচেয়ে খারাপ। এখানে একটা জরুরি কথা মাথায় রাখো: SEC মন্তব্য করেনি, আর কোন বিষয়টা দেখা হচ্ছে তা নিশ্চিত নয়। তদন্ত মানেই অপরাধের প্রমাণ নয়, অনেক তদন্ত কোনো শাস্তি ছাড়াই শেষ হয়। তবু বাজার অনিশ্চয়তা পছন্দ করে না, তাই দাম আগেই কমে গেছে।",
+   "এই ধাক্কা আরও বড় হয়েছে কারণ আগের সপ্তাহগুলোতে Nvidia-র শেয়ার এমনিতেই পড়ছিল। তার CEO Jensen Huang পদত্যাগ করেছেন, আর পুরো AI শেয়ারের ওপর দিয়ে বিক্রির ঝড় বইছে। যখন বাজারের মন আগে থেকেই ভয়ে থাকে, তখন একটা খারাপ খবর অনেক বড় আকারে প্রতিফলিত হয়। একে বলা যায় market sentiment-এর প্রভাব।",
+   "## একজন BBA ছাত্র কীভাবে accounting-এর ঝুঁকি বুঝবে?",
+   "প্রথমত, শুধু আয়ের বৃদ্ধির হার দেখলে চলবে না। Cash flow statement-এর সঙ্গে income statement মিলিয়ে দেখো: মুনাফা বাড়ছে অথচ নগদ প্রবাহ বাড়ছে না, এটা সতর্ক হওয়ার সংকেত। দ্বিতীয়ত, receivables বা বাকি পাওনা হঠাৎ অনেক বেড়ে গেলে প্রশ্ন করো, আয়টা কি সত্যিই আদায় হবে? তৃতীয়ত, কোম্পানি যদি ঘন ঘন accounting policy বদলায় বা আয়ের শ্রেণিবিভাগের পদ্ধতি পাল্টায়, তাহলে তার কারণ জানার চেষ্টা করো। এগুলো কোনো অপরাধের প্রমাণ নয়, কিন্তু আরও খতিয়ে দেখার ইঙ্গিত।",
+   "## বিনিয়োগকারী আর সিদ্ধান্ত",
+   "অনেকে ভাবেন, একটা খবর শুনে শেয়ার বেচে দেওয়াই নিরাপদ। কিন্তু তথ্য যাচাই না করে আতঙ্কে বেচা আরেক ধরনের ভুল। বুদ্ধিমান বিনিয়োগকারী প্রশ্ন করেন: খবরটা নিশ্চিত, না গুজব? কোম্পানির ব্যবসা কি সত্যিই বদলেছে? আমার বিনিয়োগের সময়সীমা কত? এই তিনটি প্রশ্নের উত্তর ছাড়া সিদ্ধান্ত নিলে সেটা বিশ্লেষণ নয়, অনুমান।",
+   "আরেকটা উদাহরণ ভাবো। ধরো একটা সফটওয়্যার কোম্পানি তিন বছরের পরিষেবার চুক্তি করল। পুরো টাকা একবারে পেলেও সেই আয় একবারে ধরা যায় না, কারণ পরিষেবা তিন বছর ধরে দেওয়া হবে। প্রতি বছর এক-তৃতীয়াংশ করে আয় ধরতে হয়। এই ধরনের নিয়ম মেনে চললে কোম্পানির বছরওয়ারি ফল তুলনীয় আর বিশ্বাসযোগ্য থাকে। ভারতে Ind AS 115 আর আন্তর্জাতিকভাবে IFRS 15 এই নীতিগুলো ঠিক করে দেয়। বিনিয়োগ-বিশ্লেষণে এই নিয়মগুলো জানা থাকলে ফলের পেছনের গল্প পড়া সহজ হয়। পরীক্ষায় এই উদাহরণটা লিখলে ধারণাটা পরিষ্কার দেখানো যায়।",
+   "## আজকের ব্যবহারিক শিক্ষা",
+   "Revenue recognition শুধু accounting বইয়ের একটা অধ্যায় নয়, এটা বিনিয়োগকারীর আস্থার ভিত্তি। কোনো কোম্পানির সংখ্যা তখনই মূল্যবান, যখন সেই সংখ্যা বিশ্বাসযোগ্য। Interview-এ কেউ জিজ্ঞেস করলে বলো, 'আয় কখন অর্জিত হল' এই প্রশ্নটাই মূল, আর earnings quality বিচার করতে income statement আর cash flow একসঙ্গে পড়তে হয়। আর মনে রেখো, তদন্তের খবর আর তদন্তের ফল এক জিনিস নয়, দুটোকে আলাদা করে ভাবতে শেখো।"
+  ],
+  "takeaways": [
+   "Revenue recognition ঠিক করে আয় কখন খাতায় উঠবে: নিয়ন্ত্রণ হস্তান্তরের সময়, টাকা আসার সময় নয়।",
+   "তদন্তের খবর মানেই অপরাধের প্রমাণ নয়, কিন্তু অনিশ্চয়তা শেয়ারের দাম কমিয়ে দেয়।",
+   "Income statement আর cash flow একসঙ্গে পড়লে earnings quality বোঝা যায়।"
+  ]
+ },
+ "quiz": [
+  {
+   "q": "Accrual basis-এ আয় কখন খাতায় ধরা হয়?",
+   "options": [
+    "টাকা হাতে আসার সময়",
+    "পণ্য বা পরিষেবার নিয়ন্ত্রণ গ্রাহকের কাছে যাওয়ার সময়",
+    "বছরের শেষ দিনে",
+    "চুক্তি বাতিল হলে"
+   ],
+   "answer": 1,
+   "explain": "Revenue recognition-এর মূল নীতি হল নিয়ন্ত্রণ হস্তান্তরের সময় আয় ধরা, নগদ আসার সময় নয়।"
+  },
+  {
+   "q": "শুক্রবার Nvidia-র শেয়ার কত শতাংশ পড়ে বন্ধ হয়েছে?",
+   "options": [
+    "3.70%",
+    "5.28%",
+    "9%",
+    "14.01%"
+   ],
+   "answer": 3,
+   "explain": "Nvidia 14.01% পড়ে $125.53-এ বন্ধ হয়েছে। 3.70% S&P 500-এর আর 5.28% Nasdaq-এর পতন।"
+  },
+  {
+   "q": "কোনো সূচক রেকর্ড স্তর থেকে কত শতাংশ পড়লে তাকে সাধারণত correction বলা হয়?",
+   "options": [
+    "10%",
+    "20%",
+    "30%",
+    "50%"
+   ],
+   "answer": 0,
+   "explain": "রেকর্ড স্তর থেকে 10% পতনকে correction বলে। 20% পতনকে সাধারণত bear market বলা হয়।"
+  },
+  {
+   "q": "অক্টোবরে ভারতের CPI inflation কত ছিল, যা RBI-এর 6% উপরের সীমার ওপরে?",
+   "options": [
+    "5.20%",
+    "5.90%",
+    "6.09%",
+    "7.50%"
+   ],
+   "answer": 2,
+   "explain": "অক্টোবরে CPI inflation 6.09% ছিল, যা RBI-এর সহনসীমার ওপরে।"
+  },
+  {
+   "q": "Anthropic IPO-তে প্রতি শেয়ারের দাম কত ছিল?",
+   "options": [
+    "$70",
+    "$83",
+    "$97.17",
+    "$111.50"
+   ],
+   "answer": 1,
+   "explain": "IPO দাম ছিল $83। $97.17 ছিল অভিষেকের ক্লোজিং আর $111.50 খোলার দাম।"
+  }
+ ],
+ "caseStudy": {
+  "week": "2026-W48",
+  "weekLabel": "২৩ – ২৯ নভেম্বর ২০২৬",
+  "company": "Amul (GCMMF)",
+  "title": "Amul: কৃষকের সমবায়, যা ভারতের দুধ-বাজার বদলে দিল",
+  "concept": "Cooperative model আর Vertical Integration",
+  "intro": "1946 সালে গুজরাটের আনন্দ-এ দুধ উৎপাদক কৃষকরা মিলে একটি সমবায় গড়ে তোলেন। সেখান থেকেই জন্ম নেয় Amul, যা আজ ভারতের পরিচিত ব্র্যান্ডগুলোর একটি। এর পেছনের মূল চরিত্র ছিলেন Tribhuvandas Patel আর Verghese Kurien।",
+  "sections": [
+   {
+    "h": "কী করেছিল",
+    "p": "তখন কৃষকরা দুধ বেচতেন এক ব্যক্তিগত কোম্পানি Polson-এর কাছে, আর দাম আর শর্ত ঠিক করত মধ্যস্থতাকারীরা। কৃষকরা Kaira District Cooperative Milk Producers' Union গড়ে নিজেরাই দুধ সংগ্রহ, প্রক্রিয়াকরণ আর বিক্রি শুরু করলেন। পরে গুজরাটের জেলা সমবায়গুলো মিলে GCMMF তৈরি হয়, যা Amul ব্র্যান্ডে বিক্রি করে। 1970-এর দশকে জাতীয় স্তরে Operation Flood এই মডেল সারা দেশে ছড়ায়।"
+   },
+   {
+    "h": "ফলাফল",
+    "p": "Amul মাখন, চিজ, আইসক্রিম, দইয়ের মতো অনেক পণ্যের বড় ব্র্যান্ড হয়ে উঠেছে, আর ভারত বিশ্বের অন্যতম বৃহৎ দুধ উৎপাদক দেশ হয়েছে। Amul-এর নিজের দাবি, ভোক্তার দেওয়া প্রতি টাকার একটা বড় অংশ, প্রায় 80%-এর কাছাকাছি, কৃষকের কাছে যায়। এই সংখ্যা Amul-এর নিজের বক্তব্য, তাই আলাদা করে যাচাই করা ভালো।"
+   },
+   {
+    "h": "কেন কাজ করল",
+    "p": "প্রথমত, কৃষকই মালিক, তাই মধ্যস্থতাকারীর মুনাফা কমে যায়। দ্বিতীয়ত, সংগ্রহ থেকে বিপণন পর্যন্ত পুরো শৃঙ্খলা সমবায়ের হাতে, একে বলে vertical integration। তৃতীয়ত, Kurien-এর দলের প্রযুক্তিগত উদ্ভাবন, যেমন মহিষের দুধ থেকে গুঁড়ো দুধ বানানো, উদ্বৃত্ত দুধকে মূল্যবান পণ্যে বদলাল। চতুর্থত, 'Utterly Butterly Delicious' বিজ্ঞাপন-প্রচারণা সহজ, মনে-থাকা মেসেজ দিয়ে ব্র্যান্ডকে ঘরে ঘরে পৌঁছে দিল।"
+   },
+   {
+    "h": "ঝুঁকি আর সমালোচনা",
+    "p": "সমবায় কাঠামোতে সিদ্ধান্ত ধীরে হতে পারে, আর বেসরকারি প্রতিযোগীদের সঙ্গে দ্রুত বদলাতে হলে এটা বাধা হতে পারে। দুধের সরবরাহ আবহাওয়া আর পশুখাদ্যের দামের ওপর নির্ভরশীল। এছাড়া রাজনৈতিক প্রভাব ও পরিচালনার স্বচ্ছতা নিয়ে সমবায়গুলো কখনও সমালোচিত হয়েছে। বড় হতে হতে ব্র্যান্ডের একাধিক পণ্যে ছড়িয়ে পড়াও মনোযোগ ভাগ করে দেওয়ার ঝুঁকি তৈরি করে।"
+   }
+  ],
+  "lesson": "যে কাঠামোতে উৎপাদকই মালিক আর পুরো মূল্য-শৃঙ্খলা নিজের নিয়ন্ত্রণে, সেখানে মধ্যস্থতাকারীর অংশ কমে আর ব্র্যান্ডের ওপর আস্থা বাড়ে। Strategy আর ownership structure একসঙ্গে ভাবতে হয়।",
+  "question": "তুমি যদি Amul-এর পরিচালক হতে, তাহলে সমবায় কাঠামো ধরে রেখেই বেসরকারি প্রতিযোগীদের চেয়ে দ্রুত সিদ্ধান্ত নেওয়ার জন্য কী কী পরিবর্তন আনতে?"
+ },
+ "en": {
+  "dateLabel": "Monday, 23 November 2026",
+  "news": [
+   {
+    "id": "n1",
+    "category": "Company",
+    "title": "Nvidia stock falls 14% as SEC reportedly examines its accounting",
+    "summary": "Reuters reported, citing two people briefed on the matter, that SEC enforcement staff are looking at possible accounting issues at Nvidia. The stock fell 14.01% on Friday to close at $125.53, and is down about 23% on the week, its worst weekly slide since 2008. The SEC declined to comment and Nvidia did not respond. What is being examined and when it began are not confirmed. An investigation is not proof of wrongdoing, and many close without action.",
+    "why": "This is a live example of revenue recognition and corporate governance. Investors rely on transparent accounting, so even news of a probe can crash a share price.",
+    "source": {
+     "name": "The Next Web",
+     "url": "https://thenextweb.com/news/sec-examines-nvidias-accounting-as-its-stock-suffers-worst-run-since-2008"
+    }
+   },
+   {
+    "id": "n2",
+    "category": "Markets",
+    "title": "Wall Street in correction, yet futures are up about 2% before Monday",
+    "summary": "On Friday the S&P 500 fell 3.70% to 6,910.39, the Dow fell 1.93% to 48,147.33 and the Nasdaq fell 5.28% to 22,617.73. All three indexes are more than 10% below their peaks, which means a correction. It was the worst week for the Nasdaq and the Dow in over six years. When trading reopened on Sunday evening, S&P 500 futures rose about 2%, and Nasdaq-100 futures rose even more. Futures are a hint, not a guarantee of Monday's close.",
+    "why": "Correction and futures are both syllabus topics. Futures show expectations before the market opens, but in a jumpy market those expectations can reverse fast. That is the lesson on volatility.",
+    "source": {
+     "name": "CNBC",
+     "url": "https://www.cnbc.com/2026/11/22/stock-market-today-live-updates.html"
+    }
+   },
+   {
+    "id": "n3",
+    "category": "Economy",
+    "title": "Short Thanksgiving week: PCE inflation, GDP and the Beige Book land on Wednesday",
+    "summary": "US markets close on Thursday for Thanksgiving. On Wednesday the October PCE inflation reading (the Fed's preferred gauge), personal income and spending, the second estimate of third-quarter GDP, durable goods and the Fed's Beige Book all arrive together. One survey expects GDP growth of 3.6% and core PCE up 0.3% on the month and 3.2% on the year. Dell reports on Tuesday. After the AI sell-off, this data will shape the Fed's December decision.",
+    "why": "See how macro indicators like PCE and GDP feed into monetary policy. High inflation means pressure on the Fed to raise rates.",
+    "source": {
+     "name": "FXEmpire",
+     "url": "https://www.fxempire.com/forecasts/article/the-week-ahead-pce-in-focus-after-ai-sell-off-in-holiday-shortened-week-1646337"
+    }
+   },
+   {
+    "id": "n4",
+    "category": "Global economy",
+    "title": "Goldman's 2027 outlook: global GDP 2.8%, AI investment $1.8 trillion, Brent $78",
+    "summary": "Goldman Sachs expects global GDP growth to edge up from 2.7% in 2026 to 2.8% in 2027. It sees global AI investment rising from $1.1 trillion to $1.8 trillion, adding about 0.4 percentage points to global GDP growth. It expects Brent to ease to $78 by late 2027, assuming no definitive diplomatic breakthrough in the Iran war. Further Fed hikes are also in its analysis, though reports differ on how many.",
+    "why": "This shows how macro forecasts are built. AI capex is now the main growth engine, so a fall in AI shares is also a risk for the real economy.",
+    "source": {
+     "name": "BusinessToday",
+     "url": "https://www.businesstoday.in/markets/story/goldman-sachs-sees-brent-easing-to-78-by-late-2027-despite-ongoing-west-asia-tensions-heres-why-568921-2026-11-22"
+    }
+   },
+   {
+    "id": "n5",
+    "category": "Commodities",
+    "title": "Oil heads for a third weekly decline: Brent $92.57, OPEC+ meets 29 November",
+    "summary": "Brent has fallen for a third straight week as oil exports from West Asia flow well. January Brent settled at $92.57 on Friday, up 0.64% on the day but down 3.41% on the week. OPEC+ is due to meet on Sunday 29 November to decide 2027 output quotas, after finishing a review of members' production capacity. Market commentary gives a rough range of $88 to $96 for the week ahead.",
+    "why": "Supply, demand and cartel behaviour all appear here. If OPEC+ raises output, supply rises and prices fall. Cheaper oil eases inflation and the current account for importers like India.",
+    "source": {
+     "name": "Business Standard",
+     "url": "https://www.business-standard.com/amp/markets/news/oil-prices-set-for-3rd-straight-week-of-decline-on-west-asia-export-flows-126112001415_1.html"
+    }
+   },
+   {
+    "id": "n6",
+    "category": "India",
+    "title": "Rupee gains about 1.75% on the week, FPI inflows near $13 billion; October CPI 6.09%",
+    "summary": "The rupee gained about 157 paise on the week to 92.67 per dollar, its best weekly gain of 2026. A Kotak Neo analyst said foreign portfolio inflows in November have reached nearly $13 billion, which could be a monthly record. Lower oil prices also helped. Meanwhile India's October CPI inflation was 6.09%, above the RBI's 6% upper limit, so one brokerage thinks a December rate hike is close to certain.",
+    "why": "The link between exchange rates, FPI and inflation targeting is clear here. Foreign capital strengthens the rupee, but if inflation crosses the limit the RBI may have to raise rates.",
+    "source": {
+     "name": "ANI",
+     "url": "https://aninews.in/news/business/rupee-poised-to-appreciate-towards-91821192-on-record-fpi-inflows-crude-enters-888211100-comfort-zone-kotak-neo20261120141130/"
+    }
+   },
+   {
+    "id": "n7",
+    "category": "Central banks",
+    "title": "BoE raises rates 25 bps, its first hike this year; dollar near highest since April 2025",
+    "summary": "A Reuters report says the Bank of England raised its interest rate by 25 basis points earlier this month, its first increase of the year. The same report says the dollar is holding near its highest level since April 2025. Central banks including the Fed, the BoE and the RBI are leaning toward tighter policy to contain inflation. Higher interest rates generally strengthen a currency.",
+    "why": "Learn how monetary tightening and interest rate differentials move currencies. When central banks move in the same direction, the effect spreads across global markets.",
+    "source": {
+     "name": "Business Recorder",
+     "url": "https://www.brecorder.com/news/40450274/sterling-edges-up-against-the-dollar"
+    }
+   },
+   {
+    "id": "n8",
+    "category": "IPO",
+    "title": "Anthropic shares stay above IPO price but slid 9-12% on day two",
+    "summary": "Anthropic sold about 980 million shares at $83 each, raising $81.3 billion. On debut day the stock opened at $111.50 and closed at $97.17, 17.07% above the IPO price. On Friday, amid the AI sell-off, it fell about 9% early and as much as 12% later, but stayed above the IPO price. Sources differ on its market value because they count shares differently.",
+    "why": "A lesson on IPO pricing and after-market performance. A debut pop is not a long-term gain, and new shares can fall fast when the market turns.",
+    "source": {
+     "name": "CNBC",
+     "url": "https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html"
+    }
+   }
+  ],
+  "market": {
+   "asOf": "Closing on Friday, 20 November 2026 (Monday's US close not yet available; gold: Kitco quote on Sunday evening)",
+   "items": [
+    {
+     "name": "S&P 500",
+     "region": "US",
+     "value": "6,910.39",
+     "change": "-3.70%",
+     "dir": "down"
+    },
+    {
+     "name": "Dow Jones",
+     "region": "US",
+     "value": "48,147.33",
+     "change": "-1.93%",
+     "dir": "down"
+    },
+    {
+     "name": "Nasdaq",
+     "region": "US",
+     "value": "22,617.73",
+     "change": "-5.28%",
+     "dir": "down"
+    },
+    {
+     "name": "Sensex",
+     "region": "India",
+     "value": "83,919.71",
+     "change": "+1.08%",
+     "dir": "up"
+    },
+    {
+     "name": "Nifty 50",
+     "region": "India",
+     "value": "25,800.60",
+     "change": "+1.12%",
+     "dir": "up"
+    },
+    {
+     "name": "Brent Crude",
+     "region": "$ per barrel",
+     "value": "92.57",
+     "change": "+0.64%",
+     "dir": "up"
+    },
+    {
+     "name": "Gold",
+     "region": "$ per ounce (Kitco, Sun evening)",
+     "value": "3,568.60",
+     "change": "",
+     "dir": "flat"
+    },
+    {
+     "name": "USD/INR",
+     "region": "India",
+     "value": "92.67",
+     "change": "-1.57 (সপ্তাহে)",
+     "dir": "down"
+    }
+   ]
+  },
+  "term": {
+   "term": "Revenue Recognition",
+   "bangla": "When a sale counts as earned revenue",
+   "definition": "Revenue recognition is the accounting rule that decides when, and how much, income from a sale or service can be shown in a company's income statement. The basic principle is that revenue is recorded when control of the goods or service passes to the customer, not when cash arrives. Recording revenue early inflates profit, so regulators watch this area closely.",
+   "example": "Nvidia's stock fell 14% on a Reuters report that the SEC is examining possible accounting issues. What is being examined is not confirmed and a probe is not proof of wrongdoing, yet investors depend on the trustworthiness of reported revenue, which is why the price fell so fast.",
+   "formula": "",
+   "tip": "In interviews say: the key question in revenue recognition is 'when was the revenue earned?', not 'when did the cash arrive?' (accrual basis). Add that bending the rules lowers earnings quality."
+  },
+  "gd": {
+   "topic": "Should central banks keep raising rates even as AI stocks crash?",
+   "context": "Wall Street is in correction and Nvidia is down about 23% on the week, yet the BoE has raised rates and India's CPI at 6.09% is above the RBI's limit. A market fall and an inflation fight are happening together.",
+   "for": [
+    "If inflation stays above target and rates are not raised, high prices can become a habit, so a central bank's job is price stability.",
+    "A central bank's job is not to rescue the stock market, so policy should not change just because share prices fall.",
+    "Higher rates can help steady currencies like the dollar and the rupee and capital flows."
+   ],
+   "against": [
+    "High rates make borrowing costly, which can slow investment-heavy sectors such as AI.",
+    "If a stock crash reduces household wealth, people spend less, and a hike then raises recession risk.",
+    "Oil prices are falling, so some inflation may ease on its own and waiting could be reasonable."
+   ]
+  },
+  "blog": {
+   "title": "Revenue Recognition: Why One Accounting Headline Can Drop a Stock 14%",
+   "topic": "Accounting and Corporate Governance",
+   "readMin": 5,
+   "body": [
+    "Imagine you bought shares in a company because its revenue is doubling every year. Suddenly news arrives that a regulator is examining its accounting. The share price falls 14% in one day. That is exactly what happened to Nvidia last Friday. Today we learn the idea behind that shock: revenue recognition.",
+    "## What is revenue recognition?",
+    "Suppose you own a company. In October you sign a contract with a customer who will take the goods in December and pay in January. In which month does this revenue go into your books? Accounting says revenue is recorded when you hand control of the goods or service to the customer, not by looking at the date cash arrives. This is the accrual basis. The rule must stay consistent, otherwise anyone could show income earlier or later to suit themselves.",
+    "## What happens when the rules are bent?",
+    "Every quarter companies face pressure to meet analysts' expectations. Under that pressure, some are tempted to book revenue early. Profit looks inflated for a while, but later that revenue never arrives and investors lose out. That is why regulators such as the SEC in the US and SEBI in India watch accounting closely. The better a company's accounting, the better its earnings quality and the greater investor trust.",
+    "## Link to today's news",
+    "Reuters reported, citing two people briefed on the matter, that SEC enforcement staff are looking at possible accounting issues at Nvidia. The stock fell 14.01% on Friday to close at $125.53, and is down about 23% on the week, the worst since 2008. Keep one important point in mind: the SEC declined to comment, and what is being examined is not confirmed. An investigation is not proof of wrongdoing, and many close without action. Still, markets dislike uncertainty, so the price fell first.",
+    "The shock was bigger because Nvidia's shares were already falling in earlier weeks. CEO Jensen Huang has resigned, and a sell-off is sweeping through all AI stocks. When the market's mood is already fearful, one bad headline gets magnified. This is the effect of market sentiment.",
+    "## How can a BBA student read accounting risk?",
+    "First, do not look only at revenue growth. Compare the income statement with the cash flow statement: profit rising while cash flow is not is a warning sign. Second, if receivables jump suddenly, ask whether that revenue will really be collected. Third, if a company often changes accounting policy or the way it classifies revenue, try to learn why. None of these prove wrongdoing, but each is a hint to look closer.",
+    "## Investors and decisions",
+    "Many people think selling the moment they hear news is the safe move. But selling in panic without checking is another kind of mistake. A sensible investor asks: is the news confirmed or a rumour? Has the business really changed? What is my time horizon? Without answers to these three questions, a decision is a guess, not analysis.",
+    "Consider another example. Suppose a software company signs a three-year service contract. Even if it receives all the money at once, it cannot record all that revenue at once, because the service is delivered over three years. It records one-third each year. Following such rules keeps a company's year-by-year results comparable and believable. In India Ind AS 115 and internationally IFRS 15 set these principles. Knowing these rules makes it easier to read the story behind the results in investment analysis.",
+    "## Today's practical lesson",
+    "Revenue recognition is not just a chapter in an accounting book, it is the foundation of investor trust. A company's numbers are valuable only when they are believable. If asked in an interview, say the core question is 'when was the revenue earned?', and that to judge earnings quality you read the income statement and cash flow together. And remember that news of a probe and the result of a probe are different things."
+   ],
+   "takeaways": [
+    "Revenue recognition decides when income enters the books: when control passes, not when cash arrives.",
+    "News of a probe is not proof of wrongdoing, but uncertainty pushes share prices down.",
+    "Reading the income statement and cash flow together reveals earnings quality."
+   ]
+  },
+  "quiz": [
+   {
+    "q": "Under the accrual basis, when is revenue recorded?",
+    "options": [
+     "When cash is received",
+     "When control of goods or service passes to the customer",
+     "On the last day of the year",
+     "When the contract is cancelled"
+    ],
+    "answer": 1,
+    "explain": "The core principle of revenue recognition is to record revenue when control transfers, not when cash arrives."
+   },
+   {
+    "q": "By what percentage did Nvidia shares fall on Friday?",
+    "options": [
+     "3.70%",
+     "5.28%",
+     "9%",
+     "14.01%"
+    ],
+    "answer": 3,
+    "explain": "Nvidia fell 14.01% to close at $125.53. 3.70% was the S&P 500 and 5.28% the Nasdaq."
+   },
+   {
+    "q": "A fall of how much from a record level is usually called a correction?",
+    "options": [
+     "10%",
+     "20%",
+     "30%",
+     "50%"
+    ],
+    "answer": 0,
+    "explain": "A 10% fall from a record level is a correction. A 20% fall is usually called a bear market."
+   },
+   {
+    "q": "What was India's October CPI inflation, above the RBI's 6% upper limit?",
+    "options": [
+     "5.20%",
+     "5.90%",
+     "6.09%",
+     "7.50%"
+    ],
+    "answer": 2,
+    "explain": "October CPI inflation was 6.09%, above the RBI's tolerance limit."
+   },
+   {
+    "q": "What was Anthropic's IPO price per share?",
+    "options": [
+     "$70",
+     "$83",
+     "$97.17",
+     "$111.50"
+    ],
+    "answer": 1,
+    "explain": "The IPO price was $83. $97.17 was the debut-day close and $111.50 the opening price."
+   }
+  ],
+  "caseStudy": {
+   "week": "2026-W48",
+   "weekLabel": "23 – 29 November 2026",
+   "company": "Amul (GCMMF)",
+   "title": "Amul: The Farmers' Cooperative That Reshaped India's Dairy Market",
+   "concept": "Cooperative model and Vertical Integration",
+   "intro": "In 1946 milk-producing farmers in Anand, Gujarat came together to form a cooperative. From it was born Amul, today one of India's best-known brands. Key figures behind it were Tribhuvandas Patel and Verghese Kurien.",
+   "sections": [
+    {
+     "h": "What it did",
+     "p": "Farmers then sold milk to a private company, Polson, and middlemen set prices and terms. The farmers formed the Kaira District Cooperative Milk Producers' Union and began collecting, processing and selling milk themselves. Later the district cooperatives of Gujarat joined to form GCMMF, which sells under the Amul brand. In the 1970s Operation Flood spread the model nationwide."
+    },
+    {
+     "h": "The result",
+     "p": "Amul became a major brand in butter, cheese, ice cream and curd, and India became one of the world's largest milk producers. Amul itself claims that a large share of each rupee paid by the consumer, close to 80%, reaches farmers. That figure is Amul's own claim, so it is worth verifying separately."
+    },
+    {
+     "h": "Why it worked",
+     "p": "First, farmers are the owners, so middlemen's profit shrinks. Second, the whole chain from collection to marketing is in the cooperative's hands, which is vertical integration. Third, technical innovation by Kurien's team, such as making milk powder from buffalo milk, turned surplus milk into valuable products. Fourth, the 'Utterly Butterly Delicious' campaign took the brand into homes with a simple, memorable message."
+    },
+    {
+     "h": "Risks and criticism",
+     "p": "Decisions in a cooperative structure can be slow, which can be a handicap against fast-moving private rivals. Milk supply depends on weather and cattle feed prices. Cooperatives have also at times been criticised over political influence and transparency in governance. As a brand spreads across many products, there is also a risk of divided focus."
+    }
+   ],
+   "lesson": "Where producers own the business and control the whole value chain, the middleman's share shrinks and trust in the brand grows. Strategy and ownership structure must be thought about together.",
+   "question": "If you were a director of Amul, what changes would you make to decide faster than private competitors while keeping the cooperative structure?"
+  }
+ }
+}

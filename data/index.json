@@ -1,6 +1,13 @@
 {
- "latest": "2026-11-22",
+ "latest": "2026-11-23",
  "days": [
+  {
+   "date": "2026-11-23",
+   "label": "২৩ নভেম্বর ২০২৬, সোমবার",
+   "labelEn": "Monday, 23 November 2026",
+   "headline": "Nvidia-র শেয়ার 14% পড়ল SEC-র accounting খতিয়ে দেখার খবরে; Wall Street correction-এ, futures প্রায় 2% চড়া",
+   "headlineEn": "Nvidia falls 14% on report of SEC accounting review; Wall Street in correction, futures up about 2%"
+  },
   {
    "date": "2026-11-22",
    "label": "২২ নভেম্বর ২০২৬, রবিবার",
