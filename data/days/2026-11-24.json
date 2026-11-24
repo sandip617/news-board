@@ -1,0 +1,581 @@
+{
+ "date": "2026-11-24",
+ "dateLabel": "২৪ নভেম্বর ২০২৬, মঙ্গলবার",
+ "edition": 1,
+ "updatedAt": "2026-11-24T07:10:00+05:30",
+ "news": [
+  {
+   "id": "n1",
+   "category": "কোম্পানি",
+   "title": "Jensen Huang আবার Nvidia-র CEO: শেয়ার এক দিনে 31% লাফাল",
+   "summary": "Nvidia-র বোর্ড সোমবার সর্বসম্মতিক্রমে Jensen Huang-কে প্রেসিডেন্ট, CEO ও ডিরেক্টর পদে ফিরিয়ে এনেছে, আদেশ কার্যকর তখনই। বোর্ড জানিয়েছে, মার্কিন সরকারের উচ্চস্তরের মতামত নেওয়ার পর তারা নিশ্চিত যে এতে জাতীয় নিরাপত্তার ঝুঁকি নেই। প্রেসিডেন্ট Trump প্রকাশ্যে Huang-কে ফেরানোর আহ্বান জানিয়েছিলেন। শেয়ার দিনের মধ্যে সর্বোচ্চ 36.6% উঠে শেষে 31.48% বেড়ে বন্ধ হয়েছে, যা 2003 সালের পর সবচেয়ে ভালো দিন। এক দিনে কোম্পানির market cap প্রায় $950 বিলিয়ন থেকে $1 ট্রিলিয়ন বেড়েছে।",
+   "why": "Key-person risk আর corporate governance-এর ধারণা এখানে সরাসরি মিলছে: একজন শীর্ষ কর্তার যাওয়া-আসায় কোম্পানির মূল্যে বিশাল ওঠানামা হতে পারে।",
+   "source": {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html"
+   }
+  },
+  {
+   "id": "n2",
+   "category": "বাজার",
+   "title": "Wall Street-এ 2025-এর এপ্রিলের পর সেরা দিন: Nasdaq 6.51% উপরে",
+   "summary": "Nvidia-র খবরে সোমবার মার্কিন শেয়ারবাজার সাত দিনের পতন থামিয়ে জোরালো ওঠে। S&P 500 4.73% বেড়ে 7,237.17-এ, Dow Jones 1,448 পয়েন্ট (3.01%) বেড়ে 49,595.31-এ এবং Nasdaq 6.51% বেড়ে 24,089.56-এ বন্ধ হয়েছে। এতে S&P 500 আবার correction-এর এলাকা থেকে বেরিয়েছে। বাজারে এখনও Fed-এর ডিসেম্বরে সুদ বাড়ানোর আশঙ্কা আছে: CME FedWatch-এর বরাতে একটি প্রতিবেদনে সম্ভাবনা প্রায় 98%। সপ্তাহের শেষে PCE inflation-এর তথ্যের দিকে নজর থাকবে।",
+   "why": "Market correction থেকে রিবাউন্ড দেখায় বাজারের মনোভাব (sentiment) একটি খবরেই কীভাবে পাল্টায়। সঙ্গে বোঝা যায়, সুদের হার বাড়ার আশঙ্কা (monetary tightening) বাজারে কতটা ঝুলে আছে।",
+   "source": {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo-market-rally.html"
+   }
+  },
+  {
+   "id": "n3",
+   "category": "M&A",
+   "title": "CrowdStrike কিনছে Zscaler: $43.9 বিলিয়নের সম্পূর্ণ শেয়ার-চুক্তি",
+   "summary": "সাইবার-নিরাপত্তা সংস্থা CrowdStrike প্রতিদ্বন্দ্বী Zscaler-কে প্রায় $43.9 বিলিয়নে কিনছে, পুরো দাম মিটবে CrowdStrike-এর শেয়ারে। Zscaler-এর প্রতি শেয়ারের জন্য মিলবে CrowdStrike-এর 1.135টি শেয়ার, যা শুক্রবারের বন্ধ দামের চেয়ে 34% premium। দুই কোম্পানির বোর্ড চুক্তি অনুমোদন করেছে, তবে Zscaler-এর শেয়ারহোল্ডার ও নিয়ন্ত্রক সংস্থার সম্মতি লাগবে। দুই সংস্থা মিলে শুরুতেই $10 বিলিয়নের বেশি annual recurring revenue আশা করছে এবং বন্ধ হওয়ার 30 মাসের মধ্যে প্রায় $1 বিলিয়ন বাড়তি বার্ষিক রাজস্বের লক্ষ্য রেখেছে।",
+   "why": "M&A-র payment structure এখানে বিষয়: নগদের বদলে শেয়ারে কেনা মানে exchange ratio আর premium বোঝা দরকার। এটি synergy-র অনুমান আর সম্পূর্ণ শেয়ার-ভিত্তিক চুক্তির ঝুঁকিও দেখায়।",
+   "source": {
+    "name": "Daily Interlake (AP)",
+    "url": "https://dailyinterlake.com/news/2026/nov/23/crowdstrike-to-acquire-zscaler-in-a-44-billion-deal-that-would-create-a-cybersecurity-giant/"
+   }
+  },
+  {
+   "id": "n4",
+   "category": "ভারত / M&A",
+   "title": "Tata Steel APL Apollo Tubes-এ নিয়ন্ত্রণ নিচ্ছে, দুই কোম্পানির শেয়ারই পড়ল",
+   "summary": "Tata Steel প্রতি শেয়ার ₹2,100 দামে APL Apollo Tubes-এর 26.4% অংশ কিনছে এবং এরপর আরও 26% কেনার জন্য open offer দেবে, পুরোটা সফল হলে মালিকানা প্রায় 52% হবে। সোমবার APL Apollo-র শেয়ার প্রায় 19.27% পড়ে NSE-তে ₹1,715-এ নেমেছে। Tata Steel-এর শেয়ারও প্রায় 8% পড়েছে। মোট খরচের হিসাব বিভিন্ন সূত্রে আলাদা, তাই এখানে সেই অঙ্ক দেওয়া হয়নি।",
+   "why": "Open offer হল SEBI-র takeover নিয়মে ছোট শেয়ারহোল্ডারদের সুরক্ষা। আর downstream/vertical integration কেন কোম্পানির কৌশল হয় তাও এই ঘটনায় বোঝা যায়।",
+   "source": {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/23/tata-steel-acquisition-deal-apl-india.html"
+   }
+  },
+  {
+   "id": "n5",
+   "category": "ভারতের বাজার",
+   "title": "Sensex 1,484 পয়েন্ট পতন, চার মাসের মধ্যে সবচেয়ে বড় এক দিনের ধাক্কা",
+   "summary": "সোমবার Sensex 1,483.72 পয়েন্ট (1.77%) পড়ে 82,435.99-এ এবং Nifty প্রায় 1.75% পড়ে 25,349.65-এ বন্ধ হয়েছে। Nifty-র জন্য এটি 8 জুলাইয়ের পর সবচেয়ে বড় এক দিনের পতন। ব্যাংক, financial services আর metal শেয়ারে বিক্রি বেশি ছিল, আগের চার সপ্তাহের ওঠার পর মুনাফা তোলা (profit booking) হয়েছে। বিশ্ববাজারে টেক শেয়ারের পতনও প্রভাব ফেলেছে। BSE-তে 2,872টি শেয়ার নেমেছে, উঠেছে 1,601টি।",
+   "why": "Profit booking আর বিশ্ববাজারের contagion (সংক্রমণ) কীভাবে দেশি সূচকে প্রভাব ফেলে, এটা বোঝার জন্য এই ঘটনা ভালো উদাহরণ। Market breadth-ও এখানে দেখা যাচ্ছে।",
+   "source": {
+    "name": "Business Standard",
+    "url": "https://www.business-standard.com/markets/news/stock-market-live-november-23-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-ipo-today-126112300084_1.html"
+   }
+  },
+  {
+   "id": "n6",
+   "category": "অর্থনীতি",
+   "title": "ইউরোজোনের PMI স্থির 51.7: জার্মানি 56 মাসের সেরা, ফ্রান্স সংকটে",
+   "summary": "নভেম্বরের flash composite PMI 51.7-এ অপরিবর্তিত থেকেছে, টানা পঞ্চম মাস 50-এর ওপরে, তবে Reuters poll-এর পূর্বাভাস 51.9-এর চেয়ে সামান্য কম। জার্মানির PMI 55.0, যা 56 মাসের সর্বোচ্চ, কিন্তু ফ্রান্সের 46.2, দেশটির দুর্বল অভ্যন্তরীণ চাহিদা আংশিকভাবে 2027-এর প্রেসিডেন্ট নির্বাচনের আগে দ্বিধার কারণে। পরিষেবা খাত পাঁচ মাসের সর্বনিম্ন 51.2-এ, আগামী এক বছরের ব্যবসায়িক আস্থা চতুর্থ মাসে কমেছে। অক্টোবরে ইউরোজোনে মূল্যবৃদ্ধি 4.0% ছিল, তাই ডিসেম্বরে ECB-র আরেকবার সুদ বাড়ানোর প্রত্যাশা আছে।",
+   "why": "PMI একটি leading indicator: 50-এর ওপরে মানে সম্প্রসারণ। একই অঞ্চলের ভেতরে দেশে দেশে ফারাক কেন্দ্রীয় ব্যাংকের একক সুদনীতিকে জটিল করে।",
+   "source": {
+    "name": "RTÉ (Reuters)",
+    "url": "https://www.rte.ie/news/business/2026/1123/1600272-euro-zone-growth-pmi/"
+   }
+  },
+  {
+   "id": "n7",
+   "category": "পণ্যবাজার",
+   "title": "Brent 3.46% পড়ে $89.37-এ, 28 আগস্টের পর সবচেয়ে কম বন্ধ দাম",
+   "summary": "সোমবার লন্ডনে Brent crude 3.46% পড়ে ব্যারেলপ্রতি $89.37-এ এবং নিউইয়র্কে US crude $80.17-এ বন্ধ হয়েছে। মধ্যপ্রাচ্য থেকে Strait of Hormuz দিয়ে তেলের জাহাজ চলাচল যুদ্ধ-পূর্ব স্তরের কাছাকাছি ফিরছে, লিবিয়ার Sharara পাইপলাইন আবার চালু হয়েছে এবং IEA চতুর্থ প্রান্তিকে বিশ্বে জোগান উদ্বৃত্তের পূর্বাভাস দিয়েছে। বাজারের সাধারণ দুর্বলতাও দামে চাপ ফেলেছে। উৎস ভেদে দামের সামান্য ফারাক আছে, এখানে সবচেয়ে সমর্থিত বন্ধ দাম ধরা হয়েছে।",
+   "why": "Demand-supply আর price elasticity-র ধারণা এখানে সরাসরি কাজ করছে: জোগান বাড়লে দাম কমে। তেলের দাম কমলে ভারতের মতো আমদানিকারক দেশে inflation আর চলতি খাতের ঘাটতিতে স্বস্তি আসে।",
+   "source": {
+    "name": "The Nation Thailand",
+    "url": "https://nationthailand.com/news/world/40073845"
+   }
+  },
+  {
+   "id": "n8",
+   "category": "সোনা",
+   "title": "এক সপ্তাহে 9% পতনের পর সোনা প্রায় 2.4% ঘুরে দাঁড়াল, $3,600-এর ওপরে",
+   "summary": "Reuters-এর বরাতে Kitco জানাচ্ছে, সোমবার দুপুরে spot gold প্রায় 2.4% বেড়ে $3,617.68-এ ছিল। গত সপ্তাহে সোনার দাম প্রায় 9% পড়েছিল এবং শুক্রবার তা সেপ্টেম্বর 2025-এর পর সবচেয়ে নিচে নেমেছিল। দামের চাপ ছিল Fed-এর কড়া সুদনীতির প্রত্যাশা আর AI-সংক্রান্ত শেয়ারের ধস থেকে। সোমবার ডলারের দৌড় কিছুটা থামায় সোনা ঘুরে দাঁড়িয়েছে। এই দাম মধ্যাহ্নের, দিনের শেষ দামে সামান্য তফাত থাকতে পারে।",
+   "why": "সুদের হার বাড়লে সোনার মতো যে সম্পদ সুদ দেয় না, তার opportunity cost বাড়ে, তাই দাম চাপে পড়ে। Safe-haven asset-এর আচরণ বোঝার জন্য এটা কাজের উদাহরণ।",
+   "source": {
+    "name": "Kitco (Reuters)",
+    "url": "https://www.kitco.com/news/off-the-wire/2026-11-23/gold-climbs-more-2-dollar-rally-pauses"
+   }
+  }
+ ],
+ "market": {
+  "asOf": "২৩ নভেম্বর ২০২৬, সোমবারের ক্লোজিং (সোনা: সোমবার মধ্যাহ্নের Reuters/Kitco দাম; USD/INR প্রাথমিক ক্লোজিং)",
+  "items": [
+   {
+    "name": "S&P 500",
+    "region": "US",
+    "value": "7,237.17",
+    "change": "+4.73%",
+    "dir": "up"
+   },
+   {
+    "name": "Dow Jones",
+    "region": "US",
+    "value": "49,595.31",
+    "change": "+3.01%",
+    "dir": "up"
+   },
+   {
+    "name": "Nasdaq",
+    "region": "US",
+    "value": "24,089.56",
+    "change": "+6.51%",
+    "dir": "up"
+   },
+   {
+    "name": "Sensex",
+    "region": "ভারত",
+    "value": "82,435.99",
+    "change": "-1.77%",
+    "dir": "down"
+   },
+   {
+    "name": "Nifty 50",
+    "region": "ভারত",
+    "value": "25,349.65",
+    "change": "-1.75%",
+    "dir": "down"
+   },
+   {
+    "name": "Brent Crude",
+    "region": "$/ব্যারেল",
+    "value": "89.37",
+    "change": "-3.46%",
+    "dir": "down"
+   },
+   {
+    "name": "Gold",
+    "region": "$/আউন্স (মধ্যাহ্ন)",
+    "value": "3,617.68",
+    "change": "+2.4%",
+    "dir": "up"
+   },
+   {
+    "name": "USD/INR",
+    "region": "ভারত",
+    "value": "92.92",
+    "change": "+0.32%",
+    "dir": "up"
+   }
+  ]
+ },
+ "term": {
+  "term": "Exchange Ratio",
+  "bangla": "বিনিময় অনুপাত: অধিগ্রহণে লক্ষ্য কোম্পানির এক শেয়ারের বদলে ক্রেতা কোম্পানির কয়টি শেয়ার মিলবে",
+  "definition": "Exchange ratio হল শেয়ার-ভিত্তিক merger বা acquisition-এর সেই অনুপাত, যা বলে target কোম্পানির প্রতিটি শেয়ারের বদলে acquirer কোম্পানির কয়টি নতুন শেয়ার পাওয়া যাবে। এতে নগদ লাগে না, তাই acquirer-এর শেয়ারের দাম বদলালে চুক্তির প্রকৃত মূল্যও বদলে যায়।",
+  "example": "CrowdStrike-এর Zscaler কেনার চুক্তিতে exchange ratio 1.135: Zscaler-এর প্রতি শেয়ারের বদলে CrowdStrike-এর 1.135টি শেয়ার মিলবে। এটি শুক্রবারের বন্ধ দামের চেয়ে 34% premium এবং চুক্তির মূল্য প্রায় $43.9 বিলিয়ন।",
+  "formula": "Exchange Ratio = প্রতি target-শেয়ারের জন্য প্রস্তাবিত দাম ÷ acquirer-এর শেয়ারদাম",
+  "tip": "Interview-এ বলো: সম্পূর্ণ শেয়ার-চুক্তিতে acquirer-এর শেয়ার পড়লে target-এর শেয়ারহোল্ডাররা কম মূল্য পান, তাই তারা fixed exchange ratio-র সঙ্গে collar-এর মতো সুরক্ষা চান।"
+ },
+ "gd": {
+  "topic": "একজন CEO-র ফেরায় এক দিনে প্রায় $1 ট্রিলিয়ন market cap বাড়া কি key-person risk-এর প্রমাণ, নাকি বাজারের অতিপ্রতিক্রিয়া?",
+  "context": "Nvidia-র বোর্ড Jensen Huang-কে CEO পদে ফেরানোর পর শেয়ার 31.48% বেড়েছে, যা 2003-এর পর সেরা দিন, আর Nasdaq 6.51% উঠেছে। এর আগে কয়েক সপ্তাহ শেয়ার ধসেছিল।",
+  "for": [
+   "একজন কর্তার ওপর কোম্পানির ভবিষ্যৎ এতটা নির্ভর করলে সেটাই key-person risk, যা শেয়ারদামে সরাসরি ধরা পড়ে।",
+   "এত বড় এক দিনের ওঠা দেখায় বিনিয়োগকারীরা নেতৃত্বের স্থিতিশীলতাকে কোম্পানির মূল্যের বড় অংশ মনে করেন।",
+   "উত্তরাধিকার পরিকল্পনা (succession planning) দুর্বল হলে এমন ঝুঁকি আরও বাড়ে।"
+  ],
+  "against": [
+   "আগের পতনে শেয়ার বেশি নেমেছিল, তাই এই ওঠা আংশিক অতিপ্রতিক্রিয়ার সংশোধন হতে পারে।",
+   "একজন ব্যক্তির ফেরায় কোম্পানির আয়, পণ্য বা প্রতিযোগিতার মূল ভিত্তি রাতারাতি বদলায় না।",
+   "সরকারের মতামত বা রাজনৈতিক চাপে নিয়োগের সিদ্ধান্ত হলে corporate governance নিয়ে প্রশ্ন ওঠে।"
+  ]
+ },
+ "blog": {
+  "title": "Exchange Ratio: নগদ ছাড়াই $43.9 বিলিয়নের কোম্পানি কেনা যায় কীভাবে",
+  "topic": "Mergers & Acquisitions",
+  "readMin": 5,
+  "body": [
+   "ধরো তোমার হাতে নগদ টাকা নেই, অথচ তুমি একটা বড় কোম্পানি কিনতে চাও। তুমি কী করবে? তোমার নিজের কোম্পানির শেয়ারই হবে তোমার মুদ্রা। সোমবার CrowdStrike ঠিক এটাই করল: প্রায় $43.9 বিলিয়নে Zscaler-কে কিনছে, আর পুরো দাম মেটাবে নিজেদের শেয়ার দিয়ে। এই লেনদেনের কেন্দ্রে আছে একটি সংখ্যা: exchange ratio।",
+   "## Exchange ratio আসলে কী?",
+   "Exchange ratio বলে, target কোম্পানির এক শেয়ারের বদলে acquirer কোম্পানির কয়টি শেয়ার পাওয়া যাবে। এই চুক্তিতে সংখ্যাটি 1.135। অর্থাৎ Zscaler-এর কোনো শেয়ারহোল্ডারের কাছে যদি 100টি শেয়ার থাকে, চুক্তি সম্পূর্ণ হলে তিনি পাবেন CrowdStrike-এর 113.5টি শেয়ার। সূত্রটা সোজা: প্রস্তাবিত দাম ÷ acquirer-এর শেয়ারদাম। সংখ্যাটা এমনভাবে ঠিক করা হয়, যাতে Zscaler-এর শেয়ারহোল্ডাররা তাদের বর্তমান দামের চেয়ে কিছু বেশি পান। এখানে সেই বাড়তি অংশ, অর্থাৎ premium, শুক্রবারের বন্ধ দামের চেয়ে 34%।",
+   "## Premium কেন দিতে হয়?",
+   "Target কোম্পানির শেয়ারহোল্ডারদের রাজি করাতে বাজারদামের চেয়ে বেশি অফার করতে হয়। কারণ তারা নিজেদের কোম্পানির নিয়ন্ত্রণ ছেড়ে দিচ্ছেন। Acquirer এই অতিরিক্ত দামকে যুক্তিসঙ্গত প্রমাণ করে synergy দিয়ে: দুই কোম্পানি একসঙ্গে হলে খরচ কমবে, বিক্রি বাড়বে। CrowdStrike আর Zscaler মিলে শুরুতেই $10 বিলিয়নের বেশি annual recurring revenue আশা করছে এবং 30 মাসের মধ্যে প্রায় $1 বিলিয়ন বাড়তি বার্ষিক রাজস্বের লক্ষ্য রেখেছে। এই লক্ষ্য পূরণ না হলে premium আসলে বাড়তি দাম দেওয়া হয়ে যায়।",
+   "## নগদ বনাম শেয়ার: কোনটা ভালো?",
+   "নগদ চুক্তিতে target-এর শেয়ারহোল্ডার জানেন ঠিক কত টাকা পাবেন। শেয়ার-চুক্তিতে তা নির্ভর করে acquirer-এর শেয়ারদামের ওপর। ধরো চুক্তির দিন CrowdStrike-এর শেয়ার ওপরে ছিল, কিন্তু বাজার পড়লে সেই 1.135টি শেয়ারের মূল্য কমে যাবে। আজকের বাজার তার জীবন্ত উদাহরণ: গত সপ্তাহে Nasdaq 5% ধসেছিল আর সোমবার 6.51% উঠেছে। এমন ওঠানামার বাজারে সম্পূর্ণ শেয়ার-চুক্তির প্রকৃত মূল্য প্রতিদিন বদলায়। তাই চুক্তির ঘোষণার পর এই সংখ্যা নজরে রাখতে হয়। অন্যদিকে acquirer-এর লাভ হল, তাকে বড় অঙ্কের নগদ জোগাড় করতে হয় না, ঋণের বোঝা বাড়ে না।",
+   "## চুক্তি শেষ হতে এখনও বাকি",
+   "চুক্তিটি দুই কোম্পানির বোর্ড অনুমোদন করেছে, তবে এখনও Zscaler-এর শেয়ারহোল্ডার আর নিয়ন্ত্রক সংস্থার সম্মতি লাগবে। এটি দেখায়, ঘোষণা মানেই চুক্তি শেষ নয়। প্রতিযোগিতা-নিয়ন্ত্রকেরা দেখবেন, সাইবার-নিরাপত্তা বাজারে দুই বড় সংস্থা এক হলে প্রতিযোগিতা কমে যায় কি না।",
+   "## একটি ছোট অঙ্ক",
+   "ধরো Zscaler-এর শেয়ারদাম $100 আর premium 34%, তাহলে প্রস্তাবিত দাম $134। এখন CrowdStrike-এর শেয়ারদাম যদি $200 হয়, তবে exchange ratio হবে 134 ÷ 200 = 0.67। অর্থাৎ ratio-র সংখ্যা শুধু premium নয়, দুই কোম্পানির শেয়ারদামের আপেক্ষিক অবস্থানও বলে দেয়। ছাত্র হিসেবে এই সহজ হিসাব নিজে কষে দেখো, পরীক্ষায় বা interview-এ এমন প্রশ্ন প্রায়ই আসে। উদাহরণের সংখ্যাগুলো শুধু বোঝার জন্য কাল্পনিক, আসল চুক্তির নয়।",
+   "## Fixed বনাম floating exchange ratio",
+   "Fixed exchange ratio-তে সংখ্যাটি চুক্তির দিনেই স্থির হয়ে যায়, যেমন এখানে 1.135। তখন acquirer-এর শেয়ার পড়লে target-এর শেয়ারহোল্ডাররা কম মূল্য পান, আর শেয়ার বাড়লে বেশি। Floating ratio-তে উল্টো: মূল্য স্থির রাখতে শেয়ারের সংখ্যা বদলে যায়। এতে target-এর শেয়ারহোল্ডার সুরক্ষিত থাকেন, কিন্তু acquirer-এর বর্তমান শেয়ারহোল্ডারদের ওপর dilution-এর ঝুঁকি বাড়ে, অর্থাৎ নতুন শেয়ার ইস্যুতে তাদের মালিকানার অংশ ছোট হয়ে যায়। দুই পক্ষের মাঝামাঝি সমাধান হল collar: শেয়ারদাম একটি সীমার মধ্যে ঘুরলে ratio স্থির থাকে, সীমা পেরোলে ratio সামান্য সমন্বয় হয়। এই কারণে বড় শেয়ার-চুক্তির আইনি নথিতে ratio-র শর্তাবলি খুব যত্নে লেখা হয়।",
+   "## আজকের বাজারের সঙ্গে সংযোগ",
+   "Nvidia-র শেয়ার আজ 31% লাফানোয় বোঝা যায়, বড় প্রযুক্তি শেয়ারের দাম কত দ্রুত বদলায়। CrowdStrike-এর মতো প্রযুক্তি কোম্পানি যখন নিজের শেয়ারকে মুদ্রা হিসেবে ব্যবহার করে, তখন বাজারের এই ওঠানামা সরাসরি চুক্তির মূল্যে ঢোকে। শেয়ারের দাম যখন ওপরে, তখন শেয়ারে কেনা সস্তা মনে হয়, কারণ acquirer কম সংখ্যক শেয়ার দিয়ে বেশি মূল্য মেটাতে পারে। বাজার পড়লে একই চুক্তি ব্যয়বহুল হয়ে যায়। এজন্যই অনেক কোম্পানি বাজার চড়া থাকার সময় শেয়ার-চুক্তিতে ঝোঁকে।",
+   "## BBA ছাত্রের জন্য শিক্ষা",
+   "এক, কোনো শেয়ার-চুক্তি দেখলে প্রথমে exchange ratio আর premium বের করো। দুই, জিজ্ঞেস করো: এই ratio কি শেয়ারদাম বদলালে বদলায় (floating), নাকি স্থির (fixed)? তিন, synergy-র দাবি যাচাই করো, কারণ premium-এর যুক্তি সেখানেই। মনে রাখবে, ভারতের Tata Steel-এর APL Apollo কেনার ঘটনায় বিষয়টা আলাদা: সেখানে নগদে অংশ কেনা হচ্ছে এবং এরপর ছোট শেয়ারহোল্ডারদের জন্য open offer আসবে। দুই ঘটনা পাশাপাশি রাখলে M&A-র payment structure-এর পার্থক্য পরিষ্কার হয়।"
+  ],
+  "takeaways": [
+   "Exchange ratio = প্রতি target-শেয়ারের প্রস্তাবিত দাম ÷ acquirer-এর শেয়ারদাম।",
+   "সম্পূর্ণ শেয়ার-চুক্তির প্রকৃত মূল্য acquirer-এর শেয়ারদামের সঙ্গে বদলায়, তাই বাজারের ওঠানামা এখানে ঝুঁকি।",
+   "Premium-এর যৌক্তিকতা নির্ভর করে synergy আদৌ আসে কি না তার ওপর।"
+  ]
+ },
+ "quiz": [
+  {
+   "q": "CrowdStrike-Zscaler চুক্তিতে exchange ratio 1.135 হলে Zscaler-এর এক শেয়ারের বদলে কী মিলবে?",
+   "options": [
+    "$1.135 নগদ",
+    "CrowdStrike-এর 11.35টি শেয়ার",
+    "CrowdStrike-এর 1.135টি শেয়ার",
+    "Zscaler-এর 1.135টি নতুন শেয়ার"
+   ],
+   "answer": 2,
+   "explain": "Exchange ratio বলে target-এর এক শেয়ারের জন্য acquirer-এর কয়টি শেয়ার মিলবে। এখানে তা 1.135।"
+  },
+  {
+   "q": "Nvidia-র খবরে সোমবার কোন মার্কিন সূচক সবচেয়ে বেশি (প্রায় 6.51%) বেড়েছে?",
+   "options": [
+    "Dow Jones",
+    "Nasdaq Composite",
+    "S&P 500",
+    "Russell 2000"
+   ],
+   "answer": 1,
+   "explain": "Nasdaq 6.51% বেড়ে 24,089.56-এ বন্ধ হয়েছে, S&P 500 বেড়েছে 4.73%, Dow 3.01%।"
+  },
+  {
+   "q": "Tata Steel সম্পূর্ণ open offer সফল হলে APL Apollo-তে তার মালিকানা প্রায় কত হবে?",
+   "options": [
+    "26.4%",
+    "10%",
+    "100%",
+    "প্রায় 52%"
+   ],
+   "answer": 3,
+   "explain": "26.4% অংশ কেনার পর আরও 26% open offer সফল হলে মালিকানা প্রায় 52% দাঁড়ায়।"
+  },
+  {
+   "q": "সোমবার Brent crude পড়ার একটি প্রধান কারণ কী ছিল?",
+   "options": [
+    "IEA-র জোগান উদ্বৃত্তের পূর্বাভাস ও Hormuz দিয়ে চলাচল স্বাভাবিক হওয়া",
+    "Fed-এর সুদ কমানো",
+    "OPEC-এর উৎপাদন হ্রাস",
+    "রুপির দাম বাড়া"
+   ],
+   "answer": 0,
+   "explain": "জোগান বাড়ার আশায় (সরবরাহ উদ্বৃত্ত) তেলের দাম কমেছে, Demand-supply নীতি অনুযায়ী।"
+  },
+  {
+   "q": "PMI-এর রিডিং 50-এর ওপরে থাকলে সাধারণত কী বোঝায়?",
+   "options": [
+    "সংকোচন",
+    "কোনো পরিবর্তন নেই",
+    "সম্প্রসারণ",
+    "মন্দা শুরু"
+   ],
+   "answer": 2,
+   "explain": "PMI 50-এর ওপরে মানে অর্থনৈতিক কার্যকলাপ বাড়ছে। ইউরোজোনের 51.7 তাই সম্প্রসারণ বোঝায়।"
+  }
+ ],
+ "caseStudy": {
+  "week": "2026-W48",
+  "weekLabel": "২৩ – ২৯ নভেম্বর ২০২৬",
+  "company": "Amul (GCMMF)",
+  "title": "Amul: কৃষকের সমবায়, যা ভারতের দুধ-বাজার বদলে দিল",
+  "concept": "Cooperative model আর Vertical Integration",
+  "intro": "1946 সালে গুজরাটের আনন্দ-এ দুধ উৎপাদক কৃষকরা মিলে একটি সমবায় গড়ে তোলেন। সেখান থেকেই জন্ম নেয় Amul, যা আজ ভারতের পরিচিত ব্র্যান্ডগুলোর একটি। এর পেছনের মূল চরিত্র ছিলেন Tribhuvandas Patel আর Verghese Kurien।",
+  "sections": [
+   {
+    "h": "কী করেছিল",
+    "p": "তখন কৃষকরা দুধ বেচতেন এক ব্যক্তিগত কোম্পানি Polson-এর কাছে, আর দাম আর শর্ত ঠিক করত মধ্যস্থতাকারীরা। কৃষকরা Kaira District Cooperative Milk Producers' Union গড়ে নিজেরাই দুধ সংগ্রহ, প্রক্রিয়াকরণ আর বিক্রি শুরু করলেন। পরে গুজরাটের জেলা সমবায়গুলো মিলে GCMMF তৈরি হয়, যা Amul ব্র্যান্ডে বিক্রি করে। 1970-এর দশকে জাতীয় স্তরে Operation Flood এই মডেল সারা দেশে ছড়ায়।"
+   },
+   {
+    "h": "ফলাফল",
+    "p": "Amul মাখন, চিজ, আইসক্রিম, দইয়ের মতো অনেক পণ্যের বড় ব্র্যান্ড হয়ে উঠেছে, আর ভারত বিশ্বের অন্যতম বৃহৎ দুধ উৎপাদক দেশ হয়েছে। Amul-এর নিজের দাবি, ভোক্তার দেওয়া প্রতি টাকার একটা বড় অংশ, প্রায় 80%-এর কাছাকাছি, কৃষকের কাছে যায়। এই সংখ্যা Amul-এর নিজের বক্তব্য, তাই আলাদা করে যাচাই করা ভালো।"
+   },
+   {
+    "h": "কেন কাজ করল",
+    "p": "প্রথমত, কৃষকই মালিক, তাই মধ্যস্থতাকারীর মুনাফা কমে যায়। দ্বিতীয়ত, সংগ্রহ থেকে বিপণন পর্যন্ত পুরো শৃঙ্খলা সমবায়ের হাতে, একে বলে vertical integration। তৃতীয়ত, Kurien-এর দলের প্রযুক্তিগত উদ্ভাবন, যেমন মহিষের দুধ থেকে গুঁড়ো দুধ বানানো, উদ্বৃত্ত দুধকে মূল্যবান পণ্যে বদলাল। চতুর্থত, 'Utterly Butterly Delicious' বিজ্ঞাপন-প্রচারণা সহজ, মনে-থাকা মেসেজ দিয়ে ব্র্যান্ডকে ঘরে ঘরে পৌঁছে দিল।"
+   },
+   {
+    "h": "ঝুঁকি আর সমালোচনা",
+    "p": "সমবায় কাঠামোতে সিদ্ধান্ত ধীরে হতে পারে, আর বেসরকারি প্রতিযোগীদের সঙ্গে দ্রুত বদলাতে হলে এটা বাধা হতে পারে। দুধের সরবরাহ আবহাওয়া আর পশুখাদ্যের দামের ওপর নির্ভরশীল। এছাড়া রাজনৈতিক প্রভাব ও পরিচালনার স্বচ্ছতা নিয়ে সমবায়গুলো কখনও সমালোচিত হয়েছে। বড় হতে হতে ব্র্যান্ডের একাধিক পণ্যে ছড়িয়ে পড়াও মনোযোগ ভাগ করে দেওয়ার ঝুঁকি তৈরি করে।"
+   }
+  ],
+  "lesson": "যে কাঠামোতে উৎপাদকই মালিক আর পুরো মূল্য-শৃঙ্খলা নিজের নিয়ন্ত্রণে, সেখানে মধ্যস্থতাকারীর অংশ কমে আর ব্র্যান্ডের ওপর আস্থা বাড়ে। Strategy আর ownership structure একসঙ্গে ভাবতে হয়।",
+  "question": "তুমি যদি Amul-এর পরিচালক হতে, তাহলে সমবায় কাঠামো ধরে রেখেই বেসরকারি প্রতিযোগীদের চেয়ে দ্রুত সিদ্ধান্ত নেওয়ার জন্য কী কী পরিবর্তন আনতে?"
+ },
+ "en": {
+  "dateLabel": "Tuesday, 24 November 2026",
+  "news": [
+   {
+    "id": "n1",
+    "category": "Company",
+    "title": "Jensen Huang is back as Nvidia CEO: stock jumps 31% in a day",
+    "summary": "Nvidia's board unanimously reinstated Jensen Huang as president, CEO and director on Monday, effective immediately. The board said that, after input from senior levels of the US government, it is confident the move poses no national security risk. President Trump had publicly urged the board to bring Huang back. The stock rose as much as 36.6% intraday and closed up 31.48%, its best day since 2003, adding roughly $950 billion to $1 trillion in market value in one day.",
+    "why": "Key-person risk and corporate governance apply directly: the arrival or exit of a top executive can swing a company's value enormously.",
+    "source": {
+     "name": "CNBC",
+     "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html"
+    }
+   },
+   {
+    "id": "n2",
+    "category": "Markets",
+    "title": "Wall Street's best day since April 2025: Nasdaq up 6.51%",
+    "summary": "On Nvidia's news, US stocks snapped a seven-day losing streak on Monday. The S&P 500 rose 4.73% to 7,237.17, the Dow Jones gained 1,448 points (3.01%) to 49,595.31 and the Nasdaq rose 6.51% to 24,089.56. The S&P 500 is back out of correction territory. Rate fears remain: one report citing CME FedWatch puts the odds of a December Fed hike at about 98%, and investors await PCE inflation data later in the week.",
+    "why": "A rebound from a market correction shows how fast sentiment can change on one headline, and how heavily the threat of monetary tightening still hangs over markets.",
+    "source": {
+     "name": "CNBC",
+     "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo-market-rally.html"
+    }
+   },
+   {
+    "id": "n3",
+    "category": "M&A",
+    "title": "CrowdStrike to buy Zscaler in a $43.9 billion all-stock deal",
+    "summary": "Cybersecurity firm CrowdStrike is buying rival Zscaler for about $43.9 billion, paid entirely in CrowdStrike shares. Zscaler holders will get 1.135 CrowdStrike shares per share, a 34% premium to Friday's close. Both boards approved the deal, but it needs Zscaler shareholder and regulatory approval. The companies expect more than $10 billion in annual recurring revenue at the start and target about $1 billion of added annualized revenue within 30 months of closing.",
+    "why": "The payment structure of M&A is the lesson: buying with shares instead of cash means understanding the exchange ratio and the premium. It also shows synergy assumptions and the risks of all-stock deals.",
+    "source": {
+     "name": "Daily Interlake (AP)",
+     "url": "https://dailyinterlake.com/news/2026/nov/23/crowdstrike-to-acquire-zscaler-in-a-44-billion-deal-that-would-create-a-cybersecurity-giant/"
+    }
+   },
+   {
+    "id": "n4",
+    "category": "India / M&A",
+    "title": "Tata Steel takes control of APL Apollo Tubes; both stocks fall",
+    "summary": "Tata Steel is buying a 26.4% stake in APL Apollo Tubes at Rs 2,100 per share and will then make an open offer for another 26%, which would lift its holding to about 52% if fully accepted. On Monday APL Apollo fell about 19.27% to Rs 1,715 on the NSE, and Tata Steel fell about 8%. Reports differ on the total cost, so that figure is not given here.",
+    "why": "An open offer is the protection SEBI's takeover rules give small shareholders. The deal also shows why companies pursue downstream or vertical integration.",
+    "source": {
+     "name": "CNBC",
+     "url": "https://www.cnbc.com/2026/11/23/tata-steel-acquisition-deal-apl-india.html"
+    }
+   },
+   {
+    "id": "n5",
+    "category": "Indian markets",
+    "title": "Sensex plunges 1,484 points, its biggest one-day fall in over four months",
+    "summary": "On Monday the Sensex fell 1,483.72 points (1.77%) to 82,435.99 and the Nifty fell about 1.75% to 25,349.65, its worst one-day fall since 8 July. Selling was concentrated in banks, financial services and metal stocks, as investors booked profits after four weeks of gains. A sell-off in global tech stocks also weighed. On the BSE, 2,872 stocks fell and 1,601 rose.",
+    "why": "A good example of profit booking and of how global contagion hits domestic indices. Market breadth is visible here too.",
+    "source": {
+     "name": "Business Standard",
+     "url": "https://www.business-standard.com/markets/news/stock-market-live-november-23-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-ipo-today-126112300084_1.html"
+    }
+   },
+   {
+    "id": "n6",
+    "category": "Economy",
+    "title": "Euro zone PMI steady at 51.7: Germany at 56-month high, France struggling",
+    "summary": "The November flash composite PMI held at 51.7, a fifth straight month above 50, but a little below the 51.9 Reuters poll forecast. Germany's reading rose to 55.0, a 56-month high, while France fell to 46.2, with weak domestic demand partly linked to hesitancy ahead of the 2027 presidential election. Services slipped to a five-month low of 51.2, and business confidence for the year ahead fell for a fourth month. Euro zone inflation was 4.0% in October, so another ECB hike in December is expected.",
+    "why": "PMI is a leading indicator: above 50 means expansion. Differences between countries in one currency area make a single interest rate policy harder for the central bank.",
+    "source": {
+     "name": "RTÉ (Reuters)",
+     "url": "https://www.rte.ie/news/business/2026/1123/1600272-euro-zone-growth-pmi/"
+    }
+   },
+   {
+    "id": "n7",
+    "category": "Commodities",
+    "title": "Brent falls 3.46% to $89.37, lowest close since 28 August",
+    "summary": "On Monday Brent crude fell 3.46% to $89.37 a barrel in London and US crude settled at $80.17 in New York. Tanker shipments from the Middle East through the Strait of Hormuz are nearing pre-war levels, Libya reopened its Sharara pipeline, and the IEA forecasts a global supply surplus in the fourth quarter. Broad market weakness also weighed. Sources differ slightly on the exact close, so the best-supported figure is used.",
+    "why": "Demand-supply and price elasticity at work: more supply pushes prices down. Cheaper oil eases inflation and the current account deficit for an importer like India.",
+    "source": {
+     "name": "The Nation Thailand",
+     "url": "https://nationthailand.com/news/world/40073845"
+    }
+   },
+   {
+    "id": "n8",
+    "category": "Gold",
+    "title": "Gold rebounds about 2.4% above $3,600 after a 9% weekly fall",
+    "summary": "Reuters via Kitco reports spot gold was up about 2.4% at $3,617.68 at midday Monday. It fell about 9% last week and hit its lowest level since September 2025 on Friday, pressured by expectations of a hawkish Fed and the sell-off in AI-linked shares. A pause in the dollar's rally helped gold bounce. This is a midday price and the day's final close may differ slightly.",
+    "why": "When interest rates rise, the opportunity cost of holding a non-yielding asset like gold rises and its price comes under pressure. A useful example of safe-haven asset behaviour.",
+    "source": {
+     "name": "Kitco (Reuters)",
+     "url": "https://www.kitco.com/news/off-the-wire/2026-11-23/gold-climbs-more-2-dollar-rally-pauses"
+    }
+   }
+  ],
+  "market": {
+   "asOf": "Closing on Monday, 23 November 2026 (gold: Reuters/Kitco midday price; USD/INR provisional close)",
+   "items": [
+    {
+     "name": "S&P 500",
+     "region": "US",
+     "value": "7,237.17",
+     "change": "+4.73%",
+     "dir": "up"
+    },
+    {
+     "name": "Dow Jones",
+     "region": "US",
+     "value": "49,595.31",
+     "change": "+3.01%",
+     "dir": "up"
+    },
+    {
+     "name": "Nasdaq",
+     "region": "US",
+     "value": "24,089.56",
+     "change": "+6.51%",
+     "dir": "up"
+    },
+    {
+     "name": "Sensex",
+     "region": "India",
+     "value": "82,435.99",
+     "change": "-1.77%",
+     "dir": "down"
+    },
+    {
+     "name": "Nifty 50",
+     "region": "India",
+     "value": "25,349.65",
+     "change": "-1.75%",
+     "dir": "down"
+    },
+    {
+     "name": "Brent Crude",
+     "region": "$ per barrel",
+     "value": "89.37",
+     "change": "-3.46%",
+     "dir": "down"
+    },
+    {
+     "name": "Gold",
+     "region": "$ per ounce (midday)",
+     "value": "3,617.68",
+     "change": "+2.4%",
+     "dir": "up"
+    },
+    {
+     "name": "USD/INR",
+     "region": "India",
+     "value": "92.92",
+     "change": "+0.32%",
+     "dir": "up"
+    }
+   ]
+  },
+  "term": {
+   "term": "Exchange Ratio",
+   "bangla": "How many acquirer shares a target share gets",
+   "definition": "The exchange ratio is the ratio in a stock-based merger or acquisition that says how many new shares of the acquirer each share of the target company is swapped for. No cash is needed, so if the acquirer's share price moves, the real value of the deal moves too.",
+   "example": "In CrowdStrike's deal to buy Zscaler the exchange ratio is 1.135: each Zscaler share is swapped for 1.135 CrowdStrike shares. That is a 34% premium to Friday's close and values the deal at about $43.9 billion.",
+   "formula": "Exchange Ratio = offer price per target share ÷ acquirer's share price",
+   "tip": "In interviews say: in an all-stock deal, if the acquirer's stock falls the target's shareholders receive less value, so they seek protection such as a collar around a fixed exchange ratio."
+  },
+  "gd": {
+   "topic": "Does a $1 trillion one-day market-cap jump on one CEO's return prove key-person risk, or is it market overreaction?",
+   "context": "After Nvidia's board reinstated Jensen Huang as CEO, the stock rose 31.48%, its best day since 2003, and the Nasdaq rose 6.51%. The stock had slumped for several weeks before.",
+   "for": [
+    "If a company's future depends this much on one leader, that is key-person risk, and it shows directly in the share price.",
+    "Such a big one-day jump shows investors treat leadership stability as a large part of a company's value.",
+    "Weak succession planning makes this risk even bigger."
+   ],
+   "against": [
+    "The earlier fall was bigger, so this jump may partly correct an overreaction.",
+    "One person's return does not overnight change a company's earnings, products or competitive base.",
+    "If government input or political pressure shapes the appointment, it raises corporate governance questions."
+   ]
+  },
+  "blog": {
+   "title": "Exchange Ratio: How to Buy a $43.9 Billion Company Without Cash",
+   "topic": "Mergers & Acquisitions",
+   "readMin": 5,
+   "body": [
+    "Suppose you have no cash but want to buy a big company. What do you do? Your own shares become your currency. On Monday CrowdStrike did exactly this: it is buying Zscaler for about $43.9 billion and will pay entirely in its own shares. At the centre of this deal is one number: the exchange ratio.",
+    "## What is the exchange ratio?",
+    "The exchange ratio says how many acquirer shares you get for one target share. In this deal it is 1.135. So a Zscaler shareholder with 100 shares would get 113.5 CrowdStrike shares when the deal completes. The formula is simple: offer price ÷ acquirer's share price. The number is set so that Zscaler holders get a bit more than the current value of their shares. That extra amount, the premium, is 34% over Friday's close.",
+    "## Why pay a premium?",
+    "To win over target shareholders you must offer more than the market price, because they are giving up control of their company. The acquirer justifies the extra price through synergy: combined, the two companies should cut costs and raise sales. CrowdStrike and Zscaler expect more than $10 billion in annual recurring revenue at the start and target about $1 billion of added annualized revenue within 30 months. If that target is missed, the premium turns out to be an overpayment.",
+    "## Cash versus shares: which is better?",
+    "In a cash deal the target shareholder knows exactly how much money they get. In a share deal the value depends on the acquirer's share price. Suppose CrowdStrike's stock was high on the deal day but the market falls: those 1.135 shares are then worth less. Today's market is a live example: the Nasdaq fell about 5% last week and rose 6.51% on Monday. In such a market the real value of an all-stock deal changes every day, so the figure must be watched after the announcement. The acquirer's advantage is that it does not have to raise a large amount of cash or take on debt.",
+    "## The deal is not done yet",
+    "Both boards have approved the deal, but it still needs Zscaler shareholder and regulatory approval. This shows that an announcement does not mean a finished deal. Competition regulators will examine whether combining two large cybersecurity firms reduces competition.",
+    "## Fixed versus floating exchange ratio",
+    "In a fixed exchange ratio the number is locked on the deal day, like 1.135 here. If the acquirer's stock then falls, target shareholders get less value; if it rises, they get more. In a floating ratio it is the opposite: the number of shares changes to keep the value steady. That protects target shareholders, but raises the risk of dilution for the acquirer's existing shareholders, because new shares are issued and their ownership share shrinks. A middle path is the collar: the ratio stays fixed while the share price moves inside a band, and adjusts slightly outside it. That is why the ratio terms in big share deals are written very carefully in the legal documents.",
+    "## Connecting it to today's market",
+    "Nvidia's 31% jump today shows how fast big technology share prices can move. When a tech company like CrowdStrike uses its own stock as currency, this swing flows directly into the deal's value. When the acquirer's stock is high, buying with shares feels cheap, because it can pay a given value with fewer shares. When the market falls, the same deal becomes expensive. This is why many companies lean towards share deals when markets are high.",
+    "## Lessons for BBA students",
+    "One, when you see a share deal, first work out the exchange ratio and the premium. Two, ask whether the ratio is floating or fixed when share prices move. Three, test the synergy claims, because the logic of the premium rests there. Remember that Tata Steel's purchase of APL Apollo is different: it buys a stake for cash and will then make an open offer to small shareholders. Putting the two side by side makes the differences in M&A payment structure clear."
+   ],
+   "takeaways": [
+    "Exchange ratio = offer price per target share ÷ acquirer's share price.",
+    "The real value of an all-stock deal moves with the acquirer's share price, so market swings are a risk.",
+    "The case for a premium depends on whether the synergy actually arrives."
+   ]
+  },
+  "quiz": [
+   {
+    "q": "In the CrowdStrike-Zscaler deal the exchange ratio is 1.135. What does one Zscaler share get?",
+    "options": [
+     "$1.135 in cash",
+     "11.35 CrowdStrike shares",
+     "1.135 CrowdStrike shares",
+     "1.135 new Zscaler shares"
+    ],
+    "answer": 2,
+    "explain": "The exchange ratio says how many acquirer shares one target share gets. Here it is 1.135."
+   },
+   {
+    "q": "On Nvidia's news, which US index rose the most on Monday (about 6.51%)?",
+    "options": [
+     "Dow Jones",
+     "Nasdaq Composite",
+     "S&P 500",
+     "Russell 2000"
+    ],
+    "answer": 1,
+    "explain": "The Nasdaq rose 6.51% to 24,089.56; the S&P 500 rose 4.73% and the Dow 3.01%."
+   },
+   {
+    "q": "If Tata Steel's open offer is fully accepted, roughly what stake will it hold in APL Apollo?",
+    "options": [
+     "26.4%",
+     "10%",
+     "100%",
+     "About 52%"
+    ],
+    "answer": 3,
+    "explain": "After buying 26.4%, a fully successful open offer for another 26% takes it to about 52%."
+   },
+   {
+    "q": "What was one main reason Brent crude fell on Monday?",
+    "options": [
+     "IEA's forecast of a supply surplus and Hormuz shipments normalising",
+     "A Fed rate cut",
+     "An OPEC output cut",
+     "A stronger rupee"
+    ],
+    "answer": 0,
+    "explain": "Expected extra supply pushed oil prices down, as demand-supply logic says."
+   },
+   {
+    "q": "What does a PMI reading above 50 generally indicate?",
+    "options": [
+     "Contraction",
+     "No change",
+     "Expansion",
+     "Start of a recession"
+    ],
+    "answer": 2,
+    "explain": "A PMI above 50 means economic activity is growing. The euro zone's 51.7 therefore signals expansion."
+   }
+  ],
+  "caseStudy": {
+   "week": "2026-W48",
+   "weekLabel": "23 – 29 November 2026",
+   "company": "Amul (GCMMF)",
+   "title": "Amul: The Farmers' Cooperative That Reshaped India's Dairy Market",
+   "concept": "Cooperative model and Vertical Integration",
+   "intro": "In 1946 milk-producing farmers in Anand, Gujarat came together to form a cooperative. From it was born Amul, today one of India's best-known brands. Key figures behind it were Tribhuvandas Patel and Verghese Kurien.",
+   "sections": [
+    {
+     "h": "What it did",
+     "p": "Farmers then sold milk to a private company, Polson, and middlemen set prices and terms. The farmers formed the Kaira District Cooperative Milk Producers' Union and began collecting, processing and selling milk themselves. Later the district cooperatives of Gujarat joined to form GCMMF, which sells under the Amul brand. In the 1970s Operation Flood spread the model nationwide."
+    },
+    {
+     "h": "The result",
+     "p": "Amul became a major brand in butter, cheese, ice cream and curd, and India became one of the world's largest milk producers. Amul itself claims that a large share of each rupee paid by the consumer, close to 80%, reaches farmers. That figure is Amul's own claim, so it is worth verifying separately."
+    },
+    {
+     "h": "Why it worked",
+     "p": "First, farmers are the owners, so middlemen's profit shrinks. Second, the whole chain from collection to marketing is in the cooperative's hands, which is vertical integration. Third, technical innovation by Kurien's team, such as making milk powder from buffalo milk, turned surplus milk into valuable products. Fourth, the 'Utterly Butterly Delicious' campaign took the brand into homes with a simple, memorable message."
+    },
+    {
+     "h": "Risks and criticism",
+     "p": "Decisions in a cooperative structure can be slow, which can be a handicap against fast-moving private rivals. Milk supply depends on weather and cattle feed prices. Cooperatives have also at times been criticised over political influence and transparency in governance. As a brand spreads across many products, there is also a risk of divided focus."
+    }
+   ],
+   "lesson": "Where producers own the business and control the whole value chain, the middleman's share shrinks and trust in the brand grows. Strategy and ownership structure must be thought about together.",
+   "question": "If you were a director of Amul, what changes would you make to decide faster than private competitors while keeping the cooperative structure?"
+  }
+ }
+}

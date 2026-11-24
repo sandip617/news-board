@@ -1,6 +1,23 @@
 {
  "terms": [
   {
+   "date": "2026-11-24",
+   "term": "Exchange Ratio",
+   "bangla": "বিনিময় অনুপাত: অধিগ্রহণে লক্ষ্য কোম্পানির এক শেয়ারের বদলে ক্রেতা কোম্পানির কয়টি শেয়ার মিলবে",
+   "definition": "Exchange ratio হল শেয়ার-ভিত্তিক merger বা acquisition-এর সেই অনুপাত, যা বলে target কোম্পানির প্রতিটি শেয়ারের বদলে acquirer কোম্পানির কয়টি নতুন শেয়ার পাওয়া যাবে। এতে নগদ লাগে না, তাই acquirer-এর শেয়ারের দাম বদলালে চুক্তির প্রকৃত মূল্যও বদলে যায়।",
+   "example": "CrowdStrike-এর Zscaler কেনার চুক্তিতে exchange ratio 1.135: Zscaler-এর প্রতি শেয়ারের বদলে CrowdStrike-এর 1.135টি শেয়ার মিলবে। এটি শুক্রবারের বন্ধ দামের চেয়ে 34% premium এবং চুক্তির মূল্য প্রায় $43.9 বিলিয়ন।",
+   "formula": "Exchange Ratio = প্রতি target-শেয়ারের জন্য প্রস্তাবিত দাম ÷ acquirer-এর শেয়ারদাম",
+   "tip": "Interview-এ বলো: সম্পূর্ণ শেয়ার-চুক্তিতে acquirer-এর শেয়ার পড়লে target-এর শেয়ারহোল্ডাররা কম মূল্য পান, তাই তারা fixed exchange ratio-র সঙ্গে collar-এর মতো সুরক্ষা চান।",
+   "en": {
+    "term": "Exchange Ratio",
+    "bangla": "How many acquirer shares a target share gets",
+    "definition": "The exchange ratio is the ratio in a stock-based merger or acquisition that says how many new shares of the acquirer each share of the target company is swapped for. No cash is needed, so if the acquirer's share price moves, the real value of the deal moves too.",
+    "example": "In CrowdStrike's deal to buy Zscaler the exchange ratio is 1.135: each Zscaler share is swapped for 1.135 CrowdStrike shares. That is a 34% premium to Friday's close and values the deal at about $43.9 billion.",
+    "formula": "Exchange Ratio = offer price per target share ÷ acquirer's share price",
+    "tip": "In interviews say: in an all-stock deal, if the acquirer's stock falls the target's shareholders receive less value, so they seek protection such as a collar around a fixed exchange ratio."
+   }
+  },
+  {
    "date": "2026-11-23",
    "term": "Revenue Recognition",
    "bangla": "রাজস্ব স্বীকৃতি: কখন আয়কে কোম্পানির খাতায় আয় হিসেবে ধরা হবে, তার নিয়ম",
