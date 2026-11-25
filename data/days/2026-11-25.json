@@ -1,0 +1,543 @@
+{
+ "date": "2026-11-25",
+ "dateLabel": "২৫ নভেম্বর ২০২৬, বুধবার",
+ "edition": 1,
+ "updatedAt": "2026-11-25T07:20:00+05:30",
+ "news": [
+  {
+   "id": "n1",
+   "category": "বাজার",
+   "title": "Nvidia-র শেয়ার 5.9% পড়ল, Nasdaq 1.48% নিচে; Dow 50,000-এর ওপরে",
+   "summary": "মঙ্গলবার মার্কিন শেয়ারবাজার মিশ্র ফলে বন্ধ হয়েছে, কারণ সোমবারের Nvidia-নির্ভর উত্থানের কিছুটা অংশ ফিরে গেছে। Dow Jones 423.39 পয়েন্ট (0.85%) বেড়ে 50,018.70-এ বন্ধ হয়েছে, আর S&P 500 0.50% কমে 7,201.09 এবং Nasdaq 1.48% কমে 23,733.54-এ নেমেছে। Jensen Huang-কে CEO পদে ফেরানোর পর সোমবার যে শেয়ার লাফিয়েছিল, সেই Nvidia মঙ্গলবার প্রায় 5.9% পড়েছে। বিনিয়োগকারীদের নজর এখন নতুন আমদানি শুল্কের সম্ভাবনা আর Fed-এর ডিসেম্বরের সুদের সিদ্ধান্তের দিকে।",
+   "why": "এক দিনের উত্থানের পরের দিনই পতন দেখায় বাজারের অস্থিরতা (volatility) আর sentiment কত দ্রুত বদলায়; সঙ্গে বোঝা যায় index-এর ভিন্ন ভিন্ন চালের কারণ কী।",
+   "source": {
+    "name": "NBC News (Reuters)",
+    "url": "https://www.nbcnews.com/business/markets/stocks-lower-after-nvidia-fueled-gains-rcna611211"
+   }
+  },
+  {
+   "id": "n2",
+   "category": "বাণিজ্য নীতি",
+   "title": "চীন, EU, Japan-সহ 16 অর্থনীতির ওপর নতুন Section 301 শুল্কের প্রস্তুতি",
+   "summary": "প্রতিবেদন অনুযায়ী মার্কিন প্রশাসন চীন, ইউরোপীয় ইউনিয়ন, মেক্সিকো, Japan-সহ 16টি অর্থনীতির পণ্যে নতুন Section 301 শুল্ক বসানোর প্রস্তুতি নিচ্ছে। চীনের ক্ষেত্রে মোট হার 20%-এর মধ্যে থাকতে পারে, আর EU, Japan ও দক্ষিণ কোরিয়ার ক্ষেত্রে সম্ভাব্য সীমা 15%। অন্য শুল্ক থাকায় বাস্তবে বাড়তি হার 2.5% থেকে 5%-এর মতো হতে পারে। তেল, গ্যাস, সার এবং গাড়ি-ইস্পাতের মতো আগেই আলাদা শুল্কের আওতায় থাকা পণ্য বাদ যেতে পারে। চূড়ান্ত হার এখনও ঠিক হয়নি, সিদ্ধান্ত এ সপ্তাহেই আসতে পারে।",
+   "why": "Tariff কীভাবে আমদানি খরচ, ভোক্তার দাম আর বাণিজ্য সম্পর্ক বদলায় তার সরাসরি উদাহরণ; International Business ও trade policy-র সিলেবাসে এটি আসে।",
+   "source": {
+    "name": "Yahoo Finance",
+    "url": "https://finance.yahoo.com/economy/policy/articles/trump-prepares-tariffs-china-dozens-142804298.html"
+   }
+  },
+  {
+   "id": "n3",
+   "category": "IPO",
+   "title": "IPO দামের নিচে নামল Anthropic-এর শেয়ার: চতুর্থ ট্রেডিং দিনে $81.91",
+   "summary": "Anthropic-এর শেয়ার মঙ্গলবার $83 IPO দামের নিচে নেমে 6.5% কমে $81.91-এ বন্ধ হয়েছে। 19 নভেম্বর Nasdaq-এ অভিষেকের দিন শেয়ার $111.50-তে খুলে শেষে $97.17-তে বন্ধ হয়েছিল। দিনের মধ্যে শেয়ার প্রায় 11–13% পর্যন্ত নেমেছিল। কিছু প্রতিবেদনে এর কারণ হিসেবে প্রযুক্তি খাতের সাধারণ পিছু হটা বলা হয়েছে। বিশ্লেষকদের মত মিশ্র হলেও Canaccord ও Oppenheimer buy বা outperform রেটিং দিয়ে কভারেজ শুরু করেছে।",
+   "why": "IPO pricing, অভিষেকের উত্থান (listing pop) আর তার পরের অস্থিরতা বোঝার জন্য এটি ভালো case; আগের দিনের উচ্চ প্রত্যাশা বাজারে কীভাবে মিলিয়ে যায় তা এখানে দেখা যায়।",
+   "source": {
+    "name": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading"
+   }
+  },
+  {
+   "id": "n4",
+   "category": "কোম্পানির ফল",
+   "title": "Best Buy-র comparable sales 6.1% বাড়ল, বছরের পূর্বাভাসও উঁচু করল",
+   "summary": "Best Buy-র তৃতীয় কোয়ার্টারে enterprise comparable sales বেড়েছে 6.1%, যা পাঁচ বছরের মধ্যে সর্বোচ্চ। Adjusted EPS $1.62, যেখানে বিশ্লেষকরা $1.49 ও 2.3% comparable sales বৃদ্ধি আশা করেছিলেন। Domestic online comparable sales বেড়েছে 10.8%। কোম্পানি পুরো বছরের comparable sales বৃদ্ধির পূর্বাভাস 1.9–3.0% থেকে বাড়িয়ে 3.4–4.0% এবং adjusted EPS-এর পূর্বাভাস $6.90–$7.05 করেছে। কম্পিউটিং পণ্য ও AI glasses-এর চাহিদা এই বৃদ্ধিতে সাহায্য করেছে।",
+   "why": "Comparable sales রিটেইল কোম্পানির আসল স্বাস্থ্য মাপে, কারণ নতুন দোকান খোলার প্রভাব এতে বাদ থাকে; earnings guidance পড়ার অভ্যাসও এখানে শেখা যায়।",
+   "source": {
+    "name": "Best Buy Corporate",
+    "url": "https://corporate.bestbuy.com/2026/best-buy-reports-q3-fy27-results/"
+   }
+  },
+  {
+   "id": "n5",
+   "category": "তেল",
+   "title": "Hormuz-এ জাহাজে হামলার খবরে Brent শেষ মুহূর্তে চড়ে $91.40-এ",
+   "summary": "মঙ্গলবার Brent জানুয়ারির চুক্তি 2.27% বেড়ে ব্যারেলপ্রতি $91.40-এ settle করেছে, যদিও দিনের মধ্যে একসময় $88.10-এ নেমেছিল, যা আগস্টের শেষের পর সর্বনিম্ন। WTI 2.35% (এক ডলার 88 সেন্ট) বেড়ে $82.05-এ বন্ধ হয়েছে। দিনের শেষে Strait of Hormuz-এর কাছে জাহাজে হামলার খবর দাম ঠেলে তুলেছে। প্রতিবেদনে তিনটি জাহাজ অজ্ঞাত প্রজেক্টাইলে আঘাত পাওয়ার কথা আছে।",
+   "why": "Supply shock আর geopolitical risk কীভাবে commodity দাম ও মুদ্রাস্ফীতির প্রত্যাশা (inflation expectations) বদলায়, তার উদাহরণ; ভারতের মতো তেল-আমদানিকারক দেশের জন্য এটি সরাসরি প্রাসঙ্গিক।",
+   "source": {
+    "name": "The Nation Thailand",
+    "url": "https://www.nationthailand.com/news/world/40073886"
+   }
+  },
+  {
+   "id": "n6",
+   "category": "ভারত",
+   "title": "গুরু নানক জয়ন্তীতে বাজার বন্ধ; সোমবার Sensex 1.77% ও Nifty 1.75% পড়েছিল",
+   "summary": "গুরু নানক জয়ন্তী উপলক্ষে মঙ্গলবার NSE ও BSE বন্ধ ছিল, বুধবার লেনদেন ফিরছে। শেষ ট্রেডিং দিন সোমবার Sensex 1.77% কমে 82,435.99-এ এবং Nifty 50 1.75% কমে 25,349.65-এ বন্ধ হয়েছিল। Nifty Metal 3.68%, Nifty PSU Bank 3.25% ও Nifty Private Bank 3.19% পড়ে। Tata Steel Sensex-এর সবচেয়ে খারাপ শেয়ার ছিল, প্রায় 8.16% নিচে, কারণ APL Apollo Tubes-এ তাদের চুক্তি বিনিয়োগকারীদের পছন্দ হয়নি। প্রতিবেদনগুলোতে মুনাফা তোলা (profit-taking) এবং বিশ্ব প্রযুক্তি valuation নিয়ে উদ্বেগকে কারণ বলা হয়েছে।",
+   "why": "এখানে দেখা যায় বড় M&A ঘোষণা কেতাবি synergy-র আশা সত্ত্বেও অধিগ্রহণকারীর শেয়ারদর কমাতে পারে, আর বিশ্ব বাজারের খবর ভারতের sectoral index-এও পড়ে।",
+   "source": {
+    "name": "Multibagg",
+    "url": "https://www.multibagg.ai/market-pulse/articles/sensex-nifty-selloff-market-wrap-cmwul2nla001h2dmzt1e8clff"
+   }
+  },
+  {
+   "id": "n7",
+   "category": "কেন্দ্রীয় ব্যাংক",
+   "title": "Bank of Canada-র Macklem: মুদ্রাস্ফীতি বেশি দিন চড়া থাকলে সুদ বাড়াতে হবে",
+   "summary": "Bank of Canada-র গভর্নর Tiff Macklem বলেছেন, মুদ্রাস্ফীতি যদি খুব বেশি সময় ধরে চড়া থাকে তাহলে সুদের হার বাড়াতে হবে। তাঁর মতে তেলের ধাক্কার দ্বিতীয় দফার প্রভাব (second-round effect) inflation persistence বাড়াবে। একটি প্রতিবেদনে LSEG-র বরাতে 9 ডিসেম্বরে কানাডায় সুদ বাড়ার সম্ভাবনা 79% বলা হয়েছে। আমেরিকায় অক্টোবরের PCE inflation রিপোর্ট বুধবার প্রকাশের কথা, আর Fed-এর ডিসেম্বরের সুদ বাড়ানো নিয়ে প্রতিবেদনগুলোতে উচ্চ সম্ভাবনার কথা আছে।",
+   "why": "Monetary policy-র মূল ধারণা এখানে: সুদ বাড়িয়ে মুদ্রাস্ফীতি দমন, আর second-round effect মানে প্রথম ধাক্কা মজুরি ও দামে ছড়িয়ে পড়া।",
+   "source": {
+    "name": "TMGM",
+    "url": "https://www.tmgm.com/en/analysis/market-news/article/canadian-dollar-advances-as-boc-governor-flags-persistent-inflation-risks-202611241807"
+   }
+  }
+ ],
+ "market": {
+  "asOf": "২৪ নভেম্বর ২০২৬, মঙ্গলবারের ক্লোজিং (ভারতের সূচক: ২৩ নভেম্বর, কারণ ২৪ নভেম্বর বাজার বন্ধ)",
+  "items": [
+   {
+    "name": "S&P 500",
+    "region": "আমেরিকা",
+    "value": "7,201.09",
+    "change": "-0.50%",
+    "dir": "down"
+   },
+   {
+    "name": "Dow Jones",
+    "region": "আমেরিকা",
+    "value": "50,018.70",
+    "change": "+0.85%",
+    "dir": "up"
+   },
+   {
+    "name": "Nasdaq",
+    "region": "আমেরিকা",
+    "value": "23,733.54",
+    "change": "-1.48%",
+    "dir": "down"
+   },
+   {
+    "name": "Sensex",
+    "region": "ভারত",
+    "value": "82,435.99",
+    "change": "-1.77%",
+    "dir": "down"
+   },
+   {
+    "name": "Nifty 50",
+    "region": "ভারত",
+    "value": "25,349.65",
+    "change": "-1.75%",
+    "dir": "down"
+   },
+   {
+    "name": "Brent Crude",
+    "region": "$ প্রতি ব্যারেল",
+    "value": "91.40",
+    "change": "+2.27%",
+    "dir": "up"
+   },
+   {
+    "name": "USD/INR",
+    "region": "টাকা",
+    "value": "92.84",
+    "change": "-0.09%",
+    "dir": "down"
+   }
+  ]
+ },
+ "term": {
+  "term": "Comparable Sales (Same-Store Sales)",
+  "bangla": "তুলনামূলক বিক্রি",
+  "definition": "আগের বছরের একই সময়ের তুলনায় সমান সংখ্যক পুরোনো দোকান বা চ্যানেলের বিক্রি কতটা বাড়ল বা কমল। নতুন দোকান খোলার প্রভাব এতে বাদ থাকে, তাই এটি ব্যবসার আসল চাহিদা মাপে।",
+  "example": "Best Buy-র তৃতীয় কোয়ার্টারে enterprise comparable sales 6.1% বেড়েছে, যা পাঁচ বছরের মধ্যে সর্বোচ্চ।",
+  "formula": "Comparable Sales Growth = (এই সময়ের comparable বিক্রি − আগের বছরের একই সময়ের বিক্রি) ÷ আগের বছরের বিক্রি × 100",
+  "tip": "Interview-তে রিটেইল কোম্পানির আলোচনায় বলুন: মোট বিক্রি বাড়া মানেই ভালো নয়, নতুন দোকানের অবদান বাদ দিয়ে comparable sales দেখতে হয়।"
+ },
+ "gd": {
+  "topic": "আমদানি শুল্ক বাড়ালে কি দেশের ভোক্তা ও শিল্প উপকৃত হয়?",
+  "context": "মার্কিন প্রশাসন চীন, EU, Japan-সহ 16 অর্থনীতির ওপর নতুন Section 301 শুল্কের প্রস্তুতি নিচ্ছে বলে প্রতিবেদনে এসেছে, আর এই খবরে মঙ্গলবার প্রযুক্তি শেয়ার চাপে পড়েছে।",
+  "for": [
+   "দেশীয় শিল্প বিদেশি প্রতিযোগিতা থেকে সুরক্ষা পায়",
+   "সরকারের রাজস্ব বাড়ে",
+   "অন্যায্য ভর্তুকিপ্রাপ্ত আমদানির বিরুদ্ধে চাপ তৈরি হয়"
+  ],
+  "against": [
+   "আমদানি পণ্যের দাম বাড়ে, ভোক্তা বেশি দাম দেয়",
+   "পাল্টা শুল্কের ঝুঁকি থাকে, রপ্তানিকারক ক্ষতিতে পড়ে",
+   "supply chain খরচ বাড়ে ও মুদ্রাস্ফীতির চাপ বাড়ে"
+  ]
+ },
+ "blog": {
+  "title": "Comparable sales: মোট বিক্রি বাড়লেই কি ব্যবসা ভালো চলছে?",
+  "topic": "Comparable Sales ও রিটেইল বিশ্লেষণ",
+  "readMin": 5,
+  "body": [
+   "আজ থেকে একটা প্রশ্ন নিয়ে ভাবা যাক: Best Buy-র মতো কোনো রিটেইল কোম্পানি যখন বলে তাদের বিক্রি 6.1% বেড়েছে, তখন সেটা কি সত্যিই ভালো খবর? উত্তর নির্ভর করে কোন বিক্রির কথা বলা হচ্ছে তার ওপর। এই লেখায় আমরা comparable sales নামের ধারণাটা একদম গোড়া থেকে বুঝব, তারপর আজকের খবরের সঙ্গে মেলাব।",
+   "## মোট বিক্রি বনাম comparable sales",
+   "ধরুন একটা কোম্পানি গত বছর 100টা দোকান থেকে 1,000 কোটি টাকা বিক্রি করেছিল। এ বছর তারা আরও 20টা নতুন দোকান খুলল এবং মোট বিক্রি হলো 1,150 কোটি টাকা। মোট বিক্রি বেড়েছে 15%, শুনতে দারুণ। কিন্তু এর একটা বড় অংশ এসেছে শুধু নতুন দোকান থেকে। পুরোনো 100টা দোকানের বিক্রি যদি আসলে 1,020 কোটি টাকা হয়, তাহলে আসল বৃদ্ধি মাত্র 2%। এই 2%-কেই বলে comparable sales growth বা same-store sales growth।",
+   "মানে comparable sales শুধু সেই দোকান বা চ্যানেলের বিক্রি ধরে, যেগুলো আগের বছরের একই সময়েও চালু ছিল। এতে নতুন দোকান খোলা, দোকান বন্ধ করা বা অধিগ্রহণের প্রভাব বাদ যায়। তাই এটা দেখায় ব্যবসার মূল চাহিদা সত্যিই বাড়ছে কি না। সূত্রটা সহজ: (এ বছরের comparable বিক্রি − গত বছরের বিক্রি) ÷ গত বছরের বিক্রি × 100।",
+   "## আজকের খবরে এর প্রয়োগ",
+   "Best Buy তাদের তৃতীয় কোয়ার্টারে enterprise comparable sales 6.1% বৃদ্ধির কথা জানিয়েছে, যা পাঁচ বছরের মধ্যে সর্বোচ্চ। বিশ্লেষকরা আশা করেছিলেন 2.3%। Domestic online comparable sales বেড়েছে 10.8%। কম্পিউটিং পণ্যের চাহিদা এবং AI glasses-এর মতো নতুন ক্যাটাগরি এতে সাহায্য করেছে। এই ফলের পর কোম্পানি পুরো বছরের comparable sales বৃদ্ধির পূর্বাভাস 1.9–3.0% থেকে বাড়িয়ে 3.4–4.0% করেছে।",
+   "লক্ষ করুন, বিশ্লেষকদের প্রত্যাশা এখানে বড় ভূমিকা নেয়। বাজার শুধু সংখ্যা দেখে না, দেখে সংখ্যাটা প্রত্যাশার চেয়ে ভালো না খারাপ। 6.1% বনাম প্রত্যাশিত 2.3% মানে বড় positive surprise। আবার কোম্পানির নিজের বছরের পূর্বাভাস (guidance) বাড়ানো ইঙ্গিত দেয় ব্যবস্থাপনা ভবিষ্যৎ নিয়ে আত্মবিশ্বাসী।",
+   "## একই দিনের বড় ছবি: শুল্ক আর খরচ",
+   "আজকের আরেকটা বড় খবর নতুন আমদানি শুল্ক নিয়ে। প্রতিবেদন অনুযায়ী মার্কিন প্রশাসন 16টি অর্থনীতির ওপর Section 301 শুল্কের প্রস্তুতি নিচ্ছে। Best Buy-র মতো ইলেকট্রনিক্স রিটেইলারের পণ্যের বড় অংশ বিদেশ থেকে আসে। তাই শুল্ক বাড়লে তাদের কেনার খরচ (cost of goods sold) বাড়তে পারে। সেই খরচ কোম্পানি নিজে সহ্য করবে, নাকি দাম বাড়িয়ে ক্রেতার ঘাড়ে চাপাবে, তা নির্ভর করে ক্রেতারা দাম বাড়লে কতটা কম কিনে (price elasticity of demand)। এখানেও comparable sales আবার কাজে লাগে: দাম বাড়ার পর পুরোনো দোকানের বিক্রি কমছে কি না, সেটা দেখলেই চাহিদার প্রতিক্রিয়া বোঝা যায়।",
+   "## comparable sales-এর সীমাবদ্ধতা",
+   "তবে এই সূচক নিখুঁত নয়। মুদ্রাস্ফীতির কারণে দাম বাড়লে বিক্রির টাকার অঙ্ক বাড়ে, কিন্তু আসলে বিক্রি হওয়া পণ্যের পরিমাণ নাও বাড়তে পারে। তাই comparable sales দেখার সময় ভাবুন: বৃদ্ধিটা দাম বাড়ার কারণে, নাকি বেশি ক্রেতার কারণে? এছাড়া comparable sales বাড়লেই মুনাফা বাড়ে না। মুনাফা বোঝার জন্য gross margin আর EPS-ও দেখতে হয়। Best Buy-র ক্ষেত্রে adjusted EPS $1.62 এসেছে, প্রত্যাশা ছিল $1.49।",
+   "## আরেকটি উদাহরণ: দুই দোকানের তুলনা",
+   "ধরুন A কোম্পানির comparable sales 8% বাড়ল কিন্তু তাদের গ্রাহক সংখ্যা কমেছে, কারণ তারা সব পণ্যের দাম বাড়িয়েছে। B কোম্পানির comparable sales 4% বাড়ল এবং গ্রাহক সংখ্যাও বেড়েছে। প্রথম দেখায় A এগিয়ে, কিন্তু দীর্ঘমেয়াদে B-র বৃদ্ধি বেশি টেকসই, কারণ গ্রাহকের সংখ্যা ও কেনার পরিমাণ বাড়ছে, শুধু দামের জোরে নয়। তাই বিশ্লেষক হিসেবে সবসময় comparable sales-কে গড় লেনদেনের মূল্য (average ticket) ও লেনদেনের সংখ্যা (traffic) দুই ভাগে ভেঙে দেখবেন। অনলাইন আর দোকান, দুই চ্যানেল আলাদা করে দেখাও জরুরি: Best Buy-র domestic online 10.8% বাড়া বলছে ক্রেতারা ক্রমেই অনলাইনে ঝুঁকছে, আর এটা কোম্পানির চ্যানেল কৌশলের ওপর প্রভাব ফেলে।",
+   "## BBA ছাত্রছাত্রীদের জন্য ব্যবহারিক শিক্ষা",
+   "পরের বার কোনো রিটেইল কোম্পানির ফলাফল পড়লে তিনটি প্রশ্ন করুন। প্রথমত, মোট বিক্রি না comparable sales বাড়ল? দ্বিতীয়ত, প্রত্যাশার তুলনায় ফল কেমন, এবং কোম্পানি guidance বাড়াল না কমাল? তৃতীয়ত, বৃদ্ধির উৎস কী: দাম, পরিমাণ, নাকি নতুন ক্যাটাগরি? Interview-তে এই তিনটি প্রশ্ন তুললেই আপনি অন্যদের চেয়ে আলাদা হয়ে দাঁড়াবেন, কারণ বেশিরভাগ প্রার্থী শুধু headline সংখ্যা মুখস্থ বলে।"
+  ],
+  "takeaways": [
+   "Comparable sales নতুন দোকানের প্রভাব বাদ দিয়ে আসল চাহিদা মাপে",
+   "বাজার সংখ্যার সঙ্গে প্রত্যাশা ও guidance-ও দেখে",
+   "দাম বাড়ার কারণে বিক্রি বাড়লে সেটাকে আসল বৃদ্ধি ভাবা ঠিক নয়"
+  ]
+ },
+ "quiz": [
+  {
+   "q": "Comparable sales growth কী মাপে?",
+   "options": [
+    "মোট বিক্রির বৃদ্ধি, নতুন দোকান সহ",
+    "আগের বছরের একই সময়েও চালু থাকা দোকানের বিক্রির বৃদ্ধি",
+    "কোম্পানির মোট মুনাফা",
+    "শেয়ারের দামের বৃদ্ধি"
+   ],
+   "answer": 1,
+   "explain": "নতুন দোকান বাদ দিয়ে পুরোনো দোকানের বিক্রির বৃদ্ধিকেই comparable sales বলে।"
+  },
+  {
+   "q": "Best Buy তৃতীয় কোয়ার্টারে enterprise comparable sales কত বেড়েছে বলে জানিয়েছে?",
+   "options": [
+    "2.3%",
+    "3.4%",
+    "10.8%",
+    "6.1%"
+   ],
+   "answer": 3,
+   "explain": "6.1%, যা পাঁচ বছরের মধ্যে সর্বোচ্চ। 10.8% ছিল domestic online comparable sales।"
+  },
+  {
+   "q": "মঙ্গলবার কোন সূচকটি 0.85% বেড়ে 50,018.70-এ বন্ধ হয়েছে?",
+   "options": [
+    "Dow Jones",
+    "Nasdaq",
+    "S&P 500",
+    "Nifty 50"
+   ],
+   "answer": 0,
+   "explain": "Dow Jones 0.85% বেড়ে 50,018.70-এ বন্ধ হয়েছে, আর S&P 500 ও Nasdaq কমেছে।"
+  },
+  {
+   "q": "Anthropic-এর IPO দাম কত ছিল, যার নিচে শেয়ার মঙ্গলবার বন্ধ হয়েছে?",
+   "options": [
+    "$70",
+    "$97.17",
+    "$83",
+    "$111.50"
+   ],
+   "answer": 2,
+   "explain": "IPO দাম ছিল $83; মঙ্গলবার শেয়ার $81.91-এ বন্ধ হয়। $97.17 ছিল অভিষেকের দিনের ক্লোজ।"
+  },
+  {
+   "q": "Brent দাম মঙ্গলবার শেষ মুহূর্তে বাড়ল কেন?",
+   "options": [
+    "Fed সুদ কমিয়েছে বলে",
+    "Strait of Hormuz-এর কাছে জাহাজে হামলার খবরে",
+    "OPEC উৎপাদন বাড়ানোয়",
+    "ডলার দুর্বল হওয়ায়"
+   ],
+   "answer": 1,
+   "explain": "Hormuz-এর কাছে জাহাজে হামলার খবর supply risk বাড়িয়ে Brent-কে $91.40-এ তুলেছে।"
+  }
+ ],
+ "caseStudy": {
+  "week": "2026-W48",
+  "weekLabel": "২৩ – ২৯ নভেম্বর ২০২৬",
+  "company": "Amul (GCMMF)",
+  "title": "Amul: কৃষকের সমবায়, যা ভারতের দুধ-বাজার বদলে দিল",
+  "concept": "Cooperative model আর Vertical Integration",
+  "intro": "1946 সালে গুজরাটের আনন্দ-এ দুধ উৎপাদক কৃষকরা মিলে একটি সমবায় গড়ে তোলেন। সেখান থেকেই জন্ম নেয় Amul, যা আজ ভারতের পরিচিত ব্র্যান্ডগুলোর একটি। এর পেছনের মূল চরিত্র ছিলেন Tribhuvandas Patel আর Verghese Kurien।",
+  "sections": [
+   {
+    "h": "কী করেছিল",
+    "p": "তখন কৃষকরা দুধ বেচতেন এক ব্যক্তিগত কোম্পানি Polson-এর কাছে, আর দাম আর শর্ত ঠিক করত মধ্যস্থতাকারীরা। কৃষকরা Kaira District Cooperative Milk Producers' Union গড়ে নিজেরাই দুধ সংগ্রহ, প্রক্রিয়াকরণ আর বিক্রি শুরু করলেন। পরে গুজরাটের জেলা সমবায়গুলো মিলে GCMMF তৈরি হয়, যা Amul ব্র্যান্ডে বিক্রি করে। 1970-এর দশকে জাতীয় স্তরে Operation Flood এই মডেল সারা দেশে ছড়ায়।"
+   },
+   {
+    "h": "ফলাফল",
+    "p": "Amul মাখন, চিজ, আইসক্রিম, দইয়ের মতো অনেক পণ্যের বড় ব্র্যান্ড হয়ে উঠেছে, আর ভারত বিশ্বের অন্যতম বৃহৎ দুধ উৎপাদক দেশ হয়েছে। Amul-এর নিজের দাবি, ভোক্তার দেওয়া প্রতি টাকার একটা বড় অংশ, প্রায় 80%-এর কাছাকাছি, কৃষকের কাছে যায়। এই সংখ্যা Amul-এর নিজের বক্তব্য, তাই আলাদা করে যাচাই করা ভালো।"
+   },
+   {
+    "h": "কেন কাজ করল",
+    "p": "প্রথমত, কৃষকই মালিক, তাই মধ্যস্থতাকারীর মুনাফা কমে যায়। দ্বিতীয়ত, সংগ্রহ থেকে বিপণন পর্যন্ত পুরো শৃঙ্খলা সমবায়ের হাতে, একে বলে vertical integration। তৃতীয়ত, Kurien-এর দলের প্রযুক্তিগত উদ্ভাবন, যেমন মহিষের দুধ থেকে গুঁড়ো দুধ বানানো, উদ্বৃত্ত দুধকে মূল্যবান পণ্যে বদলাল। চতুর্থত, 'Utterly Butterly Delicious' বিজ্ঞাপন-প্রচারণা সহজ, মনে-থাকা মেসেজ দিয়ে ব্র্যান্ডকে ঘরে ঘরে পৌঁছে দিল।"
+   },
+   {
+    "h": "ঝুঁকি আর সমালোচনা",
+    "p": "সমবায় কাঠামোতে সিদ্ধান্ত ধীরে হতে পারে, আর বেসরকারি প্রতিযোগীদের সঙ্গে দ্রুত বদলাতে হলে এটা বাধা হতে পারে। দুধের সরবরাহ আবহাওয়া আর পশুখাদ্যের দামের ওপর নির্ভরশীল। এছাড়া রাজনৈতিক প্রভাব ও পরিচালনার স্বচ্ছতা নিয়ে সমবায়গুলো কখনও সমালোচিত হয়েছে। বড় হতে হতে ব্র্যান্ডের একাধিক পণ্যে ছড়িয়ে পড়াও মনোযোগ ভাগ করে দেওয়ার ঝুঁকি তৈরি করে।"
+   }
+  ],
+  "lesson": "যে কাঠামোতে উৎপাদকই মালিক আর পুরো মূল্য-শৃঙ্খলা নিজের নিয়ন্ত্রণে, সেখানে মধ্যস্থতাকারীর অংশ কমে আর ব্র্যান্ডের ওপর আস্থা বাড়ে। Strategy আর ownership structure একসঙ্গে ভাবতে হয়।",
+  "question": "তুমি যদি Amul-এর পরিচালক হতে, তাহলে সমবায় কাঠামো ধরে রেখেই বেসরকারি প্রতিযোগীদের চেয়ে দ্রুত সিদ্ধান্ত নেওয়ার জন্য কী কী পরিবর্তন আনতে?"
+ },
+ "en": {
+  "dateLabel": "Wednesday, 25 November 2026",
+  "news": [
+   {
+    "id": "n1",
+    "category": "Markets",
+    "title": "Nvidia falls 5.9%, Nasdaq down 1.48%; Dow closes above 50,000",
+    "summary": "Wall Street closed mixed on Tuesday as some of Monday's Nvidia-fuelled rally reversed. The Dow Jones gained 423.39 points (0.85%) to 50,018.70, while the S&P 500 fell 0.50% to 7,201.09 and the Nasdaq fell 1.48% to 23,733.54. Nvidia, which had jumped on Monday after Jensen Huang was reinstated as CEO, slipped about 5.9%. Investors are now watching the possibility of new import tariffs and the Fed's December rate decision.",
+    "why": "A day of gains followed by a fall shows how fast sentiment can swing and how volatility works; it also shows why different indices can move in different directions.",
+    "source": {
+     "name": "NBC News (Reuters)",
+     "url": "https://www.nbcnews.com/business/markets/stocks-lower-after-nvidia-fueled-gains-rcna611211"
+    }
+   },
+   {
+    "id": "n2",
+    "category": "Trade policy",
+    "title": "US prepares new Section 301 tariffs on 16 economies including China, EU and Japan",
+    "summary": "Reports say the US administration is preparing new Section 301 tariffs on 16 economies, including China, the European Union, Mexico and Japan. China's overall rate could stay within 20%, and the likely ceiling for the EU, Japan and South Korea is 15%. Because of existing duties, the real increase could be only about 2.5% to 5%. Goods already under separate tariffs, such as autos and steel, plus oil, gas and fertiliser, may be excluded. Final rates are not set and a decision could come this week.",
+    "why": "A live example of how tariffs change import costs, consumer prices and trade relations, a core topic in international business.",
+    "source": {
+     "name": "Yahoo Finance",
+     "url": "https://finance.yahoo.com/economy/policy/articles/trump-prepares-tariffs-china-dozens-142804298.html"
+    }
+   },
+   {
+    "id": "n3",
+    "category": "IPO",
+    "title": "Anthropic shares slip below IPO price: $81.91 on fourth trading day",
+    "summary": "Anthropic shares fell below the $83 IPO price on Tuesday and closed down 6.5% at $81.91. On the November 19 Nasdaq debut they opened at $111.50 and closed at $97.17. During Tuesday they fell as much as 11–13%. Some reports blame a broad tech retreat. Analysts are mixed, but Canaccord and Oppenheimer started coverage with buy and outperform ratings.",
+    "why": "A good case for IPO pricing, the listing pop and the volatility that follows when early excitement fades.",
+    "source": {
+     "name": "Bloomberg",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading"
+    }
+   },
+   {
+    "id": "n4",
+    "category": "Earnings",
+    "title": "Best Buy comparable sales rise 6.1% and it lifts full-year outlook",
+    "summary": "Best Buy's third-quarter enterprise comparable sales rose 6.1%, the most in five years. Adjusted EPS was $1.62 against analyst expectations of $1.49 and comparable sales growth of 2.3%. Domestic online comparable sales rose 10.8%. The company raised its full-year comparable sales outlook from 1.9–3.0% to 3.4–4.0% and adjusted EPS guidance to $6.90–$7.05. Demand for computing products and AI glasses helped.",
+    "why": "Comparable sales measure a retailer's real health because the effect of new stores is removed; it also teaches you to read earnings guidance.",
+    "source": {
+     "name": "Best Buy Corporate",
+     "url": "https://corporate.bestbuy.com/2026/best-buy-reports-q3-fy27-results/"
+    }
+   },
+   {
+    "id": "n5",
+    "category": "Oil",
+    "title": "Brent jumps late to $91.40 on reports of ship attacks near Hormuz",
+    "summary": "Brent's January contract settled up 2.27% at $91.40 a barrel on Tuesday, though it dipped to $88.10 earlier, its lowest since late August. WTI rose 2.35% to settle at $82.05. A late rally followed reports of attacks on ships near the Strait of Hormuz, with three vessels reportedly hit by unidentified projectiles.",
+    "why": "A supply shock and geopolitical risk move commodity prices and inflation expectations, which matters directly for oil-importing India.",
+    "source": {
+     "name": "The Nation Thailand",
+     "url": "https://www.nationthailand.com/news/world/40073886"
+    }
+   },
+   {
+    "id": "n6",
+    "category": "India",
+    "title": "Markets shut for Guru Nanak Jayanti; Sensex fell 1.77% and Nifty 1.75% on Monday",
+    "summary": "NSE and BSE were closed on Tuesday for Guru Nanak Jayanti and reopen on Wednesday. On the last session, Monday, the Sensex fell 1.77% to 82,435.99 and the Nifty 50 fell 1.75% to 25,349.65. Nifty Metal fell 3.68%, Nifty PSU Bank 3.25% and Nifty Private Bank 3.19%. Tata Steel was the worst Sensex stock, down about 8.16%, as investors disliked its deal with APL Apollo Tubes. Reports cite profit-taking and worries about global tech valuations.",
+    "why": "Big M&A announcements can hurt the acquirer's share price despite expected synergies, and global market news spills into India's sector indices.",
+    "source": {
+     "name": "Multibagg",
+     "url": "https://www.multibagg.ai/market-pulse/articles/sensex-nifty-selloff-market-wrap-cmwul2nla001h2dmzt1e8clff"
+    }
+   },
+   {
+    "id": "n7",
+    "category": "Central banks",
+    "title": "Bank of Canada's Macklem: rates must rise if inflation stays high too long",
+    "summary": "Bank of Canada Governor Tiff Macklem said that if inflation stays too high for too long, the bank would need to hike rates. He said the second-round effect of the oil shock will add to inflation persistence. One report puts the odds of a Canadian hike on December 9 at 79%, citing LSEG. In the US, the October PCE inflation report is due on Wednesday, and reports point to high odds of a December Fed hike.",
+    "why": "Core monetary policy ideas: raising rates to curb inflation, and second-round effects meaning the first shock spreads into wages and prices.",
+    "source": {
+     "name": "TMGM",
+     "url": "https://www.tmgm.com/en/analysis/market-news/article/canadian-dollar-advances-as-boc-governor-flags-persistent-inflation-risks-202611241807"
+    }
+   }
+  ],
+  "market": {
+   "asOf": "Close of Tuesday, 24 November 2026 (India indices: 23 November, as markets were shut on 24 November)",
+   "items": [
+    {
+     "name": "S&P 500",
+     "region": "US",
+     "value": "7,201.09",
+     "change": "-0.50%",
+     "dir": "down"
+    },
+    {
+     "name": "Dow Jones",
+     "region": "US",
+     "value": "50,018.70",
+     "change": "+0.85%",
+     "dir": "up"
+    },
+    {
+     "name": "Nasdaq",
+     "region": "US",
+     "value": "23,733.54",
+     "change": "-1.48%",
+     "dir": "down"
+    },
+    {
+     "name": "Sensex",
+     "region": "India",
+     "value": "82,435.99",
+     "change": "-1.77%",
+     "dir": "down"
+    },
+    {
+     "name": "Nifty 50",
+     "region": "India",
+     "value": "25,349.65",
+     "change": "-1.75%",
+     "dir": "down"
+    },
+    {
+     "name": "Brent Crude",
+     "region": "$ per barrel",
+     "value": "91.40",
+     "change": "+2.27%",
+     "dir": "up"
+    },
+    {
+     "name": "USD/INR",
+     "region": "Rupee",
+     "value": "92.84",
+     "change": "-0.09%",
+     "dir": "down"
+    }
+   ]
+  },
+  "term": {
+   "term": "Comparable Sales (Same-Store Sales)",
+   "bangla": "Growth in like-for-like sales",
+   "definition": "How much sales grew or fell compared with the same period last year, counting only stores or channels that were open in both periods. The effect of new store openings is removed, so it measures real demand.",
+   "example": "Best Buy's third-quarter enterprise comparable sales rose 6.1%, the most in five years.",
+   "formula": "Comparable Sales Growth = (Comparable sales this period − same period last year) ÷ same period last year × 100",
+   "tip": "In interviews about retail say: higher total sales alone is not proof of health; look at comparable sales with new-store contribution stripped out."
+  },
+  "gd": {
+   "topic": "Do higher import tariffs benefit a country's consumers and industry?",
+   "context": "Reports say the US is preparing new Section 301 tariffs on 16 economies including China, the EU and Japan, and the news weighed on tech shares on Tuesday.",
+   "for": [
+    "Domestic industry is shielded from foreign competition",
+    "Government revenue rises",
+    "It pressures unfairly subsidised imports"
+   ],
+   "against": [
+    "Imported goods get costlier and consumers pay more",
+    "Retaliation risk hurts exporters",
+    "Supply-chain costs and inflation pressure rise"
+   ]
+  },
+  "blog": {
+   "title": "Comparable sales: does rising total sales mean the business is healthy?",
+   "topic": "Comparable Sales and retail analysis",
+   "readMin": 5,
+   "body": [
+    "Start with a question: when a retailer like Best Buy says sales rose 6.1%, is that really good news? It depends on which sales number is meant. This post explains comparable sales from scratch and connects it to today's news.",
+    "## Total sales versus comparable sales",
+    "Suppose a company sold Rs 1,000 crore from 100 stores last year. This year it opens 20 new stores and total sales reach Rs 1,150 crore. Total sales are up 15%, which sounds great. But much of that came from new stores. If the original 100 stores sold only Rs 1,020 crore, the real growth is just 2%. That 2% is comparable sales growth, also called same-store sales growth.",
+    "So comparable sales count only stores or channels that were also open in the same period last year. New openings, closures and acquisitions are excluded. It shows whether underlying demand is truly growing. The formula is simple: (this year's comparable sales − last year's) ÷ last year's × 100.",
+    "## Applying it to today's news",
+    "Best Buy reported enterprise comparable sales up 6.1% in its third quarter, the most in five years. Analysts had expected 2.3%. Domestic online comparable sales rose 10.8%. Demand for computing products and new categories like AI glasses helped. After the result the company raised its full-year comparable sales outlook from 1.9–3.0% to 3.4–4.0%.",
+    "Notice the role of expectations. Markets do not just read the number; they ask whether it beat or missed expectations. 6.1% versus an expected 2.3% is a big positive surprise. And raising guidance signals that management is confident about the future.",
+    "## The bigger picture: tariffs and costs",
+    "Another big story today is new import tariffs. Reports say the US is preparing Section 301 tariffs on 16 economies. An electronics retailer like Best Buy imports much of what it sells, so higher tariffs could raise its cost of goods sold. Whether the company absorbs that cost or passes it on depends on how much customers cut their buying when prices rise, which is price elasticity of demand. Comparable sales help here too: if same-store sales fall after price increases, you can see how demand reacted.",
+    "## Limits of comparable sales",
+    "The measure is not perfect. When inflation lifts prices, sales in money terms rise even if the number of items sold does not. So ask: is growth coming from higher prices or from more customers? Also, higher comparable sales do not automatically mean higher profit; you need gross margin and EPS too. For Best Buy, adjusted EPS was $1.62 against $1.49 expected.",
+    "## Another example: comparing two retailers",
+    "Suppose company A's comparable sales rise 8% but its customer count falls because it raised all prices. Company B's comparable sales rise 4% and its customer count also grows. At first glance A looks ahead, but B's growth is more sustainable because more customers are buying, not just paying more. So as an analyst, always split comparable sales into average ticket and traffic. Splitting online from in-store matters too: Best Buy's domestic online growth of 10.8% suggests customers are shifting online, which affects channel strategy.",
+    "## A practical lesson for BBA students",
+    "Next time you read a retailer's results, ask three questions. First, did total sales or comparable sales rise? Second, how does the result compare with expectations, and did the company raise or cut guidance? Third, what is the source of growth: price, volume or new categories? Raising these in an interview will set you apart, because most candidates only recite headline numbers."
+   ],
+   "takeaways": [
+    "Comparable sales strip out new stores to measure real demand",
+    "Markets watch expectations and guidance as well as the number",
+    "Sales growth driven by price rises is not real growth in demand"
+   ]
+  },
+  "quiz": [
+   {
+    "q": "What does comparable sales growth measure?",
+    "options": [
+     "Total sales growth including new stores",
+     "Sales growth of stores or channels open in both periods",
+     "The company's total profit",
+     "Share price growth"
+    ],
+    "answer": 1,
+    "explain": "Growth in like-for-like sales with new stores excluded."
+   },
+   {
+    "q": "By how much did Best Buy's enterprise comparable sales rise in the third quarter?",
+    "options": [
+     "2.3%",
+     "3.4%",
+     "10.8%",
+     "6.1%"
+    ],
+    "answer": 3,
+    "explain": "6.1%, the most in five years. 10.8% was domestic online comparable sales."
+   },
+   {
+    "q": "Which index closed at 50,018.70 on Tuesday, up 0.85%?",
+    "options": [
+     "Dow Jones",
+     "Nasdaq",
+     "S&P 500",
+     "Nifty 50"
+    ],
+    "answer": 0,
+    "explain": "The Dow rose to 50,018.70 while the S&P 500 and Nasdaq fell."
+   },
+   {
+    "q": "What was Anthropic's IPO price, below which the shares closed on Tuesday?",
+    "options": [
+     "$70",
+     "$97.17",
+     "$83",
+     "$111.50"
+    ],
+    "answer": 2,
+    "explain": "The IPO price was $83; shares closed at $81.91. $97.17 was the debut-day close."
+   },
+   {
+    "q": "Why did Brent rise late on Tuesday?",
+    "options": [
+     "Fed cut rates",
+     "Reports of ship attacks near the Strait of Hormuz",
+     "OPEC raised output",
+     "A weaker dollar"
+    ],
+    "answer": 1,
+    "explain": "Attack reports near Hormuz raised supply risk and lifted Brent to $91.40."
+   }
+  ],
+  "caseStudy": {
+   "week": "2026-W48",
+   "weekLabel": "23 – 29 November 2026",
+   "company": "Amul (GCMMF)",
+   "title": "Amul: The Farmers' Cooperative That Reshaped India's Dairy Market",
+   "concept": "Cooperative model and Vertical Integration",
+   "intro": "In 1946 milk-producing farmers in Anand, Gujarat came together to form a cooperative. From it was born Amul, today one of India's best-known brands. Key figures behind it were Tribhuvandas Patel and Verghese Kurien.",
+   "sections": [
+    {
+     "h": "What it did",
+     "p": "Farmers then sold milk to a private company, Polson, and middlemen set prices and terms. The farmers formed the Kaira District Cooperative Milk Producers' Union and began collecting, processing and selling milk themselves. Later the district cooperatives of Gujarat joined to form GCMMF, which sells under the Amul brand. In the 1970s Operation Flood spread the model nationwide."
+    },
+    {
+     "h": "The result",
+     "p": "Amul became a major brand in butter, cheese, ice cream and curd, and India became one of the world's largest milk producers. Amul itself claims that a large share of each rupee paid by the consumer, close to 80%, reaches farmers. That figure is Amul's own claim, so it is worth verifying separately."
+    },
+    {
+     "h": "Why it worked",
+     "p": "First, farmers are the owners, so middlemen's profit shrinks. Second, the whole chain from collection to marketing is in the cooperative's hands, which is vertical integration. Third, technical innovation by Kurien's team, such as making milk powder from buffalo milk, turned surplus milk into valuable products. Fourth, the 'Utterly Butterly Delicious' campaign took the brand into homes with a simple, memorable message."
+    },
+    {
+     "h": "Risks and criticism",
+     "p": "Decisions in a cooperative structure can be slow, which can be a handicap against fast-moving private rivals. Milk supply depends on weather and cattle feed prices. Cooperatives have also at times been criticised over political influence and transparency in governance. As a brand spreads across many products, there is also a risk of divided focus."
+    }
+   ],
+   "lesson": "Where producers own the business and control the whole value chain, the middleman's share shrinks and trust in the brand grows. Strategy and ownership structure must be thought about together.",
+   "question": "If you were a director of Amul, what changes would you make to decide faster than private competitors while keeping the cooperative structure?"
+  }
+ }
+}

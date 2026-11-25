@@ -1,6 +1,23 @@
 {
  "terms": [
   {
+   "date": "2026-11-25",
+   "term": "Comparable Sales (Same-Store Sales)",
+   "bangla": "তুলনামূলক বিক্রি",
+   "definition": "আগের বছরের একই সময়ের তুলনায় সমান সংখ্যক পুরোনো দোকান বা চ্যানেলের বিক্রি কতটা বাড়ল বা কমল। নতুন দোকান খোলার প্রভাব এতে বাদ থাকে, তাই এটি ব্যবসার আসল চাহিদা মাপে।",
+   "example": "Best Buy-র তৃতীয় কোয়ার্টারে enterprise comparable sales 6.1% বেড়েছে, যা পাঁচ বছরের মধ্যে সর্বোচ্চ।",
+   "formula": "Comparable Sales Growth = (এই সময়ের comparable বিক্রি − আগের বছরের একই সময়ের বিক্রি) ÷ আগের বছরের বিক্রি × 100",
+   "tip": "Interview-তে রিটেইল কোম্পানির আলোচনায় বলুন: মোট বিক্রি বাড়া মানেই ভালো নয়, নতুন দোকানের অবদান বাদ দিয়ে comparable sales দেখতে হয়।",
+   "en": {
+    "term": "Comparable Sales (Same-Store Sales)",
+    "bangla": "Growth in like-for-like sales",
+    "definition": "How much sales grew or fell compared with the same period last year, counting only stores or channels that were open in both periods. The effect of new store openings is removed, so it measures real demand.",
+    "example": "Best Buy's third-quarter enterprise comparable sales rose 6.1%, the most in five years.",
+    "formula": "Comparable Sales Growth = (Comparable sales this period − same period last year) ÷ same period last year × 100",
+    "tip": "In interviews about retail say: higher total sales alone is not proof of health; look at comparable sales with new-store contribution stripped out."
+   }
+  },
+  {
    "date": "2026-11-24",
    "term": "Exchange Ratio",
    "bangla": "বিনিময় অনুপাত: অধিগ্রহণে লক্ষ্য কোম্পানির এক শেয়ারের বদলে ক্রেতা কোম্পানির কয়টি শেয়ার মিলবে",
