@@ -1,6 +1,23 @@
 {
  "terms": [
   {
+   "date": "2026-11-26",
+   "term": "Credit Rating Watch",
+   "bangla": "ক্রেডিট রেটিং ওয়াচ",
+   "definition": "যখন কোনো ক্রেডিট রেটিং এজেন্সি (যেমন S&P বা Moody's) ইঙ্গিত দেয় যে একটি কোম্পানি বা বন্ডের ক্রেডিট রেটিং নিকট ভবিষ্যতে পরিবর্তিত (কমানো বা বাড়ানো) হতে পারে, তখন তাকে রেটিং ওয়াচে রাখা হয়। এটি প্রধানত পর্ষদের পরিবর্তন, অনাকাঙ্ক্ষিত অডিট সমস্যা বা বড় ধরনের ঋণের ঝুঁকির সময় কার্যকর হয়।",
+   "example": "CEO পদে পুনঃনিয়োগ নিয়ে পর্ষদের সিদ্ধান্তহীনতার কারণে Nvidia-র 'AA' ক্রেডিট রেটিংকে সম্ভাব্য ডাউনগ্রেডের ঝুঁকির মধ্যে রেটিং ওয়াচে রেখেছে S&P Global Ratings।",
+   "formula": "",
+   "tip": "ইন্টারভিউতে বলুন: Credit Rating Watch মানেই রেটিং পরিবর্তন নয়; এটি বাজারকে সতর্ক করার একটি প্রক্রিয়া যাতে বোঝা যায় কোম্পানির ক্রেডিট ঝুঁকিতে পরিবর্তন আসতে পারে।",
+   "en": {
+    "term": "Credit Rating Watch",
+    "bangla": "Credit Rating Watch",
+    "definition": "A status indicating that a credit rating agency (such as S&P, Moody's, or Fitch) is actively reviewing a company's or bond's credit rating for a potential change (downgrade or upgrade) in the near future.",
+    "example": "S&P Global Ratings placed Nvidia's 'AA' credit rating on watch for a possible downgrade following board governance concerns over CEO reinstatement.",
+    "formula": "",
+    "tip": "In finance interviews, note: A Credit Rating Watch does not guarantee a rating change, but serves as a formal warning to investors regarding emerging credit risks."
+   }
+  },
+  {
    "date": "2026-11-25",
    "term": "Comparable Sales (Same-Store Sales)",
    "bangla": "তুলনামূলক বিক্রি",

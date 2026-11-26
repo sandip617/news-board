@@ -1,0 +1,552 @@
+{
+ "date": "2026-11-26",
+ "dateLabel": "২৬ নভেম্বর ২০২৬, বৃহস্পতিবার",
+ "edition": 1,
+ "updatedAt": "2026-11-26T16:49:17+05:30",
+ "generatedBy": "gemini-backup",
+ "caseStudy": {
+  "week": "2026-W48",
+  "weekLabel": "২৩ – ২৯ নভেম্বর ২০২৬",
+  "company": "Amul (GCMMF)",
+  "title": "Amul: কৃষকের সমবায়, যা ভারতের দুধ-বাজার বদলে দিল",
+  "concept": "Cooperative model আর Vertical Integration",
+  "intro": "1946 সালে গুজরাটের আনন্দ-এ দুধ উৎপাদক কৃষকরা মিলে একটি সমবায় গড়ে তোলেন। সেখান থেকেই জন্ম নেয় Amul, যা আজ ভারতের পরিচিত ব্র্যান্ডগুলোর একটি। এর পেছনের মূল চরিত্র ছিলেন Tribhuvandas Patel আর Verghese Kurien।",
+  "sections": [
+   {
+    "h": "কী করেছিল",
+    "p": "তখন কৃষকরা দুধ বেচতেন এক ব্যক্তিগত কোম্পানি Polson-এর কাছে, আর দাম আর শর্ত ঠিক করত মধ্যস্থতাকারীরা। কৃষকরা Kaira District Cooperative Milk Producers' Union গড়ে নিজেরাই দুধ সংগ্রহ, প্রক্রিয়াকরণ আর বিক্রি শুরু করলেন। পরে গুজরাটের জেলা সমবায়গুলো মিলে GCMMF তৈরি হয়, যা Amul ব্র্যান্ডে বিক্রি করে। 1970-এর দশকে জাতীয় স্তরে Operation Flood এই মডেল সারা দেশে ছড়ায়।"
+   },
+   {
+    "h": "ফলাফল",
+    "p": "Amul মাখন, চিজ, আইসক্রিম, দইয়ের মতো অনেক পণ্যের বড় ব্র্যান্ড হয়ে উঠেছে, আর ভারত বিশ্বের অন্যতম বৃহৎ দুধ উৎপাদক দেশ হয়েছে। Amul-এর নিজের দাবি, ভোক্তার দেওয়া প্রতি টাকার একটা বড় অংশ, প্রায় 80%-এর কাছাকাছি, কৃষকের কাছে যায়। এই সংখ্যা Amul-এর নিজের বক্তব্য, তাই আলাদা করে যাচাই করা ভালো।"
+   },
+   {
+    "h": "কেন কাজ করল",
+    "p": "প্রথমত, কৃষকই মালিক, তাই মধ্যস্থতাকারীর মুনাফা কমে যায়। দ্বিতীয়ত, সংগ্রহ থেকে বিপণন পর্যন্ত পুরো শৃঙ্খলা সমবায়ের হাতে, একে বলে vertical integration। তৃতীয়ত, Kurien-এর দলের প্রযুক্তিগত উদ্ভাবন, যেমন মহিষের দুধ থেকে গুঁড়ো দুধ বানানো, উদ্বৃত্ত দুধকে মূল্যবান পণ্যে বদলাল। চতুর্থত, 'Utterly Butterly Delicious' বিজ্ঞাপন-প্রচারণা সহজ, মনে-থাকা মেসেজ দিয়ে ব্র্যান্ডকে ঘরে ঘরে পৌঁছে দিল।"
+   },
+   {
+    "h": "ঝুঁকি আর সমালোচনা",
+    "p": "সমবায় কাঠামোতে সিদ্ধান্ত ধীরে হতে পারে, আর বেসরকারি প্রতিযোগীদের সঙ্গে দ্রুত বদলাতে হলে এটা বাধা হতে পারে। দুধের সরবরাহ আবহাওয়া আর পশুখাদ্যের দামের ওপর নির্ভরশীল। এছাড়া রাজনৈতিক প্রভাব ও পরিচালনার স্বচ্ছতা নিয়ে সমবায়গুলো কখনও সমালোচিত হয়েছে। বড় হতে হতে ব্র্যান্ডের একাধিক পণ্যে ছড়িয়ে পড়াও মনোযোগ ভাগ করে দেওয়ার ঝুঁকি তৈরি করে।"
+   }
+  ],
+  "lesson": "যে কাঠামোতে উৎপাদকই মালিক আর পুরো মূল্য-শৃঙ্খলা নিজের নিয়ন্ত্রণে, সেখানে মধ্যস্থতাকারীর অংশ কমে আর ব্র্যান্ডের ওপর আস্থা বাড়ে। Strategy আর ownership structure একসঙ্গে ভাবতে হয়।",
+  "question": "তুমি যদি Amul-এর পরিচালক হতে, তাহলে সমবায় কাঠামো ধরে রেখেই বেসরকারি প্রতিযোগীদের চেয়ে দ্রুত সিদ্ধান্ত নেওয়ার জন্য কী কী পরিবর্তন আনতে?"
+ },
+ "news": [
+  {
+   "id": "n1",
+   "category": "করপোরেট গভর্নেন্স",
+   "title": "N Chandrasekaran-এর পুনঃনিয়োগের বিরুদ্ধে Tata Trusts-এর মামলা, শুক্রবার শুনানি Bombay High Court-এ",
+   "summary": "Tata Sons-এর চেয়ারম্যান ও CEO হিসেবে N Chandrasekaran-এর পুনঃনিয়োগকে চ্যালেঞ্জ জানিয়ে Bombay High Court-এ দুটি মামলা করেছে Tata Trusts। 30 নভেম্বরের পর্ষদ বৈঠকের আগে শুক্রবার এই মামলার শুনানি হবে। ট্রাস্টগুলোর দাবি, কোম্পানির নিবন্ধিত নিয়মাবলি (articles of association) অনুযায়ী প্রয়োজনীয় সম্মতিসূচক ভোট (affirmative votes) ছাড়াই এই প্রস্তাব গ্রহণ করা হয়েছিল। এদিকে নোয়েল টাটা 30 নভেম্বরের বৈঠকে তাঁর উত্থাপিত সুশাসন সংক্রান্ত বিষয়গুলোকে অগ্রাধিকার দেওয়ার দাবি জানিয়েছেন।",
+   "why": "এটি Corporate Governance, Articles of Association এবং পরিচালনা পর্ষদে নিয়ন্ত্রক ক্ষমতার দ্বন্দ্বে বিএবি সিলেবাসের একটি বাস্তব কেস স্টাডি।",
+   "source": {
+    "name": "Mint",
+    "url": "https://www.livemint.com/companies/bombay-hc-to-hear-tata-trusts-lawsuits-against-chandrasekaran-s-reappointment-on-friday-ahead-of-nov-30-board-meeting-11795689108826.html"
+   }
+  },
+  {
+   "id": "n2",
+   "category": "আন্তর্জাতিক বাণিজ্য",
+   "title": "ভারতের পণ্যে 25% মার্কিন শুল্কের প্রস্তাব; দ্রুত বাণিজ্য চুক্তি চান ভারতীয় রপ্তানিকারকরা",
+   "summary": "মার্কিন প্রশাসন বাড়তি শিল্প উৎপাদন সামলাতে 14টি বাণিজ্য অংশীদারের ওপর নতুন শুল্কের প্রস্তাব দিয়েছে, যার মধ্যে ভারতীয় পণ্যের ওপর 25% শুল্ক অন্তর্ভুক্ত। তবে দ্বিপাক্ষিক বাণিজ্য চুক্তি স্বাক্ষরিত হলে এই শুল্ক 17%-এ নামতে পারে। প্রস্তাবিত 17% শুল্ক প্রতিযোগী দেশগুলোর তুলনায় ভারতকে সুবিধাজনক অবস্থান দেবে উল্লেখ করে রপ্তানিকারকরা অবিলম্বে চুক্তিটি চূড়ান্ত করার তাগিদ দিয়েছেন।",
+   "why": "আন্তর্জাতিক বাণিজ্যে Protectionism, Tariffs এবং Bilateral Trade Deal কীভাবে দেশের রপ্তানি ও বৈদেশিক মুদ্রার ওপর প্রভাব ফেলে তার সরাসরি উদাহরণ।",
+   "source": {
+    "name": "Economic Times",
+    "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/how-donald-trumps-proposed-fresh-tariff-salvo-for-india-compare-with-rival-nations/articleshow/136184609.cms"
+   }
+  },
+  {
+   "id": "n3",
+   "category": "ক্রেডিট রেটিং",
+   "title": "Jensen Huang-কে CEO পদে ফেরানোর পর Nvidia-র AA রেটিং কমার ঝুঁকিতে S&P-র নজরদারি",
+   "summary": "Jensen Huang-কে পুনরায় CEO পদে ফিরিয়ে এনেছে Nvidia-র পরিচালনা পর্ষদ। কিন্তু এই খামখেয়ালি সিদ্ধান্তের ফলে করপোরেট গভর্নেন্স বা সুশাসন নিয়ে তীব্র উদ্বেগ তৈরি হওয়ায় কোম্পানিটির 'AA' ক্রেডিট রেটিংকে সম্ভাব্য ডাউনগ্রেডের জন্য 'Watch'-এ রেখেছে S&P Global Ratings। পর্ষদের সিদ্ধান্তহীনতা কোম্পানির ঋণমান ও বিনিয়োগকারীদের আস্থায় প্রভাব ফেলতে পারে বলে সতর্ক করেছে সংস্থাটি।",
+   "why": "Board of Directors-এর সিদ্ধান্ত এবং Corporate Governance কীভাবে কোম্পানির Credit Rating ও আর্থিক ভাবমূর্তিকে প্রভাবিত করে তা এখানে স্পষ্ট।",
+   "source": {
+    "name": "Mint",
+    "url": "https://www.livemint.com/companies/news/nvidia-board-s-flip-flop-on-jensen-huang-as-ceo-puts-its-aa-credit-rating-at-risk-why-s-p-is-considering-a-downgrad-11795685706714.html"
+   }
+  },
+  {
+   "id": "n4",
+   "category": "মুদ্রাবাজার ও কাঁচামাল",
+   "title": "ক্রুড অয়েল $96 পার হওয়ায় রুপির দর কমে 92.40; বাড়ল আমদানির খরচ",
+   "summary": "আন্তর্জাতিক বাজারে Brent crude-এর দাম ব্যারেলপ্রতি $96 ছাড়িয়ে যাওয়ায় ভারতীয় রুপির ওপর চাপ তীব্র হয়েছে। বৃহস্পতিবার লেনদেনের শুরুতে মার্কিন ডলারের বিপরীতে রুপি 20 পয়সা কমে 92.40-এ নেমেছে। অপরিশোধিত তেলের চড়া দামের ফলে ভারতের আমদানি ব্যয় ও মুদ্রাস্ফীতি বাড়ার আশঙ্কায় ফরেক্স বাজারে ফরোয়ার্ড প্রিমিয়ামও বেড়েছে।",
+   "why": "Commodity price shock কীভাবে Exchange Rate, Current Account Deficit এবং ঘরোয়া Inflation-কে প্রভাবিত করে তার সরাসরি উদাহরণ।",
+   "source": {
+    "name": "Economic Times",
+    "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/spike-in-oil-prices-partly-reverses-rupee-rally-forward-premiums-surge/articleshow/136188127.cms"
+   }
+  },
+  {
+   "id": "n5",
+   "category": "খুচরো ব্যবসা",
+   "title": "ক্রেতা না পেয়ে দেউলিয়া ব্রিটেনের Poundland, অনিশ্চয়তায় 11,000 কর্মী",
+   "summary": "ব্রিটেনের সুপরিচিত ডিসকাউন্ট রিটেল চেইন Poundland দেউলিয়া প্রক্রিয়া বা 'Administration'-এর অধীনে চলে গেছে। মালিকপক্ষ উপযুক্ত ক্রেতা খুঁজে পেতে ব্যর্থ হওয়ায় এই সিদ্ধান্ত নেওয়া হয়েছে। এর ফলে প্রতিষ্ঠানটির প্রায় 11,000 কর্মীর চাকরি ও একাধিক স্টোরের ভবিষ্যৎ চরম অনিশ্চয়তার মুখে পড়েছে।",
+   "why": "Retail sector-এ মূল্যস্ফীতির চাপ, খরচ বৃদ্ধি এবং দেউলিয়া ব্যবস্থাপনা (Insolvency & Administration) বোঝার জন্য এটি গুরুত্বপূর্ণ কেস।",
+   "source": {
+    "name": "BBC",
+    "url": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&at_campaign=rss"
+   }
+  },
+  {
+   "id": "n6",
+   "category": "প্রযুক্তি ও মহাকাশ",
+   "title": "মহাকাশে 10 লাখ ডেটা স্যাটেলাইট পাঠাবে SpaceX, অনুমোদন পেল Elon Musk-এর প্রজেক্ট",
+   "summary": "কৃত্রিম বুদ্ধিমত্তার (AI) কম্পিউটিং শক্তির ক্রমবর্ধমান চাহিদা মেটাতে মহাকাশে 10 লাখ ডেটা স্যাটেলাইট পাঠানোর পরিকল্পনা অনুমোদন পেয়েছে Elon Musk-এর SpaceX। 'Starmind constellation' নামের এই প্রজেক্টটি AI ডেটা প্রক্রিয়াকরণের জন্য সবচেয়ে সাশ্রয়ী এবং শক্তি-দক্ষ উপায় হিসেবে গড়ে তোলার লক্ষ্য নেওয়া হয়েছে।",
+   "why": "AI-এর পরিকাঠামোগত চাহিদা এবং Tech Capex কীভাবে নতুন প্রযুক্তির বাজার তৈরি করছে তার উদাহরণ।",
+   "source": {
+    "name": "BBC",
+    "url": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss"
+   }
+  },
+  {
+   "id": "n7",
+   "category": "CSR ও দানশীলতা",
+   "title": "Hurun Philanthropy List 2026: ভারতের দানবীররা FY26-এ দিলেন ₹11,554 কোটি",
+   "summary": "EdelGive Hurun India Philanthropy List 2026 অনুযায়ী, 2025-26 অর্থবর্ষে 219 জন ভারতীয় দানবীর মোট ₹11,554 কোটি দান করেছেন, যা আগের বছরের চেয়ে 11% বেশি। মোট দানের 57% বা ₹6,572 কোটি এসেছে শীর্ষ 10 জন দানবীরের কাছ থেকে। তালিকার শীর্ষে রয়েছেন শিব নাদার ও পরিবার, গৌতম আদানি এবং বাজাজ পরিবার।",
+   "why": "Corporate Social Responsibility (CSR) এবং ব্যক্তিকৃতি দানশীলতা কীভাবে সামাজিক মূলধন তৈরিতে ভূমিকা রাখে তা শেখায়।",
+   "source": {
+    "name": "Mint",
+    "url": "https://www.livemint.com/companies/people/top-10-names-edelgive-hurun-india-philanthropy-list-2026-from-shiv-nadar-family-gautam-adani-to-bajaj-11795685535304.html"
+   }
+  }
+ ],
+ "market": {
+  "asOf": "২৬ নভেম্বর ২০২৬, বৃহস্পতিবারের ক্লোজিং",
+  "items": [
+   {
+    "name": "S&P 500",
+    "region": "US",
+    "value": "7,182.78",
+    "change": "-0.25%",
+    "dir": "down"
+   },
+   {
+    "name": "Dow Jones",
+    "region": "US",
+    "value": "50,182.95",
+    "change": "+0.33%",
+    "dir": "up"
+   },
+   {
+    "name": "Nasdaq",
+    "region": "US",
+    "value": "23,585.80",
+    "change": "-0.62%",
+    "dir": "down"
+   },
+   {
+    "name": "Sensex",
+    "region": "ভারত",
+    "value": "84,328.59",
+    "change": "+0.46%",
+    "dir": "up"
+   },
+   {
+    "name": "Nifty 50",
+    "region": "ভারত",
+    "value": "25,884.50",
+    "change": "+0.25%",
+    "dir": "up"
+   },
+   {
+    "name": "Brent Crude",
+    "region": "$ প্রতি ব্যারেল",
+    "value": "90.94",
+    "change": "-3.88%",
+    "dir": "down"
+   },
+   {
+    "name": "Gold",
+    "region": "$ প্রতি আউন্স",
+    "value": "3,584.70",
+    "change": "+1.38%",
+    "dir": "up"
+   },
+   {
+    "name": "USD/INR",
+    "region": "₹ প্রতি $",
+    "value": "92.54",
+    "change": "-0.29%",
+    "dir": "down"
+   }
+  ]
+ },
+ "term": {
+  "term": "Credit Rating Watch",
+  "bangla": "ক্রেডিট রেটিং ওয়াচ",
+  "definition": "যখন কোনো ক্রেডিট রেটিং এজেন্সি (যেমন S&P বা Moody's) ইঙ্গিত দেয় যে একটি কোম্পানি বা বন্ডের ক্রেডিট রেটিং নিকট ভবিষ্যতে পরিবর্তিত (কমানো বা বাড়ানো) হতে পারে, তখন তাকে রেটিং ওয়াচে রাখা হয়। এটি প্রধানত পর্ষদের পরিবর্তন, অনাকাঙ্ক্ষিত অডিট সমস্যা বা বড় ধরনের ঋণের ঝুঁকির সময় কার্যকর হয়।",
+  "example": "CEO পদে পুনঃনিয়োগ নিয়ে পর্ষদের সিদ্ধান্তহীনতার কারণে Nvidia-র 'AA' ক্রেডিট রেটিংকে সম্ভাব্য ডাউনগ্রেডের ঝুঁকির মধ্যে রেটিং ওয়াচে রেখেছে S&P Global Ratings।",
+  "formula": "",
+  "tip": "ইন্টারভিউতে বলুন: Credit Rating Watch মানেই রেটিং পরিবর্তন নয়; এটি বাজারকে সতর্ক করার একটি প্রক্রিয়া যাতে বোঝা যায় কোম্পানির ক্রেডিট ঝুঁকিতে পরিবর্তন আসতে পারে।"
+ },
+ "gd": {
+  "topic": "করপোরেট গভর্নেন্সে পর্ষদের (Board) জবাবদিহিতা নাকি শীর্ষ প্রতিষ্ঠাতা/CEO-র একক নিয়ন্ত্রণ—কোনটি কোম্পানির আর্থিক স্থায়িত্বের জন্য বেশি ঝুঁকি তৈরি করে?",
+  "context": "Nvidia-র CEO পদে পুনঃনিয়োগ নিয়ে পরিচালনা পর্ষদের খামখেয়ালিপনায় S&P তাদের ক্রেডিট রেটিং কমানোর ঝুঁকি দেখিয়েছে, আবার Tata Sons-এর শীর্ষ নেতৃত্ব পুনঃনিয়োগ নিয়ে Tata Trusts আদালত পর্যন্ত গিয়েছে।",
+  "for": [
+   "পর্ষদের শক্তিশালী তদারকি না থাকলে CEO একক সিদ্ধান্তে অহেতুক বাণিজ্যিক ঝুঁকি নিতে পারেন।",
+   "সুশাসনের অভাব থাকলে ক্রেডিট রেটিং এজেন্সি রেটিং কমিয়ে দেয়, ফলে কোম্পানির ঋণের খরচ বাড়ে।",
+   "পর্ষদের জবাবদিহিতা সাধারণ ও ছোট শেয়ারহোল্ডারদের স্বার্থ রক্ষা করে।"
+  ],
+  "against": [
+   "পর্ষদের অতিরিক্ত হস্তক্ষেপ বা অভ্যন্তরীণ কোন্দল কোম্পানির দ্রুত বাণিজ্যিক সিদ্ধান্ত নেওয়ার ক্ষমতা কমায়।",
+   "প্রতিষ্ঠাতা বা সফল CEO-র অনন্য দৃষ্টিভঙ্গি ও উদ্ভাবন ক্ষমতা পর্ষদের লাল ফিতার ফাঁসে আটকা পড়তে পারে।",
+   "পর্ষদ ও শেয়ারহোল্ডারদের মধ্যে আইনি লড়াই বাজারে অনর্থক আতঙ্ক সৃষ্টি করে শেয়ারদর কমায়।"
+  ]
+ },
+ "blog": {
+  "title": "কোম্পানির সুশাসন ও ক্রেডিট রেটিং: Nvidia এবং Tata Sons-এর সাম্প্রতিক শিক্ষা",
+  "topic": "Corporate Governance ও Credit Rating Risk",
+  "readMin": 5,
+  "body": [
+   "ব্যবসায়িক অর্থায়নে আমরা প্রায়ই মূলধন খরচ (Cost of Capital), সুদের হার এবং রাজস্ব বৃদ্ধির মতো গাণিতিক বিষয়গুলো নিয়ে চর্চা করি। কিন্তু একটি কোম্পানির অর্থনৈতিক স্বাস্থ্যের সবচেয়ে বড় ভিত্তি যে তার অভ্যন্তরীণ সুশাসন বা Corporate Governance, তা অনেক সময়ই পেছনে পড়ে থাকে। আজকের বিশ্ব অর্থনীতিতে দুটি বড় ঘটনা—Nvidia-র পর্ষদের সিদ্ধান্তহীনতা এবং Tata Sons-এর পরিচালনা পর্ষদ নিয়ে মামলা—আমাদের স্মরণ করিয়ে দেয় যে সুশাসনের বিচ্যুতি কীভাবে সরাসরি কোম্পানির ঋণমান ও আর্থিক ভাবমূর্তিকে সংকটে ফেলতে পারে।",
+   "## ক্রেডিট রেটিং এবং রেটিং ওয়াচ কী?",
+   "সহজ কথায়, ক্রেডিট রেটিং হলো একটি কোম্পানির ঋণ পরিশোধের ক্ষমতার গ্রেড বা মূল্যায়ন। S&P Global, Moody's বা Fitch-এর মতো এজেন্সিগুলো কোম্পানিগুলোকে AAA, AA, BBB ইত্যাদির মতো রেটিং দেয়। রেটিং যত উন্নত হয়, ব্যাংক বা বাজার থেকে কম সুদে ঋণ পাওয়া তত সহজ হয়।",
+   "তবে যখন কোনো কোম্পানিতে অস্থিতিশীল ঘটনা ঘটে—যেমন হঠাৎ পরিচালনা পর্ষদের দ্বন্দ্ব, সিইও রদবদল বা আইনি জটিলতা—তখন রেটিং এজেন্সিগুলো উক্ত কোম্পানিকে 'Credit Watch' বা রেটিং ওয়াচে রাখে। এর অর্থ হলো সংস্থাটি কোম্পানির পরিবর্তন নজরদারিতে রাখছে এবং নিকট ভবিষ্যতে তাদের ক্রেডিট রেটিং এক বা একাধিক ধাপ নামিয়ে দিতে (Downgrade) পারে।",
+   "## করপোরেট গভর্নেন্সের ঘাটতি কীভাবে রেটিং কমায়?",
+   "আজকের সবচেয়ে আলোড়ন সৃষ্টিকারী খবরগুলোর একটি হলো Nvidia-র ঘটনা। পর্ষদ Jensen Huang-কে CEO হিসেবে পুনরায় বহাল করলেও, যেভাবে সিদ্ধান্ত পরিবর্তন (flip-flop) হয়েছে, তাতে S&P Global Ratings কোম্পানিটির 'AA' ক্রেডিট রেটিংকে সম্ভাব্য ডাউনগ্রেডের ঝুঁকিতে রেখেছে। কেন? কারণ একটি টেকসই কোম্পানির ভিত্তি হলো তার পর্ষদের স্বাধীন ও ধারাবাহিক নীতি। পর্ষদ যদি অস্থিতিশীলতা দেখায়, তবে বিনিয়োগকারী ও পাওনাদাররা ধরে নেন যে অভ্যন্তরীণ তদারকি কাঠামো দুর্বল।",
+   "একই চিত্র আমরা দেখতে পাচ্ছি Tata Sons-এর ক্ষেত্রে। Tata Trusts অভিযোগ করেছে যে N Chandrasekaran-এর পুনঃনিয়োগের ক্ষেত্রে Articles of Association-এ উল্লিখিত প্রয়োজনীয় সন্মতিসূচক ভোট মানা হয়নি। মামলা গড়িয়েছে বোম্বে হাইকোর্টে। যখন কোনো গ্রুপের মালিকানা ও পর্ষদের মধ্যে এমন টানাটানি তৈরি হয়, তখন বাজারের ট্রাস্ট বা বিশ্বাসযোগ্যতা আঘাতপ্রাপ্ত হয়।",
+   "## BBA শিক্ষার্থীদের জন্য টেকঅ্যাওয়ে",
+   "একজন ফাইন্যান্স বা ম্যানেজমেন্ট শিক্ষার্থীর জানা উচিত যে Corporate Governance শুধু একটি আইনি বাধ্যবাধকতা নয়। এটি সরাসরি আর্থিক ব্যয়ের সঙ্গে যুক্ত।",
+   "১. সুশাসনের অভাবে ক্রেডিট রেটিং কমলে কোম্পানির বন্ড বা ঋণের ওপর সুদের হার বেড়ে যায়।",
+   "২. পর্ষদের সিদ্ধান্তহীনতা বাজার মূলধন (Market Capitalisation) কমিয়ে দেয়, যা শেয়ারহোল্ডারদের ক্ষতি করে।",
+   "৩. Key-Person Risk এবং পর্ষদের অভ্যন্তরীণ ক্ষমতার ভারসাম্য ঠিক না থাকলে আন্তর্জাতিক বিনিয়োগকারীরা বিনিয়োগ গুটিয়ে নেয়।"
+  ],
+  "takeaways": [
+   "Corporate governance বিচ্যুত হলে ক্রেডিট রেটিং এজেন্সিগুলো বন্ড রেটিং কমিয়ে দেয়, ফলে কোম্পানির ঋণের খরচ বাড়ে।",
+   "Articles of Association অনুযায়ী পর্ষদের সিদ্ধান্ত না নেওয়া হলে তা আইনি জটিলতা ও প্রাতিষ্ঠানিক অনাস্থা তৈরি করে।",
+   "পর্ষদের ধারাবাহিকতা ও সিদ্ধান্ত নেওয়ার স্পষ্টতা কোম্পানির দীর্ঘমেয়াদি ঋণযোগ্যতার মূল শর্ত।"
+  ]
+ },
+ "quiz": [
+  {
+   "q": "মার্কিন প্রশাসন ভারতের ওপর প্রস্তাবিত শুল্ক নীতিতে কত শতাংশ শুল্ক নির্ধারণ করেছে, যা বাণিজ্য চুক্তি স্বাক্ষরিত হলে 17%-এ নামতে পারে?",
+   "options": [
+    "15%",
+    "20%",
+    "25%",
+    "30%"
+   ],
+   "answer": 2,
+   "explain": "মার্কিন প্রস্তাবনায় ভারতের আমদানির ওপর 25% শুল্কের কথা বলা হয়েছে, যা বাণিজ্য চুক্তি সম্পন্ন হলে 17%-এ নেমে আসতে পারে।"
+  },
+  {
+   "q": "EdelGive Hurun India Philanthropy List 2026 অনুযায়ী, FY26-এ ভারতীয় দানবীররা মোট কত টাকা দান করেছেন?",
+   "options": [
+    "₹11,554 কোটি",
+    "₹8,500 কোটি",
+    "₹15,000 কোটি",
+    "₹6,572 কোটি"
+   ],
+   "answer": 0,
+   "explain": "রিপোর্ট অনুযায়ী, 219 জন ভারতীয় দানবীর FY26-এ মোট ₹11,554 কোটি দান করেছেন।"
+  },
+  {
+   "q": "উপযুক্ত ক্রেতা না পাওয়ায় ব্রিটেনের কোন ডিসকাউন্ট রিটেল চেইনটি দেউলিয়া প্রক্রিয়া বা Administration-এর মুখে পড়ে 11,000 কর্মীর চাকরি ঝুঁকিতে ফেলেছে?",
+   "options": [
+    "Tesco",
+    "Sainsbury's",
+    "Asda",
+    "Poundland"
+   ],
+   "answer": 3,
+   "explain": "ব্রিটেনের সুপরিচিত ডিসকাউন্ট চেইন Poundland নতুন ক্রেতা না পেয়ে Administration প্রক্রিয়ায় চলে গেছে।"
+  },
+  {
+   "q": "S&P Global Ratings কেন প্রযুক্তি দানব Nvidia-র 'AA' ক্রেডিট রেটিংকে সম্ভাব্য ডাউনগ্রেডের জন্য রেটিং ওয়াচে রেখেছে?",
+   "options": [
+    "তেলের দাম হঠাৎ বেড়ে যাওয়ায়",
+    "Jensen Huang-কে CEO পদে ফেরানো নিয়ে পর্ষদের সিদ্ধান্তহীনতা ও সুশাসন সংক্রান্ত উদ্বেগে",
+    "কোম্পানির বিক্রি 50% কমে যাওয়ায়",
+    "যুক্তরাষ্ট্রের নতুন শুল্ক নীতির কারণে"
+   ],
+   "answer": 1,
+   "explain": "Nvidia-র পর্ষদ Jensen Huang-কে পুনরায় CEO করায় সিদ্ধান্তহীনতা ও সুশাসন নিয়ে উদ্বেগ তৈরি হওয়ায় S&P তাদের রেটিং ওয়াচে রেখেছে।"
+  },
+  {
+   "q": "অর্থনীতির পরিভাষায় 'Credit Rating Watch' বলতে কী বোঝায়?",
+   "options": [
+    "কোম্পানির শেয়ার লেনদেন পুরোপুরি স্থগিত রাখা",
+    "কোম্পানিকে সরাসরি ঋণখেলাপি বা দেউলিয়া ঘোষণা করা",
+    "রেটিং সংস্থা কর্তৃক ইঙ্গিত দেওয়া যে নিকট ভবিষ্যতে কোম্পানির ক্রেডিট রেটিং পরিবর্তন বা পুনর্মূল্যায়ন হতে পারে",
+    "কেন্দ্রীয় ব্যাংক কর্তৃক সুদের হার শূন্যে নামিয়ে আনা"
+   ],
+   "answer": 2,
+   "explain": "Credit Rating Watch হলো রেটিং সংস্থার একটি নোটিশ যা নির্দেশ করে যে কোম্পানির রেটিং শিগগিরই পরিবর্তিত হতে পারে।"
+  }
+ ],
+ "en": {
+  "dateLabel": "Thursday, 26 November 2026",
+  "caseStudy": {
+   "week": "2026-W48",
+   "weekLabel": "23 – 29 November 2026",
+   "company": "Amul (GCMMF)",
+   "title": "Amul: The Farmers' Cooperative That Reshaped India's Dairy Market",
+   "concept": "Cooperative model and Vertical Integration",
+   "intro": "In 1946 milk-producing farmers in Anand, Gujarat came together to form a cooperative. From it was born Amul, today one of India's best-known brands. Key figures behind it were Tribhuvandas Patel and Verghese Kurien.",
+   "sections": [
+    {
+     "h": "What it did",
+     "p": "Farmers then sold milk to a private company, Polson, and middlemen set prices and terms. The farmers formed the Kaira District Cooperative Milk Producers' Union and began collecting, processing and selling milk themselves. Later the district cooperatives of Gujarat joined to form GCMMF, which sells under the Amul brand. In the 1970s Operation Flood spread the model nationwide."
+    },
+    {
+     "h": "The result",
+     "p": "Amul became a major brand in butter, cheese, ice cream and curd, and India became one of the world's largest milk producers. Amul itself claims that a large share of each rupee paid by the consumer, close to 80%, reaches farmers. That figure is Amul's own claim, so it is worth verifying separately."
+    },
+    {
+     "h": "Why it worked",
+     "p": "First, farmers are the owners, so middlemen's profit shrinks. Second, the whole chain from collection to marketing is in the cooperative's hands, which is vertical integration. Third, technical innovation by Kurien's team, such as making milk powder from buffalo milk, turned surplus milk into valuable products. Fourth, the 'Utterly Butterly Delicious' campaign took the brand into homes with a simple, memorable message."
+    },
+    {
+     "h": "Risks and criticism",
+     "p": "Decisions in a cooperative structure can be slow, which can be a handicap against fast-moving private rivals. Milk supply depends on weather and cattle feed prices. Cooperatives have also at times been criticised over political influence and transparency in governance. As a brand spreads across many products, there is also a risk of divided focus."
+    }
+   ],
+   "lesson": "Where producers own the business and control the whole value chain, the middleman's share shrinks and trust in the brand grows. Strategy and ownership structure must be thought about together.",
+   "question": "If you were a director of Amul, what changes would you make to decide faster than private competitors while keeping the cooperative structure?"
+  },
+  "news": [
+   {
+    "id": "n1",
+    "category": "Corporate Governance",
+    "title": "Tata Trusts File Lawsuits Against N Chandrasekaran's Reappointment; Bombay High Court to Hear Case on Friday",
+    "summary": "Two Tata Trusts have filed lawsuits in the Bombay High Court challenging N Chandrasekaran's reappointment as Tata Sons chairman and CEO, ahead of the November 30 board meeting. The trusts argue that the board resolution lacked the affirmative votes required by the company's articles of association. Meanwhile, Noel Tata has urged the board to prioritize key governance issues raised by him.",
+    "why": "This serves as a real-world case study on Corporate Governance, Articles of Association, and board control dynamics.",
+    "source": {
+     "name": "Mint",
+     "url": "https://www.livemint.com/companies/bombay-hc-to-hear-tata-trusts-lawsuits-against-chandrasekaran-s-reappointment-on-friday-ahead-of-nov-30-board-meeting-11795689108826.html"
+    }
+   },
+   {
+    "id": "n2",
+    "category": "International Trade",
+    "title": "US Proposes 25% Tariffs on Indian Imports; Exporters Urge Early Trade Deal",
+    "summary": "The US administration has proposed a fresh tariff salvo on 14 trading partners, including a 25% tariff on Indian imports to address excess industrial capacity issues. However, the rate could drop to 17% if a bilateral trade deal is signed. Indian exporters have urged the government to finalize the deal quickly, citing a tariff advantage over competing nations.",
+    "why": "Demonstrates how Protectionism, Tariffs, and Bilateral Trade Deals directly impact a nation's export competitiveness and foreign exchange.",
+    "source": {
+     "name": "Economic Times",
+     "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/how-donald-trumps-proposed-fresh-tariff-salvo-for-india-compare-with-rival-nations/articleshow/136184609.cms"
+    }
+   },
+   {
+    "id": "n3",
+    "category": "Credit Rating",
+    "title": "Nvidia's AA Rating Put on Downgrade Watch by S&P Following Board Flip-Flop over CEO Jensen Huang",
+    "summary": "Nvidia's board has reinstated Jensen Huang as CEO, but S&P Global Ratings has placed its 'AA' credit rating on watch for a potential downgrade over governance concerns. The rating agency warned that board flip-flops and governance uncertainties could undermine the company's long-term creditworthiness.",
+    "why": "Illustrates how Board of Directors decisions and Corporate Governance quality directly influence Credit Ratings and cost of capital.",
+    "source": {
+     "name": "Mint",
+     "url": "https://www.livemint.com/companies/news/nvidia-board-s-flip-flop-on-jensen-huang-as-ceo-puts-its-aa-credit-rating-at-risk-why-s-p-is-considering-a-downgrad-11795685706714.html"
+    }
+   },
+   {
+    "id": "n4",
+    "category": "Forex & Commodities",
+    "title": "Crude Oil Surge Past $96 Pushes Indian Rupee Down to 92.40 Against USD",
+    "summary": "The Indian rupee faced downward pressure as Brent crude prices surged past $96 per barrel in international markets. In early trade on Thursday, the rupee fell by 20 paise to 92.40 against the US dollar. Rising oil prices have heightened concerns over India's import bill and inflation, causing forward premiums to surge in currency markets.",
+    "why": "A classic example of how a Commodity Price Shock impacts Exchange Rates, Current Account Deficits, and domestic Inflation.",
+    "source": {
+     "name": "Economic Times",
+     "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/spike-in-oil-prices-partly-reverses-rupee-rally-forward-premiums-surge/articleshow/136188127.cms"
+    }
+   },
+   {
+    "id": "n5",
+    "category": "Retail",
+    "title": "UK Discount Chain Poundland Collapses into Administration, Putting 11,000 Jobs at Risk",
+    "summary": "UK discount retailer Poundland has fallen into administration after its owners failed to secure a buyer. The collapse puts nearly 11,000 jobs and hundreds of retail stores across the country in jeopardy as insolvency administrators take over operations.",
+    "why": "A key study in Retail Sector challenges, inflationary pressures, and the dynamics of Insolvency and Corporate Administration.",
+    "source": {
+     "name": "BBC",
+     "url": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&at_campaign=rss"
+    }
+   },
+   {
+    "id": "n6",
+    "category": "Tech & Space",
+    "title": "SpaceX Plan to Launch 1 Million AI Data Satellites Approved for Musk's Starmind Constellation",
+    "summary": "Elon Musk's SpaceX has secured approval to launch one million data satellites into space to meet the surging demand for AI computing power. Named the 'Starmind constellation,' the initiative aims to provide a highly cost-efficient and energy-efficient architecture for satellite AI computing.",
+    "why": "Highlights how AI infrastructure demand and Tech Capex are reshaping aerospace and telecommunications markets.",
+    "source": {
+     "name": "BBC",
+     "url": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss"
+    }
+   },
+   {
+    "id": "n7",
+    "category": "CSR & Philanthropy",
+    "title": "Hurun Philanthropy List 2026: Indian Donors Contribute ₹11,554 Crore in FY26",
+    "summary": "According to the EdelGive Hurun India Philanthropy List 2026, 219 philanthropists donated a total of ₹11,554 crore in FY26, representing an 11% year-on-year growth. The top 10 donors contributed ₹6,572 crore, or 57% of total donations, with Shiv Nadar & family, Gautam Adani, and the Bajaj family leading the rankings.",
+    "why": "Teaches the strategic role of Corporate Social Responsibility (CSR) and individual philanthropy in building social capital.",
+    "source": {
+     "name": "Mint",
+     "url": "https://www.livemint.com/companies/people/top-10-names-edelgive-hurun-india-philanthropy-list-2026-from-shiv-nadar-family-gautam-adani-to-bajaj-11795685535304.html"
+    }
+   }
+  ],
+  "market": {
+   "asOf": "Close of Thursday, 26 November 2026",
+   "items": [
+    {
+     "name": "S&P 500",
+     "region": "US",
+     "value": "7,182.78",
+     "change": "-0.25%",
+     "dir": "down"
+    },
+    {
+     "name": "Dow Jones",
+     "region": "US",
+     "value": "50,182.95",
+     "change": "+0.33%",
+     "dir": "up"
+    },
+    {
+     "name": "Nasdaq",
+     "region": "US",
+     "value": "23,585.80",
+     "change": "-0.62%",
+     "dir": "down"
+    },
+    {
+     "name": "Sensex",
+     "region": "India",
+     "value": "84,328.59",
+     "change": "+0.46%",
+     "dir": "up"
+    },
+    {
+     "name": "Nifty 50",
+     "region": "India",
+     "value": "25,884.50",
+     "change": "+0.25%",
+     "dir": "up"
+    },
+    {
+     "name": "Brent Crude",
+     "region": "$ per barrel",
+     "value": "90.94",
+     "change": "-3.88%",
+     "dir": "down"
+    },
+    {
+     "name": "Gold",
+     "region": "$ per ounce",
+     "value": "3,584.70",
+     "change": "+1.38%",
+     "dir": "up"
+    },
+    {
+     "name": "USD/INR",
+     "region": "₹ per $",
+     "value": "92.54",
+     "change": "-0.29%",
+     "dir": "down"
+    }
+   ]
+  },
+  "term": {
+   "term": "Credit Rating Watch",
+   "bangla": "Credit Rating Watch",
+   "definition": "A status indicating that a credit rating agency (such as S&P, Moody's, or Fitch) is actively reviewing a company's or bond's credit rating for a potential change (downgrade or upgrade) in the near future.",
+   "example": "S&P Global Ratings placed Nvidia's 'AA' credit rating on watch for a possible downgrade following board governance concerns over CEO reinstatement.",
+   "formula": "",
+   "tip": "In finance interviews, note: A Credit Rating Watch does not guarantee a rating change, but serves as a formal warning to investors regarding emerging credit risks."
+  },
+  "gd": {
+   "topic": "Does Board Accountability or Founder/CEO Dominance Pose a Greater Financial Risk to Corporate Sustainability?",
+   "context": "Nvidia's board flip-flop on CEO reinstatement prompted S&P to place its credit rating on downgrade watch, while Tata Trusts challenged Tata Sons' leadership reappointment in court.",
+   "for": [
+    "Without strong board oversight, a dominant CEO might take uncalculated business risks without accountability.",
+    "Governance failures trigger credit rating downgrades, directly increasing borrowing costs for the firm.",
+    "Board accountability protects minority shareholders and maintains institutional investor trust."
+   ],
+   "against": [
+    "Excessive board intervention or internal conflict slows down strategic decision-making in competitive markets.",
+    "Unreasonable board oversight can stifle visionary leadership and breakthrough technological innovation.",
+    "Legal battles between boards and major shareholders erode market confidence and trigger stock sell-offs."
+   ]
+  },
+  "blog": {
+   "title": "Corporate Governance and Credit Ratings: Lessons from Nvidia and Tata Sons",
+   "topic": "Corporate Governance & Credit Rating Risk",
+   "readMin": 5,
+   "body": [
+    "In business finance, students often focus on quantitative metrics like Cost of Capital, EBITDA margins, and revenue growth. However, the foundational driver of a firm's long-term financial stability—Corporate Governance—is frequently overlooked. Today's major developments, involving Nvidia's board flip-flop and Tata Trusts' legal action against Tata Sons' leadership, illustrate how governance breakdowns can directly imperil creditworthiness and market valuation.",
+    "## Understanding Credit Ratings and Rating Watch",
+    "Simply put, a credit rating represents an assessment of a corporation's ability to fulfill its financial obligations. Major credit rating agencies like S&P Global, Moody's, and Fitch assign grades ranging from AAA and AA to BBB and lower. Higher credit ratings translate to lower interest rates when companies issue bonds or borrow from financial institutions.",
+    "However, when unexpected corporate events occur—such as boardroom power struggles, erratic executive appointments, or regulatory disputes—agencies place the firm on 'Credit Rating Watch'. This alerts financial markets that the rating agency is monitoring the situation and may downgrade (or upgrade) the company's credit rating in the near term.",
+    "## How Governance Deficits Lead to Rating Downgrades",
+    "One of today's most striking corporate stories is S&P placing Nvidia's 'AA' credit rating on watch for a potential downgrade. Even though the board reinstated Jensen Huang as CEO, S&P cited governance concerns over the board's decision-making process. Why? Because rating agencies view an independent, consistent, and predictable board as essential for risk management. Board indecision signals to creditors that internal controls may be compromised.",
+    "Similarly, in India, Tata Trusts has challenged N Chandrasekaran's reappointment as Tata Sons chairman in the Bombay High Court, citing non-compliance with affirmative voting clauses in the Articles of Association. Such high-profile friction between principal shareholders and board leadership risks eroding investor confidence.",
+    "## Key Takeaways for BBA Students",
+    "For management and finance students, corporate governance should not be viewed as mere legal compliance, but as a core determinant of financial value:",
+    "1. Credit rating downgrades caused by governance flaws directly raise a company's cost of debt.",
+    "2. Board instability and legal disputes create market uncertainty, depressing equity valuations.",
+    "3. Unclear succession planning and key-person risk prompt institutional investors to withdraw capital."
+   ],
+   "takeaways": [
+    "Lapses in corporate governance can lead credit rating agencies to downgrade debt ratings, elevating borrowing costs.",
+    "Failure to adhere to Articles of Association during board appointments creates severe legal and institutional risks.",
+    "Board stability and transparent governance are prerequisite conditions for maintaining high credit ratings."
+   ]
+  },
+  "quiz": [
+   {
+    "q": "Under the proposed US trade salvo, what percentage tariff is proposed on Indian imports, which could drop to 17% if a trade deal is secured?",
+    "options": [
+     "15%",
+     "20%",
+     "25%",
+     "30%"
+    ],
+    "answer": 2,
+    "explain": "The US proposed a 25% tariff on Indian imports, which could be reduced to 17% upon reaching a bilateral trade deal."
+   },
+   {
+    "q": "According to the EdelGive Hurun India Philanthropy List 2026, what was the total amount donated by Indian philanthropists in FY26?",
+    "options": [
+     "₹11,554 crore",
+     "₹8,500 crore",
+     "₹15,000 crore",
+     "₹6,572 crore"
+    ],
+    "answer": 0,
+    "explain": "The report states that 219 philanthropists donated a total of ₹11,554 crore in FY26."
+   },
+   {
+    "q": "Which major UK discount retail chain collapsed into administration after failing to find a buyer, putting 11,000 jobs at risk?",
+    "options": [
+     "Tesco",
+     "Sainsbury's",
+     "Asda",
+     "Poundland"
+    ],
+    "answer": 3,
+    "explain": "UK discount chain Poundland fell into administration after its owners failed to secure a buyer."
+   },
+   {
+    "q": "Why did S&P Global Ratings place Nvidia's 'AA' credit rating on watch for a potential downgrade?",
+    "options": [
+     "Due to a sudden spike in crude oil prices",
+     "Due to governance concerns following board flip-flops over CEO reinstatement",
+     "Because company revenues declined by 50%",
+     "Due to new US import tariff regulations"
+    ],
+    "answer": 1,
+    "explain": "S&P cited board flip-flops and governance concerns regarding Jensen Huang's CEO reinstatement for placing Nvidia on rating watch."
+   },
+   {
+    "q": "What does a 'Credit Rating Watch' signify in financial markets?",
+    "options": [
+     "A complete halt in trading of a company's shares",
+     "An immediate declaration of corporate bankruptcy",
+     "A notice by a rating agency that a firm's credit rating may be revised in the near future",
+     "A central bank decision to reduce interest rates to zero"
+    ],
+    "answer": 2,
+    "explain": "A Credit Rating Watch is a formal notification that a credit rating agency is evaluating a firm's rating for potential revision."
+   }
+  ]
+ }
+}
