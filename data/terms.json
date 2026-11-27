@@ -1,6 +1,23 @@
 {
  "terms": [
   {
+   "date": "2026-11-27",
+   "term": "Free Trade Agreement (FTA)",
+   "bangla": "মুক্ত বাণিজ্য চুক্তি (FTA)",
+   "definition": "দুটি বা ততোধিক দেশের মধ্যে স্বাক্ষরিত এমন একটি আন্তর্জাতিক চুক্তি যা অংশগ্রহণকারী দেশগুলোর মধ্যে পণ্য ও সেবা আমদানির ক্ষেত্রে শুল্ক (tariffs), কোটা এবং অন্যান্য বাণিজ্যিক বাধা হ্রাস বা নির্মূল করে দ্বিপাক্ষিক বাণিজ্য বৃদ্ধি করে।",
+   "example": "রিজার্ভ ব্যাংক অব ইন্ডিয়ার গভর্নর সঞ্জয় মালহোত্রা জানিয়েছেন যে যোগ্য ভারতীয় রপ্তানির মাত্র 20-30% বর্তমানে মুক্ত বাণিজ্য চুক্তির (FTA) সুবিধা ব্যবহার করে।",
+   "formula": "",
+   "tip": "ইন্টারভিউতে বলুন: FTA কেবল শুল্ক কমায় না, এটি স্থানীয় কোম্পানিগুলোকে গ্লোবাল ভ্যালু চেইন (GVC)-এ যুক্ত হতে এবং আন্তর্জাতিক বাজারে প্রতিযোগিতামূলক সুবিধা পেতে সহায়তা করে।",
+   "en": {
+    "term": "Free Trade Agreement (FTA)",
+    "bangla": "Free Trade Agreement (FTA)",
+    "definition": "An international pact between two or more nations to reduce or eliminate tariffs, quotas, and non-tariff barriers on imports and exports, thereby promoting cross-border trade.",
+    "example": "RBI Governor Sanjay Malhotra noted that only 20-30% of eligible Indian exports currently utilize Free Trade Agreement (FTA) benefits.",
+    "formula": "",
+    "tip": "In interviews, explain that FTAs don't just reduce duties; they help domestic firms integrate into Global Value Chains (GVCs) and expand export market access."
+   }
+  },
+  {
    "date": "2026-11-26",
    "term": "Credit Rating Watch",
    "bangla": "ক্রেডিট রেটিং ওয়াচ",

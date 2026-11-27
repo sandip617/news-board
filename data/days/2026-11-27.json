@@ -1,0 +1,564 @@
+{
+ "date": "2026-11-27",
+ "dateLabel": "২৭ নভেম্বর ২০২৬, শুক্রবার",
+ "edition": 1,
+ "updatedAt": "2026-11-27T16:41:55+05:30",
+ "generatedBy": "gemini-backup",
+ "caseStudy": {
+  "week": "2026-W48",
+  "weekLabel": "২৩ – ২৯ নভেম্বর ২০২৬",
+  "company": "Amul (GCMMF)",
+  "title": "Amul: কৃষকের সমবায়, যা ভারতের দুধ-বাজার বদলে দিল",
+  "concept": "Cooperative model আর Vertical Integration",
+  "intro": "1946 সালে গুজরাটের আনন্দ-এ দুধ উৎপাদক কৃষকরা মিলে একটি সমবায় গড়ে তোলেন। সেখান থেকেই জন্ম নেয় Amul, যা আজ ভারতের পরিচিত ব্র্যান্ডগুলোর একটি। এর পেছনের মূল চরিত্র ছিলেন Tribhuvandas Patel আর Verghese Kurien।",
+  "sections": [
+   {
+    "h": "কী করেছিল",
+    "p": "তখন কৃষকরা দুধ বেচতেন এক ব্যক্তিগত কোম্পানি Polson-এর কাছে, আর দাম আর শর্ত ঠিক করত মধ্যস্থতাকারীরা। কৃষকরা Kaira District Cooperative Milk Producers' Union গড়ে নিজেরাই দুধ সংগ্রহ, প্রক্রিয়াকরণ আর বিক্রি শুরু করলেন। পরে গুজরাটের জেলা সমবায়গুলো মিলে GCMMF তৈরি হয়, যা Amul ব্র্যান্ডে বিক্রি করে। 1970-এর দশকে জাতীয় স্তরে Operation Flood এই মডেল সারা দেশে ছড়ায়।"
+   },
+   {
+    "h": "ফলাফল",
+    "p": "Amul মাখন, চিজ, আইসক্রিম, দইয়ের মতো অনেক পণ্যের বড় ব্র্যান্ড হয়ে উঠেছে, আর ভারত বিশ্বের অন্যতম বৃহৎ দুধ উৎপাদক দেশ হয়েছে। Amul-এর নিজের দাবি, ভোক্তার দেওয়া প্রতি টাকার একটা বড় অংশ, প্রায় 80%-এর কাছাকাছি, কৃষকের কাছে যায়। এই সংখ্যা Amul-এর নিজের বক্তব্য, তাই আলাদা করে যাচাই করা ভালো।"
+   },
+   {
+    "h": "কেন কাজ করল",
+    "p": "প্রথমত, কৃষকই মালিক, তাই মধ্যস্থতাকারীর মুনাফা কমে যায়। দ্বিতীয়ত, সংগ্রহ থেকে বিপণন পর্যন্ত পুরো শৃঙ্খলা সমবায়ের হাতে, একে বলে vertical integration। তৃতীয়ত, Kurien-এর দলের প্রযুক্তিগত উদ্ভাবন, যেমন মহিষের দুধ থেকে গুঁড়ো দুধ বানানো, উদ্বৃত্ত দুধকে মূল্যবান পণ্যে বদলাল। চতুর্থত, 'Utterly Butterly Delicious' বিজ্ঞাপন-প্রচারণা সহজ, মনে-থাকা মেসেজ দিয়ে ব্র্যান্ডকে ঘরে ঘরে পৌঁছে দিল।"
+   },
+   {
+    "h": "ঝুঁকি আর সমালোচনা",
+    "p": "সমবায় কাঠামোতে সিদ্ধান্ত ধীরে হতে পারে, আর বেসরকারি প্রতিযোগীদের সঙ্গে দ্রুত বদলাতে হলে এটা বাধা হতে পারে। দুধের সরবরাহ আবহাওয়া আর পশুখাদ্যের দামের ওপর নির্ভরশীল। এছাড়া রাজনৈতিক প্রভাব ও পরিচালনার স্বচ্ছতা নিয়ে সমবায়গুলো কখনও সমালোচিত হয়েছে। বড় হতে হতে ব্র্যান্ডের একাধিক পণ্যে ছড়িয়ে পড়াও মনোযোগ ভাগ করে দেওয়ার ঝুঁকি তৈরি করে।"
+   }
+  ],
+  "lesson": "যে কাঠামোতে উৎপাদকই মালিক আর পুরো মূল্য-শৃঙ্খলা নিজের নিয়ন্ত্রণে, সেখানে মধ্যস্থতাকারীর অংশ কমে আর ব্র্যান্ডের ওপর আস্থা বাড়ে। Strategy আর ownership structure একসঙ্গে ভাবতে হয়।",
+  "question": "তুমি যদি Amul-এর পরিচালক হতে, তাহলে সমবায় কাঠামো ধরে রেখেই বেসরকারি প্রতিযোগীদের চেয়ে দ্রুত সিদ্ধান্ত নেওয়ার জন্য কী কী পরিবর্তন আনতে?"
+ },
+ "news": [
+  {
+   "id": "n1",
+   "category": "আন্তর্জাতিক বাণিজ্য",
+   "title": "ভারত-মার্কিন দ্বিপাক্ষিক বাণিজ্য চুক্তি চূড়ান্ত পর্যায়ে: কেন্দ্রীয় বাণিজ্য মন্ত্রী পীযূষ গোয়েল",
+   "summary": "কেন্দ্রীয় বাণিজ্য মন্ত্রী পীযূষ গোয়েল জানিয়েছেন, ভারত ও মার্কিন যুক্তরাষ্ট্রের মধ্যে প্রস্তাবিত দ্বিপাক্ষিক বাণিজ্য চুক্তির (BTA) যে জটিলতা এতদিন আটকে ছিল, তা এখন রূপ নিতে শুরু করেছে। সম্প্রতি ওয়াশিংটন ভারতীয় পণ্যের ওপর 25% শুল্ক আরোপের প্রস্তাব দেয়, যা চুক্তি স্বাক্ষরিত হলে 17%-এ নেমে আসতে পারে। উভয় দেশই চুক্তিটির প্রথম পর্যায় দ্রুত চূড়ান্ত করতে আলোচনা এগিয়ে নিচ্ছে।",
+   "why": "আন্তর্জাতিক বাণিজ্যে Protectionism, Tariffs এবং Bilateral Trade Agreements সংক্রান্ত সিলেবাসের বিষয় বোঝার জন্য এটি অত্যন্ত বাস্তবসম্মত উদাহরণ।",
+   "source": {
+    "name": "Business Standard",
+    "url": "https://www.business-standard.com/economy/news/india-us-trade-deal-close-to-culmination-piyush-goyal-ustr-tariff-126112700570_1.html"
+   }
+  },
+  {
+   "id": "n2",
+   "category": "মুদ্রানীতি ও শেয়ারবাজার",
+   "title": "মার্কিন PCE মূল্যস্ফীতি বৃদ্ধির পর Fed সুদের হার বাড়ানোর আশঙ্কায় সেনসেক্স 900 পয়েন্ট কমলো",
+   "summary": "অক্টোবর মাসে মার্কিন যুক্তরাষ্ট্রে প্রত্যাশার চেয়ে বেশি Core PCE inflation বাড়ায় ডিসেম্বরের মুদ্রানীতি বৈঠকে ইউএস ফেডারেল রিজার্ভ সুদের হার বাড়াতে (rate hike) পারে বলে জল্পনা তৈরি হয়েছে। এর প্রভাবে অপরিশোধিত তেলের চড়া দাম এবং রুপির পতনের মধ্যে শুক্রবার ভারতীয় শেয়ারবাজারে ধস নামে এবং সেনসেক্স প্রায় 900 পয়েন্ট কমে যায়। ডলারের শক্তিশালী অবস্থান বিশ্ববাজারের পাশাপাশি ভারতীয় বাজারকেও চাপে ফেলেছে।",
+   "why": "Macroeconomics-এ Inflation, Central Bank Policy Rates এবং Global Market Interconnectedness-এর প্রভাব বোঝার জন্য এটি অত্যন্ত গুরুত্বপূর্ণ।",
+   "source": {
+    "name": "Mint",
+    "url": "https://www.livemint.com/market/stock-market-news/us-pce-inflation-rises-in-oct-is-a-us-fed-rate-hike-confirmed-in-dec-meet-how-will-it-impact-sensex-nifty-and-gold-11795764103649.html"
+   }
+  },
+  {
+   "id": "n3",
+   "category": "নিয়ামক সংস্থা ও বিনিয়োগ",
+   "title": "FPI অনবোর্ডিংয়ের সময় কমিয়ে 5 কার্যদিবসে নামানোর লক্ষ্য SEBI-র",
+   "summary": "বিদেশি প্রাতিষ্ঠানিক বিনিয়োগকারীদের (FPI) ভারতীয় বাজারে অন্তর্ভুক্তির (onboarding) সময় কয়েক মাস থেকে কমিয়ে মাত্র 5 কার্যদিবসে নামিয়ে আনার পরিকল্পনা করছে সেবি। সেবি চেয়ারম্যান তুহিন কান্ত পান্ডে জানিয়েছেন, ডিজিটাল ওয়ার্কফ্লো ও সিস্টেম ইন্টিগ্রেশনের মাধ্যমে প্রক্রিয়াটিকে দ্রুত ও সহজ করা হচ্ছে। এর ফলে ভারতীয় ক্যাপিটাল মার্কেটে বিদেশি মূলধনের প্রবাহ আরও সহজ হবে।",
+   "why": "Financial Markets-এ Ease of Doing Business, FPI Regulation এবং Market Liquidity বজায় রাখার কৌশল ব্যাখ্যা করতে এটি কার্যকর।",
+   "source": {
+    "name": "Business Standard",
+    "url": "https://www.business-standard.com/markets/news/sebi-aims-to-cut-fpi-onboarding-time-to-five-business-days-chairman-126112700698_1.html"
+   }
+  },
+  {
+   "id": "n4",
+   "category": "করপোরেট পুনর্গঠন",
+   "title": "AI যুগের সঙ্গে মানিয়ে নিতে 10,000 কর্মী ছাঁটাইয়ের পরিকল্পনা করছে জার্মান সফটওয়্যার জায়ান্ট SAP",
+   "summary": "জার্মানির শীর্ষ সফটওয়্যার সংস্থা SAP তাদের বিশ্বব্যাপী কর্মীবাহিনীর 9% বা প্রায় 10,000 কর্মী ছাঁটাই করার বিষয়টি বিবেচনা করছে। কৃত্রিম বুদ্ধিমত্তার (AI) বিকাশের সঙ্গে কোম্পানিকে পুনর্গঠিত করতে এই সিদ্ধান্ত নেওয়া হচ্ছে। ছাঁটাইয়ের সঠিক সংখ্যা এখনো চূড়ান্ত না হলেও একাধিক বিভাগে এর প্রভাব পড়তে পারে।",
+   "why": "Corporate Strategy-তে Restructuring, AI Disruption এবং HR Cost Management সংক্রান্ত সিলেবাসের বিষয়গুলো বুঝতে সাহায্য করে।",
+   "source": {
+    "name": "Mint",
+    "url": "https://www.livemint.com/companies/news/sap-layoffs-german-software-major-considering-10-000-job-cuts-9-of-global-workforce-could-be-hit-check-which-depts-11795762014958.html"
+   }
+  },
+  {
+   "id": "n5",
+   "category": "কেন্দ্রীয় ব্যাংক",
+   "title": "ইউরোপীয় কেন্দ্রীয় ব্যাংকের (ECB) পরবর্তী সভাপতি হচ্ছেন স্পেনের পাবলো হার্নান্দেজ দে কোস",
+   "summary": "স্পেনের পাবলো হার্নান্দেজ দে কোস ইউরোপীয় কেন্দ্রীয় ব্যাংকের (ECB) নতুন সভাপতি হিসেবে ক্রিস্টিন ল্যাগার্ডের স্থলাভিষিক্ত হতে চলেছেন। তিনি প্রয়োজনীয় সমর্থন অর্জন করেছেন এবং আগামী বছর ইসিবি-র দায়িত্ব গ্রহণ করবেন। রাজনৈতিক অনিশ্চয়তা ও ধীরগতির অর্থনৈতিক বৃদ্ধির মধ্যে তিনি এই দায়িত্ব সামলাবেন।",
+   "why": "Central Banking Governance এবং Leadership Transition কীভাবে অর্থনৈতিক নীতি নির্ধারণে ভূমিকা রাখে তা শেখায়।",
+   "source": {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/26/pablo-hernandez-de-cos-ecb-president.html"
+   }
+  },
+  {
+   "id": "n6",
+   "category": "কমোডিটি বাজার",
+   "title": "ডলারের দাম কমায় এক দিনে ₹8,500 বাড়ল রুপোর দাম, MCX-এ 6% আপার সার্কিট",
+   "summary": "মার্কিন ডলার 19 মাসের সর্বোচ্চ স্তর থেকে কিছুটা নামায় আন্তর্জাতিক ও ঘরোয়া বাজারে রুপোর দামে তীব্র র্যালি দেখা গেছে। মাল্টি কমোডিটি এক্সচেঞ্জে (MCX) রুপোর দাম কেজিতে ₹8,500 বেড়ে ₹1.54 লাখে পৌঁছে 6% আপার সার্কিট স্পর্শ করেছে। বাজারে সুযোগ সন্ধানীদের সস্তা দরে কেনাকাটা (bargain hunting) এই মূল্যবৃদ্ধিতে অনুঘটক হিসেবে কাজ করেছে।",
+   "why": "Commodities Market-এ Currency Movement, Bargain Hunting এবং Upper Circuit Filter-এর ভূমিকা বোঝার জন্য উপযুক্ত।",
+   "source": {
+    "name": "Mint",
+    "url": "https://www.livemint.com/market/commodities/silver-rate-today-27-november-mcx-price-6-upper-circuit-at-rs-1-54-lakh-kg-up-rs-8-500-in-a-day-right-time-to-buy-11795772565257.html"
+   }
+  },
+  {
+   "id": "n7",
+   "category": "ব্যাংকিং ও অর্থনীতি",
+   "title": "রপ্তানির মাত্র 20-30% সুবিধা পায় FTA থেকে: MSME-দের মুক্ত বাণিজ্য চুক্তির সুযোগ নেওয়ার আহ্বান RBI গভর্নের",
+   "summary": "রিজার্ভ ব্যাংক অব ইন্ডিয়ার গভর্নর সঞ্জয় মালহোত্রা জানিয়েছেন, যোগ্য ভারতীয় রপ্তানির মাত্র 20-30% বর্তমানে মুক্ত বাণিজ্য চুক্তির (FTA) সুবিধাসমূহ ব্যবহার করে। তিনি ক্ষুদ্র ও মাঝারি শিল্পগুলোকে (MSME) আন্তর্জাতিক ভ্যালু চেইনে যুক্ত হতে FTA-এর সুবিধা নেওয়ার তাগিদ দিয়েছেন। পাশাপাশি তিনি ছোট ব্যবসাগুলোতে AI প্রযুক্তি গ্রহণের কম হার নিয়েও উদ্বেগ প্রকাশ করেছেন।",
+   "why": "Export Promotion, MSME Financing এবং Global Value Chain (GVC)-এ অন্তর্ভুক্তির বাণিজ্যিক গুরুত্ব বুঝতে সাহায্য করে।",
+   "source": {
+    "name": "Mint",
+    "url": "https://www.livemint.com/economy/rbi-governor-msmes-free-trade-deals-exports-ai-adoption-11795763118058.html"
+   }
+  },
+  {
+   "id": "n8",
+   "category": "স্টার্টআপ ও প্রযুক্তি",
+   "title": "ক্ষতি বাড়ায় 340 জন কর্মী ছাঁটাই করলো সুইগির কুইক কমার্স প্ল্যাটফর্ম Instamart",
+   "summary": "সুইগির কুইক কমার্স শাখা Instamart নিজেদের ব্যবসায়িক পুনর্গঠন ও ক্ষতি কমানোর প্রক্রিয়ায় 340 জন কর্মী ছাঁটাই করেছে। তীব্র প্রতিযোগিতামূলক বাজারে কাজ চালিয়ে যেতে কৃত্রিম বুদ্ধিমত্তা ও প্রযুক্তিতে বিনিয়োগ বাড়ানোর পাশাপাশি সংস্থাটি এই পদক্ষেপ নিয়েছে। ক্ষতিগ্রস্ত কর্মীদের সেভারেন্স পে এবং স্বাস্থ্য বীমা সুবিধা প্রদান করা হচ্ছে।",
+   "why": "Quick Commerce-এ Operating Losses, Burn Rate এবং Cost Optimization-এর অর্থনৈতিক বাস্তবতার স্পষ্ট উদাহরণ।",
+   "source": {
+    "name": "Mint",
+    "url": "https://www.livemint.com/companies/news/swiggys-quick-commerce-arm-instamart-to-lay-off-340-employees-amid-restructuring-ai-push-11795759734638.html"
+   }
+  }
+ ],
+ "market": {
+  "asOf": "২৭ নভেম্বর ২০২৬, শুক্রবারের ক্লোজিং",
+  "items": [
+   {
+    "name": "S&P 500",
+    "region": "US",
+    "value": "7,182.78",
+    "change": "-0.25%",
+    "dir": "down"
+   },
+   {
+    "name": "Dow Jones",
+    "region": "US",
+    "value": "50,182.95",
+    "change": "+0.33%",
+    "dir": "up"
+   },
+   {
+    "name": "Nasdaq",
+    "region": "US",
+    "value": "23,585.80",
+    "change": "-0.62%",
+    "dir": "down"
+   },
+   {
+    "name": "Sensex",
+    "region": "ভারত",
+    "value": "83,339.26",
+    "change": "-1.17%",
+    "dir": "down"
+   },
+   {
+    "name": "Nifty 50",
+    "region": "ভারত",
+    "value": "25,607.20",
+    "change": "-1.07%",
+    "dir": "down"
+   },
+   {
+    "name": "Brent Crude",
+    "region": "$ প্রতি ব্যারেল",
+    "value": "91.97",
+    "change": "-2.79%",
+    "dir": "down"
+   },
+   {
+    "name": "Gold",
+    "region": "$ প্রতি আউন্স",
+    "value": "3,707.10",
+    "change": "+4.84%",
+    "dir": "up"
+   },
+   {
+    "name": "USD/INR",
+    "region": "₹ প্রতি $",
+    "value": "92.98",
+    "change": "+0.80%",
+    "dir": "up"
+   }
+  ]
+ },
+ "term": {
+  "term": "Free Trade Agreement (FTA)",
+  "bangla": "মুক্ত বাণিজ্য চুক্তি (FTA)",
+  "definition": "দুটি বা ততোধিক দেশের মধ্যে স্বাক্ষরিত এমন একটি আন্তর্জাতিক চুক্তি যা অংশগ্রহণকারী দেশগুলোর মধ্যে পণ্য ও সেবা আমদানির ক্ষেত্রে শুল্ক (tariffs), কোটা এবং অন্যান্য বাণিজ্যিক বাধা হ্রাস বা নির্মূল করে দ্বিপাক্ষিক বাণিজ্য বৃদ্ধি করে।",
+  "example": "রিজার্ভ ব্যাংক অব ইন্ডিয়ার গভর্নর সঞ্জয় মালহোত্রা জানিয়েছেন যে যোগ্য ভারতীয় রপ্তানির মাত্র 20-30% বর্তমানে মুক্ত বাণিজ্য চুক্তির (FTA) সুবিধা ব্যবহার করে।",
+  "formula": "",
+  "tip": "ইন্টারভিউতে বলুন: FTA কেবল শুল্ক কমায় না, এটি স্থানীয় কোম্পানিগুলোকে গ্লোবাল ভ্যালু চেইন (GVC)-এ যুক্ত হতে এবং আন্তর্জাতিক বাজারে প্রতিযোগিতামূলক সুবিধা পেতে সহায়তা করে।"
+ },
+ "gd": {
+  "topic": "মুক্ত বাণিজ্য চুক্তি (FTA) কি ভারতের ক্ষুদ্র ও মাঝারি শিল্পের (MSME) জন্য বিশ্ববাজারের সুযোগ তৈরি করে, নাকি এটি দেশীয় শিল্পে তীব্র প্রতিযোগিতার ঝুঁকি বাড়ায়?",
+  "context": "রিজার্ভ ব্যাংকের গভর্নর জানিয়েছেন যে ভারতীয় রপ্তানির মাত্র 20-30% FTA সুবিধা ব্যবহার করে, যখন ভারত ও আমেরিকা নতুন দ্বিপাক্ষিক বাণিজ্য চুক্তি চূড়ান্ত করার কাছাকাছি রয়েছে।",
+  "for": [
+   "FTA ভারতীয় MSME-গুলোকে বিদেশি বাজারে কম শুল্কে বা শুল্কমুক্ত সুবিধায় পণ্য রপ্তানির সরাসরি সুযোগ দেয়, যা তাদের আন্তর্জাতিক বিক্রি বাড়ায়।",
+   "গ্লোবাল ভ্যালু চেইনে (GVC) অন্তর্ভুক্তির ফলে আধুনিক প্রযুক্তি হস্তান্তর ঘটে এবং দেশীয় কারখানাগুলোর উৎপাদন দক্ষতা বৃদ্ধি পায়।",
+   "আন্তর্জাতিক প্রতিযোগিতামূলক পরিবেশ তৈরি হলে পণ্যের গুণগত মান উন্নত হয়, যা দীর্ঘমেয়াদে দেশীয় শিল্পকে বিশ্বমানের করে তোলে।"
+  ],
+  "against": [
+   "আমদানিকৃত সস্তা এবং শুল্কমুক্ত পণ্যের প্রবাহ দেশীয় ছোট ছোট উৎপাদকদের দামের দৌড়ে পিছিয়ে দেয় এবং তারা লোকসানের মুখে পড়ে।",
+   "জটিল নথিপত্র এবং 'Rules of Origin'-এর আমলাতান্ত্রিক শর্ত পূরণ করতে না পেরে অধিকাংশ ছোট ব্যবসা প্রতিষ্ঠান চুক্তিগুলোর সুবিধা নিতে পারে না।",
+   "ভারতের উচ্চ মূলধন খরচ ও পরিকাঠামোগত সীমাবদ্ধতার কারণে আন্তর্জাতিক প্রতিযোগী দেশগুলোর সাথে আমাদের ছোট শিল্পগুলো সমান প্রতিযোগিতায় টিকে থাকতে হিমশিম খায়।"
+  ]
+ },
+ "blog": {
+  "title": "মুক্ত বাণিজ্য চুক্তি (FTA) ও বিশ্ব বাণিজ্য: ভারতীয় অর্থনীতির জন্য সুযোগ ও চ্যালেঞ্জ",
+  "topic": "Free Trade Agreements & Export Competitiveness",
+  "readMin": 5,
+  "body": [
+   "আন্তর্জাতিক বাণিজ্য নীতি ও সামষ্টিক অর্থনীতিতে (Macroeconomics) 'মুক্ত বাণিজ্য চুক্তি' বা Free Trade Agreement (FTA) অত্যন্ত গুরুত্বপূর্ণ একটি বিষয়। বিশ্বায়নের যুগে কোনো দেশই নিজের সীমানার মধ্যে অর্থনৈতিকভাবে স্বাবলম্বী থাকতে পারে না। পণ্য ও সেবার অবাধ প্রবাহ নিশ্চিত করতে দুটি দেশ (দ্বিপাক্ষিক) বা একাধিক দেশ (বহুপাক্ষিক) নিজেদের মধ্যে শুল্ক (tariffs) ও অ-শুল্ক বাধা (non-tariff barriers) কমানোর জন্য FTA স্বাক্ষর করে। এর মূল লক্ষ্য হলো বাণিজ্য ব্যয় কমিয়ে দ্বিপাক্ষিক আমদানি ও রপ্তানি বৃদ্ধি করা।",
+   "## কেন পুরোপুরি বাস্তবায়িত হয় না FTA-এর সুবিধা?",
+   "কাগজে-কলমে FTA শুল্ক ছাড়ের প্রতিশ্রুতি দিলেও বাস্তবে অনেক দেশীয় প্রতিষ্ঠান এর পূর্ণ সুযোগ নিতে পারে না। আজকের সংবাদে যেমন দেখা গেছে, রিজার্ভ ব্যাংকের গভর্নর সঞ্জয় মালহোত্রা উল্লেখ করেছেন যে যোগ্য ভারতীয় রপ্তানির মাত্র 20-30% বর্তমানে FTA-এর সুবিধাসমূহ গ্রহণ করে। এর নেপথ্যে রয়েছে জটিল নথিপত্র প্রক্রিয়া, 'Rules of Origin'-এর শংসাপত্র সংগ্রহের ঝামেলা এবং সাধারণ ছোট ব্যবসায়ীদের (MSMEs) মধ্যে সচেতনতার অভাব। যখন একটি কোম্পানি FTA সুবিধা দাবি করে, তখন তাকে প্রমাণ করতে হয় যে পণ্যটির বড় অংশ নিজস্ব দেশেই তৈরি হয়েছে, যা ছোট উদ্যোক্তাদের জন্য প্রায়শই আমলাতান্ত্রিক জটিলতা তৈরি করে।",
+   "## শুল্ক হ্রাস ও গ্লোবাল ভ্যালু চেইন (GVC)",
+   "অপরদিকে, ভারত-মার্কিন দ্বিপাক্ষিক বাণিজ্য চুক্তি (BTA) নিয়ে সাম্প্রতিক অগ্রগতি দেখাচ্ছে যে কীভাবে কৌশলগত বাণিজ্য আলোচনা দেশের রপ্তানি শিল্পকে সুরক্ষা দেয়। মার্কিন যুক্তরাষ্ট্রের প্রস্তাবিত 25% শুল্ক থেকে চুক্তি সম্পাদনের মাধ্যমে তা 17%-এ নেমে এলে ভারতীয় পণ্য মার্কিন বাজারে প্রতিযোগী দেশগুলোর তুলনায় সুবিধাজনক অবস্থান পাবে। বর্তমান বৈশ্বিক অর্থনীতিতে পণ্য কেবল একটি দেশে তৈরি হয় না; বিভিন্ন দেশ থেকে যন্ত্রাংশ এসে গ্লোবাল ভ্যালু চেইনে (GVC) যুক্ত হয়। FTA ব্যবসায়ীদের সাশ্রয়ী মূল্যে কাঁচামাল আমদানি করে শেষ পণ্য হিসেবে অন্যান্য দেশে রপ্তানি করতে সাহায্য করে।",
+   "## বিএবি শিক্ষার্থীদের জন্য শিক্ষা",
+   "ব্যবসার শিক্ষার্থীদের জন্য FTA বোঝা কেবল আন্তর্জাতিক বাণিজ্যের তত্ত্বের মধ্যে সীমাবদ্ধ নয়। এটি একটি কোম্পানির স্লাইড কস্ট স্ট্রাকচার, গ্লোবাল সাপ্লাই চেইন ডিজাইন এবং আন্তর্জাতিক বাজার সম্প্রসারণ (International Market Expansion) কৌশল নির্ধারণে সরাসরি ভূমিকা রাখে। একজন ভবিষ্যৎ ম্যানেজার হিসেবে আপনাকে বুঝতে হবে কীভাবে আপনার কোম্পানির পণ্য আমদানিকৃত কাঁচামালের ওপর নির্ভর করছে এবং কোন চুক্তির মাধ্যমে আন্তর্জাতিক বাজারে রাজস্ব বৃদ্ধি করা সম্ভব।"
+  ],
+  "takeaways": [
+   "FTA আন্তর্জাতিক বাণিজ্যে শুল্ক ও অন্যান্য বাধা কমিয়ে দ্বিপাক্ষিক পণ্য ও সেবার আদান-প্রদান সহজ করে।",
+   "আমলাতান্ত্রিক জটিলতা ও সচেতনতার অভাবে ভারতীয় রপ্তানির মাত্র 20-30% বর্তমানে FTA সুবিধা গ্রহণ করতে পারছে।",
+   "আন্তর্জাতিক বাজারে প্রতিযোগিতা ধরে রাখতে এবং গ্লোবাল ভ্যালু চেইনে যুক্ত হতে কোম্পানিগুলোর FTA কৌশল বোঝা অত্যন্ত জরুরি।"
+  ]
+ },
+ "quiz": [
+  {
+   "q": "সাম্প্রতিক তথ্য অনুযায়ী, যোগ্যতা থাকা সত্ত্বেও ভারতের মোট রপ্তানির কত শতাংশ বর্তমানে মুক্ত বাণিজ্য চুক্তির (FTA) সুবিধাসমূহ ব্যবহার করে?",
+   "options": [
+    "50-60%",
+    "20-30%",
+    "5-10%",
+    "80-90%"
+   ],
+   "answer": 1,
+   "explain": "রিজার্ভ ব্যাংক অব ইন্ডিয়ার গভর্নর সঞ্জয় মালহোত্রা জানিয়েছেন যে যোগ্য ভারতীয় রপ্তানির মাত্র 20-30% বর্তমানে FTA-এর সুবিধা ব্যবহার করে।"
+  },
+  {
+   "q": "জার্মানির সফটওয়্যার সংস্থা SAP তাদের বিশ্বব্যাপী কর্মীবাহিনীর কত শতাংশ (প্রায় 10,000 কর্মী) ছাঁটাই করার পরিকল্পনা করছে?",
+   "options": [
+    "15%",
+    "5%",
+    "20%",
+    "9%"
+   ],
+   "answer": 3,
+   "explain": "SAP তাদের বিশ্বব্যাপী কর্মীবাহিনীর 9% বা প্রায় 10,000 কর্মী ছাঁটাই করার প্রস্তাব বিবেচনা করছে।"
+  },
+  {
+   "q": "বিদেশি প্রাতিষ্ঠানিক বিনিয়োগকারীদের (FPI) অনবোর্ডিংয়ের সময় কমিয়ে কত কার্যদিবসে নামিয়ে আনার পরিকল্পনা করছে সেবি (SEBI)?",
+   "options": [
+    "5 কার্যদিবস",
+    "15 কার্যদিবস",
+    "30 কার্যদিবস",
+    "2 কার্যদিবস"
+   ],
+   "answer": 0,
+   "explain": "সেবি প্রধান তুহিন কান্ত পান্ডে জানিয়েছেন যে FPI অনবোর্ডিং প্রক্রিয়াকে আরও দ্রুত করে 5 কার্যদিবসে নামিয়ে আনার পরিকল্পনা করা হচ্ছে।"
+  },
+  {
+   "q": "27 নভেম্বর মাল্টি কমোডিটি এক্সচেঞ্জে (MCX) রুপোর দাম এক দিনে ₹8,500 বেড়ে কেজিতে কত টাকায় পৌঁছে 6% আপার সার্কিট স্পর্শ করেছে?",
+   "options": [
+    "₹2.00 লাখ",
+    "₹1.20 লাখ",
+    "₹1.54 লাখ",
+    "₹1.80 লাখ"
+   ],
+   "answer": 2,
+   "explain": "ডলারের দর কিছুটা কমায় MCX-এ রুপোর দাম কেজিতে ₹8,500 বেড়ে ₹1.54 লাখে পৌঁছায় এবং 6% আপার সার্কিট স্পর্শ করে।"
+  },
+  {
+   "q": "ইউরোপীয় কেন্দ্রীয় ব্যাংকের (ECB) ক্রিস্টিন ল্যাগার্ডের স্থলাভিষিক্ত হয়ে পরবর্তী সভাপতি কে হতে চলেছেন?",
+   "options": [
+    "পাবলো হার্নান্দেজ দে কোস",
+    "সঞ্জয় মালহোত্রা",
+    "তুহিন কান্ত পান্ডে",
+    "পীযূষ গোয়েল"
+   ],
+   "answer": 0,
+   "explain": "স্পেনের পাবলো হার্নান্দেজ দে কোস ইউরোপীয় কেন্দ্রীয় ব্যাংকের (ECB) নতুন সভাপতি হিসেবে দায়িত্ব গ্রহণ করার প্রয়োজনীয় সমর্থন পেয়েছেন।"
+  }
+ ],
+ "en": {
+  "dateLabel": "Friday, 27 November 2026",
+  "caseStudy": {
+   "week": "2026-W48",
+   "weekLabel": "23 – 29 November 2026",
+   "company": "Amul (GCMMF)",
+   "title": "Amul: The Farmers' Cooperative That Reshaped India's Dairy Market",
+   "concept": "Cooperative model and Vertical Integration",
+   "intro": "In 1946 milk-producing farmers in Anand, Gujarat came together to form a cooperative. From it was born Amul, today one of India's best-known brands. Key figures behind it were Tribhuvandas Patel and Verghese Kurien.",
+   "sections": [
+    {
+     "h": "What it did",
+     "p": "Farmers then sold milk to a private company, Polson, and middlemen set prices and terms. The farmers formed the Kaira District Cooperative Milk Producers' Union and began collecting, processing and selling milk themselves. Later the district cooperatives of Gujarat joined to form GCMMF, which sells under the Amul brand. In the 1970s Operation Flood spread the model nationwide."
+    },
+    {
+     "h": "The result",
+     "p": "Amul became a major brand in butter, cheese, ice cream and curd, and India became one of the world's largest milk producers. Amul itself claims that a large share of each rupee paid by the consumer, close to 80%, reaches farmers. That figure is Amul's own claim, so it is worth verifying separately."
+    },
+    {
+     "h": "Why it worked",
+     "p": "First, farmers are the owners, so middlemen's profit shrinks. Second, the whole chain from collection to marketing is in the cooperative's hands, which is vertical integration. Third, technical innovation by Kurien's team, such as making milk powder from buffalo milk, turned surplus milk into valuable products. Fourth, the 'Utterly Butterly Delicious' campaign took the brand into homes with a simple, memorable message."
+    },
+    {
+     "h": "Risks and criticism",
+     "p": "Decisions in a cooperative structure can be slow, which can be a handicap against fast-moving private rivals. Milk supply depends on weather and cattle feed prices. Cooperatives have also at times been criticised over political influence and transparency in governance. As a brand spreads across many products, there is also a risk of divided focus."
+    }
+   ],
+   "lesson": "Where producers own the business and control the whole value chain, the middleman's share shrinks and trust in the brand grows. Strategy and ownership structure must be thought about together.",
+   "question": "If you were a director of Amul, what changes would you make to decide faster than private competitors while keeping the cooperative structure?"
+  },
+  "news": [
+   {
+    "id": "n1",
+    "category": "International Trade",
+    "title": "India-US Bilateral Trade Deal Nears Finish: Union Minister Piyush Goyal",
+    "summary": "Commerce Minister Piyush Goyal stated that the pathway previously holding back the bilateral trade agreement (BTA) between India and the US is taking shape. Days after Washington proposed a 25% tariff that could drop to 17% if a deal is reached, both nations are accelerating talks to conclude the first phase.",
+    "why": "An essential real-world example for understanding Tariffs, Bilateral Trade Agreements, and Trade Barriers in international business.",
+    "source": {
+     "name": "Business Standard",
+     "url": "https://www.business-standard.com/economy/news/india-us-trade-deal-close-to-culmination-piyush-goyal-ustr-tariff-126112700570_1.html"
+    }
+   },
+   {
+    "id": "n2",
+    "category": "Monetary Policy & Stock Markets",
+    "title": "Sensex Drops 900 Points on US Fed Rate Hike Concerns Following PCE Inflation Rise",
+    "summary": "Hotter-than-expected US core PCE inflation for October has raised expectations of a potential US Fed rate hike in its December meeting. Driven by rising crude oil prices and a weaker rupee, Indian benchmark indices plunged on Friday, with the Sensex crashing nearly 900 points.",
+    "why": "Directly illustrates Macroeconomic principles of Inflation, Central Bank Policy Rates, and Global Market Interconnectedness.",
+    "source": {
+     "name": "Mint",
+     "url": "https://www.livemint.com/market/stock-market-news/us-pce-inflation-rises-in-oct-is-a-us-fed-rate-hike-confirmed-in-dec-meet-how-will-it-impact-sensex-nifty-and-gold-11795764103649.html"
+    }
+   },
+   {
+    "id": "n3",
+    "category": "Regulatory & Investment",
+    "title": "SEBI Aims to Cut FPI Onboarding Time to Five Business Days: Chairman Tuhin Kanta Pandey",
+    "summary": "Markets regulator SEBI is aiming to cut the onboarding time for Foreign Portfolio Investors (FPIs) from several months to just five business days through digital workflows and system integration. SEBI Chairman Tuhin Kanta Pandey highlighted that this streamlined process will boost capital flows into Indian markets.",
+    "why": "Demonstrates concepts of Ease of Doing Business, FPI Regulations, and Market Liquidity enhancement.",
+    "source": {
+     "name": "Business Standard",
+     "url": "https://www.business-standard.com/markets/news/sebi-aims-to-cut-fpi-onboarding-time-to-five-business-days-chairman-126112700698_1.html"
+    }
+   },
+   {
+    "id": "n4",
+    "category": "Corporate Restructuring",
+    "title": "SAP Planning 10,000 Job Cuts Globally to Restructure for AI Era",
+    "summary": "German software giant SAP is considering cutting around 10,000 jobs, representing 9% of its global workforce, as part of a strategic restructuring for the AI era. While total headcount reductions remain subject to final confirmation, multiple departments will be impacted.",
+    "why": "Helps BBA students analyze Corporate Restructuring, AI Disruption, and HR Cost Management strategies.",
+    "source": {
+     "name": "Mint",
+     "url": "https://www.livemint.com/companies/news/sap-layoffs-german-software-major-considering-10-000-job-cuts-9-of-global-workforce-could-be-hit-check-which-depts-11795762014958.html"
+    }
+   },
+   {
+    "id": "n5",
+    "category": "Central Banking",
+    "title": "Spain's Pablo Hernández de Cos Set to Lead European Central Bank",
+    "summary": "Pablo Hernández de Cos of Spain has secured the backing needed to succeed Christine Lagarde as President of the European Central Bank (ECB) next year. He will assume leadership during a phase of political uncertainty and choppy economic growth in Europe.",
+    "why": "Teaches Central Banking Governance and the impact of Leadership Transitions on economic policymaking.",
+    "source": {
+     "name": "CNBC",
+     "url": "https://www.cnbc.com/2026/11/26/pablo-hernandez-de-cos-ecb-president.html"
+    }
+   },
+   {
+    "id": "n6",
+    "category": "Commodities Market",
+    "title": "Silver Jumps ₹8,500/kg as MCX Price Hits 6% Upper Circuit on Weaker Dollar",
+    "summary": "A pullback in the US Dollar from its 19-month high triggered strong bargain hunting in precious metals. MCX silver futures soared 6% to hit their upper circuit limit, jumping ₹8,500 in a single day to reach ₹1.54 lakh per kg.",
+    "why": "Relevant for learning Commodity Trading dynamics, Currency Correlations, and Circuit Limit mechanisms.",
+    "source": {
+     "name": "Mint",
+     "url": "https://www.livemint.com/market/commodities/silver-rate-today-27-november-mcx-price-6-upper-circuit-at-rs-1-54-lakh-kg-up-rs-8-500-in-a-day-right-time-to-buy-11795772565257.html"
+    }
+   },
+   {
+    "id": "n7",
+    "category": "Banking & Economy",
+    "title": "Only 20-30% Eligible Exports Use FTAs: RBI Governor Urges MSMEs to Leverage Deals",
+    "summary": "RBI Governor Sanjay Malhotra revealed that only 20-30% of eligible Indian exports currently utilize Free Trade Agreement (FTA) benefits. He urged MSMEs to leverage these trade pacts to integrate into global value chains and flagged low AI adoption among small businesses.",
+    "why": "Highlights Export Promotion policies, MSME Growth dynamics, and Global Value Chain (GVC) integration.",
+    "source": {
+     "name": "Mint",
+     "url": "https://www.livemint.com/economy/rbi-governor-msmes-free-trade-deals-exports-ai-adoption-11795763118058.html"
+    }
+   },
+   {
+    "id": "n8",
+    "category": "Startups & Tech",
+    "title": "Swiggy's Instamart Cuts 340 Jobs to Restructure Amid Widening Losses",
+    "summary": "Swiggy's quick-commerce unit Instamart has laid off 340 employees as part of an operational restructuring to curb widening losses. The firm is offering severance and healthcare benefits while redirecting resources toward AI and technology investments.",
+    "why": "Illustrates Quick Commerce Economics, Operating Losses, Burn Rate, and Strategic Cost Optimization.",
+    "source": {
+     "name": "Mint",
+     "url": "https://www.livemint.com/companies/news/swiggys-quick-commerce-arm-instamart-to-lay-off-340-employees-amid-restructuring-ai-push-11795759734638.html"
+    }
+   }
+  ],
+  "market": {
+   "asOf": "Close of Friday, 27 November 2026",
+   "items": [
+    {
+     "name": "S&P 500",
+     "region": "US",
+     "value": "7,182.78",
+     "change": "-0.25%",
+     "dir": "down"
+    },
+    {
+     "name": "Dow Jones",
+     "region": "US",
+     "value": "50,182.95",
+     "change": "+0.33%",
+     "dir": "up"
+    },
+    {
+     "name": "Nasdaq",
+     "region": "US",
+     "value": "23,585.80",
+     "change": "-0.62%",
+     "dir": "down"
+    },
+    {
+     "name": "Sensex",
+     "region": "India",
+     "value": "83,339.26",
+     "change": "-1.17%",
+     "dir": "down"
+    },
+    {
+     "name": "Nifty 50",
+     "region": "India",
+     "value": "25,607.20",
+     "change": "-1.07%",
+     "dir": "down"
+    },
+    {
+     "name": "Brent Crude",
+     "region": "$ per barrel",
+     "value": "91.97",
+     "change": "-2.79%",
+     "dir": "down"
+    },
+    {
+     "name": "Gold",
+     "region": "$ per ounce",
+     "value": "3,707.10",
+     "change": "+4.84%",
+     "dir": "up"
+    },
+    {
+     "name": "USD/INR",
+     "region": "₹ per $",
+     "value": "92.98",
+     "change": "+0.80%",
+     "dir": "up"
+    }
+   ]
+  },
+  "term": {
+   "term": "Free Trade Agreement (FTA)",
+   "bangla": "Free Trade Agreement (FTA)",
+   "definition": "An international pact between two or more nations to reduce or eliminate tariffs, quotas, and non-tariff barriers on imports and exports, thereby promoting cross-border trade.",
+   "example": "RBI Governor Sanjay Malhotra noted that only 20-30% of eligible Indian exports currently utilize Free Trade Agreement (FTA) benefits.",
+   "formula": "",
+   "tip": "In interviews, explain that FTAs don't just reduce duties; they help domestic firms integrate into Global Value Chains (GVCs) and expand export market access."
+  },
+  "gd": {
+   "topic": "Do Free Trade Agreements (FTAs) create net export opportunities for Indian MSMEs or do they expose small domestic industries to unfair foreign competition?",
+   "context": "The RBI Governor highlighted that only 20-30% of eligible Indian exports utilize FTA benefits, amid ongoing India-US trade pact negotiations.",
+   "for": [
+    "FTAs grant Indian MSMEs tariff-free or low-duty access to large foreign markets, boosting export volumes.",
+    "Integration into Global Value Chains (GVCs) facilitates technology transfer and enhances domestic manufacturing efficiency.",
+    "Increased market openness encourages product innovation and cost competitiveness among small producers."
+   ],
+   "against": [
+    "Surge in cheap duty-free imports can undercut domestic small-scale manufacturers who face higher input costs.",
+    "Complex documentation and strict Rules of Origin prevent most small MSMEs from utilizing available FTA benefits.",
+    "Infrastructural bottlenecks and higher domestic cost of capital leave Indian small businesses at a disadvantage against foreign rivals."
+   ]
+  },
+  "blog": {
+   "title": "Free Trade Agreements and Global Trade: Opportunities and Challenges for Indian Business",
+   "topic": "Free Trade Agreements & Export Competitiveness",
+   "readMin": 5,
+   "body": [
+    "In international trade theory and macroeconomics, Free Trade Agreements (FTAs) play a pivotal role in shaping cross-border commerce. In an interconnected global economy, no nation can remain isolated. To facilitate the smooth flow of goods and services, countries sign bilateral or multilateral FTAs to reduce tariffs and non-tariff barriers. The ultimate goal is to lower trade costs, boost exports, and integrate domestic industries with foreign markets.",
+    "## Why Do Companies Underutilize FTA Benefits?",
+    "While FTAs offer attractive tariff concessions on paper, many domestic enterprises fail to fully leverage them. As highlighted in today's news, RBI Governor Sanjay Malhotra noted that only 20-30% of eligible Indian exports currently utilize FTA benefits. Major roadblocks include complex documentation, strict 'Rules of Origin' compliance, and a lack of procedural awareness among Micro, Small, and Medium Enterprises (MSMEs). Claiming preferential tariffs requires proving local value addition, which often poses administrative challenges for small exporters.",
+    "## Tariff Reductions and Global Value Chains (GVCs)",
+    "On the other hand, recent developments in the India-US trade talks demonstrate how strategic bilateral negotiations shield domestic industries. A potential reduction of proposed US tariffs from 25% to 17% under a finalized trade deal would give Indian exporters a distinct cost advantage over competitors. In modern manufacturing, products are rarely made entirely in one nation; raw materials and components move across borders via Global Value Chains (GVCs). FTAs allow businesses to import intermediate inputs at lower costs and export finished goods competitively.",
+    "## Key Lessons for BBA Students",
+    "For business students, understanding FTAs extends far beyond textbook trade theories. It directly impacts a firm's cost structure, supply chain resilience, and international market expansion strategies. As future business leaders, BBA students must learn how trade policies dictate pricing strategies, foreign market entry, and global competitive advantage."
+   ],
+   "takeaways": [
+    "FTAs reduce tariff and non-tariff barriers to lower trade costs and promote bilateral export growth.",
+    "Despite preferential terms, only 20-30% of eligible Indian exports utilize FTAs due to procedural hurdles.",
+    "Strategic leverage of trade deals enables companies to optimize supply chains and integrate into Global Value Chains."
+   ]
+  },
+  "quiz": [
+   {
+    "q": "According to recent data, what percentage of eligible Indian exports currently utilize Free Trade Agreement (FTA) benefits?",
+    "options": [
+     "50-60%",
+     "20-30%",
+     "5-10%",
+     "80-90%"
+    ],
+    "answer": 1,
+    "explain": "RBI Governor Sanjay Malhotra stated that only 20-30% of eligible Indian exports currently utilize FTA benefits."
+   },
+   {
+    "q": "German software major SAP is considering cutting what percentage of its global workforce (approx. 10,000 jobs)?",
+    "options": [
+     "15%",
+     "5%",
+     "20%",
+     "9%"
+    ],
+    "answer": 3,
+    "explain": "SAP is considering cutting around 10,000 jobs, representing 9% of its global workforce, to restructure for the AI era."
+   },
+   {
+    "q": "SEBI aims to reduce the onboarding time for Foreign Portfolio Investors (FPIs) to how many business days?",
+    "options": [
+     "5 business days",
+     "15 business days",
+     "30 business days",
+     "2 business days"
+    ],
+    "answer": 0,
+    "explain": "SEBI Chairman Tuhin Kanta Pandey stated that SEBI aims to cut FPI onboarding time to 5 business days through digital workflows."
+   },
+   {
+    "q": "On November 27, MCX silver price surged by ₹8,500/kg to hit a 6% upper circuit at what price per kg?",
+    "options": [
+     "₹2.00 lakh",
+     "₹1.20 lakh",
+     "₹1.54 lakh",
+     "₹1.80 lakh"
+    ],
+    "answer": 2,
+    "explain": "MCX silver futures surged ₹8,500 per kg to hit a 6% upper circuit at ₹1.54 lakh/kg as the US Dollar pulled back."
+   },
+   {
+    "q": "Who is set to succeed Christine Lagarde as the next President of the European Central Bank (ECB)?",
+    "options": [
+     "Pablo Hernández de Cos",
+     "Sanjay Malhotra",
+     "Tuhin Kanta Pandey",
+     "Piyush Goyal"
+    ],
+    "answer": 0,
+    "explain": "Spain's Pablo Hernández de Cos has won the backing needed to succeed Christine Lagarde as ECB President."
+   }
+  ]
+ }
+}
