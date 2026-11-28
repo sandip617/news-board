@@ -1,0 +1,568 @@
+{
+ "date": "2026-11-28",
+ "dateLabel": "২৮ নভেম্বর ২০২৬, শনিবার",
+ "edition": 1,
+ "updatedAt": "2026-11-28T16:24:56+05:30",
+ "generatedBy": "gemini-backup",
+ "caseStudy": {
+  "week": "2026-W48",
+  "weekLabel": "২৩ – ২৯ নভেম্বর ২০২৬",
+  "company": "Amul (GCMMF)",
+  "title": "Amul: কৃষকের সমবায়, যা ভারতের দুধ-বাজার বদলে দিল",
+  "concept": "Cooperative model আর Vertical Integration",
+  "intro": "1946 সালে গুজরাটের আনন্দ-এ দুধ উৎপাদক কৃষকরা মিলে একটি সমবায় গড়ে তোলেন। সেখান থেকেই জন্ম নেয় Amul, যা আজ ভারতের পরিচিত ব্র্যান্ডগুলোর একটি। এর পেছনের মূল চরিত্র ছিলেন Tribhuvandas Patel আর Verghese Kurien।",
+  "sections": [
+   {
+    "h": "কী করেছিল",
+    "p": "তখন কৃষকরা দুধ বেচতেন এক ব্যক্তিগত কোম্পানি Polson-এর কাছে, আর দাম আর শর্ত ঠিক করত মধ্যস্থতাকারীরা। কৃষকরা Kaira District Cooperative Milk Producers' Union গড়ে নিজেরাই দুধ সংগ্রহ, প্রক্রিয়াকরণ আর বিক্রি শুরু করলেন। পরে গুজরাটের জেলা সমবায়গুলো মিলে GCMMF তৈরি হয়, যা Amul ব্র্যান্ডে বিক্রি করে। 1970-এর দশকে জাতীয় স্তরে Operation Flood এই মডেল সারা দেশে ছড়ায়।"
+   },
+   {
+    "h": "ফলাফল",
+    "p": "Amul মাখন, চিজ, আইসক্রিম, দইয়ের মতো অনেক পণ্যের বড় ব্র্যান্ড হয়ে উঠেছে, আর ভারত বিশ্বের অন্যতম বৃহৎ দুধ উৎপাদক দেশ হয়েছে। Amul-এর নিজের দাবি, ভোক্তার দেওয়া প্রতি টাকার একটা বড় অংশ, প্রায় 80%-এর কাছাকাছি, কৃষকের কাছে যায়। এই সংখ্যা Amul-এর নিজের বক্তব্য, তাই আলাদা করে যাচাই করা ভালো।"
+   },
+   {
+    "h": "কেন কাজ করল",
+    "p": "প্রথমত, কৃষকই মালিক, তাই মধ্যস্থতাকারীর মুনাফা কমে যায়। দ্বিতীয়ত, সংগ্রহ থেকে বিপণন পর্যন্ত পুরো শৃঙ্খলা সমবায়ের হাতে, একে বলে vertical integration। তৃতীয়ত, Kurien-এর দলের প্রযুক্তিগত উদ্ভাবন, যেমন মহিষের দুধ থেকে গুঁড়ো দুধ বানানো, উদ্বৃত্ত দুধকে মূল্যবান পণ্যে বদলাল। চতুর্থত, 'Utterly Butterly Delicious' বিজ্ঞাপন-প্রচারণা সহজ, মনে-থাকা মেসেজ দিয়ে ব্র্যান্ডকে ঘরে ঘরে পৌঁছে দিল।"
+   },
+   {
+    "h": "ঝুঁকি আর সমালোচনা",
+    "p": "সমবায় কাঠামোতে সিদ্ধান্ত ধীরে হতে পারে, আর বেসরকারি প্রতিযোগীদের সঙ্গে দ্রুত বদলাতে হলে এটা বাধা হতে পারে। দুধের সরবরাহ আবহাওয়া আর পশুখাদ্যের দামের ওপর নির্ভরশীল। এছাড়া রাজনৈতিক প্রভাব ও পরিচালনার স্বচ্ছতা নিয়ে সমবায়গুলো কখনও সমালোচিত হয়েছে। বড় হতে হতে ব্র্যান্ডের একাধিক পণ্যে ছড়িয়ে পড়াও মনোযোগ ভাগ করে দেওয়ার ঝুঁকি তৈরি করে।"
+   }
+  ],
+  "lesson": "যে কাঠামোতে উৎপাদকই মালিক আর পুরো মূল্য-শৃঙ্খলা নিজের নিয়ন্ত্রণে, সেখানে মধ্যস্থতাকারীর অংশ কমে আর ব্র্যান্ডের ওপর আস্থা বাড়ে। Strategy আর ownership structure একসঙ্গে ভাবতে হয়।",
+  "question": "তুমি যদি Amul-এর পরিচালক হতে, তাহলে সমবায় কাঠামো ধরে রেখেই বেসরকারি প্রতিযোগীদের চেয়ে দ্রুত সিদ্ধান্ত নেওয়ার জন্য কী কী পরিবর্তন আনতে?"
+ },
+ "news": [
+  {
+   "id": "n1",
+   "category": "সামষ্টিক অর্থনীতি",
+   "title": "Q3FY27-তে ভারতের প্রবৃদ্ধি স্থিতিশীল থাকার প্রত্যাশা, তবে মূল্যস্ফীতিতে ঊর্ধ্বমুখী ঝুঁকি দেখছে অর্থ মন্ত্রণালয়",
+   "summary": "কেন্দ্রীয় অর্থ মন্ত্রণালয়ের 'Monthly Economic Review' জানিয়েছে যে ডিসেম্বর ত্রৈমাসিকে (Q3FY27) অর্থনৈতিক প্রবৃদ্ধির গতি স্থিতিশীল থাকবে। তবে আবহাওয়া সংক্রান্ত অনিশ্চয়তা, প্রতিকূল base effect এবং বিয়ের মরশুমের চাহিদার কারণে আগামী মাসগুলোতে মূল্যস্ফীতি বৃদ্ধির ঝুঁকি রয়েছে। বিপরীতে, অপরিশোধিত তেলের স্থিতিশীল দাম এবং শক্তিশালী রুপি মূল্যবৃদ্ধি নিয়ন্ত্রণে সাহায্য করতে পারে।",
+   "why": "Macroeconomics-এ GDP Growth, Base Effect এবং Demand-Pull Inflation-এর পারস্পরিক সম্পর্ক বিশ্লেষণের জন্য এটি উপযোগী।",
+   "source": {
+    "name": "Business Standard",
+    "url": "https://www.business-standard.com/economy/news/finance-ministry-monthly-economic-review-november-2026-q3-growth-inflation-risks-126112800506_1.html"
+   }
+  },
+  {
+   "id": "n2",
+   "category": "আন্তর্জাতিক বাজার",
+   "title": "মধ্যাহ্নে সরকারি সহায়তার আশ্বাসে চিনের শেয়ারবাজারে 2024 সালের পর একদিনে সর্বোচ্চ উত্থান",
+   "summary": "শেয়ারবাজারকে চাঙা করতে চিনা কর্তৃপক্ষের মধ্যাহ্নকালীন এক বিরল সহায়তার প্রতিশ্রুতির পর চিনের শেয়ারবাজারে দুই বছরের মধ্যে সেরা দিন দেখা গেছে। দেশটির নীতিনির্ধারকদের এহেন প্রত্যক্ষ সমর্থনের বার্তায় স্থানীয় ও বৈশ্বিক বিনিয়োগকারীদের আস্থা দ্রুত বৃদ্ধি পায়।",
+   "why": "Financial Markets-এ Market Sentiment এবং Government Intervention কীভাবে ইক্যুইটি মূল্যায়নে তাৎক্ষণিক পরিবর্তন আনে তা বোঝায়।",
+   "source": {
+    "name": "Mint",
+    "url": "https://www.livemint.com/market/china-spurs-biggest-stock-gain-since-2024-on-rare-midday-vow-11795861002507.html"
+   }
+  },
+  {
+   "id": "n3",
+   "category": "ব্যাংকিং ও ঋণঝুঁকি",
+   "title": "সোনার দরপতনে গোল্ড লোনে বাড়ল জামানত ঝুঁকি, ঋণদানকারী সংস্থাগুলোর ওপর নজরদারি বাড়াল RBI",
+   "summary": "ঘরোয়া ও আন্তর্জাতিক বাজারে বুলিয়নের দরপতনের কারণে সম্ভাব্য ঋণখেলাপির ঝুঁকি এড়াতে ভারতীয় রিজার্ভ ব্যাংক গোল্ড-লোন খাতের ওপর নজরদারি জোরদার করেছে। দ্রুত সম্প্রসারিত এই খাতে সোনার দাম কমে যাওয়ায় গ্রাহকদের অতিরিক্ত জামানত জমা দিতে হতে পারে অথবা দ্রুত ঋণ পরিশোধ করতে হতে পারে।",
+   "why": "Credit Risk Management-এ Collateral Valuation, Loan-to-Value (LTV) Ratio এবং NPA ঝুঁকি ব্যবস্থাপনার বাস্তব রূপ।",
+   "source": {
+    "name": "Economic Times",
+    "url": "https://economictimes.indiatimes.com/news/economy/finance/rbi-steps-up-scrutiny-of-gold-loans-as-bullion-price-slump-raises-collateral-risks/articleshow/136241133.cms"
+   }
+  },
+  {
+   "id": "n4",
+   "category": "প্রযুক্তি ও করপোরেট মামলা",
+   "title": "বাণিজ্যিক গোপনীয়তা চুরির অভিযোগে অ্যাপলের বিরুদ্ধে ওপেনএআই-এর পাল্টা মামলা",
+   "summary": "এআই হার্ডওয়্যার বাজারে প্রতিযোগিতার মুখে ওপেনএআই টেক জায়ান্ট অ্যাপলের বিরুদ্ধে পাল্টা মামলা দায়ের করেছে। মামলার অভিযোগে বলা হয়েছে, অ্যাপল তাদের গোপন বাণিজ্যিক তথ্য (trade secrets) চুরি করেছে, সরবরাহকারীদের অন্যায্য চাপ দিয়েছে এবং কর্মীদের প্রতিদ্বন্দী প্রতিষ্ঠানে যাওয়া আটকাতে কঠোর শর্ত আরোপ করেছে।",
+   "why": "Strategic Management এবং Corporate Law-তে Intellectual Property Protection ও Competitive Intelligence-এর সংঘাত স্পষ্ট করে।",
+   "source": {
+    "name": "Mint",
+    "url": "https://www.livemint.com/companies/news/openai-vs-apple-what-is-the-trade-secrets-dispute-and-why-are-the-two-tech-giants-heading-for-a-legal-battle-11795830326678.html"
+   }
+  },
+  {
+   "id": "n5",
+   "category": "আন্তর্জাতিক শ্রম ও নীতি",
+   "title": "'ভারতে স্থানান্তর অথবা চাকরি ছাড়ুন': কনসাল্টিং পদে H-1B ভিসা স্পনসরশিপ বন্ধ করল IBM",
+   "summary": "মার্কিন অভিবাসন নীতির অনিশ্চয়তার প্রেক্ষিতে আইবিএম ঘোষণা করেছে যে তারা অধিকাংশ মার্কিন কনসাল্টিং পদের জন্য ভিসা ও গ্রিন কার্ড স্পনসর করা বন্ধ করবে। এর ফলে ক্ষতিগ্রস্ত কর্মীদের আগামী 31 ডিসেম্বরের মধ্যে ভারতে স্থানান্তর হতে হবে অথবা কোম্পানি ছাড়তে হবে।",
+   "why": "International Human Resource Management (IHRM)-এ Geopolitical Policy এবং Cross-Border Talent Mobility-র প্রভাব শেখায়।",
+   "source": {
+    "name": "Mint",
+    "url": "https://www.livemint.com/companies/news/relocate-to-india-or-quit-ibm-ends-h-1b-us-visa-green-card-sponsorship-what-it-means-for-indian-techies-11795848734857.html"
+   }
+  },
+  {
+   "id": "n6",
+   "category": "সরকারি অর্থব্যবস্থা",
+   "title": "অর্থনৈতিক ও নিরাপত্তা চাপের মুখে 'Vision 2030' ব্যয় নীতিতে কাটছাঁট করছে সৌদি আরব",
+   "summary": "অর্থনৈতিক ও নিরাপত্তা সংক্রান্ত চাপের কারণে সৌদি আরব তার মেগা প্রকল্প 'Vision 2030'-এর ব্যয় পরিকল্পনা পুনর্গঠন করছে। দেশটির অর্থমন্ত্রী ফয়সাল আলিব্রাহিম জানিয়েছেন, তারা এখন 'যে কোনো মূল্যে ব্যয় ও কাজ শেষ' করার বদলে 'সঠিক মূল্যে কাজ বাস্তবায়ন' করার নীতি অনুসরণ করছেন।",
+   "why": "Public Finance ও Capital Budgeting-এ মেগা প্রজেক্টের Cost Optimization এবং Fiscal Discipline মূল্যায়নে প্রাসঙ্গিক।",
+   "source": {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/28/saudi-arabia-vision-2030-spending.html"
+   }
+  },
+  {
+   "id": "n7",
+   "category": "অ্যাভিয়েশন ও অপারেশনস",
+   "title": "এয়ারস্পেস নিষেধাজ্ঞা ও লিজ জটিলতায় 2026 সালে 10টি আন্তর্জাতিক রুট বাতিল করল IndiGo",
+   "summary": "ভারতের বৃহত্তম বিমান সংস্থা ইন্ডিগো 2026 সালে তাদের বিদেশি নেটওয়ার্ক থেকে 10টি আন্তর্জাতিক গন্তব্য প্রত্যাহার করেছে। বিভিন্ন দেশের আকাশসীমা বিধিনিষেধ, উড়োজাহাজ লিজ নেওয়ার জটিলতা এবং সম্ভাব্য দুর্বল চাহিদার কারণে বিমান সংস্থাটি তাদের বিদেশি পরিষেবা সংকুচিত করেছে।",
+   "why": "Operations Management-এ Capacity Utilization, Geopolitical Risk এবং Route Profitability মূল্যায়নের কার্যকর উদাহরণ।",
+   "source": {
+    "name": "Mint",
+    "url": "https://www.livemint.com/companies/news/indigo-drops-10-international-destinations-in-2026-indias-largest-airline-is-cutting-overseas-flights-here-s-why-11795856134529.html"
+   }
+  },
+  {
+   "id": "n8",
+   "category": "কমোডিটি বাজার",
+   "title": "ঝুঁকি গ্রহণের প্রবণতা ফেরায় সাত মাসের মধ্যে তামার দামে একদিনে সর্বোচ্চ উত্থান",
+   "summary": "কৃত্রিম বুদ্ধিমত্তা খাতের পতনজনিত উদ্বেগ কমে গিয়ে বাজারে বিনিয়োগকারীদের ঝুঁকি নেওয়ার আগ্রহ (risk appetite) ফেরায় তামার দামে এপ্রিলের পর একদিনে সবচেয়ে বড় লাফ দেখা গেছে। চলতি সপ্তাহের শুরুতে 11 মাসের সর্বনিম্নে পৌঁছানোর পর বিশ্ববাজারে শিল্পধাতুটির দাম দ্রুত পুনরুদ্ধার হয়েছে।",
+   "why": "Commodity Economics-এ Copper-কে বৈশ্বিক অর্থনৈতিক স্বাস্থ্যের নির্দেশক (Dr. Copper) হিসেবে কেন বিবেচনা করা হয় তা বোঝার উদাহরণ।",
+   "source": {
+    "name": "Mint",
+    "url": "https://www.livemint.com/market/commodities/copper-surges-most-in-seven-months-as-risk-appetite-returns-11795860874829.html"
+   }
+  }
+ ],
+ "market": {
+  "asOf": "২৭ নভেম্বর ২০২৬, শুক্রবারের ক্লোজিং",
+  "items": [
+   {
+    "name": "S&P 500",
+    "region": "US",
+    "value": "7,297.49",
+    "change": "+1.60%",
+    "dir": "up"
+   },
+   {
+    "name": "Dow Jones",
+    "region": "US",
+    "value": "50,774.94",
+    "change": "+1.18%",
+    "dir": "up"
+   },
+   {
+    "name": "Nasdaq",
+    "region": "US",
+    "value": "24,129.50",
+    "change": "+2.31%",
+    "dir": "up"
+   },
+   {
+    "name": "Sensex",
+    "region": "ভারত",
+    "value": "83,339.26",
+    "change": "-1.17%",
+    "dir": "down"
+   },
+   {
+    "name": "Nifty 50",
+    "region": "ভারত",
+    "value": "25,607.20",
+    "change": "-1.07%",
+    "dir": "down"
+   },
+   {
+    "name": "Brent Crude",
+    "region": "$ প্রতি ব্যারেল",
+    "value": "95.44",
+    "change": "+0.88%",
+    "dir": "up"
+   },
+   {
+    "name": "Gold",
+    "region": "$ প্রতি আউন্স",
+    "value": "3,639.60",
+    "change": "+2.94%",
+    "dir": "up"
+   },
+   {
+    "name": "USD/INR",
+    "region": "₹ প্রতি $",
+    "value": "92.99",
+    "change": "+0.58%",
+    "dir": "up"
+   }
+  ]
+ },
+ "term": {
+  "term": "Collateral Risk",
+  "bangla": "জামানত ঝুঁকি (Collateral Risk)",
+  "definition": "ঋণগ্রহীতা ঋণ পরিশোধে ব্যর্থ হলে বা ঋণের বিপরীতে বন্ধক রাখা সম্পদের বাজারমূল্য কমে ঋণের পরিমাণের নিচে নেমে গেলে ঋণদাতার যে আর্থিক ক্ষতির ঝুঁকি তৈরি হয়, তাকে Collateral Risk বলে।",
+  "example": "সোনার দরপতনের কারণে ব্যাংকগুলোর কাছে বন্ধক রাখা সোনার বাজারদর কমে যাওয়ায় গোল্ড লোনে জামানত ঝুঁকি বৃদ্ধি পাওয়ায় RBI কড়া নজরদারি শুরু করেছে।",
+  "formula": "Loan-to-Value (LTV) Ratio = (Loan Amount / Collateral Market Value) * 100",
+  "tip": "ইন্টারভিউতে বলুন: সম্পদের দাম কমলে LTV রেশিও বাড়ে; ঝুঁকি কমাতে ঋণদাতারা গ্রাহককে অতিরিক্ত মার্জিন দিতে বলে, অন্যথায় বন্ধকী সম্পদ নিলামে তোলে।"
+ },
+ "gd": {
+  "topic": "জামানতভিত্তিক ঋণ (Collateralized Lending) কি ব্যাংকিং ব্যবস্থার প্রকৃত নিরাপত্তা দিতে পারে, নাকি সম্পদের দরের ওঠানামা আর্থিক সংকট তৈরি করে?",
+  "context": "বুলিয়নের বাজারে সাম্প্রতিক পতনের ফলে গোল্ড লোনে জামানত ঝুঁকি বেড়ে যাওয়ায় রিজার্ভ ব্যাংক ঋণদাতা সংস্থাগুলোর উপর নজরদারি বৃদ্ধি করেছে।",
+  "for": [
+   "জামানত ঋণদাতাকে আইনি ও বাস্তব নিরাপত্তা দেয়, কারণ ঋণগ্রহীতা খেলাপি হলেও বন্ধক রাখা সম্পদ বিক্রি করে টাকা পুনরুদ্ধার করা সম্ভব হয়।",
+   "অনিরাপদ ঋণের তুলনায় জামানতযুক্ত ঋণে খেলাপি হওয়ার আশঙ্কা কম থাকায় ব্যাংকগুলো তুলনামূলক কম সুদে ঋণ দিতে পারে।",
+   "কঠোর রেগুলেটরি Loan-to-Value (LTV) মার্জিন বজায় রাখলে সম্পদের সাধারণ দরপতনেও ব্যাংকের মূলধন নিরাপদ থাকে।"
+  ],
+  "against": [
+   "সম্পদের বাজারে তীব্র মন্দা দেখা দিলে জামানতের মূল্য ঋণের আসলের চেয়ে কমে যায়, যা ঋণদাতাকে সরাসরি আর্থিক ক্ষতির মুখে ঠেলে দেয়।",
+   "মূল্য কমলে ঋণগ্রহীতার ওপর বাড়তি অর্থ বা মার্জিন জমার চাপ বাড়ে, যা ঋণগ্রহীতার সংকট এবং খেলাপি হওয়ার হার আরও বাড়িয়ে তোলে।",
+   "কেবল জামানতের মূল্যের ওপর ভরসা করে ঋণ দিলে ঋণগ্রহীতার প্রকৃত নগদ প্রবাহ বা ঋণ পরিশোধের ক্ষমতার সঠিক মূল্যায়ন অবহেলিত হয়।"
+  ]
+ },
+ "blog": {
+  "title": "সম্পদের মূল্যহ্রাস ও ব্যাংকিং খাত: কোল্যাটেরাল রিস্ক কীভাবে আর্থিক ব্যবস্থাকে নাড়া দেয়?",
+  "topic": "Collateral Risk and Credit Safeguards",
+  "readMin": 5,
+  "body": [
+   "ব্যাংকিং এবং ঋণদান ব্যবস্থার মূল ভিত্তি হলো বিশ্বাস এবং নিরাপত্তা। যখন কোনো ব্যাংক বা আর্থিক প্রতিষ্ঠান কাউকে ঋণ দেয়, তখন ঋণখেলাপির হাত থেকে বাঁচতে তারা গ্রাহকের কাছ থেকে কোনো সম্পদ জামানত (collateral) হিসেবে জমা রাখে। এটি হতে পারে জমি, বাড়ি, শেয়ার কিংবা সোনা। তবে প্রশ্ন হলো, জামানত রাখা থাকলেই কি ঋণদাতা শতভাগ নিরাপদ? উত্তর হলো না। এখানেই তৈরি হয় 'জামানত ঝুঁকি' বা Collateral Risk-এর ধারণা।",
+   "## জামানত ঝুঁকি (Collateral Risk) আসলে কী?",
+   "জামানত ঝুঁকি হলো এমন একটি পরিস্থিতি যেখানে বন্ধক রাখা সম্পদের বাজারমূল্য এতটাই কমে যায় যে তা ঋণের অবশিষ্ট আসল ও সুদ মেটানোর জন্য যথেষ্ট থাকে না। উদাহরণস্বরূপ, একজন গ্রাহক 1 লক্ষ টাকার সোনা বন্ধক রেখে 75,000 টাকা ঋণ নিলেন। সাধারণ অবস্থায় ব্যাংক নিরাপদ। কিন্তু বিশ্ববাজারে সোনার দাম যদি হঠাৎ 30% পড়ে যায়, তবে ওই সোনার বর্তমান মূল্য দাঁড়াবে 70,000 টাকা। এখন যদি গ্রাহক ঋণ পরিশোধ না করেন, তবে সোনা বিক্রি করেও ব্যাংকের পুরো টাকা উঠবে না।",
+   "আজকের খবরের দিকে তাকালে দেখা যায়, আন্তর্জাতিক ও ঘরোয়া বাজারে বুলিয়ন বা সোনার মূল্য পতনের কারণে ভারতীয় রিজার্ভ ব্যাংক (RBI) গোল্ড-লোন খাতের ওপর নজরদারি জোরদার করেছে। দ্রুত সম্প্রসারিত এই খাতে সোনার মূল্যহ্রাসের কারণে ঋণদাতাদের ব্যালান্স শিটে জামানত ঝুঁকি স্পষ্টভাবে দৃশ্যমান হয়েছে।",
+   "## Loan-to-Value (LTV) অনুপাতের গুরুত্ব",
+   "এই ঝুঁকি মোকাবিলার অন্যতম প্রধান হাতিয়ার হলো Loan-to-Value বা LTV অনুপাত। LTV নির্দেশ করে বন্ধকী সম্পদের মূল্যের কত শতাংশ পর্যন্ত ঋণ হিসেবে দেওয়া যাবে। ফর্মুলাটি অত্যন্ত সরল: (ঋণের পরিমাণ ÷ জামানতের বর্তমান বাজারদর) × 100। রেগুলেটররা সাধারণত একটি সর্বোচ্চ LTV সীমা (যেমন 75%) বেঁধে দেয়, যাতে সম্পদের মূল্যে কিছুটা ওঠানামা হলেও ঋণের অর্থ সুরক্ষিত থাকে। কিন্তু তীব্র পতনের মুখে এই বাফার দ্রুত বিলীন হয়ে যায়।",
+   "যখন LTV অনুমোদিত সীমার ওপরে চলে যায়, তখন ঋণদাতারা গ্রাহককে 'মার্জিন কল' (Margin Call) পাঠায়—অর্থাৎ ঘাটতি মেটাতে হয় নগদ টাকা জমা দিতে হবে অথবা অতিরিক্ত সোনা জমা দিতে হবে। গ্রাহক ব্যর্থ হলে আর্থিক প্রতিষ্ঠান বন্ধকী সম্পদ নিলামে তুলতে বাধ্য হয়।",
+   "## BBA শিক্ষার্থীদের জন্য শিক্ষণীয় দিক",
+   "ক্রেডিট রিস্ক ম্যানেজমেন্টের দৃষ্টিকোণ থেকে মনে রাখতে হবে, কেবল ভালো জামানত থাকলেই কোনো ঋণ পুরোপুরি নিরাপদ হয় না। ব্যাংকিং পেশাদারদের জামানতের লিকুইডিটি, ঐতিহাসিক মূল্যের অস্থিরতা (volatility) এবং ঋণগ্রহীতার নিয়মিত নগদ প্রবাহ সর্বদা বিশ্লেষণ করতে হয়। বাজার যখন অস্থির থাকে, তখন শক্তিশালী সম্পদও ঝুঁকিপূর্ণ দায়ে পরিণত হতে পারে।"
+  ],
+  "takeaways": [
+   "বন্ধক রাখা সম্পদের বাজারদর কমে ঋণের অঙ্কের নিচে নামলে ঋণদাতার যে ক্ষতি হয়, তা-ই Collateral Risk।",
+   "Loan-to-Value (LTV) অনুপাত নিয়ন্ত্রণের মাধ্যমে ব্যাংকগুলো জামানতের সম্ভাব্য দরপতন থেকে নিজেদের সুরক্ষা দেয়।",
+   "সোনার সাম্প্রতিক মূল্যপতন প্রমাণ করে যে নিরাপদ বলে বিবেচিত স্বর্ণঋণেও তীব্র বাজার ওঠানামার সময় সতর্কতা জরুরি।"
+  ]
+ },
+ "quiz": [
+  {
+   "q": "সোনার দরপতনে গোল্ড লোনে কোন ঝুঁকিটি বৃদ্ধি পাওয়ায় RBI সম্প্রতি ঋণদাতাদের ওপর নজরদারি বাড়িয়েছে?",
+   "options": [
+    "Foreign Exchange Risk",
+    "Collateral Risk",
+    "Sovereign Risk",
+    "Reinvestment Risk"
+   ],
+   "answer": 1,
+   "explain": "সোনার বাজারমূল্য কমে যাওয়ায় বন্ধক রাখা সম্পদের মূল্য ঋণ পরিমাণের নিচে নেমে যাওয়ার আশঙ্কা তৈরি হয়েছে, যা Collateral Risk বৃদ্ধি করে।"
+  },
+  {
+   "q": "অর্থ মন্ত্রণালয়ের সাম্প্রতিক Monthly Economic Review অনুযায়ী Q3FY27-তে মূল্যস্ফীতির ক্ষেত্রে কোন ঝুঁকিটি চিহ্নিত করা হয়েছে?",
+   "options": [
+    "প্রতিকূল বেস ইফেক্ট ও বিয়ের মরশুমের চাহিদা",
+    "অপরিশোধিত তেলের তীব্র মূল্যবৃদ্ধি",
+    "বিদেশি প্রত্যক্ষ বিনিয়োগের (FDI) সংকট",
+    "রুপির ব্যাপক অবমূল্যায়ন"
+   ],
+   "answer": 0,
+   "explain": "অর্থ মন্ত্রণালয়ের রিপোর্টে আবহাওয়া অনিশ্চয়তা, আনফেভারেবল বেস ইফেক্ট এবং বিয়ের মরশুমের চাহিদাকে মূল্যস্ফীতির ঝুঁকি হিসেবে চিহ্নিত করা হয়েছে।"
+  },
+  {
+   "q": "এয়ারস্পেস বিধিনিষেধ ও লিজ সংক্রান্ত জটিলতার কারণে 2026 সালে 10টি আন্তর্জাতিক গন্তব্য বাদ দিয়েছে কোন ভারতীয় এয়ারলাইন?",
+   "options": [
+    "Air India",
+    "SpiceJet",
+    "IndiGo",
+    "Akasa Air"
+   ],
+   "answer": 2,
+   "explain": "ভারতের বৃহত্তম বিমান সংস্থা ইন্ডিগো 2026 সালে তাদের আন্তর্জাতিক নেটওয়ার্ক সংকুচিত করে 10টি বিদেশি রুট প্রত্যাহার করেছে।"
+  },
+  {
+   "q": "মার্কিন অভিবাসন নীতির অনিশ্চয়তায় H-1B ভিসা স্পনসরশিপ বন্ধ করে কর্মীদের ভারতে বদলি বা ইস্তফার নির্দেশ দিয়েছে কোন বহুজাতিক প্রতিষ্ঠান?",
+   "options": [
+    "Microsoft",
+    "Google",
+    "Accenture",
+    "IBM"
+   ],
+   "answer": 3,
+   "explain": "আইবিএম তাদের অধিকাংশ মার্কিন কনসাল্টিং পদের জন্য ভিসা ও গ্রিন কার্ড স্পনসরশিপ বন্ধ করে কর্মীদের ভারতে স্থানান্তর বা কোম্পানি ছাড়ার নির্দেশ দিয়েছে।"
+  },
+  {
+   "q": "কোন মেগা প্রকল্পের ব্যয়নীতি পুনর্বিন্যাস করে সৌদি আরব 'যেকোনো মূল্যে ব্যয়' নীতি থেকে সরে এসে 'সঠিক মূল্যে ব্যয়' করার ঘোষণা দিয়েছে?",
+   "options": [
+    "Vision 2030",
+    "Saudi Green Initiative",
+    "Gulf Rail Project",
+    "Aramco 2027 Expansion"
+   ],
+   "answer": 0,
+   "explain": "সৌদি আরবের অর্থমন্ত্রী ফয়সাল আলিব্রাহিম সিএনবিসি-কে জানিয়েছেন যে তারা তাদের Vision 2030 প্রকল্পের ব্যয় পরিকল্পনা পুনর্বিন্যাস করছেন।"
+  }
+ ],
+ "en": {
+  "dateLabel": "Saturday, 28 November 2026",
+  "caseStudy": {
+   "week": "2026-W48",
+   "weekLabel": "23 – 29 November 2026",
+   "company": "Amul (GCMMF)",
+   "title": "Amul: The Farmers' Cooperative That Reshaped India's Dairy Market",
+   "concept": "Cooperative model and Vertical Integration",
+   "intro": "In 1946 milk-producing farmers in Anand, Gujarat came together to form a cooperative. From it was born Amul, today one of India's best-known brands. Key figures behind it were Tribhuvandas Patel and Verghese Kurien.",
+   "sections": [
+    {
+     "h": "What it did",
+     "p": "Farmers then sold milk to a private company, Polson, and middlemen set prices and terms. The farmers formed the Kaira District Cooperative Milk Producers' Union and began collecting, processing and selling milk themselves. Later the district cooperatives of Gujarat joined to form GCMMF, which sells under the Amul brand. In the 1970s Operation Flood spread the model nationwide."
+    },
+    {
+     "h": "The result",
+     "p": "Amul became a major brand in butter, cheese, ice cream and curd, and India became one of the world's largest milk producers. Amul itself claims that a large share of each rupee paid by the consumer, close to 80%, reaches farmers. That figure is Amul's own claim, so it is worth verifying separately."
+    },
+    {
+     "h": "Why it worked",
+     "p": "First, farmers are the owners, so middlemen's profit shrinks. Second, the whole chain from collection to marketing is in the cooperative's hands, which is vertical integration. Third, technical innovation by Kurien's team, such as making milk powder from buffalo milk, turned surplus milk into valuable products. Fourth, the 'Utterly Butterly Delicious' campaign took the brand into homes with a simple, memorable message."
+    },
+    {
+     "h": "Risks and criticism",
+     "p": "Decisions in a cooperative structure can be slow, which can be a handicap against fast-moving private rivals. Milk supply depends on weather and cattle feed prices. Cooperatives have also at times been criticised over political influence and transparency in governance. As a brand spreads across many products, there is also a risk of divided focus."
+    }
+   ],
+   "lesson": "Where producers own the business and control the whole value chain, the middleman's share shrinks and trust in the brand grows. Strategy and ownership structure must be thought about together.",
+   "question": "If you were a director of Amul, what changes would you make to decide faster than private competitors while keeping the cooperative structure?"
+  },
+  "news": [
+   {
+    "id": "n1",
+    "category": "Macroeconomics",
+    "title": "Growth to remain resilient in Q3FY27, inflation faces upside risks: FinMin",
+    "summary": "The Finance Ministry's Monthly Economic Review noted that economic momentum is expected to sustain in the December quarter (Q3FY27). However, it flagged weather uncertainties, an unfavourable base effect, and wedding season demand as key upside risks to inflation. Conversely, moderating crude prices and a stronger rupee could help contain increases.",
+    "why": "Helps students understand Macroeconomic indicators, GDP Growth momentum, Base Effect, and Demand-Pull Inflation risks.",
+    "source": {
+     "name": "Business Standard",
+     "url": "https://www.business-standard.com/economy/news/finance-ministry-monthly-economic-review-november-2026-q3-growth-inflation-risks-126112800506_1.html"
+    }
+   },
+   {
+    "id": "n2",
+    "category": "Global Markets",
+    "title": "China spurs biggest stock gain since 2024 on rare midday vow",
+    "summary": "Chinese authorities provided a major boost to financial markets with a rare midday statement pledging support, sending stocks to their best single-day performance in over two years. The explicit backing from policymakers quickly revived domestic and international investor sentiment.",
+    "why": "Demonstrates the direct impact of Government Policy Interventions on Equity Market Liquidity and Investor Sentiment.",
+    "source": {
+     "name": "Mint",
+     "url": "https://www.livemint.com/market/china-spurs-biggest-stock-gain-since-2024-on-rare-midday-vow-11795861002507.html"
+    }
+   },
+   {
+    "id": "n3",
+    "category": "Banking & Credit",
+    "title": "RBI steps up scrutiny of gold loans as bullion price slump raises collateral risks",
+    "summary": "The Reserve Bank of India has intensified monitoring of the gold-loan sector due to falling bullion prices and potential borrower distress. In this fast-expanding sector, lower gold values may force borrowers to pledge additional collateral or repay debt early to prevent default.",
+    "why": "Essential for studying Credit Risk Management, Collateral Valuation, and Loan-to-Value (LTV) dynamics in banking.",
+    "source": {
+     "name": "Economic Times",
+     "url": "https://economictimes.indiatimes.com/news/economy/finance/rbi-steps-up-scrutiny-of-gold-loans-as-bullion-price-slump-raises-collateral-risks/articleshow/136241133.cms"
+    }
+   },
+   {
+    "id": "n4",
+    "category": "Tech & Litigation",
+    "title": "OpenAI countersues Apple over alleged trade secret theft amid AI hardware push",
+    "summary": "OpenAI has countersued Apple, accusing the tech giant of stealing trade secrets, pressuring suppliers, and enforcing restrictive covenants to block top talent from joining rival firms. The legal clash intensifies as both tech leaders prepare to compete directly in the AI hardware space.",
+    "why": "Illustrates Strategic Management, Intellectual Property (IP) Protection, and Non-Compete Disputes in high-tech industries.",
+    "source": {
+     "name": "Mint",
+     "url": "https://www.livemint.com/companies/news/openai-vs-apple-what-is-the-trade-secrets-dispute-and-why-are-the-two-tech-giants-heading-for-a-legal-battle-11795830326678.html"
+    }
+   },
+   {
+    "id": "n5",
+    "category": "Global Talent & HR",
+    "title": "'Relocate to India or quit': IBM ends H-1B visa and green card sponsorship",
+    "summary": "Citing uncertainty over US immigration rules, IBM will stop sponsoring visas and permanent residency for most US consulting roles. Impacted employees must relocate to India or exit the corporation by December 31.",
+    "why": "Examines International Human Resource Management (IHRM), Visa Restrictions, and Cross-Border Workforce Allocation.",
+    "source": {
+     "name": "Mint",
+     "url": "https://www.livemint.com/companies/news/relocate-to-india-or-quit-ibm-ends-h-1b-us-visa-green-card-sponsorship-what-it-means-for-indian-techies-11795848734857.html"
+    }
+   },
+   {
+    "id": "n6",
+    "category": "Public Finance",
+    "title": "Saudi Arabia shifts Vision 2030 spending from 'any cost' to 'right cost'",
+    "summary": "Under economic and regional security pressures, Saudi Arabia is recalibrating capital expenditure across its Vision 2030 megaprojects. Economy Minister Faisal Alibrahim told CNBC that the kingdom is transitioning from 'spending at any cost' to 'spending at the right cost.'",
+    "why": "Covers Public Financial Management, Megaproject Capital Budgeting, and Fiscal Consolidation under macro constraints.",
+    "source": {
+     "name": "CNBC",
+     "url": "https://www.cnbc.com/2026/11/28/saudi-arabia-vision-2030-spending.html"
+    }
+   },
+   {
+    "id": "n7",
+    "category": "Aviation & Operations",
+    "title": "IndiGo drops 10 international destinations in 2026 amid airspace and lease issues",
+    "summary": "India's largest carrier IndiGo has withdrawn flights across 10 international destinations during 2026. The network rationalization was driven by regional airspace restrictions, aircraft leasing bottlenecks, and softer passenger demand.",
+    "why": "Highlights Route Profitability, Fleet Management, and Geopolitical Constraints in Airline Operations.",
+    "source": {
+     "name": "Mint",
+     "url": "https://www.livemint.com/companies/news/indigo-drops-10-international-destinations-in-2026-indias-largest-airline-is-cutting-overseas-flights-here-s-why-11795856134529.html"
+    }
+   },
+   {
+    "id": "n8",
+    "category": "Commodities",
+    "title": "Copper surges most in seven months as risk appetite returns to markets",
+    "summary": "Copper recorded its steepest single-day gain since April, rebounding sharply after sinking to an 11-month low earlier in the week. The rally followed a recovery in broader risk appetite after recent market routs tied to artificial intelligence trades.",
+    "why": "Provides real-world context on Commodities Trading and Copper's role as a leading global economic barometer (Dr. Copper).",
+    "source": {
+     "name": "Mint",
+     "url": "https://www.livemint.com/market/commodities/copper-surges-most-in-seven-months-as-risk-appetite-returns-11795860874829.html"
+    }
+   }
+  ],
+  "market": {
+   "asOf": "Close of Friday, 27 November 2026",
+   "items": [
+    {
+     "name": "S&P 500",
+     "region": "US",
+     "value": "7,297.49",
+     "change": "+1.60%",
+     "dir": "up"
+    },
+    {
+     "name": "Dow Jones",
+     "region": "US",
+     "value": "50,774.94",
+     "change": "+1.18%",
+     "dir": "up"
+    },
+    {
+     "name": "Nasdaq",
+     "region": "US",
+     "value": "24,129.50",
+     "change": "+2.31%",
+     "dir": "up"
+    },
+    {
+     "name": "Sensex",
+     "region": "India",
+     "value": "83,339.26",
+     "change": "-1.17%",
+     "dir": "down"
+    },
+    {
+     "name": "Nifty 50",
+     "region": "India",
+     "value": "25,607.20",
+     "change": "-1.07%",
+     "dir": "down"
+    },
+    {
+     "name": "Brent Crude",
+     "region": "$ per barrel",
+     "value": "95.44",
+     "change": "+0.88%",
+     "dir": "up"
+    },
+    {
+     "name": "Gold",
+     "region": "$ per ounce",
+     "value": "3,639.60",
+     "change": "+2.94%",
+     "dir": "up"
+    },
+    {
+     "name": "USD/INR",
+     "region": "₹ per $",
+     "value": "92.99",
+     "change": "+0.58%",
+     "dir": "up"
+    }
+   ]
+  },
+  "term": {
+   "term": "Collateral Risk",
+   "bangla": "Risk of asset-backed loss due to falling collateral value",
+   "definition": "The risk of financial loss faced by a lender when the market value of the pledged asset falls below the outstanding loan balance, or when the borrower defaults and liquidation cannot recover the debt.",
+   "example": "Following a steep drop in bullion prices, lenders faced heightened collateral risk on gold loans, prompting stricter surveillance from the RBI.",
+   "formula": "Loan-to-Value (LTV) Ratio = (Loan Amount / Collateral Market Value) * 100",
+   "tip": "Explain in an interview: When collateral prices slide, LTV surges. Lenders mitigate this risk by issuing margin calls or liquidating the underlying asset before deep losses occur."
+  },
+  "gd": {
+   "topic": "Does collateralized lending guarantee banking safety, or do volatile asset prices create systemic vulnerabilities?",
+   "context": "The RBI stepped up scrutiny of the gold loan sector after falling bullion prices heightened collateral risks and potential delinquencies.",
+   "for": [
+    "Collateral gives lenders a legal claim on tangible assets, enabling debt recovery even if the borrower defaults.",
+    "Lower perceived credit risk in secured lending allows banks to offer lower interest rates to businesses and consumers.",
+    "Conservative Loan-to-Value (LTV) regulatory caps ensure a financial cushion against normal asset price corrections."
+   ],
+   "against": [
+    "Sudden asset market crashes can rapidly push collateral values below outstanding debt, creating severe credit losses.",
+    "Margin calls and forced liquidations during downturns place heavy financial stress on borrowers, triggering more defaults.",
+    "Relying excessively on collateral can lead lenders to ignore borrower cash flow analysis and genuine repayment capability."
+   ]
+  },
+  "blog": {
+   "title": "Asset Price Fluctuations and Banking: Why Collateral Risk Matters",
+   "topic": "Collateral Risk and Credit Safeguards",
+   "readMin": 5,
+   "body": [
+    "Trust and security form the bedrock of the banking system. When commercial banks or non-banking financial companies (NBFCs) advance funds, they often require borrowers to pledge physical or financial assets—such as real estate, equity shares, or gold. However, holding collateral does not make a credit facility immune to loss. This vulnerability is known as Collateral Risk.",
+    "## Understanding Collateral Risk",
+    "Collateral risk emerges when the market value of pledged assets depreciates to such an extent that it no longer covers the outstanding loan principal and accrued interest. Consider a borrower who pledges gold worth ₹1,00,000 to obtain a ₹75,000 loan. If market bullion prices drop sharply by 30%, the underlying asset's value sinks to ₹70,000. In case of default, selling the gold will fail to make the lender whole.",
+    "Today's financial landscape reflects this exact dilemma. With gold prices cooling off from record highs, the Reserve Bank of India (RBI) has heightened scrutiny over gold lenders. Rapid expansion during price booms leaves lenders vulnerable to balance-sheet degradation when collateral values drop.",
+    "## The Role of the Loan-to-Value (LTV) Ratio",
+    "The primary risk management metric against collateral degradation is the Loan-to-Value (LTV) ratio. It measures the ratio of the loan amount to the market value of the collateral: (Loan Amount ÷ Collateral Market Value) × 100. Regulators mandate maximum LTV ceilings (such as 75%) to maintain an equity buffer against normal market volatility. However, sharp asset selloffs can rapidly eliminate this safety cushion.",
+    "When the LTV crosses the contractual threshold, lenders issue a 'margin call' demanding that the borrower deposit extra cash or pledge additional assets. If the borrower fails to respond, lenders are forced to auction the collateral into a falling market.",
+    "## Takeaways for Management Students",
+    "For BBA students studying credit analysis and corporate finance, the lesson is clear: asset backing is never an outright substitute for cash flow solvency. Credit risk evaluation must rigorously assess asset liquidity, price volatility, and the borrower's independent capacity to service debt during down-cycles."
+   ],
+   "takeaways": [
+    "Collateral risk arises when the market value of pledged assets falls below the outstanding debt obligation.",
+    "The Loan-to-Value (LTV) ratio provides a crucial safety margin that lenders monitor to absorb asset volatility.",
+    "Recent declines in gold bullion demonstrate that even historically safe collateral types require rigorous risk oversight."
+   ]
+  },
+  "quiz": [
+   {
+    "q": "Which risk prompted the RBI to increase scrutiny on gold loan providers following a slump in bullion prices?",
+    "options": [
+     "Foreign Exchange Risk",
+     "Collateral Risk",
+     "Sovereign Risk",
+     "Reinvestment Risk"
+    ],
+    "answer": 1,
+    "explain": "A drop in gold prices decreases the market value of pledged collateral relative to loan balances, elevating Collateral Risk."
+   },
+   {
+    "q": "According to the Finance Ministry's Monthly Economic Review, what key risk could push Indian inflation higher in coming months?",
+    "options": [
+     "Unfavourable base effect and wedding season demand",
+     "Sharp spike in international crude oil prices",
+     "Acute decline in Foreign Direct Investment (FDI)",
+     "Rapid devaluation of the Indian Rupee"
+    ],
+    "answer": 0,
+    "explain": "The report specifically cited weather uncertainties, an unfavourable base effect, and wedding demand as inflation risks."
+   },
+   {
+    "q": "Which Indian airline dropped 10 international destinations in 2026 citing airspace restrictions and aircraft leasing challenges?",
+    "options": [
+     "Air India",
+     "SpiceJet",
+     "IndiGo",
+     "Akasa Air"
+    ],
+    "answer": 2,
+    "explain": "IndiGo shrank its overseas network by withdrawing from 10 international destinations due to airspace and leasing issues."
+   },
+   {
+    "q": "Which multinational firm halted H-1B visa and green card sponsorships for consulting roles, asking staff to relocate to India or quit?",
+    "options": [
+     "Microsoft",
+     "Google",
+     "Accenture",
+     "IBM"
+    ],
+    "answer": 3,
+    "explain": "IBM instructed affected consulting employees to relocate to India or exit the company by December 31 amid US visa uncertainties."
+   },
+   {
+    "q": "Which mega initiative's spending policy is Saudi Arabia shifting from 'spending at any cost' to 'spending at the right cost'?",
+    "options": [
+     "Vision 2030",
+     "Saudi Green Initiative",
+     "Gulf Rail Project",
+     "Aramco 2027 Expansion"
+    ],
+    "answer": 0,
+    "explain": "Saudi Economy Minister Faisal Alibrahim confirmed that the Kingdom is recalibrating its Vision 2030 megaproject expenditures."
+   }
+  ]
+ }
+}

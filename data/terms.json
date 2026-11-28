@@ -1,6 +1,23 @@
 {
  "terms": [
   {
+   "date": "2026-11-28",
+   "term": "Collateral Risk",
+   "bangla": "জামানত ঝুঁকি (Collateral Risk)",
+   "definition": "ঋণগ্রহীতা ঋণ পরিশোধে ব্যর্থ হলে বা ঋণের বিপরীতে বন্ধক রাখা সম্পদের বাজারমূল্য কমে ঋণের পরিমাণের নিচে নেমে গেলে ঋণদাতার যে আর্থিক ক্ষতির ঝুঁকি তৈরি হয়, তাকে Collateral Risk বলে।",
+   "example": "সোনার দরপতনের কারণে ব্যাংকগুলোর কাছে বন্ধক রাখা সোনার বাজারদর কমে যাওয়ায় গোল্ড লোনে জামানত ঝুঁকি বৃদ্ধি পাওয়ায় RBI কড়া নজরদারি শুরু করেছে।",
+   "formula": "Loan-to-Value (LTV) Ratio = (Loan Amount / Collateral Market Value) * 100",
+   "tip": "ইন্টারভিউতে বলুন: সম্পদের দাম কমলে LTV রেশিও বাড়ে; ঝুঁকি কমাতে ঋণদাতারা গ্রাহককে অতিরিক্ত মার্জিন দিতে বলে, অন্যথায় বন্ধকী সম্পদ নিলামে তোলে।",
+   "en": {
+    "term": "Collateral Risk",
+    "bangla": "Risk of asset-backed loss due to falling collateral value",
+    "definition": "The risk of financial loss faced by a lender when the market value of the pledged asset falls below the outstanding loan balance, or when the borrower defaults and liquidation cannot recover the debt.",
+    "example": "Following a steep drop in bullion prices, lenders faced heightened collateral risk on gold loans, prompting stricter surveillance from the RBI.",
+    "formula": "Loan-to-Value (LTV) Ratio = (Loan Amount / Collateral Market Value) * 100",
+    "tip": "Explain in an interview: When collateral prices slide, LTV surges. Lenders mitigate this risk by issuing margin calls or liquidating the underlying asset before deep losses occur."
+   }
+  },
+  {
    "date": "2026-11-27",
    "term": "Free Trade Agreement (FTA)",
    "bangla": "মুক্ত বাণিজ্য চুক্তি (FTA)",
